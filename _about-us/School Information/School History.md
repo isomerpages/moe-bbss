@@ -77,10 +77,10 @@ BBSS will continue to leverage on the cohesiveness of its professional staff and
 
 |   |                       |
 |---|-----------------------|
-|   |        MRS BELINDA CHARLES<br>**1986 - 1990**                         |
-| # |    MR LIM LAI CHUAN<br>**1990 - 1997**     |
-| # |     MR SUPARMAN ADAM<br>**1998 - 2002**    |
-| # |   MR TAN SOON YONG<br>**2003 - 2004**     |
-| # |     MRS LYSIA KEE<br>**2005 - 2013**      |
-| # |    MS CHAMB CHERK ING<br>**2014 - 2016**  |
-| # | MR PHUA HUAT CHUAN<br>**2017 - PRESENT** |
+| ![](/images/About%20us/School%20Information/School%20History/belinda_charles_medium.jpg)  |        MRS BELINDA CHARLES<br>**1986 - 1990**                         |
+| ![](/images/About%20us/School%20Information/School%20History/limlaichuan.png) |    MR LIM LAI CHUAN<br>**1990 - 1997**     |
+| ![](/images/About%20us/School%20Information/School%20History/SUPARMAN%20ADAM.gif) |     MR SUPARMAN ADAM<br>**1998 - 2002**    |
+| ![](/images/About%20us/School%20Information/School%20History/Mr%20Tan%20Soon%20Yong.jpg) |   MR TAN SOON YONG<br>**2003 - 2004**     |
+| ![](/images/About%20us/School%20Information/School%20History/mrs%20lysia%20kee2.jpg) |     MRS LYSIA KEE<br>**2005 - 2013**      |
+| ![](/images/About%20us/School%20Information/School%20History/ms%20chamb%20cherk.jpg) |    MS CHAMB CHERK ING<br>**2014 - 2016**  |
+| ![](/images/About%20us/School%20Information/School%20History/mr%20phua%20huat%20chuan.jpg) | MR PHUA HUAT CHUAN<br>**2017 - PRESENT** |
