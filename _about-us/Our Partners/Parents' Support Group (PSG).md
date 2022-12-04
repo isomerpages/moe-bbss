@@ -57,16 +57,13 @@ PSG also provides a way for parents to voice out their opinion and ideas through
 
 ### _BBSS PSG <span style = "color: black"> <b>is stress-free and fun-filled!</b> </span>_ 
 
-### 
 
-### **_JOIN US!!!_**
-
-  
-
-We are pleased to welcome you on-board our happy family.
-
-Register at [http://goo.gl/6iaqDp](http://goo.gl/6iaqDp) today!
+#### **_JOIN US!!!_**
 
   
+
+We are pleased to welcome you on-board our happy family.  
+Register at <a href="http://goo.gl/6iaqDp" target="_blank">http://goo.gl/6iaqDp</a> today!
+
 
 For enquiries, please email _psgbbss@gmail.com_
