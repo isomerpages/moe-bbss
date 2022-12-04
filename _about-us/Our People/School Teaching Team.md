@@ -77,6 +77,26 @@ third_nav_title: Our People
 
 ## Sec 4 & 5 Faculty (YH / Mdm Dianah Bte Abdullah)
 
+|      |               Name               |         Designation        | Form Teacher |     Ext     |                    Email                    |
+|:----:|:--------------------------------:|:--------------------------:|:------------:|:-----------:|:-------------------------------------------:|
+|  Ms  | Shashariza Bte Jupri             |           Teacher          |      4A1     |     428     |      [shashariza\_jupri@schools.gov.sg](mailto:shashariza_jupri@schools.gov.sg)       |
+|  Mr  | Quek Chin Keong                  | Teacher / <br>First Aid IC |      4A1     |     301     |       [quek\_chin\_keong@schools.gov.sg](mailto:quek_chin_keong@schools.gov.sg)       |
+| Ms | Lee Sek Feng (Wynter)            |           Teacher          |      4A2     |     302     |         [lee\_sek\_feng@schools.gov.sg](mailto:lee_sek_feng@schools.gov.sg)        |
+|  Mr  | Tan Thiam Chye                   |           Teacher          |      4A2     |     317     |        [tan\_thiam\_chye@schools.gov.sg](mailto:tan_thiam_chye@schools.gov.sg)        |
+|  Mr  | Jeremy Goh See Hon               |           Teacher          |      4A3     |     404     |     [jeremy\_goh\_see\_hon@schools.gov.sg](mailto:jeremy_goh_see_hon@schools.gov.sg)      |
+|  Ms  | Ong Gui Fang                     |           Teacher          |      4A3     |     309     |         [ong\_gui\_fang@schools.gov.sg](mailto:ong_gui_fang@schools.gov.sg)         |
+|  Mr  | Lee Bixian Jake                  |           Teacher          |      4A4     |     406     |          [lee\_bixian@schools.gov.sg](mailto:lee_bixian@schools.gov.sg)        |
+|  Ms  | Tay Lingxin                      |           Teacher          |      4A4     |     305     |       [tay\_lingxin@schools.gov.sg](mailto:tay_lingxin@schools.gov.sg)        |
+|  Ms  | Bok Ke Xin Catherine             |           Teacher          |      4A5     |     314     |       [catherine.kexin@schools.gov.sg](mailto:catherine.kexin@schools.gov.sg)      |
+|  Mdm | Sri Haryati Binte Abdul Hamid    |           Teacher          |      4A5     | 316/<br>321 |   [sri\_haryati\_abdul\_hamid@schools.gov.sg](mailto:sri_haryati_abdul_hamid@schools.gov.sg)   |
+|  Ms  | Neo Leng Choo Jenny              |           Teacher          |      4A6     |     401     |      [neo\_leng\_choo\_jenny@schools.gov.sg](mailto:neo_leng_choo_jenny@schools.gov.sg)     |
+|  Mdm | Nur Khairunnisah Bte Abdul Jamil |           Teacher          |      4A6     |     307     | [nur\_khairunnisah\_abdul\_jamil@schools.gov.sg](mailto:nur_khairunnisah_abdul_jamil@schools.gov.sg) |
+|  Ms  | Sulogna Lahiri                   |           Teacher          |      4A7     |     302     |        [sulogna\_lahiri@schools.gov.sg](mailto:sulogna_lahiri@schools.gov.sg)        |
+|   Mr | Bonaparte Reuben                 |          Teacher           |     4A7      |     416     |       [bonaparte\_reuben@schools.gov.sg](mailto:bonaparte_reuben@schools.gov.sg)      |
+|  Ms  | Cheryl Seet Huixin               |           Teacher          |      4A7     |     411     |      [cheryl\_seet\_huixin@schools.gov.sg](mailto:cheryl_seet_huixin@schools.gov.sg)      |
+|  Mr  | Er Heow Hong (Jared)             |           Teacher          |      4A8     |     414     |         [er\_heow\_hong@schools.gov.sg](mailto:er_heow_hong@schools.gov.sg)         |
+|  Mdm | Yaw Lai Theng                    |           Teacher          |      4A8     |     202     |         [yaw\_lai\_theng@schools.gov.sg](mailto:yaw_lai_theng@schools.gov.sg)       |
+|   Ms | Teng Duan Li (June)              |          Teacher           |      5A1     |     405     |      [teng\_duan\_li\_june@schools.gov.sg](mailto:teng_duan_li_june@schools.gov.sg)       |
 
 ## Non-Form Teachers
 
