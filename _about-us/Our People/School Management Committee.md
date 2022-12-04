@@ -40,7 +40,7 @@ third_nav_title: Our People
 ## Year Heads (YHs) / Assistant Year Heads (AYHs);Head of Departments (HODs) / Subject Heads (SHs)
 
 | Name |          Designation         |                    Ext                   | Email |                                      |
-|:----:|:----------------------------:|:----------------------------------------:|:-----:|--------------------------------------|
+|:----:|:---------:|:-----------:|:-----:|-----------|
 |  Mdm | Tham Meng Chee<br>(Mrs Quek) |               YH / Lower Sec             |  216  |     tham_meng_chee@schools.gov.sg    |
 |  Ms  |       Lim Jia Xin Janice     |              AYH / Lower Sec             |  203  |   lim_jia_xin_janice@schools.gov.sg  |
 |  Mdm |      Dianah Bte Abdullah     |              YH / Upper Sec              |  211  |    dianah_abdullah@schools.gov.sg    |
