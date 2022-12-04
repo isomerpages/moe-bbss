@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Admissions/Indicative PSLE Score ranges of 2021 PSLE Students Posted to
+        2022 Sec 1.md
       - Admissions/Admissions.md
       - Admissions/.keep
       - School Information/.keep
