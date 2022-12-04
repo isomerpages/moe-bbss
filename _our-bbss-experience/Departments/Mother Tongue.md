@@ -84,4 +84,6 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 
 <p style="text-align: justify;">Students are also given the opportunities to stretch their potential in the language. This can be seen in the Higher Chinese interest group formed to engage the Higher Chinese students in more cultural activities. Some of the Malay students are also given the opportunity to be Malay Ambassadors to further promote the use of Malay in our daily lives. Our Tamil students also have the opportunities to showcase their talent in the variety of external competitions.</p>
 
+<img src="/images/Our%20BBSS%20Experience/WhatsApp%20Image%202020-09-03%20PM.jpeg" style="width:20%;float:left"> 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6258WEgMEPQ" title="BBSS Iyuedo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
