@@ -35,7 +35,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 
 |          Talent Area         | Criteria Eligibility for DSA | Selection Processes for DSA |
 |---------|-------------|-----------------|
-| Drama and Debating - English |        \-          Confident and eloquent<br><br>\-          Able to work independently and collaboratively<br><br>\-          Willing to take up production and acting roles in drama, and debate<br><br>\-          Experience in drama productions, stage performances or competitive debating.<br><br>\-          Experience in emceeing is a bonus                      |                             |
+| Drama and Debating - English |        \-          Confident and eloquent<br><br>\-          Able to work independently and collaboratively<br><br>\-          Willing to take up production and acting roles in drama, and debate<br><br>\-          Experience in drama productions, stage performances or competitive debating.<br><br>\-          Experience in emceeing is a bonus                      |        \-          Live audition<br><br>(i)       1 minute speech on self-introduction<br><br>(ii)     1.5 minute drama audition<br><br>(iii)    1.5 min Speech delivery<br><br>(iv)    1 min Presentation of a song of your choice<br><br>\-          Able to demonstrate confidence, eloquence, stage presence and engagement with audience                     |
 | Chinese Orchestra            |                              |                             |
 | Malay Dance                  |                              |                             |
 
