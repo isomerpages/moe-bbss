@@ -10,10 +10,10 @@ third_nav_title: Our People
 
 |     |         Name        |     Designation    |  Ext |                  Email                  |
 |:---:|:---------:|:-----------:|:----:|:--------------:|
-| Ms  | Bibi Nur Shakirrah  |  Level DM (Sec 1)  | 315  |    bibi_nur_shakirrah@schools.gov.sg    |
-|  Mr | Gabriel Yang Yi     |  Level DM (Sec 2)  |  315 |      yang_yi_gabriel@schools.gov.sg     |
-|  Mr | Yazid Ramli         |  Level DM (Sec 3)  |  408 | <br>muhammad_yazid_ramli@schools.gov.sg |
-|  Ms | Jade Leong Tze Wei  | Level DM (Sec 4&5) |  316 |    jade_leong_tze_wei@schools.gov.sg    |
+| Ms  | Bibi Nur Shakirrah  |  Level DM (Sec 1)  | 315  |    [bibi\_nur\_shakirrah@schools.gov.sg](mailto:bibi_nur_shakirrah@schools.gov.sg)    |
+|  Mr | Gabriel Yang Yi     |  Level DM (Sec 2)  |  315 |      [yang\_yi\_gabriel@schools.gov.sg](mailto:yang_yi_gabriel@schools.gov.sg)     |
+|  Mr | Yazid Ramli         |  Level DM (Sec 3)  |  408 | [muhammad\_yazid\_ramli@schools.gov.sg](mailto:muhammad_yazid_ramli@schools.gov.sg) |
+|  Ms | Jade Leong Tze Wei  | Level DM (Sec 4&5) |  316 |    [jade\_leong\_tze\_wei@schools.gov.sg](mailto:jade_leong_tze_wei@schools.gov.sg)    |
 
 ## Sec 1 Faculty (YH / Ms Janice Lim Jia Xin)
 
@@ -32,4 +32,3 @@ third_nav_title: Our People
 
 
 ## Counselling and Additional Support
-
