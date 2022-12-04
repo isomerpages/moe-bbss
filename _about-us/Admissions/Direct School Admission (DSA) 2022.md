@@ -29,7 +29,12 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 
 <b><u>Group 2 - Sports & Games</u></b>
 
-
+|    Talent Area    | Criteria Eligibility for DSA | Selection Processes for DSA |
+|:-----------------:|:---------:|:-------------:|
+|  Softball (Girls) |                              |                             |
+| Basketball (Boys) |                              |                             |
+| Rugby (Boys)      |                              |                             |
+| Cross Country     |                              |                             |
 
 <b><u>Group 3 -Performing Arts</u></b>
 
