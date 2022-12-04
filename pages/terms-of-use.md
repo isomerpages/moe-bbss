@@ -33,7 +33,7 @@ Thank you for visiting this Website (“The Website”). The Website is owned an
 
 ### Privacy Policy
 
-6.   Click **[here](https://bukitbatoksec.moe.edu.sg/others/privacy-statement)** to review The Website Privacy Statement.
+6.   Click <a href="/privacy/" target="_blank"><b>here</b></a> to review The Website Privacy Statement.
 
   
 
