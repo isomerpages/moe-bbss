@@ -6,7 +6,7 @@ third_nav_title: Contact Us
 ---
 #  General Information
 
-
+<iframe data-mce-fragment="1" frameborder="0" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.85439301769!2d103.73897872485355!3d1.3483343861595865!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8aef3814396c10ca!2sBukit+Batok+Secondary+School!5e0!3m2!1sen!2ssg!4v1412127372541"></iframe>
 
 **School Code:	3044**
 
@@ -20,4 +20,4 @@ third_nav_title: Contact Us
 | **E-mail:**              | [bbss@moe.edu.sg](mailto:bbss@moe.edu.sg)                  |
 | **School Website:**      | [www.bukitbatoksec.moe.edu.sg](https://bukitbatoksec.moe.edu.sg/)                                                                                                                                                    |
 | **Bus Services:**        | 66, 66B, 157, 174, 174E, 178, 506, 941, 991                                                                                                                                     |
-| **Nearest MRT Station:** | Bukit Batok MRT with feeder bus services 941 & 991<br><br>Note:<br><br>Bus Service 941 - Route Amended wef 8th July 2018<br><br>Bus Service 991 - New Service wef 8th July 2018 |
+| **Nearest MRT Station:** | Bukit Batok MRT with feeder bus services 941 &amp; 991<br><br>Note:<br><br>Bus Service 941 - Route Amended wef 8th July 2018<br><br>Bus Service 991 - New Service wef 8th July 2018 |
