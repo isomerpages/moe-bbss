@@ -35,6 +35,12 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 
 <b><u>Group 4 - Science, Technology, Engineering, Mathematics (STEM)</u></b>
 
+|  Talent Areas |     Criteria Eligibility for DSA          |        Selection Processes for DSA            |
+|:-------------:|:------------------------:|:-------------:|
+| Robotics Club | <br>-          Minimum 2 years of experience in Robotics club<br>-          Have experience in building Lego Mindstorms sets and fluent in writing codes using Mindstorms<br>-          Have experience in Micro:bit, Scratch, mBot or drones with basic block programming background<br>-          Participated in robotics-related projects in school/external events OR-          Represented school in robotics-related competitions at internal/national level | -          Live show-and-tell of a working robot prototype that the student has built and programmed (10 minutes).<br>-          Demonstrate knowledge, experience and passion in designing, building and programming robot prototypes.<br>-          Pass a performance task consisting of 4 computational thinking questions (10 minutes).<br>-          Demonstrate creative and logical approach (computational thinking) to solving problems.             |
+|      STEM     | Demonstrate the following:<br>-          Problem solver<br>-          Reflective<br>-          Innovative<br>-          Team player<br>-          Perseverance<br>-          Knowledge, interest and passion in STEM-          Recount their past experiences relevant to the application.                                                                                                                                                                          | -          As part of the shortlisting process, applicants need to submit a personal statement (maximum 300 words) detailing his/her active involvement in STEM activities.<br>-          Prepare an e-portfolio of work related to STEM with supporting documents such as photos of exhibits, prototypes, certificates etc. Submit this e-portfolio together with the personal statement.-          Shortlisted candidates will be notified for an interview. |
+
+
 
 **Note for all applicants**: Achievements at the national/international level would be an advantage. Applicants may key in relevant information via the MOE DSA Application Portal.  
 
