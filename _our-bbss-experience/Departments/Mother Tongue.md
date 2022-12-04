@@ -96,24 +96,24 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <tbody>
 <tr>
 <td width="43">
-<p><strong>S/N</strong></p>
+<p style="text-align: center;"><strong>S/N</strong></p>
 </td>
-<td width="52">
+<td style="text-align: center;" width="52">
 <p><strong>Year</strong></p>
 </td>
-<td width="242">
+<td style="text-align: center;" width="242">
 <p><strong>Name of Award/Competition</strong></p>
 </td>
-<td width="134">
+<td style="text-align: center;" width="134">
 <p><strong>Achievement</strong></p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td colspan="4" width="471">
 <h4><strong>Chinese Language</strong></h4>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>1</p>
 </td>
@@ -127,7 +127,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Second Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>2</p>
 </td>
@@ -141,7 +141,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Bronze</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>3</p>
 </td>
@@ -155,7 +155,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Semi-finalists</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>4</p>
 </td>
@@ -169,7 +169,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Semi-finalists</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>5</p>
 </td>
@@ -183,7 +183,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>First Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>6</p>
 </td>
@@ -197,7 +197,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Outstanding Award&nbsp;</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>7</p>
 </td>
@@ -211,7 +211,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Team presentation &amp; Commendation award (Bicultural Design&mdash;Wood Carving)&nbsp;</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>8</p>
 </td>
@@ -225,7 +225,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Finalists</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>9</p>
 </td>
@@ -239,7 +239,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Finalists</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>10</p>
 </td>
@@ -253,12 +253,12 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Finalists</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td colspan="4" width="471">
 <h4><strong>Malay Language</strong></h4>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>11</p>
 </td>
@@ -272,7 +272,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>3 Gold awards and 1 Silver award</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>12</p>
 </td>
@@ -286,7 +286,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>1st prize (Best Layout)</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>13</p>
 </td>
@@ -300,7 +300,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Consolation&nbsp;</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>14</p>
 </td>
@@ -314,7 +314,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p><br />9th position&nbsp;</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>15</p>
 </td>
@@ -328,12 +328,12 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Semi-finalists</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td colspan="4" width="471">
 <h4><strong>Tamil Language</strong></h4>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>16</p>
 </td>
@@ -348,7 +348,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>2 certificates</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>17</p>
 </td>
@@ -363,7 +363,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>1<sup>st</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>18</p>
 </td>
@@ -377,7 +377,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>2 Consolation awards</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>19</p>
 </td>
@@ -391,7 +391,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>3<sup>rd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>20</p>
 </td>
@@ -406,7 +406,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Consolation award</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>21</p>
 </td>
@@ -420,7 +420,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>1<sup>st</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>22</p>
 </td>
@@ -434,7 +434,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>1<sup>st</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>23</p>
 </td>
@@ -448,7 +448,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>2<sup>nd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>24</p>
 </td>
@@ -462,7 +462,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>2<sup>nd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>25</p>
 </td>
@@ -476,7 +476,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>2<sup>nd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>26</p>
 </td>
@@ -491,7 +491,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Consolation Award</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>27</p>
 </td>
@@ -505,7 +505,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>2<sup>nd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>28</p>
 </td>
@@ -519,7 +519,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>3<sup>rd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>29</p>
 </td>
@@ -533,7 +533,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>2<sup>nd</sup>&nbsp;Prize and 3<sup>rd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>30</p>
 </td>
@@ -547,7 +547,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>3<sup>rd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>31</p>
 </td>
@@ -561,7 +561,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>5<sup>th</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>32</p>
 </td>
@@ -575,7 +575,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Gold Medal</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>33</p>
 </td>
@@ -589,7 +589,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>3<sup>rd</sup>&nbsp;Place</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>34</p>
 </td>
@@ -603,7 +603,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Consolation Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>35</p>
 </td>
@@ -617,7 +617,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Consolation Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>36</p>
 </td>
@@ -633,7 +633,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Oratorical &ndash; 3rd Prize&nbsp;</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>37</p>
 </td>
@@ -647,7 +647,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>3<sup>rd</sup>&nbsp;Prize</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>38</p>
 </td>
@@ -661,7 +661,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Consolation Prize (Upper Sec)</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>39</p>
 </td>
@@ -676,7 +676,7 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 <p>Second prize (Upper Sec)&nbsp;</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td width="43">
 <p>40</p>
 </td>
@@ -691,17 +691,17 @@ The Twinning Programme with Chongqing Nankai Secondary School provides further o
 </td>
 </tr>
 <tr>
-<td width="43">
+<td style="text-align: center;" width="43">
 <p>41</p>
 </td>
-<td width="52">
+<td style="text-align: center;" width="52">
 <p>2013</p>
 </td>
-<td width="242">
+<td style="text-align: center;" width="242">
 <p>Debate Competition conducted by Yuhua Community Club&nbsp;</p>
 </td>
 <td width="134">
-<p>Won First prize/Champion 2013 and Best Speaker Award&nbsp;</p>
+<p style="text-align: center;">Won First prize/Champion 2013 and Best Speaker Award&nbsp;</p>
 </td>
 </tr>
 </tbody>
