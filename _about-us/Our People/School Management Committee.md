@@ -9,6 +9,41 @@ third_nav_title: Our People
 ![](/images/About%20us/Our%20People/key%20personnels%202.jpg)
 
 ## School Leaders
+<div>
+<div>
+<table>
+<tbody>
+<tr>
+	<th></th>
+<th>Name</th>
+<th>Designation</th>
+<th>Contact</th>
+<th>Email</th>
+</tr>
+<tr>
+<td>Mr</td>
+<td>Phua Huat Chuan</td>
+<td>Principal</td>
+<td rowspan="3">65663121</td>
+<td rowspan="3"><a href="mailto:bbss@moe.edu.sg" target="">bbss@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr</td>
+<td>Wu Tian Hwee</td>
+<td>Vice-Principal (EO)</td>
+</tr>
+<tr>
+<td>Mr</td>
+<td>&nbsp;Mak Yew Chong</td>
+<td>&nbsp;Vice-Principal (EO)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>
+</div>
+
 
 <div>
 <table>
