@@ -55,6 +55,25 @@ third_nav_title: Our People
 
 ## Sec 3 Faculty (YH / Mr Luke Tan)
 
+|    |                 Name                |     Designation    | Form Teacher | Ext |                      Email                     |
+|:--:|:-----------------------------------:|:------------------:|:------------:|:---:|:----------------------------------------------:|
+| Mr | Tan Khoon Lim (Marshall)            | Teacher Counsellor |      3A1     | 308 |          [tan\_khoon\_lim@schools.gov.sg](mailto:tan_khoon_lim@schools.gov.sg)          |
+| Ms | Zhang Yue                           |       Teacher      |      3A1     | 401 |           [zhang\_yue@schools.gov.sg](mailto:zhang_yue@schools.gov.sg)            |
+| Ms | Ho Ping Ping Crystal                |       Teacher      |      3A2     | 311 |       [ho\_ping\_ping\_crystal@schools.gov.sg](mailto:ho_ping_ping_crystal@schools.gov.sg)     |
+| Mr | Abdullah Al-Hady Bin Mohamed Salleh |       Teacher      |      3A2     | 409 | [abdullah\_al-hady\_mohamed\_salleh@schools.gov.sg](mailto:abdullah_al-hady_mohamed_salleh@schools.gov.sg) |
+| Ms | Tan Pei See                         |    Senior Tr/CL    |      3A3     | 405 |           [tan\_pei\_see@schools.gov.sg](mailto:tan_pei_see@schools.gov.sg)           |
+| Mr | Rachel Lim Fang Yin                 |       Teacher      |      3A3     | 401 |       [rachel\_lim\_fang\_yin@schools.gov.sg](mailto:rachel_lim_fang_yin@schools.gov.sg)       |
+| Ms | Kali Sri D/O Sivanantham            |       Teacher      |      3A4     | 407 |      [kali\_sri\_sivanantham@schools.gov.sg](mailto:kali_sri_sivanantham@schools.gov.sg)      |
+| Ms | Toong Mei Yunn                      |       Teacher      |      3A4     | 403 |          [mei\_yunn\_toong@schools.gov.sg](mailto:mei_yunn_toon@schools.gov.sg)        |
+| Mr | Derek Goh                           |       Teacher      |      3A4     | 302 |        [goh\_zongyang\_derek@schools.gov.sg](mailto:goh_zongyang_derek@schools.gov.sg)       |
+| Ms | Goh Zhi Qing                        |       Teacher      |      3A5     | 404 |           [goh\_zhi\_qing@schools.gov.sg](mailto:goh_zhi_qing@schools.gov.sg)          |
+| Mr | Low Jun Hua                         |       Teacher      |      3A5     |     |          [low\_jun\_hua@schools.gov.sg](mailto:low_jun_hua@schools.gov.sg)           |
+| Ms | Ong Lay Yen Jane                    |       Teacher      |      3A6     | 412 |         [ong\_lay\_yen\_jane@schools.gov.sg](mailto:ong_lay_yen_jane@schools.gov.sg)       |
+| Mr | Terence Chua Kok Yong               |       Teacher      |      3A6     | 414 |          [chua\_kok\_yong@schools.gov.sg](mailto:chua_kok_yongg@schools.gov.sg)        |
+| Ms | Anita D/O Chandrasagaran            |       Teacher      |      3A7     | 304 |       [anita\_chandrasagaran@schools.gov.sg](mailto:anita_chandrasagaran@schools.gov.sg)     |
+| Ms | Tan Li Shi                          |       Teacher      |      3A7     | 411 |            [tan\_li\_shi@schools.gov.sg](mailto:tan_li_shi@schools.gov.sg)           |
+| Ms | Wong Xin En                         |                    |      3A7     |     |          [wong\_xin\_en@schools.gov.sg](mailto:wong_xin_en@schools.gov.sg)          |
+
 
 ## Sec 4 & 5 Faculty (YH / Mdm Dianah Bte Abdullah)
 
