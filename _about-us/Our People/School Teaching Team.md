@@ -36,7 +36,22 @@ third_nav_title: Our People
 
 ## Sec 2 Faculty (YH /Mrs Quek Meng Chee) 
 
-
+|     |              Name              |        Designation        | Form Teacher | Ext |                    Email                    |
+|:---:|:------------------------------:|:-------------------------:|:------------:|:---:|:-------------------------------------------:|
+|  Mr | Jacky Ong JieJun               |          Teacher          |      2A1     | 313 |       [jacky\_ong\_jiejun@schools.gov.sg](mailto:jacky_ong_jiejun@schools.gov.sg)     |
+| Mdm | Rezwanna Bte Othman            |          Teacher          |      2A1     | 317 |       [rezwanna\_othman@schools.gov.sg](mailto:rezwanna_othman@schools.gov.sg)       |
+|  Ms | Yee Pei Fan                    |   Teacher,<br>EBS Co-Ord  |      2A2     | 315 |        [yee\_pei\_fan@schools.gov.sg](mailto:yee_pei_fan@schools.gov.sg)        |
+| Mdm | Khairunnisa Bte Khairudin      |          Teacher          |      2A2     | 407 |     [khairunnisa\_khairudin@schools.gov.sg](mailto:khairunnisa_khairudin@schools.gov.sg)    |
+| Mdm | Mastuty Bte Mohamed Masat      | SH/ML,TL,FL,NTIL & MSP IC |      2A3     | 218 |     [mastuty\_mohamed\_masat@schools.gov.sg](mailto:mastuty_mohamed_masat@schools.gov.sg)    |
+|  Mr | Png Choon Bing                 |          Teacher          |      2A3     | 403 |        [png\_choon\_bing@schools.gov.sg](mailto:png_choon_bing@schools.gov.sg)       |
+| Mrs | Regina Yip                     |          Teacher          |      2A4     | 307 |      [sen\_li-yin\_regina@schools.gov.sg](mailto:sen_li-yin_regina@schools.gov.sg)      |
+|  Ms | Soh Hui Jun, Theodora          |          Teacher          |      2A4     | 317 |     [soh\_hui\_jun\_theodora@schools.gov.sg](mailto:soh_hui_jun_theodora@schools.gov.sg)    |
+|  Mr | Azhar Bin Mohamad Ali          |          Teacher          |      2A5     | 310 |       [azhar\_mohamad\_ali@schools.gov.sg](mailto:azhar_mohamad_ali@schools.gov.sg)      |
+|  Ms | Lu Shan Shan                   |          Teacher          |      2A5     | 402 |         [lu\_shanshan@schools.gov.sg](mailto:lu_shanshan@schools.gov.sg)        |
+|  Ms | Ng Siew Yong                   |          Teacher          |      2A6     | 411 |        [ng\_siew\_yong\_a@schools.gov.sg](mailto:ng_siew_yong_a@schools.gov.sg)        |
+| Mrs | Augustin Paul Nancy Bala       |          Teacher          |      2A6     | 311 |   [augustin\_paul\_nancy\_bala@schools.gov.sg](mailto:augustin_paul_nancy_bala@schools.gov.sg)   |
+|  Ms | Nithiya Bhavani D/O Thiyagaraj |          Teacher          |      2A7     | 401 | [nithiya\_bhavani\_thiyagarajan@schools.gov.sg](mailto:nithiya_bhavani_thiyagarajan@schools.gov.sg) |
+|  Ms | Jasmine Ng Hui Shan            |          Teacher          |      2A7     |  -  |     [jasmine\_ng\_hui\_shan@schools.gov.sg](mailto:jasmine_ng_hui_shan@schools.gov.sg)     |
 
 ## Sec 3 Faculty (YH / Mr Luke Tan)
 
