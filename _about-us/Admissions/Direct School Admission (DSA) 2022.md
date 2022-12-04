@@ -29,11 +29,12 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 
 <b><u>Group 4 - Science, Technology, Engineering, Mathematics (STEM)</u></b>
 
+
 **Note for all applicants**: Achievements at the national/international level would be an advantage. Applicants may key in relevant information via the MOE DSA Application Portal.  
 
-**All applications are to be made via the MOE DSA Application Portal**. **Parents and students are encouraged to choose school wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.**
+**All applications are to be made via the MOE DSA Application Portal. Parents and students are encouraged to choose school wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
-**Information on DSA will be available in local media on 4 May 2022. More details on our school DSA selection process/criteria and key dates will be provide by early May 2022. For more information on the DSA-Sec, please visit the MOE DSA-sec website ([www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)).**
+**Information on DSA will be available in local media on 4 May 2022. More details on our school DSA selection process/criteria and key dates will be provide by early May 2022. For more information on the DSA-Sec, please visit the MOE DSA-sec website (<a href="http://www.moe.gov.sg/dsa-sec" target="_blank">www.moe.gov.sg/dsa-sec</a>).**
 
 #### **Application Procedure** 
 
