@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/.keep
       - Contact Us/General Information.md
       - Contact Us/.keep
