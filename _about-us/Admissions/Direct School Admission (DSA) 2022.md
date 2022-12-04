@@ -50,3 +50,22 @@ You have from 11am on Thursday, 5 May 2022 to 3pm on Wednesday, 1 June 2022 to s
 8\.   If you are unable to apply online, approach your child's primary school for assistance.
 
 #### Schedule
+
+| Process                                                                                        |             Date / Time            |
+|------------------------------------------------------------------------------------------------|:----------------------------------:|
+| Application Opens                                                                              |          5 May 2022 (11am)         |
+| Closing date for submission of application online through the DSA-Sec portal                   |          1 June 2022 (3pm)         |
+| Notification of short-listed applicants for interview (by phone call, email or post)           |        From 27 June onwards        |
+| In-person interview sessions                                                                   |     From 27 June to 12 Sep 2022    |
+| Notification Letter (Outcome of application)                                                   |        By 13 September 2022        |
+| Exercise School Preference by students                                                         | From 31 October to 4 November 2022 |
+| Notification of DSA-Sec admission results (on the same day as the release of the PSLE results) |         Late November 2022         |
+
+Meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Successful applicants will join BBSS in January in the year 2023. Students will be assessed on both their demonstrated and potential ability to ensure that they benefit from the curriculum offered at BBSS.
+
+**Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for throughout their years in BBSS.**
+
+#### Enquiries
+
+* Contact the General Office at 6566 3121. (Monday to Friday - 8.30am to 5.00pm)
+* Email us at [bbss@moe.edu.sg](mailto:bbss@moe.edu.sg%20). Please indicate "DSA Enquiries" in the subject field.
