@@ -100,6 +100,21 @@ third_nav_title: Our People
 
 ## Non-Form Teachers
 
-
+|      |               Name               | Designation |  Ext |                    Email                    |
+|:----:|:--------------------------------:|:-----------:|:----:|:-------------------------------------------:|
+|  Ms  | Chua Lin Lin Leah                |   Teacher   |  303 |        [chua\_lin\_lin@schools.gov.sg](mailto:chua_lin_lin@schools.gov.sg)        |
+|  Mrs | Yeo-Wong Poh Leng                |   Teacher   |  312 |       [yeo-wong\_poh\_leng@schools.gov.sg](mailto:yeo-wong_poh_leng@schools.gov.sg)      |
+|   Mr | Chew Yiu Chee                    |   Teacher   | 219  |       [chew\_yiu\_chee@schools.gov.sg](mailto:chew_yiu_chee@schools.gov.sg)         |
+|  Mr  | Evin Rajasekar                   |   Teacher   |  412 | [evin\_rajasekar\_kulanthaisamy@schools.gov.sg](mailto:evin_rajasekar_kulanthaisamy@schools.gov.sg) |
+|  Mdm | Vijayarani Rajesh                |   Teacher   |  410 |       [vijayarani\_rajesh@schools.gov.sg](mailto:vijayarani_rajesh@schools.gov.sg)      |
+|  Mr  | Chia Kwek Fah                    |   Teacher   |  115 |         [chia\_kwek\_fah@schools.gov.sg](mailto:chia_kwek_fah@schools.gov.sg)        |
+|  Ms  | Lee Choon Lin                    |   Teacher   |  427 |         [lee\_choon\_lin@schools.gov.sg](mailto:lee_choon_lin@schools.gov.sg)        |
+|  Mdm | Ong Lay Yen Jane                 |   Teacher   |  404 |      [ong\_lay\_yen\_jane@schools.gov.sg](mailto:ong_lay_yen_jane@schools.gov.sg)    |
+|  Ms  | Teoh Bee Yoke                    |   Teacher   |  412 |       [teoh\_bee\_yoke@schools.gov.sg](mailto:teoh_bee_yoke@schools.gov.sg)       |
+|  Mdm | Sarifah Sopiah Bte Mohamed Yasin |   Teacher   |  429 |  [sarifah\_sopiah\_mohd\_yassin@schools.gov.sg](mailto:sarifah_sopiah_mohd_yassin@schools.gov.sg)  |
+|  Ms  | Latimer Jayanthi Josephine       |   Teacher   |  314 |  [latimer\_jayanthi\_josephine@schools.gov.sg](mailto:latimer_jayanthi_josephine@schools.gov.sg)  |
+|   Mr | Irwin Kao Chih Tsung             |   Teacher   | 407  |       [kao\_chih\_tsung\_irwin@moe.edu.sg](mailto:kao_chih_tsung_irwin@moe.edu.sg%C2%A0)      |
+|  Mdm | Foo Hui Yueh Angeline            |   Teacher   | 429  |      [foo\_hui\_yueh@schools.gov.sg](http://foo_hui_yueh@schools.gov.sg/)      |
+| Mdm  | Cao Yang                         |   Teacher   | 430  |          [cao\_yang @schools.gov.sg](mailto:cao_yang%20@schools.gov.sg)         |
 
 ## Counselling and Additional Support
