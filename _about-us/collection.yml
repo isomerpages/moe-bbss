@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/General Information.md
       - Contact Us/.keep
