@@ -6,3 +6,8 @@ third_nav_title: Our Partners
 ---
 # Parents' Support Group (PSG)
 
+Click the links for more information on:
+* Events/Activites
+* Gallery
+* Feedback
+* Healthy Meals in School Programme
