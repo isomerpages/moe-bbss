@@ -4,6 +4,7 @@ permalink: /about-us/Our-Partners/bbss-alumni/
 description: ""
 third_nav_title: Our Partners
 ---
+# the 2 images here >5MB, recommend to compress despite the compromise in quality
 # BBSS Alumni
 
 ### About The Alumni
