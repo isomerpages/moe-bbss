@@ -3,7 +3,7 @@ url: https://bukitbatoksec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#8b1114"
-  secondary-color: "#000000"
+  secondary-color: "#8b1114"
   media-colors:
     - title: media-color-one
       color: "#49759a"
