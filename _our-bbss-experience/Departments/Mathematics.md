@@ -73,3 +73,21 @@ third_nav_title: Departments
 | 18  | 2013  | ICAS Mathematics Competition     |       1 High Distinction, 7 Distinction, 56 Credit <br>(100 participants)      |
 | 19  | 2012  | Singapore Mathematical Olympiad  |                2 Bronze, 3 Honourable Mention (49 participants)                |
 |  20 | 2012  | ICAS Mathematics Competition     |                  22 Distinction, 47 Credit (100 participants)                  |
+
+### Key department Programmes and Activities
+
+
+| No | Programme/Activity Title                                                   | Brief Description                                                                                                                                                                                                    |
+|:----:|:---------------:|:---:|
+| 1  | e-Learning programmes                                                      | Interactive multi-media online lessons to engage learners.                                                                                                                                                           |
+| 2  | Mathematics Talent Development Programme                                   | Math Olympiad preparatory programme for students with interest and aptitude                                                                                                                                          |
+| 3  | Singapore Mathematical Olympiad                                            | National Schools Maths Competition organised by NUS.                                                                                                                                                                 |
+| 4  | ICAS (UNSW) Math Competitions                                              | International Maths Competition organised by University of New South Wales.                                                                                                                                          |
+| 5  | All Singapore Secondary Mathematics Competition for Normal Course Students | An online Mathematics Competition for Normal Course students to showcase their talent in mathematical knowledge and skills through solving competition questions.                                                    |
+| 6  | Pi Day (March 14)                                                          | Teachers prepare activities related to Pi to stimulate students’ curiosity, increase general knowledge and appreciation for mathematics.                                                                             |
+| 7  | Lower Sec Math Day                                                         | Station games prepared by Sec 2 students for Sec 1 participants, for students to learn Math in a fun way.                                                                                                            |
+| 8  | Mathematics Trail                                                          | The Mathematics Trail is a school-based activity that is conducted after the year-end examination for the Sec 2 students to help pupils develop an appreciation and enjoyment of Mathematics in everyday situations. |
+| 9  | Individualised Self-Paced Learning (ISPL) for Upper Secondary levels       | A programme to promote self-directed learning & collaborative learning.                                                                                                                                              |
+| 10 | Bridging Lessons for Normal Academic students                              | To strengthen student’s foundation to meet the demands of higher academic levels.                                                                                                                                    |
+| 11 | Remedial and Supplementary Lessons                                         | Structured remedial/supplementary lessons to help weaker students.                                                                                                                                                   |
+| 12 | Prep Exam & Consultation for graduating students                           | To prepare students well for N level and O level Exam.                               |
