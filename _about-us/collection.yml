@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/School History.md
       - School Information/.keep
       - School Information/School Overview.md
       - School Information/School Information.md
