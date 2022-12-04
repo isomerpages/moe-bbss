@@ -29,6 +29,8 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 
 <b><u>Group 2 - Sports & Games</u></b>
 
+
+
 <b><u>Group 3 -Performing Arts</u></b>
 
 <b><u>Group 4 - Science, Technology, Engineering, Mathematics (STEM)</u></b>
