@@ -33,6 +33,12 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 
 <b><u>Group 3 -Performing Arts</u></b>
 
+|          Talent Area         | Criteria Eligibility for DSA | Selection Processes for DSA |
+|---------|-------------|-----------------|
+| Drama and Debating - English |                              |                             |
+| Chinese Orchestra            |                              |                             |
+| Malay Dance                  |                              |                             |
+
 <b><u>Group 4 - Science, Technology, Engineering, Mathematics (STEM)</u></b>
 
 |  Talent Areas |     Criteria Eligibility for DSA          |        Selection Processes for DSA            |
