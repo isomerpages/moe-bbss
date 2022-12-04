@@ -1,4 +1,5 @@
 collections:
   our-bbss-experience:
     output: true
-    order: []
+    order:
+      - Departments/.keep
