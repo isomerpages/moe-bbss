@@ -10,4 +10,4 @@ Click the links for more information on:
 * Events/Activites
 * Gallery
 * Feedback
-* Healthy Meals in School Programme
+* Healthy Meals in Schools Programme
