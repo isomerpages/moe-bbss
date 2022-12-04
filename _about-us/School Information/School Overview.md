@@ -5,6 +5,7 @@ description: ""
 third_nav_title: School Information
 ---
 # School Overview
+
 ### Type of School:
 
 GOVERNMENT SCHOOL/ MIXED SCHOOL/ SINGLE SESSION
@@ -19,7 +20,11 @@ Not Applicable
 
 ### Subjects Offered:
 
-
+|                                                                                                                                                                                                                                                                |                                                                                                                                                              |                                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| ENGLISH LANGUAGE<br>ENGLISH LANGUAGE (SYLL A)<br>ENGLISH LANGUAGE (SYLL T)                                                                                                                                                                                     | ADDITIONAL MATHEMATICS<br>MATHEMATICS<br>MATHEMATICS (SYLL A)<br>MATHEMATICS (SYLL T)<br>PRINCIPLE OF ACCOUNTS (POA)                                         | LOWER SEC SCIENCE<br>PHYSICS<br>CHEMISTRY<br>BIOLOGY<br>SCIENCE (PHY, CHEM)<br>SCIENCE (SYLL T)                                             |
+| BASIC CHINESE<br>CHINESE (SPECIAL PROG)<br>CHINESE B<br>CHINESE N(A)<br>CHINESE<br>HIGHER CHINESE<br>BASIC MALAY<br>MALAY (SPECIAL PROG)<br>MALAY N(A)<br>MALAY<br>HIGHER MALAY<br>BASIC TAMIL<br>TAMIL LANGUAGE B SYLL<br>TAMIL N(A)<br>TAMIL<br>HIGHER TAMIL | COMBINED HUM (SS, GEOG)<br>COMBINED HUM (SS, HIST)<br>COMBINED HUM (SS, LIT)<br>GEOGRAPHY (REVISED)<br>HISTORY (REVISED)<br>LITERATURE (E)<br>SOCIAL STUDIES | TECHNICAL STUDIES<br>DESIGN & TECHNOLOGY<br>FOOD & NUTRITION<br>HOME ECONOMICS<br>MUSIC<br>MUSIC 'O' LEVEL<br>ART AND DESIGN<br>VISUAL ARTS |
+| COMPUTER APPLICATIONS<br>ELEMENTS OF BUSINESS SKILLS                                                                                                                                                                                                           | PHYSICAL EDUCATION<br>CIVICS & MORAL ED<br>PROJECT WORK<br>CO-CURRICULAR ACTIVITIES                                                                          |                                                                                                                                             |
 
 ### CCAs Offered:
 
