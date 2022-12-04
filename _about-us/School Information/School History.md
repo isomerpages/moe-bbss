@@ -10,21 +10,16 @@ third_nav_title: School Information
 
 Bukit Batok Secondary School began operations in 1986 to serve the new Bukit Batok estate. It has grown from strength to strength under the leadership of 7 principals, including Mr Phua Huat Chuan, the current principal. The school has been part of Cluster W7 since 2015.
 
-  
 
 ### BBSS PRIME
 
 BBSS completed PRIME and moved back from its holding school at Toh Tuck Terrace in Dec 2008. The school was rebuilt on a PRIME budget of $25.48 million. School Advisory Committee members and parents raised another $661,220 in 2 years for non-standard items such as an air-conditioned multi-purpose hall and a viewing gallery for the Indoor Sports Hall.  
 
-  
 
 ### BBSS Organisation Structure
 
 BBSS started the Year Head system way back in 2003, with the organisation structure comprising Deans (Year Heads and Assistant Year Heads), Programme Directors (PDs - non-IP HODs/SHs) and Curriculum Consultants (CCs - IP HODs/SHs). From 2018, taking cognisance to the organisation structure with MOE nomenclature, this structure continues to serve to ensure that the variety of customised programmes offered to BBSSians help achieve the DOE. The Student Development Team (SDT) comprises of the YHs and AYHs who take charge of levels or faculties and look into the holistic development of each student together with the HOD/CCE and HOD/Discipline in consultation with the LT/Learning Needs (Educational Support).  
 
-  
-
-  
 
 ### Key Programmes
 
@@ -67,7 +62,6 @@ In 2019, the school shared on balancing between rigour and joy and looking at 3 
 *   **Culture of Innovation** – The impetus for change in this era is technology. We have started an interest group for robotics in 2019 and would be recruiting members for the new Robotics Club CCA in 2020. We would incorporate robotics in our Applied Learning for Life Programme (ALP) and will look into incorporating artificial intelligence (AI) into supporting teaching and learning (T&L), and exposing students to applications of AI. An Innovation Education committee was formed to catalyse innovation among staff and students.
 *   **Environmental Education** – With various teams working with the Environmental Education committee, the school has sought out ways to grow a green environment and build on our sustainable school initiative as a T&L platform. Our school building has been awarded the Building & Construction Authority (BCA) Green Mark Goldplus Award. The school has installed High Volume Low Speed (HVLS) fans in the school hall and Indoor Sports Hall (ISH) to minimise the use of the hall air-conditioners and has bought food digesters to reduce food waste from the school canteen and food laboratories by converting leftovers into compost for fertilising the school flora. The school is in the midst of installing solar panels through participating in the SolarNova Programme to harness solar energy to further reduce electricity usage. Through continuous efforts, we hope to reduce water and electricity usage as well as the carbon footprint in school.
 
-###   
 
 ### Future Directions
 
