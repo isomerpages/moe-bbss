@@ -76,7 +76,7 @@ BBSS will continue to leverage on the cohesiveness of its professional staff and
 ### <center>Principals of BBSS</center>
 
 |   |                       |
-|---|-----------------------|
+|---|:--------------:|
 | ![](/images/About%20us/School%20Information/School%20History/belinda_charles_medium.jpg)  |        MRS BELINDA CHARLES<br>**1986 - 1990**                         |
 | ![](/images/About%20us/School%20Information/School%20History/limlaichuan.png) |    MR LIM LAI CHUAN<br>**1990 - 1997**     |
 | ![](/images/About%20us/School%20Information/School%20History/SUPARMAN%20ADAM.gif) |     MR SUPARMAN ADAM<br>**1998 - 2002**    |
