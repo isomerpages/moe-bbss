@@ -16,58 +16,58 @@ third_nav_title: Departments
 </td>
 </tr>
 <tr>
-<td width="182">
+<td width="182" style ="text-align:center">
 <p><strong>Head of Department</strong></p>
 </td>
-<td width="289">
+<td width="289" style ="text-align:center">
 <p>Ms Sum Xue Fen</p>
 </td>
 </tr>
 <tr>
-<td width="182">
+<td width="182" style ="text-align:center">
 <p><strong>Subject Head (ML)</strong></p>
 </td>
-<td width="289">
+<td width="289" style ="text-align:center">
 <p>Mdm Mastuty</p>
 </td>
 </tr>
 <tr>
-<td width="182">
+<td width="182" style ="text-align:center">
 <p><strong>Senior Teacher (CL)</strong></p>
 </td>
-<td width="289">
+<td width="289" style ="text-align:center">
 <p>Tan Pei See</p>
 </td>
 </tr>
 <tr>
-<td width="182">
+<td width="182" style ="text-align:center">
 <p><strong>Senior Teacher (ML)</strong></p>
 </td>
-<td width="289">
+<td width="289" style ="text-align:center">
 <p>Mdm Junaidah</p>
 </td>
 </tr>
 <tr>
-<td width="182">
+<td width="182" style ="text-align:center">
 <p><strong>MSP Coordinator</strong></p>
 </td>
-<td width="289">
+<td width="289" style ="text-align:center">
 <p>Mdm Latifah</p>
 </td>
 </tr>
 <tr>
-<td width="182">
+<td width="182" style ="text-align:center">
 <p><strong>Tamil Coordinator</strong></p>
 </td>
-<td width="289">
+<td width="289" style ="text-align:center">
 <p>Mr Evin</p>
 </td>
 </tr>
 <tr>
-<td width="182">
+<td width="182" style ="text-align:center">
 <p><strong>HCL Coordinator</strong></p>
 </td>
-<td width="289">
+<td width="289" style ="text-align:center">
 <p>Mdm Ng Siew Yong</p>
 </td>
 </tr>
