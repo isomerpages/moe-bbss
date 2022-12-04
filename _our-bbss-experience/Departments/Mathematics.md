@@ -51,7 +51,7 @@ third_nav_title: Departments
 
 ## Achievements
 
-| No  | Year  | Competition Title                | Award/Achievement                                                              |
+| No  | Year  | Competition Title                | Award/Achievement                            |
 |:----:|:------:|:---------:|:------------------:|
 |   1 |  2021 | Singapore Mathematical Olympiad  |                         1 Bronze, 3 Honourable Mention                         |
 |   2 |  2021 |   ICAS Mathematics Competition   |                       1 High Distinction, 10 Distinction                       |
