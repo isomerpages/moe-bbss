@@ -40,7 +40,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 
 You have from 11am on Thursday, 5 May 2022 to 3pm on Wednesday, 1 June 2022 to submit your child's application. Follow these steps to apply:
 
-1.  Log in to the [Direct School Admission (DSA-Sec):Apply | MOE](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school) with your SingPass.
+1.  Log in to the <a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school" target="_blank">Direct School Admission (DSA-Sec):Apply | MOE</a> with your SingPass.
 2.  You can indicate up to 3 choices and 3 talent areas.
 3.  You may indicate up to 2 talent areas for the same secondary school. If you are keen to apply for the 2 talent areas offered by our school, you must indicate both talent areas as separate choices.
 4.  You may provide information for up to 10 non-school based activities and achievements which are related to your child's chosen talent areas.
