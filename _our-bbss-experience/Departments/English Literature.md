@@ -92,3 +92,10 @@ The development of language skills and knowledge about language involves the tea
 Skills, grammatical items, structures and various types of texts will be taught, revised and revisited at increasing levels of difficulty and sophistication. 
 
 ### Key department Programmes and Activities
+
+| No |                                     Programme/Activity Title                                    |
+|:--:|:---------------------------------:|
+|  1 | Whole School Effective Communications Programme (ECP)                                           |
+|  2 | Creative Writing Programme: NAC Artists-in-School Scheme                                        |
+|  3 | Self-Directed Learning Day Projects: Spotlight, Presentation and Story-writing and Storytelling |
+|  4 | Partnership with National Organ Transplant Unit                                                 |
