@@ -2,6 +2,6 @@ collections:
   parents-support-group:
     output: true
     order:
-      - Healthy Meals in Schools Programme.md
       - Events & Activities.md
       - Gallery.md
+      - Healthy Meals in Schools Programme.md
