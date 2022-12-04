@@ -3,6 +3,7 @@ title: Healthy Meals in Schools Programme
 permalink: /parents-support-group/healthy-meals-in-schools-programme/
 description: ""
 ---
+# link to HPB broken
 # Healthy Meals in Schools Programme
 
 <p style="text-align: justify;">Childhood and adolescent years are crucial to set the foundation for healthy growth. Eating a nutritionally balanced diet supports optimal growth and development. By encouraging healthy eating habits now, we can give our students the best opportunity to grow into healthy adults.</p>
