@@ -2,5 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
+      - Departments/Mother Tongue.md
       - Departments/English Literature.md
       - Departments/.keep
