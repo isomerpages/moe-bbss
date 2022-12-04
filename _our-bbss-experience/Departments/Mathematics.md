@@ -50,3 +50,26 @@ third_nav_title: Departments
  
 
 ## Achievements
+
+| No  | Year  | Competition Title                | Award/Achievement                                                              |
+|:----:|:------:|:---------:|:------------------:|
+|   1 |  2021 | Singapore Mathematical Olympiad  |                         1 Bronze, 3 Honourable Mention                         |
+|   2 |  2021 |   ICAS Mathematics Competition   |                       1 High Distinction, 10 Distinction                       |
+|   3 |  2020 | Singapore Mathematical Olympiad  |                               3 Honourable Mention                             |
+|   4 | 2020  |   ICAS Mathematics Competition   |                                 7 Distinction                                  |
+|   5 |  2019 | Singapore Mathematical Olympiad  |                         2 Bronze, 4 Honourable Mention                         |
+|   6 |  2019 |   ICAS Mathematics Competition   |                       1 High Distinction, 11 Distinction                       |
+|  7  | 2018  | Singapore Mathematical Olympiad  |              1 Silver, 4 Honourable Mention <br>(42 participants)              |
+| 8   | 2018  | ICAS Mathematics Competition     |             3 High Distinction, 28 Distinction<br>(99 participants)            |
+| 9   | 2017  | Singapore Mathematical Olympiad  |          1 Gold, 3 Bronze, 4 Honourable Mention <br>(45 participants)          |
+|  10 | 2017  | ICAS Mathematics Competition     | 6 High Distinction, 17 Distinction, 38 Credit, 17 Merit <br>(100 participants) |
+| 11  | 2016  | Singapore Mathematical Olympiad  |          1 Gold, 4 Bronze, 6 Honourable Mention <br>(45 participants)          |
+| 12  | 2016  | ICAS Mathematics Competition     | 5 High Distinction, 19 Distinction, 42 Credit, 7 Merit <br>(100 participants)  |
+|  13 | 2015  | Singapore Mathematical Olympiad  |          2 Gold, 4 Bronze, 7 Honourable Mention <br>(40 participants)          |
+| 14  | 2015  | ICAS Mathematics Competition     | 2 High Distinction, 18 Distinction, 42 Credit, 12 Merit <br>(100 participants) |
+| 15  | 2014  | Singapore Mathematical Olympiad  |         1 Silver, 3 Bronze, 2 Honourable Mention <br>(45 participants)         |
+| 16  | 2014  | ICAS Mathematics Competition     | 2 High Distinction, 21 Distinction, 46 Credit, 14 Merit <br>(100 participants) |
+| 17  | 2013  | Singapore Mathematical Olympiad  |         1 Silver, 3 Bronze, 5 Honourable Mention <br>(48 participants)         |
+| 18  | 2013  | ICAS Mathematics Competition     |       1 High Distinction, 7 Distinction, 56 Credit <br>(100 participants)      |
+| 19  | 2012  | Singapore Mathematical Olympiad  |                2 Bronze, 3 Honourable Mention (49 participants)                |
+|  20 | 2012  | ICAS Mathematics Competition     |                  22 Distinction, 47 Credit (100 participants)                  |
