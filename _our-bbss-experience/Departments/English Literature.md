@@ -69,27 +69,27 @@ The department organises and explores many activities to build on students’ co
 
 ### C ontextualisation
 
-Learning tasks and activities will be designed for pupils to learn the language in authentic and meaningful contexts of use.
+<p style="text-align: justify;">Learning tasks and activities will be designed for pupils to learn the language in authentic and meaningful contexts of use.</p>
 
 ### L earner-Centeredness
 
-Learners are at the centre of the teaching-learning process. Teaching will be differentiated according to pupils’ needs, abilities and interests.
+<p style="text-align: justify;">Learners are at the centre of the teaching-learning process. Teaching will be differentiated according to pupils’ needs, abilities and interests.</p>
 
 ### L earning-focused Interaction
 
-The teacher will provide a rich environment for communication that will explicitly foster listening and speaking skills and focus on the achievement of the Learning Outcomes.
+<p style="text-align: justify;">The teacher will provide a rich environment for communication that will explicitly foster listening and speaking skills and focus on the achievement of the Learning Outcomes.</p>
 
 ### I ntegration
 
-The areas of language learning – the receptive skills, the productive skills, and grammar and vocabulary will be taught in an integrated way, together with the use of relevant print and non-print resources, to provide multiple perspectives and meaningful connections.
+<p style="text-align: justify;">The areas of language learning – the receptive skills, the productive skills, and grammar and vocabulary will be taught in an integrated way, together with the use of relevant print and non-print resources, to provide multiple perspectives and meaningful connections.</p>
 
 ### P rocess Orientation
 
-The development of language skills and knowledge about language involves the teaching of processes. The teacher will model and scaffold such processes for pupils, while guiding them to put together their final spoken, written and/or multimodal products.
+<p style="text-align: justify;">The development of language skills and knowledge about language involves the teaching of processes. The teacher will model and scaffold such processes for pupils, while guiding them to put together their final spoken, written and/or multimodal products.</p>
 
 ### S piral Progression
 
-Skills, grammatical items, structures and various types of texts will be taught, revised and revisited at increasing levels of difficulty and sophistication. 
+<p style="text-align: justify;">Skills, grammatical items, structures and various types of texts will be taught, revised and revisited at increasing levels of difficulty and sophistication. </p>
 
 ### Key department Programmes and Activities
 
