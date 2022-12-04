@@ -27,6 +27,6 @@ Principal, Bukit Batok Secondary School</strong>
 
 <p style="text-align: justify;">BBSS was created together with Bukit Batok Town more than 30 years ago and it is only right that we continue to remain relevant and effective in service to our community. We now look forward to the next 5 years of our journey by building on the successes we have achieved in the last 30 years. Our Vision is to be a premier school which provides quality holistic education to every BBSSians. We aspire to achieve this by nurturing BBSSians to be successful self-directed learners with an abundance mentality. Tapping on our niche programme Habits of Mind, we aim to develop BBSSians to be self-managing, self-monitoring and self-modifying citizens with a generosity of spirit and a willingness to value the well-being of others.</p>
 
-<p style="text-align: justify;">Finally, we want to be a \`little red dot’ that makes a big difference in the Bukit Batok community and in Singapore.</p>
+<p style="text-align: justify;">Finally, we want to be a `little red dot’ that makes a big difference in the Bukit Batok community and in Singapore.</p>
 
 **BBSSians, go forth and Be Our Best!**
