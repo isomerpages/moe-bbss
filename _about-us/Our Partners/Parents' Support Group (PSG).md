@@ -67,3 +67,10 @@ Register at <a href="http://goo.gl/6iaqDp" target="_blank">http://goo.gl/6iaqDp
 
 
 For enquiries, please email _psgbbss@gmail.com_
+
+* * *
+##### INVOLVEMENT IN SCHOOL ACTIVITIES
+
+<p style="text-align: justify;">The PSG aims to play a supportive role in the holistic development of our children at BBSS. We are privileged and proud to be the school’s partner at various events throughout the year. These are some of the activities that we take part in each year.</p>
+
+<p style="text-align: justify;"><b>Sec 1 CCA Showcase</b> — PSG parents welcomes new Sec 1 parents and students with a booth at the canteen. During the showcase, PSG parents mingle with Sec 1 parents, share their personal experiences, and most importantly, recruit fresh faces into our big family.</p>
