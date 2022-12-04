@@ -91,3 +91,5 @@ third_nav_title: Departments
 | 10 | Bridging Lessons for Normal Academic students                              | To strengthen student’s foundation to meet the demands of higher academic levels.                                                                                                                                    |
 | 11 | Remedial and Supplementary Lessons                                         | Structured remedial/supplementary lessons to help weaker students.                                                                                                                                                   |
 | 12 | Prep Exam & Consultation for graduating students                           | To prepare students well for N level and O level Exam.                               |
+
+### Gallery
