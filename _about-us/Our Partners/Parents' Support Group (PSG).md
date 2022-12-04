@@ -75,68 +75,66 @@ For enquiries, please email _psgbbss@gmail.com_
 
 <p style="text-align: justify;"><b>Sec 1 CCA Showcase</b> — PSG parents welcomes new Sec 1 parents and students with a booth at the canteen. During the showcase, PSG parents mingle with Sec 1 parents, share their personal experiences, and most importantly, recruit fresh faces into our big family.</p>
 
-our big family.
 
-
-![Sec 1 CCA Showcase.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Sec%201%20CCA%20Showcase.jpg)  
+![Sec 1 CCA Showcase.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Sec%201%20CCA%20Showcase.jpg)
 
 
 **Project Mi** — In line with the abundance mentality, PSG is privileged to participate and help provide manpower and transport for the annual rice collection event for the school. Together with the school and students, the rice collected is then distributed to under-privileged homes and organisations.  
   
-![Project Mi.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Project%20Mi.jpg)  
+![Project Mi.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Project%20Mi.jpg)  
   
 
   
 **X-Country at Japanese Garden** – PSG members join in the fun, and run with students and staff. We also provide refreshments for the students at the finishing point.  
   
-![X-Country at Japanese Garden.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/X-Country%20at%20Japanese%20Garden.jpg)  
+![X-Country at Japanese Garden.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/X-Country%20at%20Japanese%20Garden.jpg)  
   
 **Blood donation drive** – PSG members lend their support to the annual blood donation drive at Bukit Batok Community Club.  
   
-![Blood donation drive (1).jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Blood%20donation%20drive%20(1).jpg)  
+![Blood donation drive (1).jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Blood%20donation%20drive%20(1).jpg)  
 
 
-![Blood donation drive (2).jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Blood%20donation%20drive%20(2).jpg)  
+![Blood donation drive (2).jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Blood%20donation%20drive%20(2).jpg)  
   
   
 **Annual Awards Ceremony** – Senior PSG Exco members are honoured to receive the Partnership Award given by the school.  
   
-![Annual Awards Ceremony.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Annual%20Awards%20Ceremony.jpg)  
+![Annual Awards Ceremony.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Annual%20Awards%20Ceremony.jpg)  
 
   
 **Metamorphosis Concert by BBSS Performing Arts Groups** – PSG members enjoy a wonderful evening watching the impressive performances put up by the talented teachers and students of BBSS.  
   
-![Metamorphosis Concert.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Metamorphosis%20Concert.jpg)  
+![Metamorphosis Concert.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Metamorphosis%20Concert.jpg)  
 
 **Coastal Cleanup** – A meaningful and educational event organized by One-Earth Club. PSG parents and their children witness first-hand the harmful effects of marine pollution, and do a small part by helping to clean up Pasir Ris beach.  
   
-![Coastal Cleanup.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Coastal%20Cleanup.jpg)  
+![Coastal Cleanup.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Coastal%20Cleanup.jpg)  
   
 **No Shoe Day** – PSG supports this meaningful event organized by the student leaders, in liaison with World Vision. Staff, students and parents take part in a charity walk around the school compound bare-footed. We feel how it is like to go about our daily lives without something that is very much taken for granted in our society – shoes.  
   
-![No Shoe Day.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/No%20Shoe%20Day.jpg)  
+![No Shoe Day.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/No%20Shoe%20Day.jpg)  
 
   
 **Alumni PSG parents sharing session with graduating cohort** – Alumni PSG parents share their experiences in helping their children cope with the stress of National Examinations.  
   
-![Alumni PSG parents sharing session (1).jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Alumni%20PSG%20parents%20sharing%20session%20(1).jpg)  
+![Alumni PSG parents sharing session (1).jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Alumni%20PSG%20parents%20sharing%20session%20(1).jpg)  
   
   
-![Alumni PSG parents sharing session (2).png](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Alumni%20PSG%20parents%20sharing%20session%20(2).png)  
+![Alumni PSG parents sharing session (2).png](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Alumni%20PSG%20parents%20sharing%20session%20(2).png)  
 
   
   
-![Alumni PSG parents sharing session (3).png](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Alumni%20PSG%20parents%20sharing%20session%20(3).png)  
+![Alumni PSG parents sharing session (3).png](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Alumni%20PSG%20parents%20sharing%20session%20(3).png)  
  
   
 **Study Night** – PSG parents give moral support to graduating students by providing simple snacks during their intensive revision period.  
   
-![Study Night.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Study%20Night.jpg)  
+![Study Night.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Study%20Night.jpg)  
 
   
 **BBSS Open House** – PSG parents share with prospective parents and students their positive experiences of the school.  
   
-![BBSS Open House.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/BBSS%20Open%20House.jpg)  
+![BBSS Open House.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/BBSS%20Open%20House.jpg)  
 
 
 * * *
@@ -159,7 +157,7 @@ PSG also hopes to build a community of parents who lend support to one another d
 
   
 
-![PSG meetings.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/PSG%20meetings.jpg)  
+![PSG meetings.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/PSG%20meetings.jpg)  
 
   
 
@@ -167,27 +165,27 @@ PSG also hopes to build a community of parents who lend support to one another d
 
   
 
-![Get Fit with PSG series (1).jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Get%20Fit%20with%20PSG%20series%20(1).jpg)  
+![Get Fit with PSG series (1).jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Get%20Fit%20with%20PSG%20series%20(1).jpg)  
 
   
 
-![Get Fit with PSG series (2).jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Get%20Fit%20with%20PSG%20series%20(2).jpg)  
+![Get Fit with PSG series (2).jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Get%20Fit%20with%20PSG%20series%20(2).jpg)  
 
 
 **Dialogue in the Dark** – Students and parents learn about how the visually-handicapped carry about their daily activities by entering a pitch-dark room.  During the journey, they are guided by a blind guide.  It is indeed a lesson of empathy learnt for all the participants!  
 
 
-![Dialogue in the Dark.jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/Dialogue%20in%20the%20Dark.jpg)
+![Dialogue in the Dark.jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/Dialogue%20in%20the%20Dark.jpg)
 
 
 **Workshops** – Students and parents build rapport by creating unique crafts such as terrarium, and learning from experts lifeskills such as self-defence Kapap skills.  Each year, PSG also conducts a workshop to prepare a little gift of appreciation for our teachers and staff of BBSS.  This is our little way of saying “Thank You” for the selfless sacrifices teachers and staff have made for our children.
 
   
 
-![PSG Workshop (1).jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/PSG%20Workshop%20(1).jpg)  
+![PSG Workshop (1).jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/PSG%20Workshop%20(1).jpg)  
   
 
-![PSG Workshop (2).jpg](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/PSG/PSG%20homepage/PSG%20July%202018/PSG%20Workshop%20(2).jpg)
+![PSG Workshop (2).jpg](/images/About%20us/Our%20Partners/Parents'%20Support%20Group%20(PSG)/PSG%20Workshop%20(2).jpg)
 
   
 
