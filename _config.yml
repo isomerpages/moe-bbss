@@ -1,6 +1,6 @@
-title: Title
+title: Bukit Batok Secondary School
 url: https://bukitbatoksec.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/bbss-small_faveicon.png
 colors:
   primary-color: "#8b1114"
   secondary-color: "#8b1114"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
