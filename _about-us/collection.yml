@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners/.keep
       - School Advisory Committee/.keep
       - School Information/.keep
       - School Information/School Information.md
