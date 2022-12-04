@@ -10,14 +10,14 @@ third_nav_title: Departments
 <table>
 <tbody>
 <tr>
-<th colspan="3">Mission</th>
+<th colspan="3"  style="text-align:center">Mission</th>
 </tr>
 <tr>
-<td colspan="3">To develop BBSSians to be competent and confident users of English in the global context.</td>
+<td colspan="3" style="text-align:center">To develop BBSSians to be competent and confident users of English in the global context.</td>
 </tr>
 <tr>
 <td><strong>Head of Department</strong></td>
-<td colspan="2">Mr Samuie Tarjalia</td>
+<td colspan="2" style="text-align: center;">Mr Samuie Tarjalia</td>
 </tr>
 <tr>
 <td><strong>Coordinators</strong></td>
