@@ -18,3 +18,21 @@ We welcome all teachers, students, ex-staffs and ex-students to join our events 
 
 <a href="http://www.tinyurl.com/bbssalumni" target="_blank">Click here for Alumni registration</a>
 
+| 2018 Alumni Executive Committee |                        |
+|:-------------------------------:|:----------------------:|
+| Advisor:                        | Mr Mak Yew Chong       |
+| School Liaison In-Charge:       | Mdm Yaw Lai Theng      |
+| President:                      | Mr Daniel Ng           |
+| Vice-President:                 | Mr Samuel Tan Chu Wen  |
+| Secretary:                      | Mr Huang Shun Ji       |
+| Executive Committee Members:    | Mr Tim Chin            |
+|                                 | Mr Gideon Ren          |
+|                                 | Mr Alan Seng           |
+|                                 | Mr Simon Goh           |
+|                                 | Ms Phoebe Chew         |
+
+B.B.S.S Alumni is now on Facebook!
+
+Click <a href="https://www.facebook.com/bbssalumni/" target="_blank"><b>here</b></a> to go to our official alumni Facebook page
+
+_\- BBSS Alumni AGM_
