@@ -19,7 +19,7 @@ third_nav_title: Our People
 
 |     |   Name    |     Designation     | Form Teacher |  Ext  |     Email            |
 |:---:|:-------:|:-----:|:-----:|:-----:|:-------:|
-| Mdm | Junaidah Bte Rajab                 | Senior Teacher / ML | 1A1          |   408 |        junaidah_rajab@schools.gov.sg       |
+| Mdm | Junaidah Bte Rajab                 | Senior Teacher / ML | 1A1          |   408 |       [junaidah\_rajab@schools.gov.sg](mailto:junaidah_rajab@schools.gov.sg)       |
 |  Mr | Tan Yong Hwa                       |       Teacher       | 1A1          | 410   |         tan_yong_hwa@schools.gov.sg        |
 | Mdm | Latifah Bte Mohamedzen             |       Teacher       | 1A2          | 306   |      latifah_mohamedzen@schools.gov.sg     |
 |  Mr | Thong Yew Kwong Christopher James  |       Teacher       | 1A2          | 312   | thong_yew_kwong_christopher@schools.gov.sg |
