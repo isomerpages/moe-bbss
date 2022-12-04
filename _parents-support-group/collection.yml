@@ -1,4 +1,5 @@
 collections:
   parents-support-group:
     output: true
-    order: []
+    order:
+      - Events & Activities.md
