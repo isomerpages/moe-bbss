@@ -24,7 +24,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
 <b><u>Group 1 - Leadership</u></b>
 
 |     Talent Area    |        Criteria Eligibility for DSA    |          Selection Processes for DSA          |
-|:---------:|----------------|--------------|
+|---------|----------------|--------------|
 | Student Leadership | -          Key appointments in student leadership bodies and / or CCAs<br><br>-          Active involvement in leadership activities / CCAs / community service<br><br>-          Demonstrates the following character and qualities:<br><br>●      Role model and good conduct<br><br>●      Keen to serve and lead<br><br>●      Takes initiative and is self-disciplined<br><br>●      Able to work independently and in a team-        Resilient and willing to embrace challenges | <br><br>-          Round 1: Track Records<br><br>●      Leadership roles<br><br>●      Leadership in service to school and community<br><br>*Shortlisted candidates will be notified for Round 2 interview.<br><br>-       Round 2: Performance Tasks<br><br>●      Individual Interview (character and qualities)-       Group Interview (leadership skills) |
 
 <b><u>Group 2 - Sports & Games</u></b>
