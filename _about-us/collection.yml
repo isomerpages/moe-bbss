@@ -2,11 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Admissions/.keep
-      - Admissions/Admissions.md
-      - Admissions/Indicative PSLE Score ranges of 2021 PSLE Students Posted to
-        2022 Sec 1.md
-      - Admissions/Direct School Admission (DSA) 2022.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/Vision, Mission & Values.md
@@ -24,5 +19,10 @@ collections:
       - Our Partners/Parents' Support Group (PSG).md
       - Our Partners/BBSS Alumni.md
       - Our Partners/FM@S.md
+      - Admissions/.keep
+      - Admissions/Admissions.md
+      - Admissions/Indicative PSLE Score ranges of 2021 PSLE Students Posted to
+        2022 Sec 1.md
+      - Admissions/Direct School Admission (DSA) 2022.md
       - Contact Us/.keep
       - Contact Us/General Information.md
