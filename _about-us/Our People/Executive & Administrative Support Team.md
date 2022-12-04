@@ -30,4 +30,4 @@ third_nav_title: Our People
 |  Mr  | Muhammad Elfi Bin Jalani    |                ICT Trainer                |  424 |   [muhammad\_elfi\_jalani@moe.edu.sg](mailto:muhammad_elfi_jalani@moe.edu.sg)    |     |                    |
 |  Mr  | Sahrin Shah Bin Abdul Rahim |            AV / IT Technician             |  225 | [oth\_sahrin\_shah\_abdul\_rahim@moe.edu.sg](mailto:oth_sahrin_shah_abdul_rahim@moe.edu.sg) |     |                    |
 |  Ms  | Nabilah                     |             Library Assistant             |  225 | [oth\_nabilah\_mohammad\_razif@moe.edu.sg](mailto:oth_nabilah_mohammad_razif@moe.edu.sg) |     |                    |
-|   -  |              -              |                     -                     |   -  |           Teachers' Assistant          | 101 | [bbss\_ta@moe.edu.sg](mailto:bbss_ta@moe.edu.sg)|
+|   -  |              -              |          Teachers' Assistant          | 101 | [bbss\_ta@moe.edu.sg](mailto:bbss_ta@moe.edu.sg)|
