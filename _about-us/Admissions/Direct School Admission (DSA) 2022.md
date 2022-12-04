@@ -13,3 +13,10 @@ At Bukit Batok Secondary School (BBSS), we believe that every child is unique an
 #### **DSA to Bukit Batok Secondary School**
 
 We are looking for promising Primary 6 students who demonstrate talent in the following 4 groups of talent areas that are open for DSA.
+
+| DSA Category                                               | DSA Talent Area                                                        |
+|------------------------------------------------------------|------------------------------------------------------------------------|
+| Group 1 – Leadership                                       | Student Leadership                                                     |
+| Group 2 – Sports & Games                                   | Softball (Girls)<br>Basketball (Boys)<br>Rugby (Boys)<br>Cross Country |
+| Group 3 – Performing Arts                                  | Drama – English<br>Chinese Orchestra<br>Malay Dance                    |
+| Group 4 – Science, Technology, Engineering and Mathematics | Robotics<br>STEM                                                       |
