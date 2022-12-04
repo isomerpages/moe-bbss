@@ -8,6 +8,12 @@ third_nav_title: Our People
 
 ## Level Discipline Masters (LDMs)
 
+|     |         Name        |     Designation    |  Ext |                  Email                  |
+|:---:|:---------:|:-----------:|:----:|:--------------:|
+| Ms  | Bibi Nur Shakirrah  |  Level DM (Sec 1)  | 315  |    bibi_nur_shakirrah@schools.gov.sg    |
+|  Mr | Gabriel Yang Yi     |  Level DM (Sec 2)  |  315 |      yang_yi_gabriel@schools.gov.sg     |
+|  Mr | Yazid Ramli         |  Level DM (Sec 3)  |  408 | <br>muhammad_yazid_ramli@schools.gov.sg |
+|  Ms | Jade Leong Tze Wei  | Level DM (Sec 4&5) |  316 |    jade_leong_tze_wei@schools.gov.sg    |
 
 ## Sec 1 Faculty (YH / Ms Janice Lim Jia Xin)
 
@@ -27,12 +33,3 @@ third_nav_title: Our People
 
 ## Counselling and Additional Support
 
-| | Name | Designation | Ext | Email |
-|---|:---:|:---:|:---:|:---:|
-| Ms | Lim Mui Gek Jane  | Senior School Counsellor  
- | 229 | [lim\_mui\_gek\_jane@schools.gov.sg](mailto:lim_mui_gek_jane@schools.gov.sg)[](mailto:jade_leong_tze_wei@schools.gov.sg)[](mailto:dianah_abdullah@schools.gov.sg) |
-| Ms | Candy Lee |  AED (LBS) | 333  | [candy\_lee@schools.gov.sg](mailto:candy_lee@schools.gov.sg) |
-| Mr | Marshall Tan  | Teacher Counsellor  
- | 308 | [tan\_khoon\_lim@schools.gov.sg](mailto:tan_khoon_lim@schools.gov.sg) |
-| Ms | Melisa Lim  | Education & Career Guidance Counsellor  | \- | [lim\_jit\_boon\_melisa@schools.gov.sg](mailto:lim_jit_boon_melisa@schools.gov.sg) |
-|  Mr |  Ho Yung Laurence | Student Welfare Officer |   | [laurence\_ho\_yung@schools.gov.sg](mailto:laurence_ho_yung@schools.gov.sg) |
