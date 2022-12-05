@@ -1,4 +1,5 @@
 collections:
   habits-of-mind:
     output: true
-    order: []
+    order:
+      - HOM Explicit Packages.md
