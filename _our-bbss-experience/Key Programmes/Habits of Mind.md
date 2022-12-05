@@ -58,10 +58,6 @@ Please visit [http://www.habitsofmindinstitute.org/](http://www.habitsofmindins
 
 ### Useful Links
 
-[](http://www.habits-of-mind.net/)
-
-[](http://www.habitsofmindinstitute.org/)
-
-[http://www.habitsofmindinstitute.org/](http://www.habitsofmind.org/)
+<a href="http://www.habitsofmind.org/" target="_blank">http://www.habitsofmindinstitute.org/</a>
 
 [https://habitsofmind.org/](https://habitsofmind.org/)
