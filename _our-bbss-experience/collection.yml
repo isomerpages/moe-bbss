@@ -2,7 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - Departments/Malay Special Programme.md
       - Departments/.keep
       - Departments/English Literature.md
       - Departments/Mother Tongue.md
@@ -15,3 +14,4 @@ collections:
       - Departments/Information and Communication Technology.md
       - Departments/Computer Applications Elements of Business Skills.md
       - Departments/Arts Education.md
+      - Departments/Malay Special Programme.md
