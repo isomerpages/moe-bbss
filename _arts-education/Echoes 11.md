@@ -22,4 +22,4 @@ Lastly, we would like to thank you, our highly-sought after reader, for taking y
 _Malavika Nair (4A1), Elena Lee (4A1), Khasnavis Anahita (4A2), and Sivashanmuga Priya (4A2)_  
   
 **You may download a copy of Echoes 11 here:**  
-[BBSS Echoes 11.pdf](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Total%20Curriculum/Curricular%20Areas/Asthetics/Echoes/Echoes%2011/BBSS%20Echoes%2011.pdf)
+[BBSS Echoes 11.pdf]()
