@@ -23,6 +23,7 @@ HOM lessons are explicitly taught to all lower secondary students and also infus
   
 ### The 16 Habits
 
+![](/images/Our%20BBSS%20Experience/HOM%20BANNER%202.jpg)
 
 ### Development of HOM in BBSS
 
@@ -52,7 +53,7 @@ Habits are never fully mastered, though they do become increasingly apparent ove
 
 Infusing the habits of mind into the school involves a special effort to “re-culture” the school. We are still continuing to experiment, refine and look for new avenues to infuse the habits of mind.
 
-Please visit [http://www.habitsofmindinstitute.org/](http://www.habitsofmindinstitute.org/) for more information on ‘What are Habits of Mind’. A detailed write-up entitled ‘Describing 16 Habits of Mind’ by Arthur L. Costa, Ed.D. and Bena Kallick, Ph.D. in pdf format is available there.
+Please visit <a href="http://www.habitsofmindinstitute.org/" target="_blank">http://www.habitsofmindinstitute.org/</a> for more information on ‘What are Habits of Mind’. A detailed write-up entitled ‘Describing 16 Habits of Mind’ by Arthur L. Costa, Ed.D. and Bena Kallick, Ph.D. in pdf format is available there.
 
   
 
