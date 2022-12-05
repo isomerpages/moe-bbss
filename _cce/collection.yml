@@ -2,5 +2,5 @@ collections:
   cce:
     output: true
     order:
-      - Gallery.md
       - Sexuality Education Programme.md
+      - Gallery.md
