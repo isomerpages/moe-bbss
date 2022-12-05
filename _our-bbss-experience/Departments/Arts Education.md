@@ -11,8 +11,8 @@ third_nav_title: Departments
 
 Click the links for more information on:
 
-*   [Echoes 11](https://staging.dh61i07kejk0x.amplifyapp.com/cce/sexuality-education-programme/)
-*   [Echoes 12](https://staging.dh61i07kejk0x.amplifyapp.com/cce/education-and-career-guidance-ecg/)
+*   [Echoes 11]()
+*   [Echoes 12]()
 
 
 |            Mission                         |  
