@@ -25,7 +25,8 @@ description: ""
 
 <b><u>From ITE:</u></b>
 
-Recently, ITE conducted a webinar on 2 Apr, if you have missed it, you can go to: [https://drive.google.com/file/d/1VssJD6ZnUrRTMjIyZjyL6id7le0gAPTz/view](https://drive.google.com/file/d/1VssJD6ZnUrRTMjIyZjyL6id7le0gAPTz/view) 
+Recently, ITE conducted a webinar on 2 Apr, if you have missed it, you can go to:  
+<a href="https://drive.google.com/file/d/1VssJD6ZnUrRTMjIyZjyL6id7le0gAPTz/view" target="_blank">https://drive.google.com/file/d/1VssJD6ZnUrRTMjIyZjyL6id7le0gAPTz/view</a>
 
 The first 12 minutes cover what is expected of ITE-EAE and the rest of the session is ITE sharing more about their schools and courses, and students’ sharing.
 
