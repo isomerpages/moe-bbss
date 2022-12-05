@@ -2,7 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - Departments/Arts Education.md
       - Departments/.keep
       - Departments/English Literature.md
       - Departments/Mother Tongue.md
@@ -14,3 +13,4 @@ collections:
       - Departments/Character and Citizenship Education.md
       - Departments/Information and Communication Technology.md
       - Departments/Computer Applications Elements of Business Skills.md
+      - Departments/Arts Education.md
