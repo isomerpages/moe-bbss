@@ -18,6 +18,5 @@ description: ""
 | We want to partner you to develop your child holistically! <br><br>What topics would you like to know to support your child’s holistic development? <br><br>We want to hear from you to find out how we can support you! Please click on this  <a href="https://docs.google.com/forms/d/1WXuoP5X27V7X0dlsrJVAUUnsDpbqImkGNyZ7pzKPweY/viewform" target="_blank">link</a> to share your views with us.           |
 
 |    ECG Resource            |
-|:-----:|
+|-----|
 | [Tips for parents to have ECG conversation with their child.pdf](/files/Our%20bbss%20experience/Tips%20for%20parents%20to%20have%20ECG%20conversation%20with%20their%20child.pdf) |
-
