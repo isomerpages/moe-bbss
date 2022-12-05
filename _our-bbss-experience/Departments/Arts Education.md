@@ -38,6 +38,6 @@ Highlighted below are some of the programs we carried out for our students in 20
 
 <p style="text-align: justify;">Visit the BBSS virtual art exhibition which showcases the art works of our students. You will get to enjoy an array of art works from 2D Fine Arts to Photography. This exhibition consists of 34 artworks that express our BBSSians' creativity and imagination.  </p>
 
-<p style="text-align: justify;">Click here to [view](https://www.artsteps.com/view/5f7ebf13816a3d535ca061ab) the exhibition. Similarly, if you are viewing the art exhibition from your personal smartphone or tablet, download the Artsteps App here to view the exhibition: [Android Device](https://play.google.com/store/apps/details?id=gr.dataverse.artstepsv2) / [Apple Device](https://apps.apple.com/us/app/artsteps/id1421672085?ls=1)</p>
+<p style="text-align: justify;">Click here to <a href="https://www.artsteps.com/view/5f7ebf13816a3d535ca061ab" target="_blank">view</a> the exhibition. Similarly, if you are viewing the art exhibition from your personal smartphone or tablet, download the Artsteps App here to view the exhibition: <a href="https://play.google.com/store/apps/details?id=gr.dataverse.artstepsv2" target="_blank">Android Device</a> / <a href="https://apps.apple.com/us/app/artsteps/id1421672085?ls=1" target="_blank">Apple Device</a></p>
 
 ### Gallery
