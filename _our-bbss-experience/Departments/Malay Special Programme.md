@@ -9,13 +9,11 @@ third_nav_title: Departments
 
 ### Background
 
-MSP is one of the Ministry of Education’s 3rd language programme. It used to be a Programme that is offered only to the top 30% of the PSLE cohort but has been expanded to anyone with the interest and inclination to do so beginning year 2006.
-
-  
+<p style="text-align: justify;">MSP is one of the Ministry of Education’s 3rd language programme. It used to be a Programme that is offered only to the top 30% of the PSLE cohort but has been expanded to anyone with the interest and inclination to do so beginning year 2006.</p>
 
 ### Details
 
-MSP Lesson is held once a week, 3 hours per lesson. The programme will prepare pupils for the MSP examination at GCE 'O' Level.
+<p style="text-align: justify;">MSP Lesson is held once a week, 3 hours per lesson. The programme will prepare pupils for the MSP examination at GCE 'O' Level.</p>
 
 
 ### Malay Special Programme 2022
@@ -31,13 +29,13 @@ MSP Lesson is held once a week, 3 hours per lesson. The programme will prepare p
 
 <b><u>Class Commencement</u></b>
 
-Please note that this registration is only for those who have successfully been offered the subject, Malay (Special Programme) at Bukit Batok Secondary School (West - Zonal Centre).  Should you wish to appeal, please contact your respective school’s Head of Department.
+<p style="text-align: justify;">Please note that this registration is only for those who have successfully been offered the subject, Malay (Special Programme) at Bukit Batok Secondary School (West - Zonal Centre).  Should you wish to appeal, please contact your respective school’s Head of Department.</p>
 
-All lessons will commence in Term 1 Week 3; ie. Thursday, 20 Jan for Secondary 1 and Secondary 2; Monday, 17 Jan for Secondary 3; and Wednesday, 19 Jan for Secondary 4.
+<p style="text-align: justify;">All lessons will commence in Term 1 Week 3; ie. Thursday, 20 Jan for Secondary 1 and Secondary 2; Monday, 17 Jan for Secondary 3; and Wednesday, 19 Jan for Secondary 4.</p>
 
 Books will be bought upon the teacher's instruction in class.
 
-Letter to parents regarding commencement details will be sent to schools in Term 1 Week 2 (10 – 14 Jan 2022).  Please click <a href="/files/Our%20bbss%20experience/BBSS22-018%20MSP%202022%20Commencement%20Letter%201.pdf" target="_blank">here for a copy of the Commencement Letter</a>.
+<p style="text-align: justify;">Letter to parents regarding commencement details will be sent to schools in Term 1 Week 2 (10 – 14 Jan 2022).  Please click <a href="/files/Our%20bbss%20experience/BBSS22-018%20MSP%202022%20Commencement%20Letter%201.pdf" target="_blank">here for a copy of the Commencement Letter</a>.</p>
 
 **Examination Details 2022**
 
@@ -47,11 +45,11 @@ Details will be up by Term 1 2022.
 
 **Withdrawal from Programme**
 
-For current students who would like to withdraw from the programme, please complete the <a href="/files/Our%20bbss%20experience/MSP%20Withdrawal%20Form%20BBSS%201.pdf" target="_blank">withdrawal form</a> and submit it to BBSS.
+<p style="text-align: justify;">For current students who would like to withdraw from the programme, please complete the <a href="/files/Our%20bbss%20experience/MSP%20Withdrawal%20Form%20BBSS%201.pdf" target="_blank">withdrawal form</a> and submit it to BBSS.</p>
 
 **MSP Teachers’ Contacts**  
 
-For any queries regarding Malay (Special Programme) at Bukit Batok Secondary School, please contact the following teachers:
+<p style="text-align: justify;">For any queries regarding Malay (Special Programme) at Bukit Batok Secondary School, please contact the following teachers:</p>
 
 |         Name of Teacher         |    Contact No.    |               Email address              |
 |:----------------:|:-----------------:|:--------------:|
