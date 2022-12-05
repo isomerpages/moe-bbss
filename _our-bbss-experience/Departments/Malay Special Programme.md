@@ -37,7 +37,7 @@ All lessons will commence in Term 1 Week 3; ie. Thursday, 20 Jan for Secondary 1
 
 Books will be bought upon the teacher's instruction in class.
 
-Letter to parents regarding commencement details will be sent to schools in Term 1 Week 2 (10 – 14 Jan 2022).  Please click [here for a copy of the Commencement Letter](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20BBSS%20Experience/Departments/Malay%20Special%20Programme/2022/BBSS22-018%20MSP%202022%20Commencement%20Letter%201.pdf).
+Letter to parents regarding commencement details will be sent to schools in Term 1 Week 2 (10 – 14 Jan 2022).  Please click <a href="/files/Our%20bbss%20experience/BBSS22-018%20MSP%202022%20Commencement%20Letter%201.pdf" target="_blank">here for a copy of the Commencement Letter</a>.
 
 **Examination Details 2022**
 
@@ -47,7 +47,7 @@ Details will be up by Term 1 2022.
 
 **Withdrawal from Programme**
 
-For current students who would like to withdraw from the programme, please complete the [withdrawal form](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20BBSS%20Experience/Departments/Malay%20Special%20Programme/2022/MSP%20Withdrawal%20Form%20BBSS%201.pdf) and submit it to BBSS.
+For current students who would like to withdraw from the programme, please complete the <a href="/files/Our%20bbss%20experience/MSP%20Withdrawal%20Form%20BBSS%201.pdf" target="_blank">withdrawal form</a> and submit it to BBSS.
 
 **MSP Teachers’ Contacts**  
 
