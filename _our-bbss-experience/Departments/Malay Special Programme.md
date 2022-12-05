@@ -30,7 +30,7 @@ third_nav_title: Departments
 <b><u>Class Commencement</u></b>
 
 
-<span style = "background-color: yellow; color: red"> <b>\*NEW\*</b> Secondary 1 2022 students who have been offered the subject, please register <a href="https://go.gov.sg/mspbukitbatoksec" target="_blank">here</a> or scan the following QR code:/b> </span>
+<span style = "background-color: yellow; color: red"> <b>\*NEW\*</b> Secondary 1 2022 students who have been offered the subject, please register <a href="https://go.gov.sg/mspbukitbatoksec" target="_blank">here</a> or scan the following QR code: </span>
 
 <img src="/images/Our%20BBSS%20Experience/Qr%20code%20for%20MSP.png" style="width:30%">
 
