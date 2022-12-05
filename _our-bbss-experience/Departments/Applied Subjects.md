@@ -68,3 +68,23 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 <p style="text-align: justify;">Our students acquire and apply musical skills and knowledge using instruments such as keyboard and ukelele. Students also have the opportunity to create songs and music using Garageband and Chrome Music Lab.</p>
 
 ### Achievements from 2019-2022
+
+| Year  | Programme / Activity       | Description                |
+|-------|--------------|-------------------|
+| 2022  |  MOE CPDD & DTES Design Award              | Creative Invention Award (Guided by Mr Ng)                                                  |
+| 2022  | Impact Festival @ Jurong Spring Makeathon  | Honorary Mention Award (Guided by Mr Hady)                                                  |
+| 2021  |  Live On Design Competition                | Merit Award (Guided by Mr Marshall Tan)                                                     |
+| 2021  | W7 upload! Online Art Competition          | Certificate with Distinction and Certificate with Commendation (Guided by Mr Marshall Tan)  |
+| 2021  | W7 Euphoria (Visual Arts)                  | Participation (Guided by Mdm Nadiah and Mr Marshall Tan)                                    |
+| 2021  | W7 Euphoria (Performances)                 | Participation (Guided by Ms Cherry Fong)                                                    |
+| 2021  | F1@HCI (3D Design Challenge)               | Champion for Lowest Drag Award and Best Downforce-to-Drag Award (Guided by Mr Ng)           |
+| 2020  | Live On Design Competition                 | Awarded Merit (guided by Mdm Nadiah)<br>Participation (Guided by Mdm Nadiah & Mr Azhar)     |
+| 2020  | The Online Art Exhibition - SYF 2020       | Participation (Guided by Mdm Nadiah)                                                        |
+| 2019  | RP Hospitality Race                        | 1st Runner-Up                                                                               |
+| 2018  | MOE CPDD D&T Awards                        | Creative Adaptation Award (guided by Mr Hady)                                               |
+| 2018  |  YISS Junior Chef Competition              | Champion (guided by Mdm Haryati & Ms Yap XF)                                                |
+| 2018  |  RP Hospitality Competition                | 1st Runner-Up (guided by Ms Yap XF & Mdm Haryati)                                           |
+| 2018  |  SP National Earthquake Competition        | Participation (guided by Ms Wynter Lee)                                                     |
+| 2017  |  RP iChef Competition                      | Participation (guided by Ms Yap XF)                                                         |
+| 2016  | MOE CPDD D&T Awards                        | Creative Adaptation Award (guided by Mr Low TS)<br>Participation (guided by Mr Ho SC)       |
+| 2016  |  RP iChef Competition                      | Participation (guided by Ms Yap XF)                                                         |
