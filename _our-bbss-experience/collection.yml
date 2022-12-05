@@ -2,7 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - Departments/Computer Applications Elements of Business Skills.md
       - Departments/.keep
       - Departments/English Literature.md
       - Departments/Mother Tongue.md
@@ -13,3 +12,4 @@ collections:
       - Departments/Applied Subjects.md
       - Departments/Character and Citizenship Education.md
       - Departments/Information and Communication Technology.md
+      - Departments/Computer Applications Elements of Business Skills.md
