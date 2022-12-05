@@ -2,7 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - Departments/Information and Communication Technology.md
       - Departments/.keep
       - Departments/English Literature.md
       - Departments/Mother Tongue.md
@@ -12,3 +11,4 @@ collections:
       - Departments/Physical Education.md
       - Departments/Applied Subjects.md
       - Departments/Character and Citizenship Education.md
+      - Departments/Information and Communication Technology.md
