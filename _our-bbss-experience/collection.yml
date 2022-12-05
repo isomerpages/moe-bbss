@@ -2,8 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - Key Programmes/Habits of Mind.md
-      - Key Programmes/.keep
       - Departments/.keep
       - Departments/English Literature.md
       - Departments/Mother Tongue.md
@@ -17,3 +15,5 @@ collections:
       - Departments/Computer Applications Elements of Business Skills.md
       - Departments/Arts Education.md
       - Departments/Malay Special Programme.md
+      - Key Programmes/.keep
+      - Key Programmes/Habits of Mind.md
