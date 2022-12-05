@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Education and Career Guidance (ECG).md
       - Sexuality Education Programme.md
       - Gallery.md
