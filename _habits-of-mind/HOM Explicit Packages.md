@@ -21,4 +21,8 @@ If you would like to download the teachers' packages, do write to Mdm Lin Jia Hu
 
 **Persisting** ... "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life like a champion." Muhammad Ali
 
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="" target="_blank">Students' Package</a> | T<a href="/our-special-programme/ELIXiR/" target="_blank"> Teachers' Package</a> |
+
 [Students' Package](http://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20BBSS%20Experience/Key%20Programmes/Habits%20of%20Mind/HOM%20Explicit%20Packages/Thinking%20&%20Communicating%20With%20Clarity%20&%20Precision_StudentsHdouts.doc)
