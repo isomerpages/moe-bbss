@@ -4,6 +4,10 @@ permalink: /our-bbss-experience/Departments/arts-education/
 description: ""
 third_nav_title: Departments
 ---
+
+# sub-page under the Arts Education folder cannot be replicated as isomer cannot accommodate so many layers of navigation. Instead, a separate folder is created with "Echoes 11, Echoes 12" pages. The links to these pages are included in the Arts Education page.
+# upload picture slide to google slide
+
 # Arts Education
 
 |            Mission                         |  
