@@ -66,8 +66,8 @@ Students will be taught 6 compulsory modules in the subject. These modules are a
 
 ### Achievements
 
-| No |  Year |                               Competition Title                               |                                                              Award / Achievement                                                              |
-|:--:|:-----:|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+| No |  Year |          Competition Title              |            Award / Achievement                         |
+|:--:|:-----:|:------------------:|:-----------------------:|
 |  1 |  2022 |                   Animation and Game Making (AGM) Competition                 |                                              Gold Award<br>(Game Category)<br>Nurul Adilah (3A1)                                              |
 |  2 | 2021  |                  Animation and Game Making (AGM) Competition                  |          Bronze Award<br>(Animation Category)Er Wei Tong (2A1)<br><br><br>Bronze Award<br>(Game Category)Wayne Lau Zheng Heng (3A1)           |
 |  3 |  2020 |                  Animation and Game Making (AGM) Competition                  | Gold & Platinum Award<br>(Animation Category)Wayne Lau Zheng Heng (2A1)<br><br><br>Silver Award<br>(Game Category)Bryant Neo Chun Xiang (3A1) |
@@ -82,3 +82,28 @@ Students will be taught 6 compulsory modules in the subject. These modules are a
 | 12 |  2013 |              Media Computing Competition<br>(Cat B - Game Making)             |                                                        Silver Award<br>Joven Lee (3T1)                                                        |
 
 ![](/images/Our%20BBSS%20Experience/IMG_2016%20v2.jpg)
+
+# EBS
+
+### Department Brief
+
+Elements of Business Skills (EBS) is an elective subject offered to upper secondary Normal Technical stream. EBS provides many learning opportunities on concepts and skills that are relevant in further studies at higher learning institutes and careers in service industries.
+
+
+The course provide introductory to basic business activities on:
+
+*   Retail, hospitality, travel and tourism
+*   Basic aspects of marketing
+*   Ability to come up with simple business proposal and marketing plan
+
+
+Through various field trips and coursework, it provides a reinforcement of the lesson concepts in real life example.
+
+
+### Key Department Programmes and Activities
+
+| No | Programme / Activity Title |                                            Brief Description                                            |
+|:--:|:--------------------------:|:------------:|
+|  1 |   S4: N Level Coursework   |                                                    -                                                    |
+|  2 |  S3 and S4 2D1N Excursion  |           2 days field studies of hospitality, travel and tourism. 1 night stay at local hotel          |
+|  3 |       S3 field trips       | Local trips to retail mall and city heritage trails to understand retails practices and inbound tourism |
