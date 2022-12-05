@@ -93,5 +93,6 @@ The [ECG Portal (Secondary)](http://www.myskillsfuture.sg/secondary) is a one-
 
 **For N and O Levels**
 
-
-
+| Name (Link) of Resources |          Brief Description       |
+|:--------------------:|:-----------------:|
+|      ITE EAE (Nitec)     | The Institute of Technical Education (ITE) Early Admissions Exercise (ITE EAE) is an aptitude-based admissions exercise.<br><br>ITE EAE (Nitec) is open to students taking either N or O Levels.<br>  |
