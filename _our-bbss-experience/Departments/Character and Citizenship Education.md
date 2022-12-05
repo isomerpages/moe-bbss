@@ -8,7 +8,7 @@ third_nav_title: Departments
 
 Click the links for more information on:
 
-*   Sexuality Education Programme
+*   [Sexuality Education Programme](/cce/sexuality-education-programme/)
 *   Education and Career Guidance (ECG)
 *   Gallery
 
