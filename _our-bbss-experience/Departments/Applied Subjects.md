@@ -4,3 +4,67 @@ permalink: /our-bbss-experience/Departments/applied-subjects/
 description: ""
 third_nav_title: Departments
 ---
+# Applied Subjects
+
+The Applied Subjects Department comprises the Design & Technology (D&T) Department & Nutrition & Food Science (NFS) Department, Art and Music units.
+
+<table>
+<tbody>
+<tr>
+<td><strong>HOD</strong></td>
+<td colspan="2">Mr Ng Boon Chong</td>
+</tr>
+<tr>
+<td><strong>Subject Head</strong></td>
+<td>Aesthetics</td>
+<td>Mdm Nadiah Bte Abdul Nasir</td>
+</tr>
+<tr>
+<td><strong>Coordinator</strong></td>
+<td>Music&nbsp;</td>
+<td>Ms Jade Leong Tze Wei&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Coordinator</strong></td>
+<td>Nutrition &amp; Food Science&nbsp;</td>
+<td>Mdm Rezwanna Bte Othman</td>
+</tr>
+</tbody>
+</table>
+
+### Department Vision
+
+Learning for life with joy through authentic experiences to solve real world problems.
+
+### Department Mission
+
+To nurture creative & independent learners who constantly seek innovative possibilities.
+
+### Department Brief
+
+<p style="text-align: justify;">The <b>D&T unit</b> aims to develop pupils to become independent student designers who are effective in thinking, innovative in designing solutions & open to continuous learning.  </p>
+  
+<p style="text-align: justify;">D&T is the process of inventing or improving things with the application of technology to satisfy practical needs or to solve practical problems (problem-based learning). Through problem-based learning projects, students acquire useful 21st Century Competencies & practical life skills such as project management, research & development (R&D), creative thinking, critical thinking, design & manufacturing. They can also aspire to become designers, architects, project managers, engineers, research personnel, scientists, entrepreneurs & other professionals.  </p>
+  
+<p style="text-align: justify;">The NFS unit aims to educate students to be more health-conscious & better-informed consumers. NFS focuses on how individuals & families can optimize their resources in terms of food, finance & time to meet physical, mental, social & economic needs. It is hoped that students would then apply the knowledge & skills to solve real-world problems through the various activities & case studies. </p> 
+  
+<p style="text-align: justify;">NFS also focuses on food choices, food preparation & budgeting which provide a platform for the development of 21st Century Competencies among students.  </p>
+  
+<p style="text-align: justify;">At BBSS, students undergo a comprehensive 3-year programme to prepare them for the GCE examinations in Sec 4.</p>
+
+
+<p style="text-align: justify;">The <b>Art Unit</b> aims to develop BBSSians' visual literacy and love for visual arts through an enjoyable, broad-based curriculum. BBSSians will develop their sensory perception and imagination; learn to communicate by thinking, planning and creating final pieces. Lastly, they will learn to appreciate and understand current affairs from a variety of cultures and contexts.</p>
+
+Passion - Be committed in practicing the various skills by applying prior knowledge into new situations.
+
+Perspective - Be intrigued and learn about the creative ideas and influences.
+
+Perception - Learn to be observant in daily life through all senses.
+
+Reflection - Understand self and relation with the surroundings by thinking flexibly and generating alternatives.
+
+<p style="text-align: justify;">The <b>Music Unit</b> aims to connect students through the expression of thoughts and emotions. Our students develop a sense of aesthetics through aural experiences empower our students to explore a wide range of genres and styles to deepen learning using instruments and online resources. This allows students to refine skills and understand the cultural diversity of music in Singapore and the world.</p>
+
+<p style="text-align: justify;">Our students acquire and apply musical skills and knowledge using instruments such as keyboard and ukelele. Students also have the opportunity to create songs and music using Garageband and Chrome Music Lab.</p>
+
+### Achievements from 2019-2022
