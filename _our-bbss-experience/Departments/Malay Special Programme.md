@@ -37,17 +37,16 @@ Books will be bought upon the teacher's instruction in class.
 
 <p style="text-align: justify;">Letter to parents regarding commencement details will be sent to schools in Term 1 Week 2 (10 – 14 Jan 2022).  Please click <a href="/files/Our%20bbss%20experience/BBSS22-018%20MSP%202022%20Commencement%20Letter%201.pdf" target="_blank">here for a copy of the Commencement Letter</a>.</p>
 
-**Examination Details 2022**
+<b><u>Examination Details 2022</u></b>
 
 Details will be up by Term 1 2022.
 
   
-
-**Withdrawal from Programme**
+<b><u>Withdrawal from Programme</u></b>
 
 <p style="text-align: justify;">For current students who would like to withdraw from the programme, please complete the <a href="/files/Our%20bbss%20experience/MSP%20Withdrawal%20Form%20BBSS%201.pdf" target="_blank">withdrawal form</a> and submit it to BBSS.</p>
 
-**MSP Teachers’ Contacts**  
+<b><u>MSP Teachers’ Contacts</u></b>
 
 <p style="text-align: justify;">For any queries regarding Malay (Special Programme) at Bukit Batok Secondary School, please contact the following teachers:</p>
 
