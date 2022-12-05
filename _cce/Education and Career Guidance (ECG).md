@@ -20,3 +20,26 @@ description: ""
 |    ECG Resource            |
 |-----|
 | [Tips for parents to have ECG conversation with their child.pdf](/files/Our%20bbss%20experience/Tips%20for%20parents%20to%20have%20ECG%20conversation%20with%20their%20child.pdf) |
+
+## ITE-EAE
+
+<b><u>From ITE:</u></b>
+
+Recently, ITE conducted a webinar on 2 Apr, if you have missed it, you can go to: [https://drive.google.com/file/d/1VssJD6ZnUrRTMjIyZjyL6id7le0gAPTz/view](https://drive.google.com/file/d/1VssJD6ZnUrRTMjIyZjyL6id7le0gAPTz/view) 
+
+The first 12 minutes cover what is expected of ITE-EAE and the rest of the session is ITE sharing more about their schools and courses, and students’ sharing.
+
+<b><u>From MOE ECG Unit:</u></b>
+
+The ECG Unit has also developed a EAE lesson package on SLS.
+
+
+The lesson covers both ITE and Poly EAE and for students who are thinking of applying for DSA-JC, they can refer to the lesson as a guide too.
+
+
+To access this SLS lesson, please login to SLS and type the title “Preparing for Early Admissions Exercise (EAE)” in the library. It should pop up as a lesson
+
+Here are some resources for you regarding ITE Early Admissions Exercise. You are strongly advised to look at the 3 pdf files for guidance if you are keen to apply for ITE-EAE!  
+  
+  
+\*\*Please note that there is a revised timeline for ITE EAE 2020 (Changes in bold and highlighted in yellow):
