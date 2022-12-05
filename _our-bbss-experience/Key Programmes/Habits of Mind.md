@@ -8,7 +8,7 @@ third_nav_title: Key Programmes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D80LqS7Trng" title="BBSS HOM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Background
+### Background
 
 <p style="text-align: justify;">Habits of Mind (HOM) enable students to behave intelligently when they do not know the answer or when they are faced with challenging situations. HOM will equip our students holistically for the challenges of the 21st century. It helps to develop a thirst for questioning and searching, within and outside the classroom. In particular, HOM inculcates good learning habits and thinking dispositions so that our students can become self-directed, life-long learners.</p>
 
