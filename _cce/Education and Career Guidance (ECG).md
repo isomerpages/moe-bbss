@@ -65,3 +65,11 @@ The lesson covers both ITE and Poly EAE and for students who are thinking of app
 To access this SLS lesson, please login to SLS and type the title “Preparing for Early Admissions Exercise (EAE)” in the library. It should pop up as a lesson
 
 For career guidance support, make a booking with our school’s ECG Counsellor here: <a href="https://go.gov.sg/ecg-msmel" target="_blank">https://go.gov.sg/ecg-msmel</a>.
+
+|           Phase           |       Dates      |
+|:-------------------------:|:----------------:|
+|     Application Phase     |  **To Be Confirmed** |
+|         Interview         |  **To Be Confirmed** |
+|  Offer & Acceptance phase |  **To Be Confirmed** |
+|      Withdrawal phase     |  **To Be Confirmed** |
+
