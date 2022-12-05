@@ -60,8 +60,6 @@ third_nav_title: Departments
 
 ### Other Useful Information
 
-<a href="/files/Our%20bbss%20experience/Article_The_Best_Food_for_Focus.pdf" target="_blank">Article\_The\_Best\_Food\_for\_Focus.pdf</a>
- 
-<a href="/files/Our%20bbss%20experience/NAPFA_standard.pdf" target="_blank">NAPFA\_standard.pdf</a>
-  
+<a href="/files/Our%20bbss%20experience/Article_The_Best_Food_for_Focus.pdf" target="_blank">Article\_The\_Best\_Food\_for\_Focus.pdf</a>  
+<a href="/files/Our%20bbss%20experience/NAPFA_standard.pdf" target="_blank">NAPFA\_standard.pdf</a>  
 <a href="/files/Our%20bbss%20experience/BMI_chart.pdf" target="_blank">BMI\_chart.pdf</a>
