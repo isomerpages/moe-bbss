@@ -51,3 +51,17 @@ Here are some resources for you regarding ITE Early Admissions Exercise. You are
 |         <span style="background-color: #FFFF00"><b>Interview</b></span>         |  **To Be Confirmed** |
 |  Offer & Acceptance phase |  **To Be Confirmed** |
 |      Withdrawal phase     |  **To Be Confirmed** |
+
+
+## Polytechnics - EAE
+
+<b><u>From MOE ECG Unit:</u></b>
+
+The ECG Unit has also developed a EAE lesson package on SLS.  
+
+
+The lesson covers both ITE and Poly EAE and for students who are thinking of applying for DSA-JC, they can refer to the lesson as a guide too.
+
+To access this SLS lesson, please login to SLS and type the title “Preparing for Early Admissions Exercise (EAE)” in the library. It should pop up as a lesson
+
+For career guidance support, make a booking with our school’s ECG Counsellor here: <a href="https://go.gov.sg/ecg-msmel" target="_blank">https://go.gov.sg/ecg-msmel</a>.
