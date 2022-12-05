@@ -29,7 +29,7 @@ third_nav_title: Departments
 
 ### Department Brief
 
-The BBSS Physical Education Department is committed to providing fun and engaging physical learning experience for the students through Games Concept Approach and Sports Education Model. Students are exposed to at least 6 games during their stay with us, offering them a wide based experience to fuel their interest in life-long recreational pursuit and be physically engaged young individuals. Students are also given opportunities to development their leadership abilities during PE lessons. They lead their peers during warm up, take charge of their house teams and take turns to referee the intra-class games. At the end of Semester One and Two, Inter-class games are organised by our student leaders as a platform for the students to compete with other classes in both sports and recreational games such as Jenga and Scrabble.
+<p style="text-align: justify;">The BBSS Physical Education Department is committed to providing fun and engaging physical learning experience for the students through Games Concept Approach and Sports Education Model. Students are exposed to at least 6 games during their stay with us, offering them a wide based experience to fuel their interest in life-long recreational pursuit and be physically engaged young individuals. Students are also given opportunities to development their leadership abilities during PE lessons. They lead their peers during warm up, take charge of their house teams and take turns to referee the intra-class games. At the end of Semester One and Two, Inter-class games are organised by our student leaders as a platform for the students to compete with other classes in both sports and recreational games such as Jenga and Scrabble.</p>
 
 ### PE Programmes and Events
 
@@ -45,3 +45,23 @@ The BBSS Physical Education Department is committed to providing fun and engagin
 | 8  | Sports CCA Amazing Race                       | Sports CCA participate in this yearly event organised by their seniors. They are expected to navigate to various location throughout the whole island as a CCA and complete assigned task.                                                                                                            |
 |  9 | Graduating Class De-stress programme          | During Term four the graduating students gets to play their preferred games during PE to de-stress. Classes are timetabled in cluster so they get to play with their friends from the same level in other classes. It also serve to bond them closer before they break for their O level examination. |
 
+
+### Annual Activities
+
+*   Cross Country
+*   Sports Meet
+*   Inter Class Games (ICG)
+*   Health Week
+*   Sports Leaders Awards Camp
+*   Sports Education Programme (SEP)
+*   Outdoor Education Programme
+
+  
+
+### Other Useful Information
+
+[Article\_The\_Best\_Food\_for\_Focus.pdf](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Total%20Curriculum/Curricular%20Areas/PE/Article_The_Best_Food_for_Focus.pdf)  
+
+[NAPFA\_standard.pdf](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Total%20Curriculum/Curricular%20Areas/PE/NAPFA_standard.pdf)  
+
+[BMI\_chart.pdf](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Total%20Curriculum/Curricular%20Areas/PE/BMI_chart.pdf)
