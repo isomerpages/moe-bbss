@@ -43,3 +43,10 @@ Here are some resources for you regarding ITE Early Admissions Exercise. You are
   
   
 \*\*Please note that there is a revised timeline for ITE EAE 2020 (Changes in bold and highlighted in yellow):
+
+|           Phase           |   Revised dates  |
+|:-------------------------:|:----------------:|
+|     <span style="background-color: #FFFF00"><b>Application Phase </b></span>    |  <span style="background-color: #FFFF00"><b>To Be Confirmed</b></span> |
+|         <span style="background-color: #FFFF00"><b>Interview</b></span>         |  **To Be Confirmed** |
+|  Offer & Acceptance phase |  **To Be Confirmed** |
+|      Withdrawal phase     |  **To Be Confirmed** |
