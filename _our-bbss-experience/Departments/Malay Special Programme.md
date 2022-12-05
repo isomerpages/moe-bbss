@@ -29,6 +29,10 @@ third_nav_title: Departments
 
 <b><u>Class Commencement</u></b>
 
+**\*NEW\*** Secondary 1 2022 students who have been offered the subject, please register [here](https://go.gov.sg/mspbukitbatoksec) or scan the following QR code:
+
+![](/images/Our%20BBSS%20Experience/Qr%20code%20for%20MSP.png)
+
 <p style="text-align: justify;">Please note that this registration is only for those who have successfully been offered the subject, Malay (Special Programme) at Bukit Batok Secondary School (West - Zonal Centre).  Should you wish to appeal, please contact your respective school’s Head of Department.</p>
 
 <p style="text-align: justify;">All lessons will commence in Term 1 Week 3; ie. Thursday, 20 Jan for Secondary 1 and Secondary 2; Monday, 17 Jan for Secondary 3; and Wednesday, 19 Jan for Secondary 4.</p>
