@@ -2,7 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - Departments/Character and Citizenship Education.md
       - Departments/.keep
       - Departments/English Literature.md
       - Departments/Mother Tongue.md
@@ -11,3 +10,4 @@ collections:
       - Departments/Humanities.md
       - Departments/Physical Education.md
       - Departments/Applied Subjects.md
+      - Departments/Character and Citizenship Education.md
