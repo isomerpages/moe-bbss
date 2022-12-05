@@ -11,8 +11,8 @@ third_nav_title: Departments
 
 Click the links for more information on:
 
-*   [Echoes 11]()
-*   [Echoes 12]()
+*   [Echoes 11](/arts-education/echoes-11/)
+*   [Echoes 12](/arts-education/echoes-12/)
 
 
 |            Mission                         |  
