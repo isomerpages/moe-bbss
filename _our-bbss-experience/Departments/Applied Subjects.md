@@ -195,3 +195,18 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 
 #### Live On Competition 2021
 
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%201.png)
+
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%202.png)
+
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%203.png)
+
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%204.png)
+
+#### Live On Competition 2020
+
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Slide1.jpeg)
+
+#### \#StandUpForCleaners Campaign
+
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/DNT%20NFS.jpg)
