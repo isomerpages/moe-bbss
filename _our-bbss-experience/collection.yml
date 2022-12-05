@@ -2,7 +2,6 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - Departments/Applied Subjects.md
       - Departments/.keep
       - Departments/English Literature.md
       - Departments/Mother Tongue.md
@@ -10,3 +9,4 @@ collections:
       - Departments/Science.md
       - Departments/Humanities.md
       - Departments/Physical Education.md
+      - Departments/Applied Subjects.md
