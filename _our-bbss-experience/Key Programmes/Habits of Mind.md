@@ -4,7 +4,14 @@ permalink: /our-bbss-experience/Key-Programmes/habits-of-mind/
 description: ""
 third_nav_title: Key Programmes
 ---
+# sub-page under the Habits of Mind folder cannot be replicated as isomer cannot accommodate so many layers of navigation. Instead, a separate folder is created with “HOM Explicit Packages” pages. The links to these pages are included in the Habits of Mind page.
+
 # Habits of Mind
+
+Click the links for more information on:
+
+*   [HOM Explicit Packages](/habits-of-mind/hom-explicit-packages/)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D80LqS7Trng" title="BBSS HOM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
