@@ -58,7 +58,7 @@ b.     Character and Citizenship Education (CCE)
 
 
 <p style="text-align: center;"><strong>Secondary 1</strong></p>
-<table width="931">
+<table style="margin-left: auto; margin-right: auto;" width="931">
 <thead>
 <tr>
 <td width="112">
@@ -123,8 +123,8 @@ b.     Character and Citizenship Education (CCE)
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 2</strong></p>
-<table width="928">
+<p style="text-align: center;"><strong>Secondary 2</strong></p>
+<table style="margin-left: auto; margin-right: auto;" width="928">
 <thead>
 <tr>
 <td width="112">
@@ -188,8 +188,8 @@ b.     Character and Citizenship Education (CCE)
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 3</strong></p>
-<table width="928">
+<p style="text-align: center;"><strong>Secondary 3</strong></p>
+<table style="margin-left: auto; margin-right: auto;" width="928">
 <thead>
 <tr>
 <td width="112"><strong><br /></strong>
@@ -258,8 +258,8 @@ b.     Character and Citizenship Education (CCE)
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 4</strong></p>
-<table width="928">
+<p style="text-align: center;"><strong>Secondary 4</strong></p>
+<table style="margin-left: auto; margin-right: auto;" width="928">
 <thead>
 <tr>
 <td width="112">
