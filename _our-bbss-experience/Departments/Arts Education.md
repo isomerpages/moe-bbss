@@ -4,11 +4,16 @@ permalink: /our-bbss-experience/Departments/arts-education/
 description: ""
 third_nav_title: Departments
 ---
-
 # sub-page under the Arts Education folder cannot be replicated as isomer cannot accommodate so many layers of navigation. Instead, a separate folder is created with "Echoes 11, Echoes 12" pages. The links to these pages are included in the Arts Education page.
 # upload picture slide to google slide
 
 # Arts Education
+
+Click the links for more information on:
+
+*   [Echoes 11](https://staging.dh61i07kejk0x.amplifyapp.com/cce/sexuality-education-programme/)
+*   [Echoes 12](https://staging.dh61i07kejk0x.amplifyapp.com/cce/education-and-career-guidance-ecg/)
+
 
 |            Mission                         |  
 |:------------------------------:|
