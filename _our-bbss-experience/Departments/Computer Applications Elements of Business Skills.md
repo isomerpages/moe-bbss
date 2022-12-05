@@ -20,7 +20,7 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td><strong>Programme Director</strong></td>
-<td colspan="2">Mr Andy Lee Chin Hock</td>
+<td colspan="2" style="text-align: center;">Mr Andy Lee Chin Hock</td>
 </tr>
 <tr>
 <td><strong>Coordinators</strong></td>
