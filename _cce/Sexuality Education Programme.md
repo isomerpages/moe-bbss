@@ -352,13 +352,25 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 <b><u><i>eTeens</i> Programme</u></b>:
 
-8.       _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8\.       _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+9\.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At Bukit Batok Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
 | Topics/Lessons                    | Programme Learning Objectives        | Time Period<br>(e.g. Term 3 Week 9) |
 |--------|--------------|------------|
-| Mass Talk by HPB appointed vendor | ·        Awareness of the different STIs and HIV/AIDS<br>·        Modes of transmission<br>·        Modes of protection, specifically on how the condom is used<br>·        Consequences and impact of STIs/HIV<br>  | Term 2 Week 2                       |
+| Mass Talk by HPB appointed vendor | ·        Awareness of the different STIs and HIV/AIDS<br><br>·        Modes of transmission<br><br>·        Modes of protection, specifically on how the condom is used<br><br>·        Consequences and impact of STIs/HIV<br>  | Term 2 Week 2                       |
 |       Classroom-based Lesson      |                                        ·        Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>                                        | Term 2 Week 5                       |
+
+**Information for Parents**
+
+10\.     Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11\.     Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Our%20bbss%20experience/Growing%20Years%20Programme.pdf" target="_blank">here</a>. The completed form is to be submitted a week before the start of the programme.
+
+12\.     Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Our%20bbss%20experience/eTeens%20Programme.pdf" target="_blank">here</a>. The completed form is to be submitted by a week before the start of the sexuality education programme for your child /ward.
+
+13\.     Parents can contact the school at https://bukitbatoksec.moe.edu.sg/our-bbss-experience/departments/character-and-citizenship-education/sexuality-education-programme for discussion or to seek clarification about the school’s sexuality education programme.
+
+14\.     Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
