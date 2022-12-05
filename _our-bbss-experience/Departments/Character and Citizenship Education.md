@@ -36,7 +36,7 @@ To instill in BBSSians the Core Values and equip them with life skills that enab
 
 ### Key Department Programmes and Activities:
 
-<p style="text-align: justify;">n instilling a sense of responsibility towards the society and community, here are the programmes which our students have participated in: </p>
+<p style="text-align: justify;">In instilling a sense of responsibility towards the society and community, here are the programmes which our students have participated in: </p>
 
 *   Self-initiated and teacher facilitated Values in Action programme at the different levels both local and overseas. Here our students are given opportunities to care and create environmental awareness, teaching of young children and showing care for the elderly in the community;
 *   Fund raising projects such “Share A Meal” & “Bukit Batok CC Walkaton Project” throughout the year. Students’ emotional, ethical and social needs are built up through various programmes such as:  
