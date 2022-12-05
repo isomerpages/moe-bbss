@@ -3,7 +3,7 @@ title: Echoes 12
 permalink: /arts-education/echoes-12/
 description: ""
 ---
-# echoes 11,12 pdf & club image 2 >5mb
+# echoes 11,12 pdf & echoes team photograph >5mb
 
 # Echoes 12
 
