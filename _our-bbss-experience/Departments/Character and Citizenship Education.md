@@ -6,6 +6,13 @@ third_nav_title: Departments
 ---
 # Character and Citizenship Education
 
+Click the links for more information on:
+
+*   Sexuality Education Programme
+*   Education and Career Guidance (ECG)
+*   Gallery
+
+
 **Our Mission:** 
 
 To instill in BBSSians the Core Values and equip them with life skills that enable them to function effectively as global citizens.
