@@ -88,3 +88,110 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 | 2017  |  RP iChef Competition                      | Participation (guided by Ms Yap XF)                                                         |
 | 2016  | MOE CPDD D&T Awards                        | Creative Adaptation Award (guided by Mr Low TS)<br>Participation (guided by Mr Ho SC)       |
 | 2016  |  RP iChef Competition                      | Participation (guided by Ms Yap XF)                                                         |
+
+### Key Programmes and Activities
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p style="text-align: center;"><strong>Unit&nbsp;</strong></p>
+</td>
+<td colspan="3">
+<p style="text-align: center;"><strong>Key Programmes and Activities</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;"><strong>Curriculum</strong></p>
+</td>
+<td>
+<p style="text-align: center;"><strong>Enrichment/Interest Group</strong></p>
+</td>
+<td>
+<p style="text-align: center;"><strong>Competition</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Design and Technology</p>
+</td>
+<td>
+<p>1. Acquisition and development of basic designing &amp; making skills through mini coursework</p>
+<p>2. Design Thinking Processes and Skills</p>
+</td>
+<td>
+<p>1. Upcycling Project</p>
+<p>2. Makers Programme</p>
+<p>Laser Cutting, 3D Pen, 3D Printing</p>
+</td>
+<td>
+<p>1. DTES Design Awards</p>
+<p>2. Tan Kah Kee Awards</p>
+<p>3. Makeathon @ Jurong Spring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Nutrition and Food Science</p>
+</td>
+<td>
+<p>1. Food &amp; Consumer Education mini coursework</p>
+<p>2. Consumer Awareness Programme though LJ @ Supermarket</p>
+<p>3. Garden to plate programme</p>
+</td>
+<td>
+<p>1. Adopt your Herbs garden</p>
+</td>
+<td>
+<p>1. My Healthy Plate Campaign! - 5 day 'Fruit &amp; Veggie Activations'</p>
+<p>2. Food and Beverage Entrepreneurship Competition 2022 - Republic Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Art</p>
+</td>
+<td>
+<p>1. Acquisition of Fundamental Art (elements of art), character design</p>
+<p>2. Exploration of different medium, Creative and developmental idea drawings, Speed Drawing, Mini Coursework</p>
+<p>3. Inquiry-Based Learning, mini coursework/project</p>
+</td>
+<td>
+<p>1. Art Elective Programme*</p>
+<p>*conducted at other centre</p>
+</td>
+<td>
+<p>1. Live On Design Competition</p>
+<p>2. SYF Art Exhibition</p>
+<p>3. W7 Euphoria Exhibition</p>
+<p>4. W7 Upload! Online Art Competition</p>
+<br /><br /></td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Music</p>
+</td>
+<td>
+<p>1. Creation using Garageband and Chrome Music Lab&nbsp;</p>
+<p>2. Instrumental experiments</p>
+</td>
+<td>
+<p>1. Music Elective Programme*</p>
+<br />
+<p>*conducted at other centre</p>
+</td>
+<td>
+<p>1. BBSS Got Talent (inter-school)</p>
+2. Airtime Concert<br /><br /></td>
+</tr>
+</tbody>
+</table>
+
+* * * 
+
+## NOTABLE HIGHLIGHTS
+
+
+#### Live On Competition 2021
+
