@@ -15,12 +15,12 @@ third_nav_title: Co Curricular Areas
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><a href=""> <img src=""></a><a href="">Media Club</a></td>
-    <td style="text-align: center;"><a href=""> <img src="/images/Our%20BBSS%20Experience/Cca/Sports%20&%20Games/P1040202.jpg"></a><a href="">Robotics Club</a></td>
+    <td style="text-align: center;"><a href=""> <img src="/images/Our%20BBSS%20Experience/Cca/Clubs/IMG_1493.jpg"></a><a href="">Media Club</a></td>
+    <td style="text-align: center;"><a href=""> <img src="/images/Our%20BBSS%20Experience/Cca/Clubs/Robotics%20Club.jpeg"></a><a href="">Robotics Club</a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href=""> <img src="/images/Our%20BBSS%20Experience/Cca/Sports%20&%20Games/CTeam.jpg"></a><a href=""> One Earth Club</a></td>
-    <td style="text-align: center;"><a href=""> <img src="/images/Our%20BBSS%20Experience/Cca/Sports%20&%20Games/2013crosscountryteamgroup.jpg"></a><a href="">Gym Club</a></td>
+    <td style="text-align: center;"><a href=""> <img src="/images/Our%20BBSS%20Experience/Cca/Clubs/Mrs%20Kok%20planting%20a%20tree%20in%20school.jpg"></a><a href=""> One Earth Club</a></td>
+    <td style="text-align: center;"><a href=""> <img src="/images/Our%20BBSS%20Experience/Cca/Clubs/SAM_1169.jpg"></a><a href="">Gym Club</a></td>
   </tr>
 </tbody>
 </table>
