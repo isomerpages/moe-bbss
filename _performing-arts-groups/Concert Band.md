@@ -57,9 +57,6 @@ Through key programmes, students learn to display values like perseverance, team
 
 ### Past Key Events in 2020-2021:
 
-  
-
-### 
 
 *   Singapore Youth Festival 2021
 
