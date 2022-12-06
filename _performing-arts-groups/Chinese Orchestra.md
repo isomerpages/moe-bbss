@@ -3,6 +3,8 @@ title: Chinese Orchestra
 permalink: /performing-arts-groups/chinese-orchestra/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Chinese Orchestra
 
 |                            |                    |
@@ -182,4 +184,3 @@ description: ""
 ### Gallery
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZhVU6MIkIYE" title="BBSS Chinese Orchestra Teachers Day 2021 Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
