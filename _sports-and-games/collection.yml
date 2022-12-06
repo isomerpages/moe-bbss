@@ -2,5 +2,5 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Basketball (Boys).md
       - Air Rifle.md
+      - Basketball (Boys).md
