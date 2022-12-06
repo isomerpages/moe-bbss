@@ -18,11 +18,11 @@ third_nav_title: Co Curricular Areas
     <td style="text-align: center;"><a href="" target = "_blank"> <img src="/images/Our%20BBSS%20Experience/Cca/ncc_sea.jpg"></a><a href="" target = "_blank"></a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="/images/Our%20BBSS%20Experience/Cca/773634_478874892170923_580015190.jpg"></td>
-    <td style="text-align: center;"><img src="/images/Our%20BBSS%20Experience/Cca/Drill%20Competition.jpg"></td>
+    <td style="text-align: center;"><a href="" target = "_blank"> <img src="/images/Our%20BBSS%20Experience/Cca/773634_478874892170923_580015190.jpg"></a><a href="" target = "_blank"></a></td>
+    <td style="text-align: center;"><a href="" target = "_blank"> <img src="/images/Our%20BBSS%20Experience/Cca/Drill%20Competition.jpg"></a><a href="" target = "_blank"></a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="/images/Our%20BBSS%20Experience/Cca/AwardCeremony.jpg"></td>
+    <td style="text-align: center;"><a href="" target = "_blank"> <img src="/images/Our%20BBSS%20Experience/Cca/AwardCeremony.jpg"></a><a href="" target = "_blank"></a></td>
     <td style="text-align: center;"></td>
   </tr>
 </tbody>
