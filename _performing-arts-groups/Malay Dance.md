@@ -3,17 +3,19 @@ title: Malay Dance
 permalink: /performing-arts-groups/malay-dance/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Malay Dance
 
 |                             |                                    |
 |-------------------|---------------------------|
-| Teachers-in-charge:<br>     | Mdm Sri Haryati (IC) <br>Mdm Rezwanna Othman                                         |
-| Instructor / Choreographer: | Mr Shahrul Azhar Marekan Bin Norazhar                                                |
-| Training Days / Time:       | Mondays: 3 pm - 6 pm @ Tutorial Room<br>Wednesdays: 3.30 pm - 6.30 pm @ Dance Studio |
-| President:                  | Puteri Nur Arfizeanna Binte Zailan                                                   |
-| Vice-President:             | Arin Natalya Binte Azmi                                                              |
-| Section Leaders:<br>        | Nursyahinda Binte Mohammed Rasul                                                     |
-| Training Days:<br>          | Mondays & Wednesdays<br>3.15pm - 6.00pm                                              |
+| **Teachers-in-charge:**<br>     | Mdm Sri Haryati (IC) <br>Mdm Rezwanna Othman                                         |
+| **Instructor / Choreographer:** | Mr Shahrul Azhar Marekan Bin Norazhar                                                |
+| **Training Days / Time:**       | Mondays: 3 pm - 6 pm @ Tutorial Room<br>Wednesdays: 3.30 pm - 6.30 pm @ Dance Studio |
+| **President:**                  | Puteri Nur Arfizeanna Binte Zailan                                                   |
+| **Vice-President:**            | Arin Natalya Binte Azmi                                                              |
+| **Section Leaders:**<br>        | Nursyahinda Binte Mohammed Rasul                                                     |
+| **Training Days:**<br>          | Mondays & Wednesdays<br>3.15pm - 6.00pm                                              |
 
 #### Introduction
 
