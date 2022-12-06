@@ -55,6 +55,36 @@ In line with our BBSS mission of abundance mentality, the HOM Teaching Resource 
 
 
 
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0004.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Questioning and Problem Posing** ... "Millions saw the apple fall, but Newton was the one who asked why." Bernard M. Baruch
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Questioning%20&%20Posing%20Problems_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Questioning%20&%20Posing%20Problems_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0005.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Thinking and Communicating with Clarity & Precision** ... "If we knew what it was we were doing, it would not be called research, would it?" ~Albert Einstein
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Thinking%20&%20Communicating%20With%20Clarity%20&%20Precision_Trs%20R.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Thinking%20&%20Communicating%20With%20Clarity%20&%20Precision_Trs%20R.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0006.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Responding with Wonderment and Awe** ... "Joy in looking and comprehending is nature's most beautiful gift. " ~Albert Einstein
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Responding%20With%20Wonderment%20&%20Awe_Student%20Pkg.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Responding%20With%20Wonderment%20&%20Awe_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
 <img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
 
 **Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
@@ -62,35 +92,3 @@ In line with our BBSS mission of abundance mentality, the HOM Teaching Resource 
 | Students'         | Teachers'         |
 |:-------------------:|:-------------------:|
 | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
-
-
-
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
-
-**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
-
-| Students'         | Teachers'         |
-|:-------------------:|:-------------------:|
-| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
-
-
-
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
-
-**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
-
-| Students'         | Teachers'         |
-|:-------------------:|:-------------------:|
-| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
-
-
-
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
-
-**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
-
-| Students'         | Teachers'         |
-|:-------------------:|:-------------------:|
-| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
-
-
