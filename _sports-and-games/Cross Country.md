@@ -15,7 +15,7 @@ description: ""
 | **Training Days:**      | Mondays & Wednesdays: 3.30pm - 6.00pm<br>Fridays: 3.00pm - 5.30pm             |
 
 
-Our cross-country members display their passion and love for running by pushing themselves to the limit in our gruelling and rigorous training sessions. Our training sessions are mainly a mix of distance running, interval training and strength conditioning. We alternate between the school grounds, Macritchie Reservoir, Bedok Reservoir and Bukit Gombak stadium for our training sessions. During the off-season, students are given the opportunity to explore other sports and games. Contrary to popular belief, runners do have to work as a team and along with building perseverance and resilience, we train them to work well as a unit.
+<p style="text-align: justify;">Our cross-country members display their passion and love for running by pushing themselves to the limit in our gruelling and rigorous training sessions. Our training sessions are mainly a mix of distance running, interval training and strength conditioning. We alternate between the school grounds, Macritchie Reservoir, Bedok Reservoir and Bukit Gombak stadium for our training sessions. During the off-season, students are given the opportunity to explore other sports and games. Contrary to popular belief, runners do have to work as a team and along with building perseverance and resilience, we train them to work well as a unit.</p>
 
 ### **Strengths and Objectives of CCA**
 
