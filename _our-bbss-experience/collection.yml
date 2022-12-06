@@ -2,6 +2,7 @@ collections:
   our-bbss-experience:
     output: true
     order:
+      - Co Curricular Areas/Co Curricular Areas.md
       - Co Curricular Areas/.keep
       - Departments/.keep
       - Departments/English Literature.md
