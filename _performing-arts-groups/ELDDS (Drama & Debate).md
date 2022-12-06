@@ -35,13 +35,11 @@ Endearingly referred to as 'Meraki' meaning 'doing something with heart and soul
 
 #### 2022
 
-#### 
 
 *   NLB #Tellastory - Best Live Crew; Best Performer
 
 #### 2021
 
-#### 
 
 *   Singapore Secondary Schools Debating Championship - First Runner-Up, Overall Best Speaker
 *   Singapore Youth Festival Arts Presentation (Drama) Team A - Accomplishment
@@ -58,7 +56,6 @@ Endearingly referred to as 'Meraki' meaning 'doing something with heart and soul
 
 #### 2022
 
-#### 
 
 *   BBSS Rhapsody
 *   NLB #Tellastory
