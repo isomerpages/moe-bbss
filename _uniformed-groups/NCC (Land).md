@@ -77,3 +77,11 @@ As the unit grows from strength to strength, we continue to strive for greater h
   
 
 ****_<center>TO SERVE WITH PRIDE AND DEDICATION!</center>_****
+
+
+### **Useful links:**
+
+|                    |                       |
+|--------------------|-----------------------------|
+| NCC Facebook Page  | https://www.facebook.com/sgncc.hq/ |
+| NCC Instagram Page | https://www.instagram.com/sg_ncc/  |
