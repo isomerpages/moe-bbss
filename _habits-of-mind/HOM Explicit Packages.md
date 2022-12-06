@@ -140,42 +140,32 @@ In line with our BBSS mission of abundance mentality, the HOM Teaching Resource 
 
 
 
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0013.jpg" style="width:10%;float:left; padding: 10px"> 
 
-**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
-
-| Students'         | Teachers'         |
-|:-------------------:|:-------------------:|
-| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
-
-
-
-
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
-
-**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+**Thinking Flexibly** ... “A wise man changes his mind, a fool never will.” Spanish Proverb
 
 | Students'         | Teachers'         |
 |:-------------------:|:-------------------:|
-| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Thinking%20Flexibly_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Thinking%20Flexibly_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
 
 
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0015.jpg" style="width:10%;float:left; padding: 10px"> 
 
-
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
-
-**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+**Thinking Interdependently.** .. No matter what accomplishments you achieve, somebody helped you." Althea Gibson, Tennis Champion
 
 | Students'         | Teachers'         |
 |:-------------------:|:-------------------:|
-| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Thinking%20Interdependently_Students%20Handouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Thinking%20Interdependently_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
 
 
 
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
 
-**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0016.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Thinking About your Thinking (Metacognition)** ... "To read without reflecting is like eating without digesting." Edmund Burke
 
 | Students'         | Teachers'         |
 |:-------------------:|:-------------------:|
-| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Metacognition_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Metacognition_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
