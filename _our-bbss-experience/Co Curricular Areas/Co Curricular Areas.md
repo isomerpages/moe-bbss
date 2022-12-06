@@ -39,5 +39,5 @@ third_nav_title: Co Curricular Areas
  
  <b><u>LEAPS 2.0 Guide</u></b>
  
- 
-
+ [LEAPS 2.0 (Sch Handbook).pdf](/files/Our%20bbss%20experience/LEAPS%202%20(Sch%20Handbook).pdf)
+[CCA Training Schedule 2019.pdf](/files/Our%20bbss%20experience/CCA%20Training%20Schedule%202019.pdf)
