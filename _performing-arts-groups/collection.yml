@@ -1,4 +1,5 @@
 collections:
   performing-arts-groups:
     output: true
-    order: []
+    order:
+      - Concert Band.md
