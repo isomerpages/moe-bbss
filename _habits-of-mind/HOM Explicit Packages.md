@@ -84,6 +84,93 @@ In line with our BBSS mission of abundance mentality, the HOM Teaching Resource 
 | <a href="/files/HOM%20Explicit%20Packages/2009%20Responding%20With%20Wonderment%20&%20Awe_Student%20Pkg.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Responding%20With%20Wonderment%20&%20Awe_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
 
 
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0007.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Gather Data through all Senses** ... "The simple act of paying attention can take you a long way." ~Keanu Reeves
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Gathering%20Data%20Through%20All%20Sense_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Gathering%20Data%20Through%20All%20Sense_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0008.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Applying Past Knowledge to New Situations** ... "A failure is a man who has blundered but is not able to cash in on the experience." ~Elbert Hubbard
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Applying%20Past%20Knowledge%20to%20New%20Situation_Students%20Hdou.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Applying%20Past%20Knowledge%20to%20New%20Situation%20_Trs%20Resource%20.pdf" target="_blank"> Teachers' Package</a> |
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0009.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Creating, Imagining and Innovating** ... "There is nothing mysterious about originality, nothing fantastic. Originality is merely the step beyond." ~Louis Danz
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Creating,%20imagining%20&%20innovating_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Creating%20Imagining%20Innovations_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0010.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Finding Humour** ... "If you can laugh at it, you can live with it." ~Erma Bombeck
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Finding%20Humour_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Finding%20Humour_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0011.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Taking Responsible Risks** ... Only when we accept full responsibility for our lives will we have the confidence and courage to risk." ~Stacy Allison, first American woman to climb Mt. Everest
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Taking%20Responsible%20Risks_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Taking%20Responsible%20Risks_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0012.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Remaining Open to Continuous Learning** ... "The true delight is in the finding out rather than in the knowing." Isaac Asimov
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Remaining%20Open%20to%20Continuous%20Learning_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Remaining%20Open%20to%20Continuous%20Learning_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
 
 <img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
 
