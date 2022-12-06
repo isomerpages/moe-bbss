@@ -3,6 +3,8 @@ title: Badminton
 permalink: /sports-and-games/badminton/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Badminton
 
 |                     |         |
@@ -32,4 +34,3 @@ Our students train tremendously hard to improve their skills, either through rig
 The CCA strives to get players to **_play for fun_** (enjoying the game), _**play for fitness**_ (develop them into athletes), _and **play for life**_ (making badminton their lifelong sport and recreational activity).
 
 ### Gallery
-
