@@ -191,6 +191,10 @@ We aspire to:
 
 #### RED WINGS IN THE NEWS
 
+<img src="/images/Our%20BBSS%20Experience/Cca/Sports%20&%20Games/BBSS%20Rugby-ST%20DSA%20Article%2002082020.jpeg" style="width:40%;float:left">
+
+<img src="/images/Our%20BBSS%20Experience/Cca/Sports%20&%20Games/Capture.png" style="width:40%;float:left"><br clear="left">
+
 #### RED WINGS IN ACTION
 
 *   Competition Video BBSS vs EVG (Highlights):
@@ -201,3 +205,9 @@ We aspire to:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdjYcoIMK5E" title="LIVE: SSSC Rugby National 'C' Div Boys League Championships - 25 July 2019 🏉 - Bukit Batok Secondar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+#### FIND OUT MORE
+
+*   Red Wings' activities & events via our Instagram account:
+
+![](/images/Our%20BBSS%20Experience/Cca/Sports%20&%20Games/redwings-ig.png)
