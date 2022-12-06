@@ -213,7 +213,7 @@ We aspire to:
 
 *   BBSS Rugby's Direct School Admissions (DSA) Criterias:  
 
-[Find out more]()
+<center>Find out more</center>
 
 ### Gallery
 
