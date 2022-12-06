@@ -3,7 +3,8 @@ title: Choir
 permalink: /performing-arts-groups/choir/
 description: ""
 ---
-# 
+# Display error for embedded modern dance publicity video
+# upload picture slide to google slide
 # Choir
 
 |                             |               |
