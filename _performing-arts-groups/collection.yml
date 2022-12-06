@@ -2,6 +2,6 @@ collections:
   performing-arts-groups:
     output: true
     order:
-      - ELDDS (Drama & Debate).md
       - Concert Band.md
       - Chinese Orchestra.md
+      - ELDDS (Drama & Debate).md
