@@ -29,3 +29,157 @@ description: ""
 
 
 **<u>Summary of CO's main activities (performances, competitions, and events)</u>**
+
+<div>
+<div>
+<table width="685">
+<tbody>
+<tr>
+<td width="54">
+<p><strong>Year</strong></p>
+</td>
+<td width="273">
+<p style="text-align: center;"><strong>Activity</strong></p>
+</td>
+<td width="357">
+<p style="text-align: center;"><strong>Remarks</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2013</p>
+</td>
+<td style="text-align: center;">
+<p>21st Century International Arts Festival</p>
+</td>
+<td style="text-align: center;">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>SYF Arts Presentation</p>
+</td>
+<td style="text-align: center;">
+<p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td style="text-align: center;">
+<p>SYF Arts Presentation</p>
+</td>
+<td style="text-align: center;">
+<p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p>&lsquo;Memoirs of Heroes&rsquo; concert at the SOTA Concert Hall</p>
+</td>
+<td style="text-align: center;">
+<p>Performed together with Keat Hong Chinese Orchestra (external collaboration)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td style="text-align: center;">
+<p>SYF Arts Presentation</p>
+</td>
+<td style="text-align: center;">
+<p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2018</p>
+</td>
+<td style="text-align: center;">
+<p>Spring Melodies 2018 at Gardens by the Bay&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p>For the Chinese New Year Celebration&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>SYF Celebrations 2018 at Esplanade Outdoor Theatre&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p>Received the invitation to perform due to our performance in 2017 SYF Arts Presentation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td style="text-align: center;">
+<p>SYF Arts Presentation</p>
+</td>
+<td style="text-align: center;">
+<p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2020</p>
+</td>
+<td style="text-align: center;">
+<p>BBSS National Day Celebration in collaboration with Concert Band</p>
+</td>
+<td style="text-align: center;">
+<p>Online concert</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>BBSS Teachers' Day Concert</p>
+</td>
+<td style="text-align: center;">
+<p>Pre-recorded performance items that were student initiated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>2021</p>
+</td>
+<td style="text-align: center;">
+<p>SYF Arts Presentation</p>
+</td>
+<td style="text-align: center;">
+<p>Accomplishment Award</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>Arts Carnival</p>
+</td>
+<td style="text-align: center;">
+<p>Online Concert</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>BBSS Teachers&rsquo; Day Concert</p>
+</td>
+<td style="text-align: center;">
+<p>Pre-recorded performance items that were student initiated</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+### Gallery
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhVU6MIkIYE" title="BBSS Chinese Orchestra Teachers Day 2021 Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
