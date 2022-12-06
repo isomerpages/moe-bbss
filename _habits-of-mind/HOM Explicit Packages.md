@@ -169,3 +169,18 @@ In line with our BBSS mission of abundance mentality, the HOM Teaching Resource 
 | <a href="/files/HOM%20Explicit%20Packages/2009%20Metacognition_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Metacognition_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
 
 
+### Sec 1 Overview...
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/Lesson%20Plan%20T1W2%20-%20Sec%201%20Trs%20copy.pdf" target="_blank">Students' Package 1</a> | <a href="/files/HOM%20Explicit%20Packages/Lesson%20Plan%20T1W2%20-%20Sec%201%20Trs%20copy.pdf" target="_blank"> Teachers' Package 1</a> |
+| <a href="/files/HOM%20Explicit%20Packages/Lesson%20Plan%20T1W3%20-%20Sec%201%20%20Students%20copy.pdf" target="_blank">Students' Package 2</a> | <a href="/files/HOM%20Explicit%20Packages/Lesson%20Plan%20T1W3%20-%20Sec%201%20Trs%20copy.pdf" target="_blank"> Teachers' Package 2</a> |
+
+
+### Sec 2 Revisit ...
+
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/Revisit%20of%20HOM%20-%20Sec%202%20-%20Lesson%201%20Wk%202%20Students%20copy.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/Revisit%20of%20HOM%20(Sec%202)%20Lesson%201.pdf" target="_blank"> Teachers' Package 1</a> |
+|   | <a href="/files/HOM%20Explicit%20Packages/Revisit%20HOM%20(Sec%202)%20Lesson%202.pdf" target="_blank"> Teachers' Package 2</a> |
