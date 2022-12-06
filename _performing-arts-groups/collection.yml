@@ -2,8 +2,8 @@ collections:
   performing-arts-groups:
     output: true
     order:
-      - Modern Dance.md
       - Concert Band.md
       - Chinese Orchestra.md
       - ELDDS (Drama & Debate).md
       - Malay Dance.md
+      - Modern Dance.md
