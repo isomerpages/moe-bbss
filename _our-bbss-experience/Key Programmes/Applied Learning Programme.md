@@ -14,6 +14,56 @@ third_nav_title: Key Programmes
 |:--------------:|
 | City and Urban Landscapes |
 
+<table>
+<tbody class="">
+<tr class="">
+<td class="" colspan="2" width="707">
+<p class="" align="center"><strong class=""><span class="">STEM and Innovation Education Committee</span></strong></p>
+</td>
+</tr>
+<tr class="">
+<td class="" width="258">
+<p class="" align="center"><strong class=""><span class="">Committee Chairman</span></strong></p>
+</td>
+<td class="" width="449">
+<p class="" align="center"><span class="">Dr. Mohamed Faizal</span></p>
+</td>
+</tr>
+<tr class="">
+<td class="" width="258">
+<p class="" align="center"><strong class=""><span class="">Committee Vice-Chairman</span></strong></p>
+</td>
+<td class="" width="449">
+<p class="" align="center"><span class="">Mr. Ng Boon Chong</span></p>
+</td>
+</tr>
+<tr class="">
+<td class="" width="258">
+<p class="" align="center"><span class="">&nbsp;</span><strong class="">Committee Members</strong></p>
+</td>
+<td class="" width="449">
+<p class="" align="center"><span class="">Mdm Lin Jia Hui</span></p>
+</td>
+</tr>
+<tr class="">
+<td class="" width="258">
+<p class="" align="center"><span class="">&nbsp;</span></p>
+</td>
+<td class="" width="449">
+<p class="" align="center"><span class="">Mr Darren Ling</span></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Mr Loo Tin Song&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Mr Chun Sir Kin</td>
+</tr>
+</tbody>
+</table>
+
 ![](/images/Our%20BBSS%20Experience/chart_for_ALP.jpg)
 
 <p style="text-align: justify;">Have you ever tried to navigate your way out of a maze? Or fry an egg using a robotic arm? In the age of robotic innovation where industries and lives are disrupted, many of such possibilities can be actualised through our Embedded Electronics programme using robots. This is part of our Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM). Our students learn about the control of robotic vehicles through block programming, harnessing the power of sensors to make smart decisions. They progress to manipulating robotic arms before synthesizing their learning to come up with solutions real-world problems through our Design Thinking approach.</p>
