@@ -3,6 +3,8 @@ title: Concert Band
 permalink: /performing-arts-groups/concert-band/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Concert Band
 
 |                     |                                  |
@@ -85,4 +87,3 @@ Through key programmes, students learn to display values like perseverance, team
 *  Mondays & Wednesdays : 3.00pm - 6.00pm
 
 ### Gallery
-
