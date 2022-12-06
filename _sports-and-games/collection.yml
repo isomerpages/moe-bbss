@@ -2,8 +2,8 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Rugby.md
-      - Cross Country.md
       - Air Rifle.md
       - Basketball (Boys).md
       - Badminton.md
+      - Cross Country.md
+      - Rugby.md
