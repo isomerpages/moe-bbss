@@ -2,5 +2,5 @@ collections:
   performing-arts-groups:
     output: true
     order:
-      - Chinese Orchestra.md
       - Concert Band.md
+      - Chinese Orchestra.md
