@@ -32,3 +32,65 @@ In line with our BBSS mission of abundance mentality, the HOM Teaching Resource 
 | Students'         | Teachers'         |
 |:-------------------:|:-------------------:|
 | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0002.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Listening with Empathy and Understanding** ... "Real dialogue is where two or more people become willing to suspend their certainty in each other's presence." David Bohm
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Listening%20with%20Understanding%20and%20Empathy_Students'%20Hdo.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Listening%20with%20Understanding%20and%20Empathy_Trs%20Resource%20P.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0003.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Striving for Accuracy and Precision** ... "Beware of false knowledge; it is more dangerous than ignorance." George Bernard Shaw
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Striving%20for%20Accuracy%20&%20Precision_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Striving%20for%20Accuracy%20&%20Precision_Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
+
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
+
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
+
+| Students'         | Teachers'         |
+|:-------------------:|:-------------------:|
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+
+
