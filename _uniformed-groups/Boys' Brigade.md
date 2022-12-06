@@ -3,6 +3,8 @@ title: Boys' Brigade
 permalink: /uniformed-groups/boys-brigade/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Boys' Brigade
 
 |                     |                                                                    |                                                   |
