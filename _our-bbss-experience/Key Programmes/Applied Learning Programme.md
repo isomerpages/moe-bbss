@@ -55,11 +55,11 @@ third_nav_title: Key Programmes
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Mr Loo Tin Song&nbsp;</td>
+<td style="text-align: center;">Mr Loo Tin Song&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;Mr Chun Sir Kin</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;Mr Chun Sir Kin</td>
 </tr>
 </tbody>
 </table>
