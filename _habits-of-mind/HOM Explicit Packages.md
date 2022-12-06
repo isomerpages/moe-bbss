@@ -31,4 +31,4 @@ If you would like to download the teachers' packages, do write to Mdm Lin Jia Hu
 
 | Students'         | Teachers'         |
 |:-------------------:|:-------------------:|
-| <a href="https://go.gov.sg/thinking-communicating-student-handout" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Persistence%20-Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
+| <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_Students%20Hdouts.pdf" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Managing%20Impulsivity_%20Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
