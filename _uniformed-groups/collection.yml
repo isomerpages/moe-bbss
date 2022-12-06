@@ -2,6 +2,6 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - NCC (Land).md
       - Boys' Brigade.md
       - Girls' Brigade.md
+      - NCC (Land).md
