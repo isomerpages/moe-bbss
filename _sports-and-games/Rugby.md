@@ -197,6 +197,7 @@ We aspire to:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yULL11MOEjo" title="1 Play Gold - SSSC Rugby National 'C' Div Boys League C'ships, Bukit Batok Sec vs Evergreen Sec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*   Competition Video BBSS vs EVG (Full Video):
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wdjYcoIMK5E" title="LIVE: SSSC Rugby National 'C' Div Boys League Championships - 25 July 2019 🏉 - Bukit Batok Secondar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
