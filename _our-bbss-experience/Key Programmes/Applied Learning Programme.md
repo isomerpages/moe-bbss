@@ -90,7 +90,7 @@ Through the ALP, the school enables students to:
 <p style="text-align: justify;">Upon completion of the programme, students will attain Young Engineer Award (Applied Learning) awarded by Singapore Polytechnic.</p>
   
 
-### **Key Programmes (2020-2021)**
+### **<u>Key Programmes (2020-2021)</u>**
 
 Secondary 1 - Robotic Technology & Coding  
 Secondary 2 - Problem-solving via Design Thinking
