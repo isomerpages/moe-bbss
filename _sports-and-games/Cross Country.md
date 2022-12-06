@@ -17,11 +17,9 @@ Our cross-country members display their passion and love for running by pushing 
 
 **Strengths and Objectives of CCA**
 
-·         To promote a healthy lifestyle
-
-·         To organise teams to represent the school in competitions
-
-·     To encourage the practice, development and participation of Cross Country running and Athletics in the BBSS Community
+* To promote a healthy lifestyle
+* To organise teams to represent the school in competitions
+* To encourage the practice, development and participation of Cross Country running and Athletics in the BBSS Community
 
 **Activities**
 
