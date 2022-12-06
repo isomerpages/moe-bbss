@@ -3,6 +3,7 @@ title: Choir
 permalink: /performing-arts-groups/choir/
 description: ""
 ---
+# 
 # Choir
 
 |                             |               |
@@ -52,4 +53,3 @@ Participation in the following events (online):
 ### Gallery
 
 <iframe width="812" height="455" src="https://www.youtube.com/embed/1KsTJ8TH4v8" title="BBSS Choir 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
