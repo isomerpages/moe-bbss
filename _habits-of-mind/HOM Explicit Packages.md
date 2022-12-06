@@ -25,9 +25,9 @@ If you would like to download the teachers' packages, do write to Mdm Lin Jia Hu
 |:-------------------:|:-------------------:|
 | <a href="https://go.gov.sg/thinking-communicating-student-handout" target="_blank">Students' Package</a> | <a href="/files/HOM%20Explicit%20Packages/2009%20Persistence%20-Trs%20Resource%20Pkg.pdf" target="_blank"> Teachers' Package</a> |
 
-<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0000.jpg" style="width:10%;float:left; padding: 10px"> 
+<img src="/images/Our%20BBSS%20Experience/HOM%20Explicit%20Packages/resources_clip_image002_0001.jpg" style="width:10%;float:left; padding: 10px"> 
 
-**Persisting** ... "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life like a champion." Muhammad Ali
+**Managing Impulsivity** ... "I count him braver who overcomes his desires than him who conquers his enemies; the hardest victory is the victory over self." Aristotle
 
 | Students'         | Teachers'         |
 |:-------------------:|:-------------------:|
