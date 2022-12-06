@@ -3,6 +3,8 @@ title: Air Rifle
 permalink: /sports-and-games/air-rifle/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Air Rifle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jDwQLztBaIc" title="Air Rifle CCA 2022 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,3 +48,4 @@ Every year, our shooters participate in the National School Games (NSG). From 20
 | •  | appreciate the passion for competitive shooting as a sport                                                                       |
 |  • | enjoy and discover more of themselves through the varied activities and also to experience the camaraderie as a close knit team. |
 
+### Gallery
