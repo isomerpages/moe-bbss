@@ -2,6 +2,6 @@ collections:
   clubs:
     output: true
     order:
-      - One Earth Club.md
       - Gym Club.md
       - Media Club.md
+      - One Earth Club.md
