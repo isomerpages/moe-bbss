@@ -66,14 +66,11 @@ So that we, may better serve our country
 
 Bukit Batok Secondary School NCC (Land) aims to provide boys with a platform to grow holistically, to discover more about themselves and venture out of their comfort zone.
 
-  
 
-We achieve this through activities conducted by HQ NCC like Camp FORGE, Camp STEEL, Specialists Assessment, Senior Specialists Leaders Course, NCC Fitness Challenge, NCC Road Relay, NCC Sports Championship and the various International Cadet Exchange Programmes to Brunei, India, UK and USA. We also conduct activities like 1-star kayaking course and first aid course. These activities aim to impart to our boys important life skills like teamwork, perseverance, discipline and care for fellow cadets. Our boys also volunteered their services in various school projects like beach cleaning and Project Mi, which provided platforms for them to serve the community.
+<p style="text-align: justify;">We achieve this through activities conducted by HQ NCC like Camp FORGE, Camp STEEL, Specialists Assessment, Senior Specialists Leaders Course, NCC Fitness Challenge, NCC Road Relay, NCC Sports Championship and the various International Cadet Exchange Programmes to Brunei, India, UK and USA. We also conduct activities like 1-star kayaking course and first aid course. These activities aim to impart to our boys important life skills like teamwork, perseverance, discipline and care for fellow cadets. Our boys also volunteered their services in various school projects like beach cleaning and Project Mi, which provided platforms for them to serve the community.</p>
 
-  
 
-As the unit grows from strength to strength, we continue to strive for greater heights and excel in every aspect.
-
+<p style="text-align: justify;">As the unit grows from strength to strength, we continue to strive for greater heights and excel in every aspect.</p>
   
 
 ****_<center>TO SERVE WITH PRIDE AND DEDICATION!</center>_****
