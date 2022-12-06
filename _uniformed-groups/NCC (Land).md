@@ -3,6 +3,8 @@ title: NCC (Land)
 permalink: /uniformed-groups/ncc-land/
 description: ""
 ---
+# upload picture slide to google slide
+
 # NCC (Land)
 
 
@@ -39,7 +41,7 @@ To provide a platform for quality holistic education and to nurture cadets to be
 
   
 
-**The NCC Pledge:**
+### **The NCC Pledge:**
 
 We, the members of the National Cadet Corps,   
 And youth of the Republic of Singapore,   
@@ -49,7 +51,7 @@ And to maintain a high standard of discipline and performance
 So that we, may better serve our country
 
 
-**The NCC Core Values:**
+### **The NCC Core Values:**
 
 *   Loyalty to Country
 *   Uprightness
@@ -60,7 +62,7 @@ So that we, may better serve our country
 *   Adventurous Spirit
 *   Safety
 
-**The NCC Song: We Are Ready**
+### **The NCC Song: We Are Ready**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ww-T528CPw8" title="Singapore NCC SONG 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -82,3 +84,5 @@ Bukit Batok Secondary School NCC (Land) aims to provide boys with a platform to 
 |--------------------|-----------------------------|
 | NCC Facebook Page  | https://www.facebook.com/sgncc.hq/ |
 | NCC Instagram Page | https://www.instagram.com/sg_ncc/  |
+
+### Gallery
