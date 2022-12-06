@@ -7,3 +7,5 @@ third_nav_title: BBSS Student Wellbeing
 # BBSS Student Wellbeing
 
 ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/quote_final2.jpg)
+
+![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Students.jpg)
