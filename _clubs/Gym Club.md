@@ -3,6 +3,8 @@ title: Gym Club
 permalink: /clubs/gym-club/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Gym Club
 
 |                    |                                                  |
