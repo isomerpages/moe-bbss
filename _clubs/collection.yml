@@ -2,7 +2,7 @@ collections:
   clubs:
     output: true
     order:
-      - Robotics Club.md
       - Gym Club.md
       - Media Club.md
       - One Earth Club.md
+      - Robotics Club.md
