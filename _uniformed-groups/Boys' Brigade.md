@@ -27,7 +27,7 @@ description: ""
 
 **Our Company Achievements**
 
-<p style="text-align: justify;">For 2020 to 2021, our company has once again attained the J**ames Milner Fraser Gold Honour Roll**, which is awarded to the top BB Companies in Singapore. The Boys Brigade has received the Gold Honour Roll from 2016 to 2021.</p>
+<p style="text-align: justify;">For 2020 to 2021, our company has once again attained the J<b>ames Milner Fraser Gold Honour Roll</b>, which is awarded to the top BB Companies in Singapore. The Boys Brigade has received the Gold Honour Roll from 2016 to 2021.</p>
 
   
 
