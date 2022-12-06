@@ -15,4 +15,4 @@ description: ""
 | **Chairperson:**                | Goh Rae Karl (3A5)                                                                                                                                                                    |
 | **Vice-Chairperson:**           | Kyle Lim Liangyu (3A5)<br>Darren Lee Yao Wei (3A7)                                                                                                                                    |
 | **Admin Manager:**              | Haleema Haja Alaudeen (3A2)                                                                                                                                                           |
-| **Training Days:**<br>          | Venue:<br>Broadcasting Room<br>Odd Week Mondays & Wednesdays<br>3:15 PM to 5:15 PM<br><br>Even Week Mondays:<br>3:15 PM to 5:15 PM<br><br>Even Week Wednesdays:<br>2:30 PM to 4:30 PM |
+| **Training Days:**<br>          | Venue:<br>Broadcasting Room<br><u>Odd Week Mondays & Wednesdays</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Mondays:</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Wednesdays:</u><br>2:30 PM to 4:30 PM |
