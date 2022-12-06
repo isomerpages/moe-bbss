@@ -3,6 +3,9 @@ title: NCC (Sea)
 permalink: /uniformed-groups/ncc-sea/
 description: ""
 ---
+
+# upload picture slide to google slide
+
 # NCC (Sea)
 
 |                      |                     |
