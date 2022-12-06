@@ -16,20 +16,20 @@ third_nav_title: Key Programmes
 
 ![](/images/Our%20BBSS%20Experience/chart_for_ALP.jpg)
 
-Have you ever tried to navigate your way out of a maze? Or fry an egg using a robotic arm? In the age of robotic innovation where industries and lives are disrupted, many of such possibilities can be actualised through our Embedded Electronics programme using robots. This is part of our Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM). Our students learn about the control of robotic vehicles through block programming, harnessing the power of sensors to make smart decisions. They progress to manipulating robotic arms before synthesizing their learning to come up with solutions real-world problems through our Design Thinking approach.
+<p style="text-align: justify;">Have you ever tried to navigate your way out of a maze? Or fry an egg using a robotic arm? In the age of robotic innovation where industries and lives are disrupted, many of such possibilities can be actualised through our Embedded Electronics programme using robots. This is part of our Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM). Our students learn about the control of robotic vehicles through block programming, harnessing the power of sensors to make smart decisions. They progress to manipulating robotic arms before synthesizing their learning to come up with solutions real-world problems through our Design Thinking approach.</p>
 
 
-Through these activities, students would collaboratively acquire technical knowledge, hone process skills and inculcate values. Through applying past knowledge to new situations, students have fun figuring out many possibilities and further develop the dispositions of Responding with Wonderment and Awe" and "Creating, Imagining and Innovating".
+<p style="text-align: justify;">Through these activities, students would collaboratively acquire technical knowledge, hone process skills and inculcate values. Through applying past knowledge to new situations, students have fun figuring out many possibilities and further develop the dispositions of Responding with Wonderment and Awe" and "Creating, Imagining and Innovating".</p>
 
 
-Bought something online and it was delivered by a drone? Our robotics interest group support the broadening and deepening of interests in the areas of drones, coding and LEGO©\-based robotics.
+<p style="text-align: justify;">Bought something online and it was delivered by a drone? Our robotics interest group support the broadening and deepening of interests in the areas of drones, coding and LEGO©\-based robotics.</p>
 
   
-Most of the world's population now lives in urban centres and city living provide problems and challenges of their own. Singapore, a highly urbanized city with very limited physical and human resources, faces profound challenges when it comes to development, management and sustainability. Our overarching  theme of City and Urban Landscapes let students explore solutions to some of the issues they face in their everyday life.  
+<p style="text-align: justify;">Most of the world's population now lives in urban centres and city living provide problems and challenges of their own. Singapore, a highly urbanized city with very limited physical and human resources, faces profound challenges when it comes to development, management and sustainability. Our overarching  theme of City and Urban Landscapes let students explore solutions to some of the issues they face in their everyday life.  </p>
   
-At the upper secondary levels, students have the opportunity to collaborate with partners such as Infineon Technologies to design solutions for real-life issues, participate in engineering competitions, job shadowing and attend STEM-related polytechnic elective modules.  
+<p style="text-align: justify;">At the upper secondary levels, students have the opportunity to collaborate with partners such as Infineon Technologies to design solutions for real-life issues, participate in engineering competitions, job shadowing and attend STEM-related polytechnic elective modules.  </p>
   
-Through these activities, we hope to cultivate in students the dispositions of "Remaining Open to Continuous Learning" and "Questioning and Problem Posing" which would prepare them well for self-directed lifelong learning.  
+<p style="text-align: justify;">Through these activities, we hope to cultivate in students the dispositions of "Remaining Open to Continuous Learning" and "Questioning and Problem Posing" which would prepare them well for self-directed lifelong learning.  </p>
   
 Through the ALP, the school enables students to:  
 
@@ -37,7 +37,7 @@ Through the ALP, the school enables students to:
 *   Apply thinking skills and connect knowledge across subject disciplines in authentic settings, and
 *   Grow in motivation as they appreciate the relevance and value of their learning.
 
-Upon completion of the programme, students will attain Young Engineer Award (Applied Learning) awarded by Singapore Polytechnic.
+<p style="text-align: justify;">Upon completion of the programme, students will attain Young Engineer Award (Applied Learning) awarded by Singapore Polytechnic.</p>
   
 
 ### **Key Programmes (2020-2021)**
