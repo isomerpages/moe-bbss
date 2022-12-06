@@ -14,9 +14,7 @@ description: ""
 
 ![](/images/Our%20BBSS%20Experience/Cca/Sports%20&%20Games/softball.jpg)
 
-### 
-
-**Strengths and Objectives:**  
+### **Strengths and Objectives:**  
 
 **Team Spirit, Dedication, Perseverance and Gratitude defines the BBSS Softball Team.**
 
