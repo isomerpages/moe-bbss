@@ -3,6 +3,8 @@ title: Girls' Brigade
 permalink: /uniformed-groups/girls-brigade/
 description: ""
 ---
+# upload picture slide to google slide
+
 # Girls' Brigade
 
 |                    |                        |
@@ -51,4 +53,3 @@ We provide opportunities for the girls to be equipped with leadership skills and
 *   Sustained Achievement Award for 12 consecutive years (2009 to 2020)
 
 #### Gallery
-
