@@ -4,7 +4,6 @@ collections:
     order:
       - Timetable.md
       - Calendar.md
-      - Students/2022 EYE Timetable.md
       - Students/.keep
       - Students/Students.md
       - Students/FHBL Seek, Discover and Learn (SDL,FHBL) Matters.md
@@ -17,3 +16,4 @@ collections:
       - Students/Student E Handbook.md
       - Students/BBSS Student Link.md
       - Students/2022 'N' & 'O' Prelims Timetable.md
+      - Students/2022 EYE Timetable.md
