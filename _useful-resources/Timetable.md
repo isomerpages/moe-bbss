@@ -5,7 +5,7 @@ description: ""
 ---
 # Timetable
 
-### <u>2022 Timetable for Semester 2 \*NEW\* (updated as of 28 July)</u>
+### <u>2022 Timetable for Semester 2 *NEW* (updated as of 28 July)</u>
 
 **Dear students, please click on the links below to view your timetable.**
 
