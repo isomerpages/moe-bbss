@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - Self Help Resources/Developing Self.md
       - Self Help Resources/.keep
       - Self Help Resources/Self help Resources.md
       - Self Help Resources/Getting Through School.md
+      - Self Help Resources/Developing Self.md
       - ECG/.keep
       - ECG/ECG.md
       - ECG/Announcement for Parents.md
