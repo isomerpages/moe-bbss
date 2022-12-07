@@ -34,3 +34,39 @@ Click <a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matter
 
 
 * * *
+
+<center><b><u>SLS Support</u></b></center>
+
+<b><u>School Operating Hours</u></b>
+
+During school operating hours, students should contact the <b><u>School-based Helpline</u></b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+
+  
+
+School-based Helpline: 6566 3121 (ext 225)   
+Mondays - Fridays: 8:00 A.M. - 4:00 P.M.   
+Email: [fatin sufiah\_kadir@moe.edu.sg](http://fatin%20sufiah_kadir@moe.edu.sg/)
+
+  
+
+For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+
+  
+
+**Non-School Operating Hours**
+
+  
+
+Students can only contact the **SLS Helpdesk** outside the school operating hours.
+
+  
+
+> SLS Helpdesk: 6702 6513  
+> Mondays - Fridays:  4:00 P.M. - 9:00 P.M.  
+> Saturdays:  9:00 A.M. - 9:00 P.M.
+> 
+> \*Closed on Sundays & Public Holidays
+
+  
+
+Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
