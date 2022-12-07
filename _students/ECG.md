@@ -3,6 +3,9 @@ title: ECG
 permalink: /students/ecg/
 description: ""
 ---
+# A Guide for Parents in ECG link broken
+
+# JAE 2019 booklet >5mb
 # ECG
 
 ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/ECG%20Poster%202019.jpg)
