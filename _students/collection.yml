@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - FAQ.md
       - Contact Us.md
       - Self help Resources.md
