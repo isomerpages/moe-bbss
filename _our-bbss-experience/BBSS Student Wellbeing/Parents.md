@@ -4,6 +4,7 @@ permalink: /our-bbss-experience/BBSS-Student-Wellbeing/parents/
 description: ""
 third_nav_title: BBSS Student Wellbeing
 ---
+# links broken: MOE Cyber Wellness Portal - For parents, MOE Cyber Wellness Curriculum in Schools
 # Parents
 
 ## <u>Cyber Wellness Resources</u>
@@ -18,6 +19,12 @@ MOE uses the CW framework to develop the child’s instinct to protect and empow
 Our school catagorised Cyber Wellness into 3 main areas for parents:
 
 ### <u>What is Cyber Wellness?</u>
+
+|   |   |
+|---|---|
+| <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Parents/book.png" style="width:10%"> <br><a href="/files/Our%20bbss%20experience/Parents/Positive%20Peer%20Influence.pdf" target="_blank">Developing your child to be a Positive Peer Influence online</a> |   |
+|   |   |
+
 
 ### <u>Cyber Bullying</u>
 
