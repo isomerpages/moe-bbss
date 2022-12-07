@@ -20,7 +20,7 @@ Contact your school counsellor, teacher or a responsible adult about how you are
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Well-Being%20Resource.jpg"></a><a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares">BBSS Cares - Well-Being Resource Package</a></td>
+    <td style="text-align: center;"><a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Well-Being%20Resource.jpg"></a><a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares" target="_blank">BBSS Cares - Well-Being Resource Package</a></td>
     <td style="text-align: center;"><a href="/uniformed-groups/ncc-sea/"> <img src="/images/Our%20BBSS%20Experience/Cca/ncc_sea.jpg"></a><a href="/uniformed-groups/ncc-sea/">NCC (Sea)</a></td>
   </tr>
   <tr>
