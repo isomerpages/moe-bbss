@@ -33,6 +33,7 @@ e.     ensure that any accidents, whether or not an injury occurs, and poten
   
 **Responsibilities of Students**  
 4\.     All students are expected to:  
+
 a.     exercise personal responsibility for the safety of themselves and their fellow students;  
 b.     observe all the safety rules of the school and in particular the instructions of the teaching staff in the event of an emergency;  
 c.     use and not wilfully misuse, neglect or interfere with things provided for safety purposes.
