@@ -11,13 +11,15 @@ description: ""
 
 By Levels:
 
-#### [Secondary 1](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Timetable/2022/2022%20Timetable_Sem2_Sec%201_v280722.pdf)
+<a href="/files/Useful%20Resources/Timetable/2022%20Timetable_Sem2_Sec%201_v280722.pdf" target="_blank">Secondary 1</a>
 
-#### [Secondary 2](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Timetable/2022/Semester%202%20240622/Sec%202%20Semester%202%20Timetable_240622.pdf)
+<a href="/files/Useful%20Resources/Timetable/Sec%202%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 2</a>
 
-#### [Secondary 3](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Timetable/2022/Semester%202%20240622/Sec%203%20Semester%202%20Timetable_240622.pdf)
+<a href="/files/Useful%20Resources/Timetable/Sec%203%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 3</a>
 
-#### [Secondary 4 & 5](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Timetable/2022/Semester%202%20240622/Sec%204%20and%205%20Semester%202%20Timetable_240622.pdf)
+<a href="/files/Useful%20Resources/Timetable/Sec%204%20and%205%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 4 & 5</a>
+
+
 
   
 For teachers, please locate it in the time-tabling folder.  
