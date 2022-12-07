@@ -11,7 +11,7 @@ third_nav_title: Students
 
 #### School Safety Policy
 
-[Click here to view the policy](https://bukitbatoksec.moe.edu.sg/useful-resources/students/school-safety-resources/school-safety-policy)
+[Click here to view the policy](/useful-resources/Students/school-safety-policy/)
 
 
 
