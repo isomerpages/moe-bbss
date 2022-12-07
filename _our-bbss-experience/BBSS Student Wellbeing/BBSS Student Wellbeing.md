@@ -17,5 +17,10 @@ We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Ton
 <center><a href="/our-bbss-experience/BBSS-Student-Wellbeing/make-an-appointment/" target="_blank">Make An Appointment</a></center>
 
 ## Resources
+|   |   |
+|---|---|
+| ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Students.jpg) **[Students](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/students)** | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Peer%20Support%20Programme.jpg)  |
+|  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/parents.jpg) |   |
 
-![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Students.jpg)
+
+<center>Page count:</center>
