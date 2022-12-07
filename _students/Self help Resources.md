@@ -3,3 +3,10 @@ title: Self help Resources
 permalink: /students/self-help-resources/
 description: ""
 ---
+# Self help Resources
+
+Each of us may experience some challenges or struggles in our life as we journey from Primary School to Secondary School or even from lower secondary to upper secondary.
+
+In overcoming these experiences, you might like to look at our list of self-help resources, which may be useful to you, in understanding and managing some of your issues or challenges. These self-help resources can be assessed at your own time and comfort. However, you also need to maintain a desired or suitable level of discipline and motivation when applying the self-help approach.
+
+If you continue to be troubled by your issue(s), you may wish to speak to a Counsellor or Teacher.
