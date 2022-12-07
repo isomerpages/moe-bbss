@@ -22,5 +22,5 @@ Here’s **HOW** you can choose to maximise your time and resources in this jo
 **W** here to get resources, eg Library, Education & Career Guidance, Counselling, etc.
 
 |   |   |   |
-|---|---|---|
-|  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Stress_Bar.jpg) | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Stress_Buster.jpg)  |![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Organising_Time.jpg)   |
+|:---:|:---:|:---:|
+|  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Stress_Bar.jpg)<a href="/files/Our%20bbss%20experience/Students/coping%20with%20stress.pdf" target="_blank">Coping with Stress</a> | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Stress_Buster.jpg) <a href="/files/Our%20bbss%20experience/Students/Stress%20Buster.pdf" target="_blank">Stress Buster</a> |![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Organising_Time.jpg) <a href="/files/Our%20bbss%20experience/Students/Stress%20Buster.pdf" target="_blank">Organising Time</a>  |
