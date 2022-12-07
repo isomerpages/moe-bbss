@@ -2,7 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
-      - Students/Students.md
-      - Students/.keep
       - Timetable.md
       - Calendar.md
+      - Students/.keep
+      - Students/Students.md
