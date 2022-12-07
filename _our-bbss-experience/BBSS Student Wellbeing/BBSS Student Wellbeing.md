@@ -19,8 +19,8 @@ We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Ton
 ## Resources
 |   |   |
 |:---:|:---:|
-| ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Students.jpg) **[Students](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/students)** | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Peer%20Support%20Programme.jpg) **[Peer Support Programme](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/peer-support)** |
-|  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/parents.jpg) **[Parents](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/parents)**|   |
+| ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Students.jpg) **[Students](/our-bbss-experience/BBSS-Student-Wellbeing/students/)** | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Peer%20Support%20Programme.jpg) **[Peer Support Programme](/our-bbss-experience/BBSS-Student-Wellbeing/peer-support)** |
+|  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/parents.jpg) **[Parents](/our-bbss-experience/BBSS-Student-Wellbeing/parents)**|   |
 
 
 Page count:
