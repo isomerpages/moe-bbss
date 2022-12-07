@@ -51,13 +51,10 @@ Email: [fatin sufiah\_kadir@moe.edu.sg](http://fatin%20sufiah_kadir@moe.edu.sg/
 
 For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
-  
 
-**Non-School Operating Hours**
+<b><u>Non-School Operating Hours</u></b>
 
-  
-
-Students can only contact the **SLS Helpdesk** outside the school operating hours.
+Students can only contact the <b><u>SLS Helpdesk</u></b> outside the school operating hours.
 
   
 
