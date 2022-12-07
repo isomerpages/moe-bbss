@@ -4,7 +4,6 @@ permalink: /students/ecg/
 description: ""
 third_nav_title: ECG
 ---
-
 # A Guide for Parents in ECG link broken
 
 # JAE 2019 booklet >5mb
@@ -34,7 +33,7 @@ Click <a href="https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Total%20Curriculu
 
 **<u>Announcement for Parents</u>**
 
-Click <a href="" target="_blank">here</a> for ECG-related announcements.
+Click <a href="/students/ECG/announcement-for-parents/" target="_blank">here</a> for ECG-related announcements.
 
 **<u>A Guide for Parents in ECG</u>**  
 
