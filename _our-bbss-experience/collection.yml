@@ -2,6 +2,7 @@ collections:
   our-bbss-experience:
     output: true
     order:
+      - BBSS Student Wellbeing/Parents.md
       - BBSS Student Wellbeing/Students.md
       - BBSS Student Wellbeing/.keep
       - BBSS Student Wellbeing/BBSS Student Wellbeing.md
