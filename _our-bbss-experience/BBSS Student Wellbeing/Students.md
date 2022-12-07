@@ -32,7 +32,7 @@ Contact your school counsellor, teacher or a responsible adult about how you are
     <td style="text-align: center;"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/telephone.jpg"><a href="/files/Our%20bbss%20experience/Helplines%20for%20Youth.pdf" target="_blank">Additional Helplines for Youth</a></td>
   </tr>
 	  <tr>
-    <td style="text-align: center;"><a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Contact%20us.jpg"></a><a href="" target="_blank">Contact Us</a></td>
+    <td style="text-align: center;"><a href="/students/cyber-wellness-tips/" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Contact%20us.jpg"></a><a href="/students/cyber-wellness-tips/" target="_blank">Contact Us</a></td>
     <td style="text-align: center;"><a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/FAQ.jpg"></a><a href="" target="_blank">FAQ </a></td>
   </tr>
 </tbody>
