@@ -8,8 +8,8 @@ third_nav_title: Students
 
 **Introduction**  
 
-1.     BBSS is committed to ensuring a safe, healthy and accident free environment for all staff and students.  
-2.     It is the policy of the School, so far as is reasonably practicable, to:  
+1\.     BBSS is committed to ensuring a safe, healthy and accident free environment for all staff and students.  
+2\.     It is the policy of the School, so far as is reasonably practicable, to:  
 
 a.    establish and maintain a safe and healthy environment throughout the school;  
 b.    establish and maintain safe working procedures among staff and students;  
@@ -21,8 +21,8 @@ f.    lay down procedures to be followed in case of accident; 
 g.    teach safety as part of student's responsibilities where appropriate.
 
   
-**Responsibilities of all Staff  
-**3.     All staff have a responsibility to:  
+**Responsibilities of all Staff**  
+3\.     All staff have a responsibility to:  
 
 a.     take care for the health and safety of themselves and of any person who might be affected by their acts at work;  
 b.     make themselves aware of all safety rules, procedures and safe working practices applicable to their areas of work; where in doubt they must seek immediate clarification from members of the School Safety Committee;  
@@ -31,16 +31,15 @@ d.     use any protective clothing and safety equipment provided and ensure 
 e.     ensure that any accidents, whether or not an injury occurs, and potential hazards are reported to members of the School Safety Committee.
 
   
-**Responsibilities of Students  
-**4.     All students are expected to:  
-
+**Responsibilities of Students**  
+4\.     All students are expected to:  
 a.     exercise personal responsibility for the safety of themselves and their fellow students;  
 b.     observe all the safety rules of the school and in particular the instructions of the teaching staff in the event of an emergency;  
-> c.     use and not wilfully misuse, neglect or interfere with things provided for safety purposes.
+c.     use and not wilfully misuse, neglect or interfere with things provided for safety purposes.
 
   
 **Conclusion**  
 5.     In pursuance of this policy the School has established the Safety Committee, to advise members of the School on all matters relating to safety and to oversee the implementation of the School's safety policy.  
   
 
-_Prepared by: School Safety Committee_
+<p style="text-align: right;"><i>Prepared by: School Safety Committee</i></p>
