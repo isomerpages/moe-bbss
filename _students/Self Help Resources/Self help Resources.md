@@ -4,7 +4,6 @@ permalink: /students/self-help-resources/
 description: ""
 third_nav_title: Self Help Resources
 ---
-
 # Self help Resources
 
 ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/star%20in%20every%20student.jpg)
@@ -15,3 +14,6 @@ In overcoming these experiences, you might like to look at our list of self-help
 
 If you continue to be troubled by your issue(s), you may wish to speak to a Counsellor or Teacher.
 
+|   |   |   |
+|---|---|---|
+| ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Developing_Self_1.jpg)    |  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting_Through_School_2.jpg)   | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Cyberbullying_3.jpg)  |
