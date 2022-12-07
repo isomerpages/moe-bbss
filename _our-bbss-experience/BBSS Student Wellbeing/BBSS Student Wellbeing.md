@@ -22,5 +22,10 @@ We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Ton
 | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Students.jpg) **[Students](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/students)** | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Peer%20Support%20Programme.jpg) **[Peer Support Programme](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/peer-support)** |
 |  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/parents.jpg) **[Parents](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/parents)**|   |
 
-<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv0.gif" style="width:2%;float:left">
+
 <center>Page count:</center>
+
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv5.gif" style="width:2%; float:left"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv0.gif" style="width:2%; float:center">
+
+539017
+8
