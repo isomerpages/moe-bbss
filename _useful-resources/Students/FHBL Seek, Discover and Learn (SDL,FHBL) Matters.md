@@ -66,8 +66,8 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 
 ## Cyber Wellness Tips
 
-Please click **[here](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/students/cyber-wellness-tips)** to access Cyber Wellness Tips
+Please click <a href="/students/cyber-wellness-tips/" target="_blank"><b>here</b></a> to access Cyber Wellness Tips
 
 ## BBSS Deep Breathing and Grounding Exercise
 
-The Deep Breathing and Grounding Exercise video can be found [**here.**](https://bukitbatoksec.moe.edu.sg/useful-resources/students/BBSS-Deep-Breathing-and-Grounding-Exercise)
+The Deep Breathing and Grounding Exercise video can be found <a href="" target="_blank"><b>here</b></a>
