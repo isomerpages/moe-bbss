@@ -11,12 +11,9 @@ description: ""
 
 By Levels:
 
-<a href="/files/Useful%20Resources/Timetable/2022%20Timetable_Sem2_Sec%201_v280722.pdf" target="_blank">Secondary 1</a>
-
-<a href="/files/Useful%20Resources/Timetable/Sec%202%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 2</a>
-
-<a href="/files/Useful%20Resources/Timetable/Sec%203%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 3</a>
-
+<a href="/files/Useful%20Resources/Timetable/2022%20Timetable_Sem2_Sec%201_v280722.pdf" target="_blank">Secondary 1</a>  
+<a href="/files/Useful%20Resources/Timetable/Sec%202%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 2</a>  
+<a href="/files/Useful%20Resources/Timetable/Sec%203%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 3</a>  
 <a href="/files/Useful%20Resources/Timetable/Sec%204%20and%205%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 4 & 5</a>
 
 
