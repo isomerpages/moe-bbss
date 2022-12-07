@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Self help Resources.md
-      - ECG/Announcement for Parents.md
       - ECG/.keep
       - ECG/ECG.md
+      - ECG/Announcement for Parents.md
       - Contact Us.md
       - FAQ.md
       - Cyber Wellness Tips.md
