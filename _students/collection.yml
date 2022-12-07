@@ -4,7 +4,6 @@ collections:
     order:
       - ECG/.keep
       - Self help Resources.md
-      - ECG.md
       - Contact Us.md
       - FAQ.md
       - Cyber Wellness Tips.md
