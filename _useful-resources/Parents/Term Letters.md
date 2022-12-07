@@ -8,19 +8,19 @@ third_nav_title: Parents
 
 ## 2022 Term 4 Letter to Parents
 
-
-[2022 Term 4 Letter to Parents](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/Term%20Letters/2022/20220919%20Term%204%20Principal%20Letter%20v2.pdf)
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20220919%20Term%204%20Principal%20Letter%20v2.pdf" target="_blank">2022 Term 4 Letter to Parents</a>
 
 ## 2022 Term 3 Letter to Parents
 
-[2022 Term 3 Letter to Parents](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/Term%20Letters/2022/20220624%20Term%203%20Principal%20Letter.pdf)
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20220624%20Term%203%20Principal%20Letter.pdf" target="_blank">2022 Term 3 Letter to Parents</a>
+
 
 ## 2022 Term 2 Letter to Parents
-
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>
 [2022 Term 2 Letter to Parents](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/Term%20Letters/2022/20220325%20Term%202%20Principal%20Letter.pdf)
 
 ## 2022 Term 1 Letter to Parents
-
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>
 [2022 Term 1 Letter to Parents](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/Term%20Letters/2022/20220105%20First%20letter%20to%20Parents.pdf)
 
 ## 2021 Term Letter to Parents
