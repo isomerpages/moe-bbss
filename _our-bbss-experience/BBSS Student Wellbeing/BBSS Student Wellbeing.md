@@ -25,7 +25,12 @@ We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Ton
 
 <center>Page count:</center>
 
-<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv5.gif" style="width:2%; float:left"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv0.gif" style="width:2%; float:center">
-
-539017
-8
+<span style ="text-align:center">
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv5.gif" style="width:2%; float:left"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv3.gif" style="width:2%; float:left">
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv9.gif" style="width:2%; float:left">
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv0.gif" style="width:2%; float:left">
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv1.gif" style="width:2%; float:left">
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv7.gif" style="width:2%; float:left">
+	</span>
+<br clear="left">
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv8.gif" style="width:2%; float:center">
