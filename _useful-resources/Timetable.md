@@ -27,6 +27,6 @@ A search bar will appear. You may type the name/class/room you are looking for, 
   
 \*\*Do take note that the timetable is separated into Week A (odd) & Week B (even), for easier reference.  
   
-\*\*\* Click [here](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Timetable/2022/Subject%20Acronyms%20Guide.pdf) to know what the acronyms on your timetable means.   
+\*\*\* Click <a href="/files/Useful%20Resources/Timetable/Subject%20Acronyms%20Guide.pdf" target="_blank">here</a> to know what the acronyms on your timetable means.   
   
 <p style = "text-align: right">*Updated as of 28 July 2022*</p>
