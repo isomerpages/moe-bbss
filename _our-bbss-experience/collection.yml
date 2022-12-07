@@ -2,11 +2,11 @@ collections:
   our-bbss-experience:
     output: true
     order:
-      - BBSS Student Wellbeing/Peer Support.md
-      - BBSS Student Wellbeing/Parents.md
-      - BBSS Student Wellbeing/Students.md
       - BBSS Student Wellbeing/.keep
       - BBSS Student Wellbeing/BBSS Student Wellbeing.md
+      - BBSS Student Wellbeing/Students.md
+      - BBSS Student Wellbeing/Parents.md
+      - BBSS Student Wellbeing/Peer Support.md
       - BBSS Student Wellbeing/Make An Appointment.md
       - Departments/.keep
       - Departments/English Literature.md
