@@ -3,7 +3,6 @@ title: ECG
 permalink: /students/ecg/
 description: ""
 ---
-
 # ECG
 
 ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/ECG%20Poster%202019.jpg)
@@ -26,19 +25,17 @@ description: ""
 
 **<u>JAE 2019 Booklet</u>**
 
-Click [here](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Total%20Curriculum/BBSS%20Student%20Wellbeing/JAE%20Exercise%202018%20Booklet/JAE%20Exercise%202019%20Booklet.pdf) to download booklet.
+Click <a href="https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Total%20Curriculum/BBSS%20Student%20Wellbeing/JAE%20Exercise%202018%20Booklet/JAE%20Exercise%202019%20Booklet.pdf" target="_blank">here</a> to download booklet.
 
 **<u>Announcement for Parents</u>**
 
-Click [here](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/students/ecg/announcement-for-parents) for ECG-related announcements.
+Click <a href="" target="_blank">here</a> for ECG-related announcements.
 
 **<u>A Guide for Parents in ECG</u>**  
 
 _Journeying with our Children, Achieving their Aspirations_
 
-[www.moe.gov.sg/microsites/ecg-parent-guide](http://www.moe.gov.sg/microsites/ecg-parent-guide)  [  
-](http://www.moe.gov.sg/microsites/ecg-parent-guide)  
-
+<a href="http://www.moe.gov.sg/microsites/ecg-parent-guide" target="_blank">www.moe.gov.sg/microsites/ecg-parent-guide</a>
 
 **<u>Search No More Links</u>**
 
