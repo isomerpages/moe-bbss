@@ -34,6 +34,9 @@ Our school catagorised Cyber Wellness into 3 main areas for parents:
 
 #### **<u>Excessive Internet Use</u>**
 
+|   |   |
+|---|---|
+| <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Parents/book.png" style="width:10%"> <br><a href="/files/Our%20bbss%20experience/Parents/Helping%20your%20child%20manage%20Excessive%20Internet%20Use.pdf" target="_blank">Helping your child manage Cyber Bullying</a> |   |
 
 ## <u>MOE Links</u>
 
