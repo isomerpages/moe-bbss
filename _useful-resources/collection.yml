@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - Parents/Parents.md
       - Parents/.keep
       - Timetable.md
       - Calendar.md
