@@ -70,4 +70,4 @@ Please click <a href="/students/cyber-wellness-tips/" target="_blank"><b>here</
 
 ## BBSS Deep Breathing and Grounding Exercise
 
-The Deep Breathing and Grounding Exercise video can be found <a href="" target="_blank"><b>here</b></a>
+The Deep Breathing and Grounding Exercise video can be found <a href="/useful-resources/Students/BBSS-Deep-Breathing-and-Grounding-Exercise/" target="_blank"><b>here</b></a>
