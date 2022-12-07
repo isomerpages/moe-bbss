@@ -28,8 +28,8 @@ Contact your school counsellor, teacher or a responsible adult about how you are
     <td style="text-align: center;"><a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/CW%20logo.jpg"></a><a href="" target="_blank">Cyber Wellness Tips </a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Holiday%20Care%20Pack.jpg"></a><a href="" target="_blank">Holiday Care Pack (Secondary Edition) </a></td>
-    <td style="text-align: center;"><a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/telephone.jpg"></a><a href="" target="_blank">Additional Helplines for Youth</a></td>
+    <td style="text-align: center;"><a href="/files/Our%20bbss%20experience/Holiday%20Care%20Pack%20Secondary%20Edition.pdf" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Holiday%20Care%20Pack.jpg"></a><a href="/files/Our%20bbss%20experience/Holiday%20Care%20Pack%20Secondary%20Edition.pdf" target="_blank">Holiday Care Pack (Secondary Edition) </a></td>
+    <td style="text-align: center;"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/telephone.jpg"><a href="/files/Our%20bbss%20experience/Helplines%20for%20Youth.pdf" target="_blank">Additional Helplines for Youth</a></td>
   </tr>
 	  <tr>
     <td style="text-align: center;"><a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Contact%20us.jpg"></a><a href="" target="_blank">Contact Us</a></td>
