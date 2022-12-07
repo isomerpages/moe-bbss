@@ -23,4 +23,4 @@ Here’s **HOW** you can choose to maximise your time and resources in this jo
 
 |   |   |   |
 |---|---|---|
-|  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Stress_Bar.jpg) |   |   |
+|  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Stress_Bar.jpg) | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Stress_Buster.jpg)  |![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting%20through%20school/Organising_Time.jpg)   |
