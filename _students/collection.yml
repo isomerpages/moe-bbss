@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Self help Resources.md
+      - ECG/Announcement for Parents.md
       - ECG/.keep
       - ECG/ECG.md
       - Contact Us.md
