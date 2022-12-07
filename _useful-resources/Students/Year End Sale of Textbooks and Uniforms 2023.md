@@ -24,9 +24,9 @@ Monday – Friday 9am to 4pm.
 
 <b><u>2023 Textbook List*</u></b>
 
-*   [Secondary 2](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Students/2023%20Textbook%20and%20uniform%20list/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S2.pdf)
-*   [Secondary 3](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Students/2023%20Textbook%20and%20uniform%20list/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S3.pdf)
-*   [Secondary 4](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Students/2023%20Textbook%20and%20uniform%20list/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S4.pdf)
+*   <a href="/files/Useful%20Resources/Students/2023%20end%20Textbooks%20&%20Uniforms/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S2.pdf" target="_blank">Secondary 2</a>
+*   <a href="/files/Useful%20Resources/Students/2023%20Textbook%20and%20uniform%20list/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S3.pdf" target="_blank">Secondary 3</a>
+*   <a href="/files/Useful%20Resources/Students/2023%20Textbook%20and%20uniform%20list/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S4.pdf" target="_blank">Secondary 4</a>
 
 \* to be used in conjunction during online purchase.
 
