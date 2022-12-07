@@ -37,10 +37,3 @@ Contact your school counsellor, teacher or a responsible adult about how you are
   </tr>
 </tbody>
 </table>
-
-|   |   |
-|---|---|
-| ![](  | ![]()  |
-|  ![]() | ![]()  |
-| ![]()  | ![]()  |
-| ![]()  | ![]()  |
