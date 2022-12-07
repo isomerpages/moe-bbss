@@ -18,10 +18,10 @@ Click on the link below to view your timetable for the End of Year examination.
 
 #### Secondary 2
 
-[Sec 2NT EYE timetable](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Students/2022%20EYE%20Timetable/2022%20EYE%20Timetable%20-%20S2T_30%20Aug.pdf)  
-[Sec 2NA EYE timetable](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Students/2022%20EYE%20Timetable/2022%20EYE%20Timetable%20-%20S2N_30%20Aug.pdf)  
-[Sec 2E EYE timetable](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Students/2022%20EYE%20Timetable/2022%20EYE%20Timetable%20-%20S2E_30%20Aug.pdf)  
-  
+<a href="/files/Useful%20Resources/Students/2022%20EYE%20Timetable/2022%20EYE%20Timetable%20-%20S2T_30%20Aug.pdf" target="_blank">Sec 2NT EYE timetable</a>   
+<a href="/files/Useful%20Resources/Students/2022%20EYE%20Timetable/2022%20EYE%20Timetable%20-%20S2N_30%20Aug.pdf" target="_blank">Sec 2NA EYE timetable</a>   
+<a href="/files/Useful%20Resources/Students/2022%20EYE%20Timetable/2022%20EYE%20Timetable%20-%20S2E_30%20Aug.pdf" target="_blank">Sec 2E EYE timetable</a>   
+
 
 #### Secondary 3
 
