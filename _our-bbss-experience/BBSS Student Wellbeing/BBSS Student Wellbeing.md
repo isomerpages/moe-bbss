@@ -23,7 +23,7 @@ We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Ton
 |  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/parents.jpg) **[Parents](https://bukitbatoksec.moe.edu.sg/our-bbss-experience/bbss-student-wellbeing/parents)**|   |
 
 
-<center>Page count:</center>
+Page count:
 
 <span style ="text-align:center">
 <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv5.gif" style="width:2%; float:left"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv3.gif" style="width:2%; float:left">
@@ -33,4 +33,4 @@ We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Ton
 <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv7.gif" style="width:2%; float:left">
 	</span>
 <br clear="left">
-<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv8.gif" style="width:2%; float:center">
+<img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/pv8.gif" style="width:2%; float:left">
