@@ -25,3 +25,8 @@ Our school catagorised Cyber Wellness into 3 main areas for parents:
 
 
 ## <u>MOE Links</u>
+
+<a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents" target="_blank">MOE Cyber Wellness Portal - For parents</a>
+
+
+<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness" target="_blank">MOE Cyber Wellness Curriculum in Schools</a>
