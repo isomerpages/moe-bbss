@@ -7,9 +7,9 @@ third_nav_title: Teachers
 # MOE Links
 
 *   <a href="http://intranet.moe.gov.sg/guidancebranch/" target="_blank">Guidance Branch</a>
-*   <a href="" target="_blank"></a>[HR Online](https://intranet.moe.gov.sg/hr_online/)
-*   <a href="" target="_blank"></a>[IAMS](https://iams.ssoe.moe.edu.sg/idm/user)
-*   <a href="" target="_blank"></a>[Self Reset IAMS Password](https://identity.moe.edu.sg/identity)
+*   <a href="https://intranet.moe.gov.sg/hr_online/" target="_blank">HR Online</a>
+*   <a href="https://iams.ssoe.moe.edu.sg/idm/user" target="_blank">IAMS</a>
+*   <a href="https://identity.moe.edu.sg/identity" target="_blank">Self Reset IAMS Password</a>
 *   <a href="https://icon.moe.edu.sg/" target="_blank">iCON</a>
 *   <a href="https://ictconnection.moe.edu.sg/" target="_blank">ICT Connection</a>
 *   <a href="https://schifaas.moe.gov.sg/" target="_blank">IFAAS</a>
