@@ -21,7 +21,7 @@ Contact your school counsellor, teacher or a responsible adult about how you are
 <tbody>
   <tr>
     <td style="text-align: center;"><a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Well-Being%20Resource.jpg"></a><a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares" target="_blank">BBSS Cares - Well-Being Resource Package</a></td>
-    <td style="text-align: center;"><a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/selfhelp2.jpeg"></a><a href="" target="_blank">Self-help Resources</a></td>
+    <td style="text-align: center;"><a href="/students/self-help-resources/"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/selfhelp2.jpeg"></a><a href="/students/self-help-resources/">Self-help Resources</a></td>
   </tr>
   <tr>
     <td style="text-align: center;"><a href="/students/ecg/"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/MOE%20ECG%20logofinal_1.jpg"></a><a href="/students/ecg/">ECG Resources </a></td>
