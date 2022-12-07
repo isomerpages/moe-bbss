@@ -22,7 +22,8 @@ Our school catagorised Cyber Wellness into 3 main areas for parents:
 
 |   |   |
 |---|---|
-| <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Parents/book.png" style="width:10%"> <br><a href="/files/Our%20bbss%20experience/Parents/Positive%20Peer%20Influence.pdf" target="_blank">Developing your child to be a Positive Peer Influence online</a> |   |
+| <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Parents/book.png" style="width:10%"> <br><a href="/files/Our%20bbss%20experience/Parents/Positive%20Peer%20Influence.pdf" target="_blank">Developing your child to be a <br>Positive Peer Influence online</a> | <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Parents/book.png" style="width:10%"> <br><a href="/files/Our%20bbss%20experience/Parents/Parenting%20in%20the%20Digital%20Age.pdf" target="_blank">Parenting in the Digital Age
+</a>  |
 |   |   |
 
 
