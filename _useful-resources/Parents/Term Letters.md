@@ -24,6 +24,7 @@ third_nav_title: Parents
 <a href="/files/Useful%20Resources/Parents/Term%20letters/20220105%20First%20letter%20to%20Parents.pdf" target="_blank">2022 Term 1 Letter to Parents</a>
 
 ## 2021 Term Letter to Parents
+
 <a href="/files/Useful%20Resources/Parents/Term%20letters/20210104%20First%20letter%20to%20Parents%20Sec%201.pdf" target="_blank">2021 Term 1 Letter to Parents of Secondary 1 Students</a>  
 <a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2021 Term 1 Letter to Parents of Secondary 2-5 Students</a>  
 <a href="/files/Useful%20Resources/Parents/Term%20letters/20210104%20First%20letter%20to%20Parents%20Sec%202-5.pdf" target="_blank">2022 Term 4 Letter to Parents</a>  
@@ -70,4 +71,4 @@ Sec 2 to 5 - [20180105 First letter to Parents.pdf](https://bukitbatoksec-moe-e
 <a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
 <a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
 <a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>
