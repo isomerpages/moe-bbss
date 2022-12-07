@@ -11,4 +11,12 @@ Do you have any of these feelings?
   
 Contact your school counsellor, teacher or a responsible adult about how you are feeling.
 
+
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
 ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Well-Being%20Resource.jpg)
