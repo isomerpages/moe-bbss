@@ -7,7 +7,7 @@ description: ""
 
 ### <u>2022 Timetable for Semester 2 \*NEW\* (updated as of 28 July)</u>
 
-Dear students, please click on the links below to view your timetable.
+**Dear students, please click on the links below to view your timetable.**
 
 By Levels:
 
@@ -29,5 +29,4 @@ A search bar will appear. You may type the name/class/room you are looking for, 
   
 \*\*\* Click [here](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Timetable/2022/Subject%20Acronyms%20Guide.pdf) to know what the acronyms on your timetable means.   
   
-
-\*Updated as of 28 July 2022\*
+<p style = "text-align: right">*Updated as of 28 July 2022*</p>
