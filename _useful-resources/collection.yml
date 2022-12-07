@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - Teachers/.keep
       - Timetable.md
       - Calendar.md
       - Students/.keep
