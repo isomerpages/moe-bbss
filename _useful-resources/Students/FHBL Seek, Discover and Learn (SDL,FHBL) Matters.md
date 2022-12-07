@@ -29,9 +29,9 @@ Click <a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matter
 
 *  <a href="https://learning.moe.edu.sg/" target="_blank">Student Learning Space (SLS)</a> 
 
-*   <a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">User Guide</a> 
+    *   <a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">User Guide</a> 
 
-*   <a href="/files/Useful%20Resources/Students/FHBL/SLS%20EMAIL%20VERIFICATION%20EXERCISE.pdf" target="_blank">User Email Verification Exercise</a>
+    *   <a href="/files/Useful%20Resources/Students/FHBL/SLS%20EMAIL%20VERIFICATION%20EXERCISE.pdf" target="_blank">User Email Verification Exercise</a>
 
 
 * * *
