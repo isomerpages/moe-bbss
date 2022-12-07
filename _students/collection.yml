@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Self Help Resources/.keep
-      - Self help Resources.md
       - ECG/.keep
       - ECG/ECG.md
       - ECG/Announcement for Parents.md
