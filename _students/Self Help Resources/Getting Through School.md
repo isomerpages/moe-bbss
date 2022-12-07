@@ -6,3 +6,18 @@ third_nav_title: Self Help Resources
 ---
 # Getting Through School
 
+Transiting from Primary to Secondary or even from Lower Secondary to Upper Secondary School life is an exciting one for you and your parents.
+
+You are also moving into a different stage in your life as you embark onto this new journey. Every student will experience the transition differently.
+
+  
+Here’s **HOW** you can choose to maximise your time and resources in this journey to adjust and cope better with the challenges ahead. 
+
+  
+
+**H**  ave a holistic approach. Balance academics, CCA and social commitment to ensure a healthy mind, body and spirit. 
+
+**O**  pen your mind to making new friends in schools and participate in school programmes and CCA. 
+
+**W** here to get resources, eg Library, Education & Career Guidance, Counselling, etc.
+
