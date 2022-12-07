@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - ECG/ECG.md
-      - ECG/.keep
       - Self help Resources.md
+      - ECG/.keep
+      - ECG/ECG.md
       - Contact Us.md
       - FAQ.md
       - Cyber Wellness Tips.md
