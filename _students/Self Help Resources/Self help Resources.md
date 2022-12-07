@@ -15,5 +15,5 @@ In overcoming these experiences, you might like to look at our list of self-help
 If you continue to be troubled by your issue(s), you may wish to speak to a Counsellor or Teacher.
 
 |   |   |   |
-|---|---|---|
-| <a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Developing_Self_1.jpg"></a><a href="https://bbss.padlet.org/MsJaniceLim/BBSSCares" target="_blank">BBSS Cares - Well-Being Resource Package</a>    |  ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting_Through_School_2.jpg)   | ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Cyberbullying_3.jpg)  |
+|:---:|:---:|:---:|
+| <a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Developing_Self_1.jpg"></a><a href="" target="_blank">Developing Self</a>    | <a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting_Through_School_2.jpg"></a><a href="" target="_blank">Getting Through School</a>    | <a href="" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Cyberbullying_3.jpg"></a><a href="" target="_blank">Cyberbullying</a>  |
