@@ -4,7 +4,6 @@ collections:
     order:
       - Timetable.md
       - Calendar.md
-      - Students/FAQ For New Secondary 1 Students.md
       - Students/.keep
       - Students/Students.md
       - Students/FHBL Seek, Discover and Learn (SDL,FHBL) Matters.md
@@ -13,3 +12,4 @@ collections:
       - Students/BBSS Deep Breathing and Grounding Exercise.md
       - Students/Weighted Assessment 3 and 4 2022.md
       - Students/Year End Sale of Textbooks and Uniforms 2023.md
+      - Students/FAQ For New Secondary 1 Students.md
