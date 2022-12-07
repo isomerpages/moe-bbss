@@ -2,8 +2,8 @@ collections:
   students:
     output: true
     order:
-      - ECG.md
       - Self help Resources.md
+      - ECG.md
       - Contact Us.md
       - FAQ.md
       - Cyber Wellness Tips.md
