@@ -39,7 +39,6 @@ c.     use and not wilfully misuse, neglect or interfere with things provide
 
   
 **Conclusion**  
-5.     In pursuance of this policy the School has established the Safety Committee, to advise members of the School on all matters relating to safety and to oversee the implementation of the School's safety policy.  
-  
+5.     In pursuance of this policy the School has established the Safety Committee, to advise members of the School on all matters relating to safety and to oversee the implementation of the School's safety policy. 
 
 <p style="text-align: right;"><i>Prepared by: School Safety Committee</i></p>
