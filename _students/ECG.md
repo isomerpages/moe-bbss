@@ -39,4 +39,4 @@ _Journeying with our Children, Achieving their Aspirations_
 
 **<u>Search No More Links</u>**
 
-Click <a href="/files/Our%20bbss%20experience/Students/LinksinSearchNoMore.pdf" target="_blank">www.moe.gov.sg/microsites/ecg-parent-guide</a> for more details.
+Click <a href="/files/Our%20bbss%20experience/Students/LinksinSearchNoMore.pdf" target="_blank">here</a> for more details.
