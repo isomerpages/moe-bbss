@@ -7,6 +7,7 @@ third_nav_title: Students
 # School Safety Policy
 
 **Introduction**  
+
 1.     BBSS is committed to ensuring a safe, healthy and accident free environment for all staff and students.  
 2.     It is the policy of the School, so far as is reasonably practicable, to:  
 
