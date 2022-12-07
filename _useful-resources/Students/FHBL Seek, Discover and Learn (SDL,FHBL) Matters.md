@@ -15,5 +15,5 @@ _Please note that you will need to log in to **SLS account** to view the links
 _Please note that you will need to log in to **SLS account** to view the links of your teacher's Google Meet/Zoom under Announcement._
 
 *   <a href="/files/Useful%20Resources/Students/FHBL/Students%20User%20Guide%20How%20to%20Join%20Google%20Meet%20on%20Home%20Based%20Learning%20Day.pdf" target="_blank">Students' User Guide - How to Join Google Meet on Seek, Discover and Learn Day</a>
-*   <a href="" target="_blank">Students' User Guide - How to create Google Meetings</a>[](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/a-SDL%20Matters/Students%20User%20Guide%20-%20How%20to%20create%20Google%20Meetings.pdf)
-*   <a href="" target="_blank">FAQ on Student ICON (Updated 7 May 2021)</a>(https://bukitbatoksec.moe.edu.sg/qql/slot/u537/a.%20Full%20Home%20Based%20Learning/FAQs%20on%20Student%20iCON%20updated%207%20May%202021.pdf)
+*   <a href="/files/Useful%20Resources/Students/FHBL/Students%20User%20Guide%20-%20How%20to%20create%20Google%20Meetings.pdf" target="_blank">Students' User Guide - How to create Google Meetings</a>
+*   <a href="/files/Useful%20Resources/Students/FHBL/FAQs%20on%20Student%20iCON%20updated%207%20May%202021.pdf" target="_blank">FAQ on Student ICON (Updated 7 May 2021)</a>
