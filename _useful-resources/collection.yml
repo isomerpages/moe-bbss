@@ -4,7 +4,6 @@ collections:
     order:
       - Timetable.md
       - Calendar.md
-      - Students/BBSS Student Link.md
       - Students/.keep
       - Students/Students.md
       - Students/FHBL Seek, Discover and Learn (SDL,FHBL) Matters.md
@@ -15,3 +14,4 @@ collections:
       - Students/Year End Sale of Textbooks and Uniforms 2023.md
       - Students/FAQ For New Secondary 1 Students.md
       - Students/Student E Handbook.md
+      - Students/BBSS Student Link.md
