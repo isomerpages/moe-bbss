@@ -9,8 +9,8 @@ Application for MOE Financial Assistance Scheme (FAS) for the year 2023 is now o
 
 Eligibility criteria:-  
 
-> i) Student must be a Singapore citizen  
-> ii) Gross Monthly Household Income (GHI) not exceeding $3000 or Per Capita Income (PCI) not exceeding $750
+i) Student must be a Singapore citizen  
+ii) Gross Monthly Household Income (GHI) not exceeding $3000 or Per Capita Income (PCI) not exceeding $750
 
 To apply, click one of the following methods:  
             Click <a href="/files/2023%20MOE%20FAS%20Application%20Form.pdf" target="_blank"><b>here</b></a> for hardcopy Application Form  
