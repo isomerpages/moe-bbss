@@ -25,16 +25,12 @@ third_nav_title: Parents
 
 ## 2021 Term Letter to Parents
 
-<a href="/files/Useful%20Resources/Parents/Term%20letters/20210104%20First%20letter%20to%20Parents%20Sec%201.pdf" target="_blank">2021 Term 1 Letter to Parents of Secondary 1 Students</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/20210104%20First%20letter%20to%20Parents%20Sec%202-5.pdf" target="_blank">2021 Term 1 Letter to Parents of Secondary 2-5 Students</a>
-<a href="/files/Useful%20Resources/Parents/Term%20letters/20210329%20Second%20letter%20to%20Parents.pdf" target="_blank">2021 Term 2 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/2021%20Term%203%20Letter%20to%20Parents.pdf" target="_blank">2021 Term 3 Letter to Parents</a> 
-<a href="/files/Useful%20Resources/Parents/Term%20letters/20210920%20Fourth%20Letter%20to%20Parents%201.pdf" target="_blank">2021 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20210104%20First%20letter%20to%20Parents%20Sec%201.pdf" target="_blank">2021 Term 1 Letter to Parents of Secondary 1 Students</a>   
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20210104%20First%20letter%20to%20Parents%20Sec%202-5.pdf" target="_blank">2021 Term 1 Letter to Parents of Secondary 2-5 Students</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20210329%20Second%20letter%20to%20Parents.pdf" target="_blank">2021 Term 2 Letter to Parents</a>    
+<a href="/files/Useful%20Resources/Parents/Term%20letters/2021%20Term%203%20Letter%20to%20Parents.pdf" target="_blank">2021 Term 3 Letter to Parents</a>   
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20210920%20Fourth%20Letter%20to%20Parents%201.pdf" target="_blank">2021 Term 4 Letter to Parents</a>    
 
- 
-  
-[](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Letter%20to%20Parents/2021/)
 
 ## Guidelines for School-Home partnership
 
