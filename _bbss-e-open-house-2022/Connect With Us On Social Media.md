@@ -10,4 +10,6 @@ description: ""
 ![](/images/Bbss%20e%20open%20house%202022/6_connect%20with%20us%20on%20social%20media.png)
 
 
+<img src="/images/Bbss%20e%20open%20house%202022/bbss-fb.png" style="width:50%;float:center">
+
 <center><a href="#top">Back to Top</a></center>
