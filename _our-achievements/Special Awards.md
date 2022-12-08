@@ -8,7 +8,7 @@ description: ""
 #### Special Awards Recipient for AAC 2022
 
 |                          |                              |
-|:-------------------:|:----------------:|
+|:-------------------:|----------------|
 |                 **Awards**                 |                                         **Recipient(s)**<br>Secondary 4 Cohort (2021)                                        |
 |    Principal’s Bilingual Book Prize    | LOW YI XUAN REENA                                                                                                        |
 |       Belinda Charles Book Prize       | PATRICK ELLIOT SUBAGIO                                                                                                   |
