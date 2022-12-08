@@ -67,7 +67,16 @@ description: ""
 </tbody>
 </table>
 
+### Culture of Innovation
+
+<p style="text-align: center; color: #cf961c"><b>  Applied Learning Programme (ALP)</b></p>
+
+<iframe width="499" height="277" src="https://www.youtube.com/embed/kXSnyaAYs1I" title="BBSS Applied Learning Programme (ALP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ![](/images/Bbss%20e%20open%20house%202022/LLP-Liner.png)
+
+#### Photo Gallery
 
 
 
