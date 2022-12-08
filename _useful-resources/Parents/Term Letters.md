@@ -39,21 +39,22 @@ third_nav_title: Parents
 
 ## 2020 Term Letter to Parents
 
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-[2020 Term 1 Letter to Parents for Secondary 1](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2020/2020%20Term%201%20Letter%20to%20Parents%20(Sec%201).pdf)  
-[2020 Term 1 Letter to Parents for Secondary 2-5](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2020/2020%20Term%201%20Letter%20to%20Parents%20(Sec%202-5).pdf)  
-[2020 Term 2 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Letter%20to%20Parents/2020/20200323%20Term%202%20Principal%20Letter.pdf)   
-[2020 Term 3 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Letter%20to%20Parents/2020/20200602%20Term%203%20Principal%20Letter.pdf)   
-[2020 Term 4 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Letter%20to%20Parents/2020/BBSS%20Term%204%20Principal%20Letter%202020.pdf)   
+<a href="/files/Useful%20Resources/Parents/Term%20letters/2020%20Term%201%20Letter%20to%20Parents%20(Sec%201).pdf" target="_blank">2020 Term 1 Letter to Parents for Secondary 1</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/2020%20Term%201%20Letter%20to%20Parents%20(Sec%202-5).pdf" target="_blank">2020 Term 1 Letter to Parents for Secondary 2-5</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20200323%20Term%202%20Principal%20Letter.pdf" target="_blank">2020 Term 2 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20200602%20Term%203%20Principal%20Letter.pdf" target="_blank">2020 Term 3 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/BBSS%20Term%204%20Principal%20Letter%202020.pdf" target="_blank">2020 Term 4 Letter to Parents</a>  
+
+
 
 ## 2019 Term Letter to Parents
+
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
 
 [2019 Term 4 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2019/20190924%20Term%204%20Principal%20Letter.pdf)  
 [2019 Term 3 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2019/20190709%20Term%203%20Principal%20Letter.pdf)  
