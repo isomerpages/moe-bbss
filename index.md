@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Announcements
+          description: ""
           url: https://gmail.com
         - title: Calendar
           description: ""
