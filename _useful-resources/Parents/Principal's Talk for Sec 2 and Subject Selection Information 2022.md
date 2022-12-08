@@ -4,7 +4,7 @@ permalink: /useful-resources/Parents/principals-talk-for-sec-2-and-subject-selec
 description: ""
 third_nav_title: Parents
 ---
-# Address by ECG Counsellor, Ms Melisa Lim >5MB
+# "Address by ECG Counsellor, Ms Melisa Lim" >5MB
 # Principal's Talk for Sec 2 and Subject Selection Information 2022
 
 ## Education and Career Guidance Information
