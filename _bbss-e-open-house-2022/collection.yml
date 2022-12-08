@@ -2,7 +2,6 @@ collections:
   bbss-e-open-house-2022:
     output: true
     order:
-      - The BBSS Experience.md
       - BBSS Highlights.md
       - School Life.md
       - 360 Virtual Tour @ BBSS.md
