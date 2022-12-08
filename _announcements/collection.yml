@@ -2,5 +2,5 @@ collections:
   announcements:
     output: true
     order:
-      - SLS R18 Upgrade and System downtime.md
       - Year End Sale of Textbooks and Uniform.md
+      - SLS R18 Upgrade and System downtime.md
