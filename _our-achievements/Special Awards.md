@@ -28,7 +28,7 @@ description: ""
 
 |   |   |
 |:---:|:---:|
-|  ![](/images/Our%20Achievements/CHERISH%20Bronze%202012.jpg) |  **CHERISH AWARD** <br>Bronze<br>2007 – 2015 |
+|  <img src="/images/Our%20Achievements/CHERISH%20Bronze%202012.jpg" style="width:50%"> |  **CHERISH AWARD** <br>Bronze<br>2007 – 2015 |
 
 ### Other Awards
 
