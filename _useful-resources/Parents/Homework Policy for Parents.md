@@ -4,3 +4,6 @@ permalink: /useful-resources/Parents/homework-policy-for-parents/
 description: ""
 third_nav_title: Parents
 ---
+# Homework Policy for Parents
+
+[Homework Policy For Parents Final.pdf](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/Homework%20Policy%20For%20Parents%20Final.pdf)
