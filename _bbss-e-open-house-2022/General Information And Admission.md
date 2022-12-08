@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/Bbss%20e%20open%20house%202022/7_General%20information%20and%20admissions.png)
 
-Click the following links to read more about our school's [general information](https://bukitbatoksec.moe.edu.sg/about-us/contact-us/general-information), [admissions](https://bukitbatoksec.moe.edu.sg/about-us/admissions/indicative-psle-score-ranges-of-2020-psle-students-posted-to-2021-sec-1) and our [FAQ for our future Secondary One students](https://bukitbatoksec.moe.edu.sg/useful-resources/students/faq-for-our-new-secondary-1-students-2022).
+<p style="text-align:center">Click the following links to read more about our school's [general information](https://bukitbatoksec.moe.edu.sg/about-us/contact-us/general-information), [admissions](https://bukitbatoksec.moe.edu.sg/about-us/admissions/indicative-psle-score-ranges-of-2020-psle-students-posted-to-2021-sec-1) and our [FAQ for our future Secondary One students](https://bukitbatoksec.moe.edu.sg/useful-resources/students/faq-for-our-new-secondary-1-students-2022).</p>
 
   
 
