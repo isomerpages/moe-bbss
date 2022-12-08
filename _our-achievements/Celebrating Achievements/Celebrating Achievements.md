@@ -6,5 +6,5 @@ third_nav_title: Celebrating Achievements
 ---
 # Celebrating Achievements
 
-*   [Students](https://bukitbatoksec.moe.edu.sg/our-achievements/celebrating-achievements/students)
-*   [Staff](https://bukitbatoksec.moe.edu.sg/our-achievements/celebrating-achievements/staff)
+*   [Students](/our-achievements/Celebrating-Achievements/students/)
+*   [Staff](/our-achievements/Celebrating-Achievements/staff)
