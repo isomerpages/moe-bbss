@@ -24,10 +24,26 @@ description: ""
 
 <p style="text-align: center; color: #cf961c"><b>Our School Ambassadors</b></p>
 
-|   |   |
-|---|---|
-| <iframe width="385" height="214" src="https://www.youtube.com/embed/wuAon8Wr-yw" title="BBSS School Ambassador Aryan 2A6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  | <iframe width="385" height="214" src="https://www.youtube.com/embed/FJWL_GW_o6s" title="School Ambassador Si Yi 2A7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |
-| <iframe width="385" height="214" src="https://www.youtube.com/embed/lW6PTZVTH8E" title="BBSS Ambassador - Jacqueline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |  <iframe width="385" height="214" src="https://www.youtube.com/embed/E5cAdhm_4V4" title="BBSS Ambassador - Celeste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><iframe width="385" height="214" src="https://www.youtube.com/embed/wuAon8Wr-yw" title="BBSS School Ambassador Aryan 2A6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+    <td><iframe width="385" height="214" src="https://www.youtube.com/embed/FJWL_GW_o6s" title="School Ambassador Si Yi 2A7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+  </tr>
+  <tr>
+    <td><iframe width="385" height="214" src="https://www.youtube.com/embed/lW6PTZVTH8E" title="BBSS Ambassador - Jacqueline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="385" height="214" src="https://www.youtube.com/embed/E5cAdhm_4V4" title="BBSS Ambassador - Celeste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
+
 
 <p style="color: #cf961c"><b>Our Habits of Mind (HOM) Ambassadors</b></p>
 
