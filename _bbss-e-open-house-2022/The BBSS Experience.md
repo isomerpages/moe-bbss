@@ -4,8 +4,9 @@ permalink: /bbss-e-open-house-2022/the-bbss-experience/
 description: ""
 ---
 # Display error for embedded youtube video: e yearbook, school ambassador 1st video
-# The BBSS Experience
 <a id="top"></a>
+# The BBSS Experience
+
 
 ![](/images/Bbss%20e%20open%20house%202022/bbss1.png)
 
@@ -64,4 +65,4 @@ description: ""
 
 <center><a href="/our-achievements/Celebrating-Achievements/" target="_blank">Click here to find out more about our students' and teachers' achievements</a></center>
 
-<a href="#top">Back to Top</a>
+<center><a href="#top">Back to Top</a></center>
