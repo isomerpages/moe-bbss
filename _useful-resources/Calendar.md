@@ -3,6 +3,5 @@ title: Calendar
 permalink: /useful-resources/calendar/
 description: ""
 ---
-# use to google calender
+# use google calender
 # Calendar
-
