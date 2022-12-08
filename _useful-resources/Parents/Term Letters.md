@@ -4,6 +4,7 @@ permalink: /useful-resources/Parents/term-letters/
 description: ""
 third_nav_title: Parents
 ---
+# zip files cannot be uploaded for 2019 Term 2, Term 1 ,  2018 term  3, 2, 2017 term 4, 3,2
 # Term Letters
 
 ## 2022 Term 4 Letter to Parents
@@ -54,30 +55,20 @@ third_nav_title: Parents
 <a href="" target="_blank">2019 Term 2 Letter to Parents</a>  
 <a href="" target="_blank">2019 Term 1 Letter to Parents</a>  
 
-
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-
-
-
   
 
 
 ## 2018 Letter to Parents
 
-[20180918 Term 4 Principal Letter.pdf](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Parents%20Letter/2018/20180918%20Term%204%20Principal%20Letter.pdf)  
-[2018 Term 3 - Letter to Parents.zip](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Parents%20Letter/2018/2018%20Term%203%20-%20Letter%20to%20Parents.zip)   
-[2018 Term 2 - Letter to Parents.zip](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Parents%20Letter/2018/2018%20Term%202%20-%20Letter%20to%20Parents.zip)  
-Sec 2 to 5 - [20180105 First letter to Parents.pdf](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Parents%20Letter/2018/20180105%20First%20letter%20to%20Parents.pdf)  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20180918%20Term%204%20Principal%20Letter.pdf" target="_blank">20180918 Term 4 Principal Letter.pdf</a>  
+<a href="" target="_blank">2018 Term 3 - Letter to Parents.zip</a>  
+<a href="" target="_blank">2018 Term 2 - Letter to Parents.zip</a>  
+Sec 2 to 5 \- <a href="/files/Useful%20Resources/Parents/Term%20letters/20180105%20First%20letter%20to%20Parents.pdf" target="_blank">20180105 First letter to Parents.pdf</a> 
+ 
 
 ## 2017 Letter to Parents
 
-[2017 Term 4 - Letter to Parents.zip](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Our%20Partners/Parents/20170911%20Term%204%20Principal%20Letter.zip)  
-[2017 Term 3 - Letter to Parents.zip](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Our%20Partners/Parents/20170705%20Term%203%20Principal%20Letter.zip)  
-[2017 Term 2 - Letter to Parents.zip](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Our%20Partners/Parents/20170328%20Term%202%20Principal%20Letter.zip)  
-[First letter to Parents Final\_3 Jan 2017.pdf](https://bukitbatoksec-moe-edu-sg-admin.cwp.sg/qql/slot/u537/Announcements/2017/Letter%20to%20parents/Term%201/20170103%20-%20First%20letter%20to%20Parents_Final.pdf)
-
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>
+<a href="" target="_blank">2017 Term 4 - Letter to Parents.zip</a>  
+<a href="" target="_blank">2017 Term 3 - Letter to Parents.zip</a>  
+<a href="" target="_blank">2017 Term 2 - Letter to Parents.zip</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20170103%20-%20First%20letter%20to%20Parents_Final.pdf" target="_blank">First letter to Parents Final_3 Jan 2017.pdf</a>  
