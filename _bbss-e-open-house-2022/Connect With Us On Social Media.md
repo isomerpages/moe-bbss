@@ -7,7 +7,7 @@ description: ""
 
 # Connect With Us On Social Media
 
-
+![](/images/Bbss%20e%20open%20house%202022/6_connect%20with%20us%20on%20social%20media.png)
 
 
 <center><a href="#top">Back to Top</a></center>
