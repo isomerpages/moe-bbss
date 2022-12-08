@@ -3,6 +3,7 @@ title: Co Curricular Activities (CCA)
 permalink: /bbss-e-open-house-2022/co-curricular-activities-cca/
 description: ""
 ---
+# Display error for embedded youtube video: modern dance
 # Co-Curricular Activities (CCA)
 
 ![](/images/Bbss%20e%20open%20house%202022/5_CCAs.png)
