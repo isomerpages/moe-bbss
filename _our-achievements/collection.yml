@@ -2,10 +2,10 @@ collections:
   our-achievements:
     output: true
     order:
+      - Academic.md
+      - CCAs.md
+      - Special Awards.md
       - Celebrating Achievements/.keep
       - Celebrating Achievements/Celebrating Achievements.md
       - Celebrating Achievements/Students.md
       - Celebrating Achievements/Staff.md
-      - Academic.md
-      - CCAs.md
-      - Special Awards.md
