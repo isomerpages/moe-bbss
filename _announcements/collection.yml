@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - "Cyber Wellness: Tip sheet for Parents on Cyber issue at home.md"
       - Year End Sale of Textbooks and Uniform.md
       - SLS R18 Upgrade and System downtime.md
       - "Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope
@@ -23,3 +22,4 @@ collections:
       - Personal Accident Insurance Online Claim for Students.md
       - Schoolbag sg.md
       - Welcome onboard to Parents Gateway (PG).md
+      - "Cyber Wellness: Tip sheet for Parents on Cyber issue at home.md"
