@@ -79,6 +79,44 @@ description: ""
 
 #### Photo Gallery
 
-
+<center><a href="/our-bbss-experience/Key-Programmes/learning-for-life-programme-llp/" target="_blank">Click here to find out more about information about LLP</a></center>
 
 ![](/images/Bbss%20e%20open%20house%202022/internationalisation-liner.png)
+
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><p style="text-align: center; color: #cf961c"><b>Singapore-Thailand Enhanced Programme</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/M-IxBxXhjM0" title="BBSS Singapore - Thailand Exchange Programme (STEP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><p style="text-align: center; color: #cf961c"><b>Project Heartwork V: Banten, Indonesia</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/z7UMHs7ZRsU" title="BBSS Project Heartwork V video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td><p style="text-align: center; color: #cf961c"><b>Chongqing Twinning Programme</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/pqo6yvSCp8k" title="BBSS Chongqing Twinning Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><p style="text-align: center; color: #cf961c"><b> Humanities Department - Harbin, China</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/pqEPgrZ_Gk0" title="2019 Humanities Trip to Harbin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
+
+
+### BBSS School Events
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><p style="text-align: center"><b>Annual Awards Ceremony 2022</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/lfxABIJx7ho" title="Bukit Batok Secondary School Annual Awards Ceremony (AAC) 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><p style="text-align: center"><b>Rhapsody 2022</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/HTRDiCqbGBo" title="BBSS Rhapsody 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
