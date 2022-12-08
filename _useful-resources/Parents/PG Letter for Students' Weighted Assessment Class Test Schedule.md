@@ -8,10 +8,20 @@ third_nav_title: Parents
 #### Class Test Schedule for 2022 Term 1
 
 <a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/Weighted%20Assessments%20Schedule%20and%20Format_2022%20Term%201.pdf" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
-
-[](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/2022/Weighted%20Assessments%20Schedule%20and%20Format_2022%20Term%201.pdf)  
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/BBSS22-013%20Weighted%20Assessments%20Schedule%202022%20Term%201_17%20Jan_1T.pdf" target="_blank">Sec 1 NT</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
+<a href="/files/Useful%20Resources/Parents/Student%20WA%20Class%20Test%20Schedule/" target="_blank">Weighted Assessment Schedule for Term 1 (All levels)</a>
   
-[Sec 1 NT](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/2022/BBSS22-013%20Weighted%20Assessments%20Schedule%202022%20Term%201_17%20Jan_1T.pdf)  
+
 [Sec 1 Express & NA](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/2022/BBSS22-013%20Weighted%20Assessments%20Schedule%202022%20Term%201_17%20Jan_1E1N.pdf)  
   
 [Sec 2 NT](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Parents/2022/BBSS22-013%20Weighted%20Assessments%20Schedule%202022%20Term%201_17%20Jan_2T.pdf)  
