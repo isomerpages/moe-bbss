@@ -108,6 +108,90 @@ description: ""
 
 ### Percentage of students eligible for Higher Institutions
 
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="69">&nbsp;</td>
+<td style="text-align: center;" colspan="2" width="403">
+<p><strong>Percentage Of Students Eligible for JC &amp; Poly (4E Students)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="69">
+<p><strong>Year</strong></p>
+</td>
+<td style="text-align: center;" width="193">
+<p><strong>JC (2 Years)</strong></p>
+</td>
+<td style="text-align: center;" width="209">
+<p><strong>Polytechnic</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="69">
+<p><strong>2017</strong></p>
+</td>
+<td style="text-align: center;" width="193">
+<p>78.4</p>
+</td>
+<td style="text-align: center;" width="209">
+<p>99.5</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="69">
+<p><strong>2018</strong></p>
+</td>
+<td style="text-align: center;" width="193">
+<p>76.7</p>
+</td>
+<td style="text-align: center;" width="209">
+<p>98.1</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="69">
+<p><strong>2019</strong></p>
+</td>
+<td style="text-align: center;" width="193">
+<p>77.1</p>
+</td>
+<td style="text-align: center;" width="209">
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="69">
+<p><strong>2020</strong></p>
+</td>
+<td style="text-align: center;" width="193">
+<p>75.5</p>
+</td>
+<td style="text-align: center;" width="209">
+<p>99.4</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="69">
+<p><strong>2021</strong></p>
+</td>
+<td style="text-align: center;" width="193">
+<p>75.2</p>
+</td>
+<td style="text-align: center;" width="209">
+<p>98.1</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 ### Percentage of 4NA students eligible for PFP & DPP
+
+| Year | Percentage Of Students Eligible For PFP<br>(4NA Students) | Percentage Of Students Eligible for DPP<br>(4NA Students) |
+|:----:|:-----------:|:-----------------:|
+| 2017 |      14.1       |        66.2        |
+| 2018 |       24.1     |         80.7       |
+| 2019 |        31.6     |        84.2           |
+| 2020 |         26.9      |     84.6         |
 
 #### AAC Academic Award Recipients 2021 - Based On Results In 2021 National Examinations
