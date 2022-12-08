@@ -14,8 +14,8 @@ description: ""
 
 |   |   |
 |---|---|
-| <a href="https://www.instagram.com/bbss_sc/" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/bbss_sc.png" style="width:50%"></a>  | <a href="https://www.instagram.com/echolites/?hl=en" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/echolites.png" style="width:50%"></a>    |
-| <a href="https://www.instagram.com/iyuedo/?hl=en" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/iyuedo.png" style="width:50%"></a>   | <a href="https://www.instagram.com/vi.bbss/?hl=en" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/vibbs.png" style="width:50%"></a>   |
+| <a href="https://www.instagram.com/bbss_sc/" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/bbss_sc.png" style="width:100%"></a>  | <a href="https://www.instagram.com/echolites/?hl=en" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/echolites.png" style="width:100%"></a>    |
+| <a href="https://www.instagram.com/iyuedo/?hl=en" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/iyuedo.png" style="width:100%"></a>   | <a href="https://www.instagram.com/vi.bbss/?hl=en" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/vibbs.png" style="width:100%"></a>   |
 
 
 <center><a href="#top">Back to Top</a></center>
