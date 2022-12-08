@@ -34,10 +34,19 @@ third_nav_title: Parents
 
 ## Guidelines for School-Home partnership
 
-[Guidelines for School-Home Partnership.pdf](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20Partners/Parents/Guidelines%20for%20School-Home%20Partnership.pdf)
+<a href="/files/Useful%20Resources/Parents/Term%20letters/Guidelines%20for%20School-Home%20Partnership.pdf" target="_blank">Guidelines for School-Home Partnership.pdf</a>   
+
 
 ## 2020 Term Letter to Parents
 
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
 [2020 Term 1 Letter to Parents for Secondary 1](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2020/2020%20Term%201%20Letter%20to%20Parents%20(Sec%201).pdf)  
 [2020 Term 1 Letter to Parents for Secondary 2-5](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2020/2020%20Term%201%20Letter%20to%20Parents%20(Sec%202-5).pdf)  
 [2020 Term 2 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Useful%20Resources/Letter%20to%20Parents/2020/20200323%20Term%202%20Principal%20Letter.pdf)   
