@@ -13,8 +13,8 @@ Eligibility criteria:-
 > ii) Gross Monthly Household Income (GHI) not exceeding $3000 or Per Capita Income (PCI) not exceeding $750
 
 To apply, click one of the following methods:  
-            Click [**here**](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Announcements/2022/2023%20MOE%20FAS%20Application%20Form.pdf) for hardcopy Application Form  
-            Click [**here**](https://go.gov.sg/moe-efas) for eFAS application (Singpass required)  
+            Click <a href="/files/2023%20MOE%20FAS%20Application%20Form.pdf" target="_blank"><b>here</b></a> for hardcopy Application Form  
+            Click <a href="https://go.gov.sg/moe-efas" target="_blank"><b>here</b></a> for eFAS application (Singpass required)  
   
 
 Students who received financial assistance in 2022, must re-apply if they require financial assistance in 2023.
