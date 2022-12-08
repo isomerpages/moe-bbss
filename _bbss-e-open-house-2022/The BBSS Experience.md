@@ -10,3 +10,29 @@ description: ""
 <iframe width="553" height="308" src="https://www.youtube.com/embed/dY2lgejV_tQ" title="The BBSS Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/images/Bbss%20e%20open%20house%202022/LIFE-IN-BBSS.png)
+
+<p style="text-align: center; color: #cf961c">E-Yearbook
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5z52GDycf4k" title="BBSS e-Yearbook 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/Bbss%20e%20open%20house%202022/voices-of-students-heading.png)
+
+
+<iframe width="476" height="267" src="https://www.youtube.com/embed/DttlAAGSkpI" title="The Coughing Hills of Bukit Batok: What's In A Name?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center; color: #cf961c"><b>Our School Ambassadors</b></p>
+
+|   |   |
+|---|---|
+| <iframe width="385" height="214" src="https://www.youtube.com/embed/wuAon8Wr-yw" title="BBSS School Ambassador Aryan 2A6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  | <iframe width="385" height="214" src="https://www.youtube.com/embed/FJWL_GW_o6s" title="School Ambassador Si Yi 2A7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |
+| <iframe width="385" height="214" src="https://www.youtube.com/embed/lW6PTZVTH8E" title="BBSS Ambassador - Jacqueline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |  <iframe width="385" height="214" src="https://www.youtube.com/embed/E5cAdhm_4V4" title="BBSS Ambassador - Celeste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+
+<p style="color: #cf961c"><b>Our Habits of Mind (HOM) Ambassadors</b></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rOGymKTIfjY" title="BBSS Habits of Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/Bbss%20e%20open%20house%202022/VOICES-OF-BBSS-ALUMNI.png)
+
+
+
