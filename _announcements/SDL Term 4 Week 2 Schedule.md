@@ -3,7 +3,7 @@ title: SDL Term 4 Week 2 Schedule
 permalink: /announcements/sdl-term-4-week-2-schedule/
 description: ""
 ---
-# SDL Term 4 Week 2 Schedule
+# <a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks" target="_blank">SDL Term 4 Week 2 Schedule</a>
 
 Dear Students,
 
