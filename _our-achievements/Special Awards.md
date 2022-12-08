@@ -23,3 +23,9 @@ description: ""
 | ![](/images/Our%20Achievements/DA(NE)%20logo.jpg) |                         <br>  NATIONAL EDUCATION DEVELOPMENT AWARD<br>2011 – 2018                        |
 | ![](/images/Our%20Achievements/YELLOW%20FLAME%20AWARD.jpg) |                                      <br>YELLOW FLAME AWARD<br>2018                                      |
 | ![](/images/Our%20Achievements/IMG_3195.jpg) | <br>THE LEE HSIEN LOONG AWARD<br>for Innovation in the Normal Course<br><br>(LHL AIN)<br><br>2014 – 2019 |
+
+### Past Awards
+
+|   |   |
+|:---:|:---:|
+|  ![](/images/Our%20Achievements/CHERISH%20Bronze%202012.jpg) |  **CHERISH AWARD** <br>Bronze<br>2007 – 2015 |
