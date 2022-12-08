@@ -3,6 +3,7 @@ title: General Information And Admission
 permalink: /bbss-e-open-house-2022/general-information-and-admission/
 description: ""
 ---
+# links broken: "admissions" and  "FAQ for our future Secondary One students".
 # General Information And Admission
 
 ![](/images/Bbss%20e%20open%20house%202022/7_General%20information%20and%20admissions.png)
