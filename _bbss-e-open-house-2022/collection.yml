@@ -1,4 +1,5 @@
 collections:
   bbss-e-open-house-2022:
     output: true
-    order: []
+    order:
+      - BBSS E OPEN HOUSE 2022.md
