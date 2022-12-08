@@ -3,6 +3,7 @@ title: 360 Virtual Tour @ BBSS
 permalink: /bbss-e-open-house-2022/360-virtual-tour-at-bbss/
 description: ""
 ---
+<a id="top"></a>
 # 360 Virtual Tour @ BBSS
 
 ![](/images/Bbss%20e%20open%20house%202022/4_360%20Virtual%20tour%20at%20BBSS.png)
@@ -43,3 +44,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<center><a href="#top">Back to Top</a></center>
