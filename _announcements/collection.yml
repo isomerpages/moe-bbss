@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Full Home Based Learning Matters.md
       - Year End Sale of Textbooks and Uniform.md
       - SLS R18 Upgrade and System downtime.md
       - "Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope
@@ -18,3 +17,4 @@ collections:
       - PDLP @ BBSS.md
       - "HBL Resource Kit for Parents: Fostering a strong relationship with your
         child.md"
+      - Full Home Based Learning Matters.md
