@@ -49,17 +49,19 @@ third_nav_title: Parents
 
 ## 2019 Term Letter to Parents
 
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
-<a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20190924%20Term%204%20Principal%20Letter.pdf" target="_blank">2019 Term 4 Letter to Parents</a>  
+<a href="/files/Useful%20Resources/Parents/Term%20letters/20190709%20Term%203%20Principal%20Letter.pdf" target="_blank">2019 Term 3 Letter to Parents</a>  
+<a href="" target="_blank">2019 Term 2 Letter to Parents</a>  
+<a href="" target="_blank">2019 Term 1 Letter to Parents</a>  
+
+
 <a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
 <a href="/files/Useful%20Resources/Parents/Term%20letters/" target="_blank">2022 Term 4 Letter to Parents</a>  
 
-[2019 Term 4 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2019/20190924%20Term%204%20Principal%20Letter.pdf)  
-[2019 Term 3 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2019/20190709%20Term%203%20Principal%20Letter.pdf)  
- [2019 Term 2 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2019/2019%20-%20Term%202%20pdf.zip)  
-[2019 Term 1 Letter to Parents](https://bukitbatoksec.moe.edu.sg/qql/slot/u537/Parents%20Letter/2019/2019_01_04%20-%20First%20Letter%20to%20Parents.zip)   
+
+
+  
+
 
 ## 2018 Letter to Parents
 
