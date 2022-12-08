@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Malay Special Programme (MSP) Registration for Secondary 1 2022.md
       - Year End Sale of Textbooks and Uniform.md
       - SLS R18 Upgrade and System downtime.md
       - "Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope
@@ -13,3 +12,4 @@ collections:
       - O level Science Practical Shifts.md
       - SGC Collection.md
       - Student E Handbook.md
+      - Malay Special Programme (MSP) Registration for Secondary 1 2022.md
