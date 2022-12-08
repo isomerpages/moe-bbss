@@ -7,6 +7,14 @@ description: ""
 
 ### Uniform Groups
 
+|      CCA      |     2019    |     2020    | 2021 |     2022    |
+|:--------:|:---------:|:-----------:|:----:|:-----------:|
+|   NCC (Land)  | Distinction | Distinction |  N/A | Distinction |
+|   NCC (Sea)   | Distinction | Distinction |  N/A | Distinction |
+|      NPCC     |    Silver   |     Gold    |  N/A |     Gold    |
+|  Boys Brigade |     Gold    |     Gold    |  N/A |     Gold    |
+| Girls Brigade |     Gold    |     Gold    |  N/A |    Silver   |
+
 ### Performing Arts Groups
 
 ### Sports and Games
