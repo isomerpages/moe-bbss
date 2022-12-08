@@ -4,6 +4,7 @@ title: "Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope
 permalink: /announcements/euphoria-for-the-arts-exhibition/
 description: ""
 ---
+# display gif is >5mb
 # Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope of Talents
 
 We are pleased to inform that West 7 (W7) Aesthetics Networked Learning Community (NLC) is organising our 6th instalment of our annual arts exhibition entitled Euphoria VI with the theme “A Kaleidoscope of Talents”. 
