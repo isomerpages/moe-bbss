@@ -19,6 +19,5 @@ Please note the following for SDL Matters:
     
 2.  Use this format for usernames: (Class\_Index No.\_Name), to log into school-related online meetings. _(e.g. 2A1\_02\_Henry)_
 
-  
 
-Click on this [link](https://www.bukitbatoksec.moe.edu.sg/useful-resources/students/fhbl-seek-discover-and-learn-sdl-fhbl-matters) for all SDL related matters and technical assistance.
+Click on this <a href="/useful-resources/Students/fhbl-seek-discover-and-learn-sdl-fhbl-matters/" target="_blank">link</a> for all SDL related matters and technical assistance.
