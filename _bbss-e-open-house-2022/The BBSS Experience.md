@@ -32,7 +32,8 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rOGymKTIfjY" title="BBSS Habits of Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<center><a href="/our-bbss-experience/Key-Programmes/habits-of-mind/" target="_blank">Click here to find out more about the 16 Habits of Mind dispositions which we practise at BBSS</a></center>
+
 ![](/images/Bbss%20e%20open%20house%202022/VOICES-OF-BBSS-ALUMNI.png)
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHmBn2HXiBw" title="Voices of BBSS Alumni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
