@@ -148,3 +148,71 @@ description: ""
 <span style = "color: red"><b>2020 to 2021 National Sports Games suspended.</b></span>
 
 ### CCA Distinction Service Award Recipients for AAC 2021
+
+| CCA               | Name          | 2020<br>Class | Rank /<br>Designation         |
+|:------------:|:----------:|:----------:|:-----------:|
+|     Air Rifle     |              YEO ZHI YONG JENSEN              | 4A3           |            CAPTAIN            |
+|     Air Rifle     |       NADIYA ASSMA D/O KHALEELUR RAHIMA       | 4A1           |          VICE-CAPTAIN         |
+|     Air Rifle     |           ADA YSABELLE LLANORA SUNER          | 4A5           |          VICE-CAPTAIN         |
+|  Badminton (Boys) |                  KWEK YI HENG                 | 4A5           |            CAPTAIN            |
+|  Badminton (Boys) |              CHEN CHIAN CHOU JOEL             | 4A6           |          VICE-CAPTAIN         |
+| Badminton (Boys)  |            LIMM KEE YONG, MARCIUS             |       4A7     |         VICE-CAPTAIN          |
+| Badminton (Girls) |                  CHAI YU XIN                  | 4A5           |            CAPTAIN            |
+| Badminton (Girls) |                  ANKITA ANAND                 | 4A6           |          VICE-CAPTAIN         |
+| Badminton (Girls) |           OBIAS ALTHEA RAINE BANATIN          | 4A4           |          VICE-CAPTAIN         |
+| Basketball (Boys) |                   LIM YI DA                   | 4A3           |            CAPTAIN            |
+| Basketball (Boys) |           RAMESH BABU SUDHAN VIGNESH          | 4A7           |          VICE-CAPTAIN         |
+| Basketball (Boys) |              NOP THANASITSOMBOON              | 4A3           |          TEAM MANAGER         |
+|   Cross Country   |                  SEE SUK DAH                  | 4A5           |            CAPTAIN            |
+|   Cross Country   |                    LEE QING                   | 4A7           |          VICE-CAPTAIN         |
+|   Cross Country   |               LIEU CEA JAY DYLAN              | 4A5           |          VICE-CAPTAIN         |
+|       Rugby       |      MUHAMMAD AQIL ARFAN BIN ABDUL WAHAB      | 4A6           |            CAPTAIN            |
+|       Rugby       |                  LAM ZOUH REY                 | 4A8           |          VICE-CAPTAIN         |
+|       Rugby       |            MOHAMMAD RAUUF BIN AMIR            | 4A2           |          VICE-CAPTAIN         |
+|       Rugby       |              KYIAN LAU HONG SHENG             | 4A3           |         SECTION LEADER        |
+|      Softball     |              TIEW YUN FEI JERICA              | 4A7           |            CAPTAIN            |
+|      Softball     |                   GOH JIA NI                  | 4A7           |          VICE-CAPTAIN         |
+|      Softball     |                   SUH BOMIN                   | 4A5           |          VICE-CAPTAIN         |
+|   One Earth Club  |              JERIEL TAN ZHI MING              | 4A1           |           PRESIDENT           |
+|   One Earth Club  |             BRYANT NEO CHUN XIANG             | 4A1           |         VICE-PRESIDENT        |
+|   One Earth Club  |        RYKO BAIHAQI BIN HAIRULNARASHID        | 4A1           |         VICE-PRESIDENT        |
+|     Media Club    |                 EZRA BIN YUSOF                | 4A7           |           PRESIDENT           |
+|     Media Club    |               YIM KAH HONG BRYAN              | 4A5           |         VICE-PRESIDENT        |
+|     Media Club    |              DYLAN ARVIN CHANDRU              | 4A3           |           PRESIDENT           |
+|     Media Club    |               EDDY TEO HONG MING              | 4A1           |         VICE-PRESIDENT        |
+|        Band       |                    MEX TAN                    | 4A8           |           BAND MAJOR          |
+|        Band       |                ELSA GOH SI XUAN               | 4A5           |         SECTION LEADER        |
+|       Choir       |             CHUA KAI XIN, KIMBERLY            | 4A8           |           PRESIDENT           |
+|       Choir       |                 SHRISTI SINGH                 | 4A8           |         VICE-PRESIDENT        |
+|       Choir       |              EDRY REZAL BIN RAFIK             | 4A6           |       HEAD OF LOGISTICS       |
+|       Choir       |                  HENG GERRAD                  | 4A5           |         SECTION LEADER        |
+|    Malay Dance    |       PUTERI NUR ARFIZEANNA BINTE ZAILAN      | 4A6           |           PRESIDENT           |
+|    Modern Dance   |              SHERLENE, BO XIU LIN             | 4A5           |           PRESIDENT           |
+|    Modern Dance   |               LOW YI XUAN REENA               | 4A8           |         VICE-PRESIDENT        |
+|       ELDDS       |      SYAUQI MUHAMMAD IBNU MUHAMMAD IKRAM      | 4A4           |           PRESIDENT           |
+|       ELDDS       |            KOLANCHIAPPAN POOJASHRI            | 4A7           |         VICE-PRESIDENT        |
+|       ELDDS       |                  WOON VIN ZEN                 | 4A7           |        HEAD OF WELFARE        |
+|       ELDDS       |                SWETHA SYAM LAL                | 4A7           |         PROGRAMME HEAD        |
+| Chinese Orchestra |              DEENA BINTE AZAHARI              | 4A8           |          CHAIRPERSON          |
+| Chinese Orchestra |                   YEO XIN RU                  | 4A4           |        VICE-CHAIRPERSON       |
+| Chinese Orchestra |               MEGAN WEE YU SUAN               | 4A6           |        VICE-CHAIRPERSON       |
+| Chinese Orchestra |                  TAN XIN JIE                  | 4A6           |         SECTION LEADER        |
+|   Boys' Brigade   |            SSG JEEVAN ISAIAH SAMUEL           | 4A7           |     COMPANY SERGEANT MAJOR    |
+|   Boys' Brigade   |          SSG NATHANAEL GAN CHERN YONG         | 4A7           |    ASSISTANT SERGEANT MAJOR   |
+|   Boys' Brigade   |                 WO LIM JIN AN                 | 4A3           |         LOGISTICS I/C         |
+|   Boys' Brigade   |                 WO YEO CHEN XI                | 4A6           |  PHYSICAL TRAINING INSTRUCTOR |
+|   Girls' Brigade  |           SGT GWENDELYNE SEO RUI EN           | 4A8           |     COMPANY SERGEANT MAJOR    |
+|   Girls' Brigade  |           SGT SHERNICE TAN YING XIN           | 4A5           |    ASSISTANT SERGEANT MAJOR   |
+|   Girls' Brigade  |                SGT SALMA ZAMAN                | 4A8           |       PLATOON COMMANDER       |
+|     NCC (Land)    |                MSG LOKE KAI JUN               | 4A2           |      UNIT SERGEANT MAJOR      |
+|     NCC (Land)    |           MSG ZHANG ZHENG YU XAVIER           | 4A4           |    ASSISTANT SERGEANT MAJOR   |
+|     NCC (Land)    |              SSG HTOO HTET NAING              | 4A5           |     HEAD OF ADMINISTRATION    |
+|     NCC (Sea)     |        MSG PHOEBE NATALIE FONG JING EN        | 4A5           |      UNIT SERGEANT MAJOR      |
+|     NCC (Sea)     |                  MSG ZIV KOH                  | 4A7           | ASSISTANT UNIT SERGEANT MAJOR |
+|     NCC (Sea)     |                SSG YEO ZHI LIN                | 4A5           |     HEAD OF ADMINISTRATION    |
+|     NCC (Sea)     |                SSG P.N.VIGNESH                | 4A5           |        HEAD OF TRAINING       |
+|     NCC (Sea)     |               SSG DHASNA PRESYL               | 4A5           |        HEAD OF TRAINING       |
+|        NPCC       |     SSGT NUR SYAZWANI BINTE MOHAMMED ZAINI    | 4A6           |       MemberHEAD OG UNIT      |
+|        NPCC       | SSGT PUTRI VARISSA AMALIA BINTE MOHAMAD JAMIL | 4A4           |        HEAD OF TRAINING       |
+|        NPCC       |           SSGT LOH YANG GUANG TIMELY          | 4A1           |          TRAINING I/C         |
+|        NPCC       |            SSGT JANISHA D/O PRAKASH           | 4A2           |       DEPUTY HEAD/ADMIN       |
