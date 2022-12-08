@@ -3,6 +3,7 @@ title: BBSS Highlights
 permalink: /bbss-e-open-house-2022/bbss-highlights/
 description: ""
 ---
+# upload image slide in photo gallery to google slides
 # BBSS Highlights
 
 ![](/images/Bbss%20e%20open%20house%202022/3_BBSS%20Highligths.png)
