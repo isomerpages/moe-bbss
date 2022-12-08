@@ -2,8 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Welcome onboard to Parents Gateway (PG).md
-      - Schoolbag sg.md
       - Year End Sale of Textbooks and Uniform.md
       - SLS R18 Upgrade and System downtime.md
       - "Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope
@@ -22,3 +20,5 @@ collections:
       - Full Home Based Learning Matters.md
       - Student Learning Space (SLS) Matters.md
       - Personal Accident Insurance Online Claim for Students.md
+      - Schoolbag sg.md
+      - Welcome onboard to Parents Gateway (PG).md
