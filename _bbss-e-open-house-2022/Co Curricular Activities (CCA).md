@@ -49,3 +49,37 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<p style="text-align: center; color: #cf961c"><b>Sports & Games</b></p>
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><p style="text-align: center; color: #cf961c"><b>Rugby</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/IRXjp47NEow" title="BBSS Rugby Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><p style="text-align: center; color: #cf961c"><b>Softball</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/4x3KE1lz8as" title="BBSS Sports - Softball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
+
+<p style="text-align: center; color: #cf961c"><b>Clubs & Societies </b></p>
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><p style="text-align: center; color: #cf961c"><b>Media Club</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/V-Iclo42krc" title="BBSS Clubs-Media Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><p style="text-align: center; color: #cf961c"><b>Robotics</b></p><iframe width="385" height="214" src="https://www.youtube.com/embed/qdN9_9igxx0" title="BBSS Robotics Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
