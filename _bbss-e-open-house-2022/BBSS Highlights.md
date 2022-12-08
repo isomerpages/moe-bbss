@@ -3,7 +3,12 @@ title: BBSS Highlights
 permalink: /bbss-e-open-house-2022/bbss-highlights/
 description: ""
 ---
+# Display error for embedded youtube video: Rhapsody 2022, Singapore-Thailand Enhanced Programme
+
+
 # upload image slide in photo gallery to google slides
+
+<a id="top"></a>
 # BBSS Highlights
 
 ![](/images/Bbss%20e%20open%20house%202022/3_BBSS%20Highligths.png)
@@ -103,8 +108,7 @@ description: ""
 </tbody>
 </table>
 
-
-### BBSS School Events
+<p style="text-align: center; color: #cf961c"><b> BBSS School Events</b></p>
 
 <table>
 <thead>
@@ -120,3 +124,22 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<p style="text-align: center; color: #cf961c"><b>BBSS School Cheers</b></p>
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><iframe width="385" height="214" src="https://www.youtube.com/embed/zxe7YDgxejo" title="BBSS CHEER 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="381" height="211" src="https://www.youtube.com/embed/zcsdF-3-ED8" title="BBSS CHEER 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
+
+<center><a href="#top">Back to Top</a></center>
