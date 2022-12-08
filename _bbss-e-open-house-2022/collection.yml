@@ -2,6 +2,7 @@ collections:
   bbss-e-open-house-2022:
     output: true
     order:
+      - School Life.md
       - BBSS E OPEN HOUSE 2022.md
       - Welcome Message By Our School Principal.md
       - The BBSS Experience.md
