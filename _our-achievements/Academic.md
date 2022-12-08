@@ -198,6 +198,6 @@ description: ""
 
 
 |           Awards         |                Recipient(s)           |
-|:-------------:|:----------------:|
+|:-------------:|----------------|
 | GCE ‘N’ Level 2021 Good Performance Award | 1.       BRYANT NEO CHUN XIANG<br>2.       XANDER WONG SHAO ZE<br>3.       GARRY TAN<br>4.       TERRY BOO CHEE YEE<br>5.       CHIN YULING, NICOLE<br>6.       YEO ZHI YONG JENSEN<br>7.       QUAH WEWIN<br>8.       YIP SI YUAN<br>9.       NG CHEE WEI<br>10.   TAN QIAN HUI<br>11.   CHONG SHAWN EE<br>12.   LOKE KAI JUN                     |
 | GCE ‘O’ Level 2021 Good Performance Award | 1.       RUVAIZA SIDDIQA D/O ABDUL WAHAB LUKUMAN<br>2.       PATRICK ELLIOT SUBAGIO<br>3.       RAJASEKARAN RUDHRESH<br>4.       MANOGARAN MOHNISH<br>5.       BRYAN ZHANG TIAN YU<br>6.       AKSHAYAA D/O ARASUR PRABHAKARAN<br>7.       LINHARES KOGITZKI RAFAEL<br>8.       NEALE KOK YI XUAN<br>9.       HTOO HTET NAING<br>10.   GOH BING LO |
