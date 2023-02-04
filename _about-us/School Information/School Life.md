@@ -6,9 +6,9 @@ third_nav_title: School Information
 ---
 # School Life
 
-#### BBSS Yearbook 2021
+#### BBSS Yearbook 2022
 
-<iframe width="741" height="416" src="https://www.youtube.com/embed/JMlL1SEKl2U" title="BBSS e-Yearbook 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5z52GDycf4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![](/images/About%20us/School%20Information/School%20Life/2009_22%20Bukit%20Batok%20Secondary%20School%20WESTORIES_bleed_Page_1.jpg)
 
