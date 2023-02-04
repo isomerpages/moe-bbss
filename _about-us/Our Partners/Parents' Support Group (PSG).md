@@ -16,7 +16,6 @@ A community of engaged parents committed to the total development of our childre
 
 Support and promote parental involvement in the school.
 
-  
 
 The Parent Support Group was formed in 2005 to strengthen the school's effort in fostering closer ties between school and home.
 
