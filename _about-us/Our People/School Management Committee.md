@@ -6,8 +6,6 @@ third_nav_title: Our People
 ---
 # School Management Committee
 
-![](/images/About%20us/Our%20People/key%20personnels%202.jpg)
-
 ## School Leaders
 <div>
 <div>
@@ -33,8 +31,8 @@ third_nav_title: Our People
 <td>Vice-Principal (EO)</td>
 </tr>
 <tr>
-<td>Mr</td>
-<td>Mak Yew Chong</td>
+<td>Mdm</td>
+<td>Mabel Chia Bee Khim</td>
 <td>Vice-Principal (EO)</td>
 </tr>
 </tbody>
