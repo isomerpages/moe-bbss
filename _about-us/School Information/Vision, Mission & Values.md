@@ -7,3 +7,5 @@ third_nav_title: School Information
 # Vision, Mission & Values
 
 ![](/images/About%20us/School%20Information/BBSS.jpg)
+
+![](/images/Philosophy_BBSS.jpg)
