@@ -77,8 +77,8 @@ third_nav_title: Our People
 
 ## Sec 4 & 5 Faculty (YH / Mdm Dianah Bte Abdullah)
 
-|     |                 Name                | Designation        | Form Teacher | Ext | Email                                          |
-|-----|:-----------------------------------:|--------------------|--------------|-----|------------------------------------------------|
+|     |                 Name                |     Designation    | Form Teacher | Ext |                      Email                     |
+|-----|:-----------------------------------:|:------------------:|:------------:|:---:|:----------------------------------------------:|
 | Mr  | Tan Khoon Lim (Marshall)            | Teacher Counsellor | 4A1          | 308 | tan_khoon_lim@schools.gov.sg                   |
 | Ms  | Zhang Yue                           | Teacher            | 4A1          | 401 | zhang_yue@schools.gov.sg                       |
 | Mr  | Abdullah Al-Hady Bin Mohamed Salleh | Teacher            | 4A2          | 409 | abdullah_al-hady_mohamed_salleh@schools.gov.sg |
