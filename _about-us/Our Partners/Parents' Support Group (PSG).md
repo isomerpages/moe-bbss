@@ -5,13 +5,6 @@ description: ""
 third_nav_title: Our Partners
 ---
 # Parents' Support Group (PSG)
-
-Click the links for more information on:
-* [Events/Activites](/parents-support-group/events-activities/)
-* [Gallery](/parents-support-group/gallery/)
-* [Feedback](https://forms.cwp.gov.sg/bukitbatoksec/FormCU442)
-* [Healthy Meals in Schools Programme](/parents-support-group/healthy-meals-in-schools-programme/)
-
 ## Welcome to our Parents' Support Group  
 
 **OUR VISION**  
