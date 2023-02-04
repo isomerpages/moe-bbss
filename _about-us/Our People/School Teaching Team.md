@@ -38,8 +38,8 @@ third_nav_title: Our People
 
 ## Sec 2 Faculty (YH /Mrs Quek Meng Chee) 
 
- |     |                Name                | Designation | Form Teacher | Ext     | Email                                      |
-|-----|:----------------------------------:|-------------|--------------|---------|--------------------------------------------|
+|     |                Name                | Designation | Form Teacher |   Ext   |                   Email                    |
+|:---:|:----------------------------------:|:-----------:|:------------:|:-------:|:------------------------------------------:|
 | Mdm | Sri Haryati Binte Abdul Hamid      | Teacher     | 2A1          | 316/321 | sri_haryati_abdul_hamid@schools.gov.sg     |
 | Mr  | Tan Yong Hwa                       | Teacher     | 2A1          | 410     | tan_yong_hwa@schools.gov.sg                |
 | Mdm | Latifah Bte Mohamedzen             | Teacher     | 2A2          | 306     | latifah_mohamedzen@schools.gov.sg          |
