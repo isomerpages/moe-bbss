@@ -17,8 +17,8 @@ third_nav_title: Our People
 
 ## Sec 1 Faculty (YH / Ms Janice Lim Jia Xin)
 
-|      |              Name              | Designation         | Form Teacher | Ext   | Email                                       |
-|------|:------------------------------:|---------------------|--------------|-------|---------------------------------------------|
+|      |              Name              |     Designation     | Form Teacher | Ext   |                    Email                    |
+|------|:------------------------------:|:-------------------:|:------------:|-------|:-------------------------------------------:|
 | Mr   | Azhar Bin Mohamad Ali          | Teacher             | 1A1          | 310   | azhar_mohamad_ali@schools.gov.sg            |
 | Ms   | Ng Siew Yong                   | Teacher             | 1A1          | 411   | ng_siew_yong_a@schools.gov.sg               |
 | Ms   | Nithiya Bhavani D/O Thiyagaraj | Teacher             | 1A2          | 401   | nithiya_bhavani_thiyagarajan@schools.gov.sg |
@@ -34,7 +34,6 @@ third_nav_title: Our People
 | Mr   | Jacky Ong JieJun               | Teacher             | 1A6          | 313   | jacky_ong_jiejun@schools.gov.sg             |
 | Mr   | Muhammad Hafiz Bin Yusof       | Teacher             | 1A7          |  416  |  muhammad_hafiz_yusof@schools.gov.sg        |
 | Mrs  | Regina Yip                     | Teacher             | 1A7          | 307   | sen_li-yin_regina@schools.gov.sg            |
-
     
 
 ## Sec 2 Faculty (YH /Mrs Quek Meng Chee) 
