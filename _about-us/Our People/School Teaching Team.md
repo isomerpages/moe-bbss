@@ -10,29 +10,32 @@ third_nav_title: Our People
 
 |     |         Name        |     Designation    |  Ext |                  Email                  |
 |:---:|:---------:|:-----------:|:----:|:--------------:|
-| Ms  | Bibi Nur Shakirrah  |  Level DM (Sec 1)  | 315  |    [bibi\_nur\_shakirrah@schools.gov.sg](mailto:bibi_nur_shakirrah@schools.gov.sg)    |
+| Ms  | Bibi Nur Shakirrah  |  Level DM (Sec 1)  | 316  |    [bibi\_nur\_shakirrah@schools.gov.sg](mailto:bibi_nur_shakirrah@schools.gov.sg)    |
 |  Mr | Gabriel Yang Yi     |  Level DM (Sec 2)  |  315 |      [yang\_yi\_gabriel@schools.gov.sg](mailto:yang_yi_gabriel@schools.gov.sg)     |
 |  Mr | Yazid Ramli         |  Level DM (Sec 3)  |  408 | [muhammad\_yazid\_ramli@schools.gov.sg](mailto:muhammad_yazid_ramli@schools.gov.sg) |
 |  Ms | Jade Leong Tze Wei  | Level DM (Sec 4&5) |  316 |    [jade\_leong\_tze\_wei@schools.gov.sg](mailto:jade_leong_tze_wei@schools.gov.sg)    |
 
 ## Sec 1 Faculty (YH / Ms Janice Lim Jia Xin)
 
-|     |   Name    |     Designation     | Form Teacher |  Ext  |     Email            |
-|:---:|:-------:|:-----:|:-----:|:-----:|:-------:|
-| Mdm | Junaidah Bte Rajab                 | Senior Teacher / ML | 1A1          |   408 |       [junaidah\_rajab@schools.gov.sg](mailto:junaidah_rajab@schools.gov.sg)       |
-|  Mr | Tan Yong Hwa                       |       Teacher       | 1A1          | 410   |        [tan\_yong\_hwa@schools.gov.sg](https://bukitbatoksec.moe.edu.sg/about-us/our-people/tan_yong_hwa@schools.gov.sg)        |
-| Mdm | Latifah Bte Mohamedzen             |       Teacher       | 1A2          | 306   |      [latifah\_mohamedzen@schools.gov.sg](mailto:latifah_mohamedzen@schools.gov.sg)    |
-|  Mr | Thong Yew Kwong Christopher James  |       Teacher       | 1A2          | 312   | [thong\_yew\_kwong\_christopher@schools.gov.sg](mailto:thong_yew_kwong_christopher@schools.gov.sg) |
-|  Ms | Lau Gek Mui                        |       Teacher       | 1A3          |   305 |       [lau\_gek\_mui@schools.gov.sg](mailto:lau_gek_mui@schools.gov.sg)         |
-|  Mr | Nikhil Nath Chatterji              |       Teacher       | 1A3          | 416   |   [nikhil\_nath\_chatterji@schools.gov.sg](mailto:nikhil_nath_chatterji@schools.gov.sg)    |
-| Mrs | Ooi Sor Ching                      |       Teacher       | 1A4          |   304 |        [ooi\_sor\_ching@schools.gov.sg](mailto:ooi_sor_ching@schools.gov.sg)        |
-|  Mr | Tan Jun Tian Terence               |       Teacher       | 1A4          |   406 |    [tan\_juntian\_terence@schools.gov.sg](mailto:tan_juntian_terence@schools.gov.sg)    |
-|  Ms | Lim Dai Xuan                       |       Teacher       | 1A5          | 407   |        [lim\_dai\_xuan@schools.gov.sg](https://bukitbatoksec.moe.edu.sg/about-us/our-people/lim_dai_xuan@schools.gov.sg)       |
-|  Ms | Marie Tiong Sing Sing              |       Teacher       | 1A5          | 413   |    [marie\_tiong\_sing\_sing@schools.gov.sg](mailto:marie_tiong_sing_sing@schools.gov.sg)    |
-|  Ms | Cherry Fong                        |       Teacher       | 1A6          | 313   |           [fong\_cherry@moe.edu.sg](mailto:fong_cherry@moe.edu.sg)           |
-|  Ms | Seah Lilin                         |       Teacher       | 1A6          | 303   |         [lilin\_seah@schools.gov.sg](mailto:lilin_seah@schools.gov.sg)        |
-|  Ms | Cheung Zhi Xuan (Nicole)           |       Teacher       | 1A7          | 309   |       [cheung\_zhi\_xuan@schools.gov.sg](https://bukitbatoksec.moe.edu.sg/about-us/our-people/cheung_zhi_xuan@schools.gov.sg)      |
-|  Ms | Rafidah Bte Abdul Samad            |       Teacher       |      1A7     | 409   |     [rafidah\_abdul\_samad@schools.gov.sg](mailto:rafidah_abdul_samad@schools.gov.sg)     |
+|      |              Name              | Designation         | Form Teacher | Ext   | Email                                       |
+|------|:------------------------------:|---------------------|--------------|-------|---------------------------------------------|
+| Mr   | Azhar Bin Mohamad Ali          | Teacher             | 1A1          | 310   | azhar_mohamad_ali@schools.gov.sg            |
+| Ms   | Ng Siew Yong                   | Teacher             | 1A1          | 411   | ng_siew_yong_a@schools.gov.sg               |
+| Ms   | Nithiya Bhavani D/O Thiyagaraj | Teacher             | 1A2          | 401   | nithiya_bhavani_thiyagarajan@schools.gov.sg |
+| Mr   | Png Choon Bing                 | Teacher             | 1A2          | 403   | png_choon_bing@schools.gov.sg               |
+| Ms   | Yee Pei Fan                    | Teacher, EBS Co-Ord | 1A2          | 315   | yee_pei_fan@schools.gov.sg                  |
+| Ms   | Cherry Fong                    | Teacher             | 1A3          | 313   | fong_cherry@moe.edu.sg                      |
+| Ms   | Lu Shan Shan                   | Teacher             | 1A3          | 402   | lu_shanshan@schools.gov.sg                  |
+| Mrs  | Augustin Paul Nancy Bala       | Teacher             | 1A4          | 311   | augustin_paul_nancy_bala@schools.gov.sg     |
+| Mrs  |  Emilline Tan                  | Teacher             | 1A4          | 302   | tan_chin_yih_emilline@schools.gov.sg        |
+| Mr   | Jeremy Goh See Hon             | Teacher             | 1A5          | 404   | jeremy_goh_see_hon@schools.gov.sg           |
+| ­­Ms | Lee Sek Feng (Wynter)          | Teacher             | 1A5          | 302   | lee_sek_feng@schools.gov.sg                 |
+| Ms   | Cheryl Seet Huixin             | Teacher             | 1A6          | 411   | cheryl_seet_huixin@schools.gov.sg           |
+| Mr   | Jacky Ong JieJun               | Teacher             | 1A6          | 313   | jacky_ong_jiejun@schools.gov.sg             |
+| Mr   | Muhammad Hafiz Bin Yusof       | Teacher             | 1A7          |  416  |  muhammad_hafiz_yusof@schools.gov.sg        |
+| Mrs  | Regina Yip                     | Teacher             | 1A7          | 307   | sen_li-yin_regina@schools.gov.sg            |
+
+    
 
 ## Sec 2 Faculty (YH /Mrs Quek Meng Chee) 
 
