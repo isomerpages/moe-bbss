@@ -56,8 +56,8 @@ third_nav_title: Our People
 
 ## Sec 3 Faculty (YH / Mr Luke Tan)
 
-|     |            Name           | Designation             | Form Teacher | Ext  | Email                                |
-|-----|:-------------------------:|-------------------------|--------------|------|--------------------------------------|
+|     |            Name           |       Designation       | Form Teacher |  Ext |                 Email                |
+|-----|:-------------------------:|:-----------------------:|:------------:|:----:|:------------------------------------:|
 | Mdm | Rezwanna Bte Othman       | Teacher                 | 3A1          | 317  | rezwanna_othman@schools.gov.sg       |
 |  Mr | Song Kin Hoe Terence      | Teacher                 |  3A1         |  408 | song_kin_hoe@schools.gov.sg          |
 |  Ms | Teng Duan Li (June)       | Teacher                 |  3A1         | 405  | teng_duan_li_june@schools.gov.sg     |
