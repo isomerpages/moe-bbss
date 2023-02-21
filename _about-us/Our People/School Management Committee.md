@@ -42,7 +42,7 @@ third_nav_title: Our People
 <div>
 </div>
 
-## Year Heads (YHs) / Assistant Year Heads (AYHs);Head of Departments (HODs) / Subject Heads (SHs)
+#### Year Heads (YHs) / Assistant Year Heads (AYHs); Head of Departments (HODs) / Subject Heads (SHs)
 
 |        |          Name         |     Designation                   | Ext |       Email               |
 |:----:|:---------:|:-----------:|:-----:|-----------|
