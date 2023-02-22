@@ -2,6 +2,7 @@ collections:
   bbss-e-open-house-2022:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - 360 Virtual Tour @ BBSS.md
       - School Life.md
       - BBSS Highlights.md
