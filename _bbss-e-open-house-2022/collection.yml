@@ -2,6 +2,7 @@ collections:
   bbss-e-open-house-2022:
     output: true
     order:
+      - General Information And Admission.md
       - Connect With Us On Social Media.md
       - Co Curricular Activities (CCA).md
       - 360 Virtual Tour @ BBSS.md
