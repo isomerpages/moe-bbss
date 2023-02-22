@@ -2,11 +2,11 @@ collections:
   bbss-e-open-house-2022:
     output: true
     order:
-      - General Information And Admission.md
-      - Connect With Us On Social Media.md
-      - Co Curricular Activities (CCA).md
-      - 360 Virtual Tour @ BBSS.md
-      - School Life.md
-      - BBSS Highlights.md
-      - The BBSS Experience.md
       - Welcome Message By Our School Principal.md
+      - The BBSS Experience.md
+      - BBSS Highlights.md
+      - School Life.md
+      - 360 Virtual Tour @ BBSS.md
+      - Co Curricular Activities (CCA).md
+      - Connect With Us On Social Media.md
+      - General Information And Admission.md
