@@ -1,4 +1,5 @@
 collections:
   bbss-e-open-house-2022:
     output: true
-    order: []
+    order:
+      - Welcome Message By Our School Principal.md
