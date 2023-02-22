@@ -1,5 +1,4 @@
 collections:
   test-navigation:
     output: true
-    order:
-      - testing page.md
+    order: []
