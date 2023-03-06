@@ -4,7 +4,6 @@ permalink: /our-bbss-experience/BBSS-Student-Wellbeing/parents/
 description: ""
 third_nav_title: BBSS Student Wellbeing
 ---
-# links broken: MOE Cyber Wellness Portal - For parents, MOE Cyber Wellness Curriculum in Schools
 # Parents
 
 ## <u>Cyber Wellness Resources</u>
@@ -38,9 +37,9 @@ Our school catagorised Cyber Wellness into 3 main areas for parents:
 |---|---|
 | <img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Parents/book.png" style="width:10%"> <br><a href="/files/Our%20bbss%20experience/Parents/Helping%20your%20child%20manage%20Excessive%20Internet%20Use.pdf" target="_blank">Helping your child manage Cyber Bullying</a> |   |
 
-## <u>MOE Links</u>
+## <u>MOE Parenting Resources</u>
 
-<a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents" target="_blank">MOE Cyber Wellness Portal - For parents</a>
+<a href="https://www.instagram.com/parentingwith.moesg/" target="_blank">Parenting tips (Instagram Page)</a>
 
 
-<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness" target="_blank">MOE Cyber Wellness Curriculum in Schools</a>
+<a href="https://linktr.ee/parentingwith.moesg" target="_blank">Cyber-wellness courses, workshops and hosts AMA (ask me anything) sessions</a>
