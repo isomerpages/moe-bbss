@@ -40,6 +40,3 @@ Our school catagorised Cyber Wellness into 3 main areas for parents:
 ## <u>MOE Parenting Resources</u>
 
 <a href="https://www.instagram.com/parentingwith.moesg/" target="_blank">Parenting tips (Instagram Page)</a>
-
-
-<a href="https://linktr.ee/parentingwith.moesg" target="_blank">Cyber-wellness courses, workshops and hosts AMA (ask me anything) sessions</a>
