@@ -5,4 +5,4 @@ description: ""
 ---
 # Calendar
 
-*screenshot and upload term 1 letter to parents*
+![](/images/Term%201%20Events.jpg)
