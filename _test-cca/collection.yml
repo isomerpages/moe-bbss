@@ -2,4 +2,5 @@ collections:
   test-cca:
     output: true
     order:
+      - Test Sports/Test Basketball.md
       - Test Sports/.keep
