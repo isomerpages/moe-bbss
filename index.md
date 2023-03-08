@@ -15,4 +15,7 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
+  - resources:
+      subtitle: Announcements & News
+      button: More Announcements
 ---
