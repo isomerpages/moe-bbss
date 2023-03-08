@@ -9,7 +9,7 @@ description: ""
 
 |                     |       |
 |-------------------|--------|
-| **Teachers-in-charge:** | Mr Syam Lal (Advisor)<br>Mdm Nur Khairunnisah Bte Abdul Jamil (IC)<br>Mr Surjeet Singh (Advisor, Volunteer)<br>Mr Lim Eng Hock (EAS Volunteer)<br>Mr Hoe Peng Hwa (EAS Volunteer) |
+| **Teachers-in-charge:** | Mr Syam Lal (Advisor)<br>Mdm Nur Khairunnisah Bte Abdul Jamil (IC)<br>Mr Lim Eng Hock (EAS Volunteer)<br>Mr Hoe Peng Hwa (EAS Volunteer) |
 | **President:**          | Kamakshi Ravikumar Skandhakripa                                                           |
 | **Vice-President:**     | Nykan Ravindran and Nur Syafiqah Bte Md Fadly                                       |
 | **Training Days:**      | Tuesdays<br>3.00pm - 5.30pm                                                          |
