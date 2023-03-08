@@ -13,7 +13,7 @@ description: ""
 
 |                             |             |
 |-----------------|-----------|
-| **Teachers-in-charge:**<br><br> | Mdm Nadiah (IC)<br>Mr Luke Tan (2nd IC)<br>Mr Tan Thiam Chye<br>Mdm Rafidah<br>Ms Fatin (ICT Associate)<br>Mr Elfi (ICT Trainer)<br>Mr Sahrin Shah (AV/IT Trainer)                    |
+| **Teachers-in-charge:**<br><br> | Mdm Nadiah (IC)<br>Mr Luke Tan (2nd IC)<br>Mr Tan Thiam Chye<br>Mdm Rafidah<br>Ms Fatin (ICT Associate)<br>Mr Elfi (ICT Trainer)  |
 | **Chairperson:**                | Goh Rae Karl (3A5)                                                                                                                                                                    |
 | **Vice-Chairperson:**           | Kyle Lim Liangyu (3A5)<br>Darren Lee Yao Wei (3A7)                                                                                                                                    |
 | **Admin Manager:**              | Haleema Haja Alaudeen (3A2)                                                                                                                                                           |
