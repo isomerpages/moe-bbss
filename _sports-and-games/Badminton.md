@@ -9,7 +9,7 @@ description: ""
 
 |                     |         |
 |---------------|------------------------|
-| **Teachers-in-charge:** | Mr Azhar Mohamad Ali (OIC)<br>Mr Evin Rajasekar (Girls' IC)<br>Mr Chun Sir Kin<br>Mrs Ooi Sor Ching |
+| **Teachers-in-charge:** | Mr Azhar Mohamad Ali (OIC)<br>Mr Evin Rajasekar (Girls' IC)<br>Mr Muhammad Yazid<br>Mrs Ooi Sor Ching |
 
 ### Boys' Team
 
