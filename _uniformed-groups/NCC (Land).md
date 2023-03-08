@@ -10,7 +10,7 @@ description: ""
 
 |                           |                   |
 |--------------|----------------------------|
-| **Teachers-in-charge:**<br><br><br><br> | Mr Nikhil Nath Chatterji (IC)<br><br>Mr Jeremy Goh<br>Mr Tan Yong Hwa<br>Mr Quek Chin Keong |
+| **Teachers-in-charge:**<br><br><br><br> | Mr Nikhil Nath Chatterji (IC)<br>Mr Jeremy Goh<br>Mr Tan Yong Hwa<br>Mr Quek Chin Keong |
 
 ### Student Leaders
 
