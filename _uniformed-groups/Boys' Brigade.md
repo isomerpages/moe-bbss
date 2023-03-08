@@ -7,9 +7,9 @@ description: ""
 
 # Boys' Brigade
 
-|                     |                                                                    |                                                   |
-|-----------|--------------|------------------|
-| Teachers-in-charge: | LTA Mr Darren Ling (IC)<br>2LT Ms Leah Chua<br>2LT Mr Terence Chua | SH Mathematics & Innovation<br>Teacher<br>Teacher |
+|                     |                                                                    |
+|-----------|--------------|
+| Teachers-in-charge: | LTA Mr Darren Ling (IC)<br>2LT Ms Leah Chua<br>2LT Mr Terence Chua |
 
 |                    |                  |
 |--------------------|------------------|
