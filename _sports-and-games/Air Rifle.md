@@ -14,7 +14,7 @@ description: ""
 |                         |                                           |
 |-------------------------|-------------------------|
 |    **Training Days & Time** | Monday & Wednesday - 3:00pm to 6:00pm<br><br>Friday - 2:00pm to 5:00pm                                                                           |
-|      **Teachers in Charge** | Mr Chew Yiu Chee<br>Ms Theodora Soh<br>Mr Chun Sir Kin                                                                                           |
+|      **Teachers in Charge** | Mr Chun Sir Kin <br>Ms Theodora Soh<br>Mrs Emiline Tan                                                                                           |
 |                   **Coach** |                <br>Mr Gu Yong Qin<br>NCAP Level 1,2,3<br>Integrated NCAP Level 1<br>NROC, Certified First Aider & AED trained<br>                |
 |                **Captain** | Nick Rayan Gunawerdena                                                                                                                           |
 | **Vice-Captain (Training)** | Cedric Lee Jun Hung                                                                                                                              |
