@@ -9,7 +9,7 @@ description: ""
 
 |                     |                                              |
 |---------------------|------------------------------|
-| **Teachers-in-charge:** | Mr Terence Tan (IC)<br>Mr Jacky Ong Jie Jun<br>Mr Loo Tin Song<br>Mdm Yeo-Wong Poh Leng |
+| **Teachers-in-charge:** | Mr Terence Tan (IC)<br>Mr Jacky Ong Jie Jun<br>Mdm Yeo-Wong Poh Leng |
 | **B Division Captains** | Ramesh Babu Sudhan Vignesh<br>Lim Yi Da<br>Jeremiah Daileg Maulit                       |
 | **C Division Captains** | Ng Yuan Jie, Aidan John<br>Lim Jia Sheng<br>Fun Xiang Zhi Jeff                          |
 | **Training Days:**      | Mondays, Wednesdays<br>3.15pm – 6.00pm                      |
