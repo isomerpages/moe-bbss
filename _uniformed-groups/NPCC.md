@@ -28,7 +28,7 @@ Mission: To nurture self-directed cadets with abundance mentality
 |                          |                                      |
 |------------------|----------------|
 |**Officer-in-Command (OC):** | ASP (NPCC) Ms Catherine Bok                                                                                                                                             |
-| **Teacher Officers:**       | Insp (NPCC) Anita D/O Chandrasagaran<br>Insp (NPCC) Toong Mei Yunn<br>Ms Nicole Cheung<br>Mr Derek Goh                                           |
+| **Teacher Officers:**       | Insp (NPCC) Anita D/O Chandrasagaran<br>Insp (NPCC) Toong Mei Yunn<br>Insp (NPCC) Ms Nicole Cheung<br>Mr Derek Goh                                           |
 | **Cadet Inspectors:**        | <br>CI Muhammad  Zulhaqim Bin Mohammad Yusman<br>CI Mohammad Nazrul Bin Mohd Ismail<br>CI Tan Kai Seng Jovan<br>CI Matarage Luhith Manjitha<br>CI Katherine Kai Lin Tan |
 
 **Cadet Leader Committee 2020/2021**
