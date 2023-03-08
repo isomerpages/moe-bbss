@@ -3,14 +3,13 @@ title: NCC (Sea)
 permalink: /uniformed-groups/ncc-sea/
 description: ""
 ---
-
 # upload picture slide to google slide
 
 # NCC (Sea)
 
 |                      |                     |
 |-------------------|--------------------|
-| **Teachers-in-charge:**       | CO: CPT(NCC) Wynter Lee <br>2IC: LTA(NCC) Jake Lee<br>LTA (NCC) Janice LimLTA (NCC) Rachel LimMr Low Jun Hua                                                                                                                                                                                                                       |
+| **Teachers-in-charge:**       | CO: CPT(NCC) Wynter Lee <br>2IC: LTA(NCC) Jake Lee<br>LTA (NCC) Janice Lim<br>LTA (NCC) Rachel Lim<br>Mr Muhammad Hafiz bin Yusof                                                                                                                                                                                                                       |
 | **Unit Sergeant Major:**      | MSG(NCC) Nur Diyanah Alisyah Binte Azhar                                                                                                                                                                                                                                                                                           |
 | **Asst Unit Sergeant Major:** | MSG(NCC) Sitoe Yi Zheng, Linfred                                                                                                                                                                                                                                                                                                   |
 | **Admin Head/s:**             | SSG(NCC) Nur Arinah Thaqifah Binte Khairol HishamSSG(NCC) Nur Hakimah Binte Razali                                                                                                                                                                                                                                                 |
