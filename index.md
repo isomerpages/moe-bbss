@@ -2,7 +2,7 @@
 layout: homepage
 title: Bukit Batok Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/bbss-small.png
+image: /images/bbss-small-Maroon.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
       subtitle: Announcements & News
       button: More Announcements
 ---
+
