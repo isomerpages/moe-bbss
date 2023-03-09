@@ -3,10 +3,10 @@ url: https://bukitbatoksec.moe.edu.sg
 favicon: /images/bbss-small_faveicon.png
 colors:
   primary-color: "#8b1114"
-  secondary-color: "#fdf2ab"
+  secondary-color: "#981d20"
   media-colors:
     - title: media-color-one
-      color: "#981d20"
+      color: "#fdf2ab"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
