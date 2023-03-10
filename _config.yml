@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dh61i07kejk0x.amplifyapp.com
 prod: https://master.dh61i07kejk0x.amplifyapp.com
-shareicon: /images/bbss-small-Maroon.png
+shareicon: /images/bbss-small.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
