@@ -1,4 +1,5 @@
 collections:
   dsa-2023:
     output: true
-    order: []
+    order:
+      - Direct School Admission (DSA) 2023.md
