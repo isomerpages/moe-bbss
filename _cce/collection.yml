@@ -1,0 +1,7 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Sexuality Education Programme.md
+      - Education and Career Guidance (ECG).md
+      - Gallery.md

@@ -1,0 +1,9 @@
+collections:
+  uniformed-groups:
+    output: true
+    order:
+      - Boys' Brigade.md
+      - Girls' Brigade.md
+      - NCC (Land).md
+      - NCC (Sea).md
+      - NPCC.md

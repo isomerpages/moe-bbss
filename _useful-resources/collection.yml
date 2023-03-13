@@ -1,0 +1,38 @@
+collections:
+  useful-resources:
+    output: true
+    order:
+      - Timetable.md
+      - Calendar.md
+      - Students/.keep
+      - Students/Students.md
+      - Students/FHBL Seek, Discover and Learn (SDL,FHBL) Matters.md
+      - Students/School Safety Resources.md
+      - Students/School Safety Policy.md
+      - Students/BBSS Deep Breathing and Grounding Exercise.md
+      - Students/Weighted Assessment 3 and 4 2022.md
+      - Students/Year End Sale of Textbooks and Uniforms 2023.md
+      - Students/FAQ For New Secondary 1 Students.md
+      - Students/Student E Handbook.md
+      - Students/BBSS Student Link.md
+      - Students/2022 'N' & 'O' Prelims Timetable.md
+      - Students/2022 EYE Timetable.md
+      - Teachers/.keep
+      - Teachers/Teachers.md
+      - Teachers/BBSS Links.md
+      - Teachers/MOE Links.md
+      - Parents/.keep
+      - Parents/Parents.md
+      - Parents/CyberWellness.md
+      - Parents/Sexuality Education.md
+      - Parents/Term Letters.md
+      - Parents/Schoolbag sg.md
+      - Parents/Group Personal Accident Insurance Claim for Students.md
+      - Parents/PDLP @ BBSS.md
+      - Parents/PG Letter for Students' Weighted Assessment Class Test
+        Schedule.md
+      - Parents/Principal's Talk for Sec 2 and Subject Selection Information
+        2022.md
+      - Parents/My Healthy Plate Campaign | Wholegrains.md
+      - Parents/MOE Parents' Support Group (PSG) Portal.md
+      - Parents/Homework Policy for Parents.md

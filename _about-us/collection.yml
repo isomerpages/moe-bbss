@@ -1,0 +1,30 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Information/.keep
+      - School Information/School Information.md
+      - School Information/Vision, Mission & Values.md
+      - School Information/Principal's Message.md
+      - School Information/School Overview.md
+      - School Information/School Life.md
+      - School Information/School History.md
+      - Our People/.keep
+      - Our People/Our People.md
+      - Our People/School Management Committee.md
+      - Our People/School Teaching Team.md
+      - Our People/Executive & Administrative Support Team.md
+      - Our Partners/.keep
+      - Our Partners/School Advisory Committee (SAC).md
+      - Our Partners/Parents' Support Group (PSG).md
+      - Our Partners/BBSS Alumni.md
+      - Our Partners/FM@S.md
+      - Admissions/.keep
+      - Admissions/Admissions.md
+      - Admissions/Indicative PSLE Score ranges of 2021 PSLE Students Posted to
+        2022 Sec 1.md
+      - Admissions/Direct School Admission (DSA) 2022.md
+      - Contact Us/.keep
+      - Contact Us/General Information.md
+      - Contact Us/Centralised Feedback System.md
+      - BBSS E OPEN HOUSE 2022/.keep
