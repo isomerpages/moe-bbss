@@ -5,21 +5,34 @@ description: ""
 ---
 (DSA TALENT AREA BANNER)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDS5KNyGbaI"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDS5KNyGbaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
-<p>Student Leadership</p>
-</body>
-</html>
-
-| Student Leadership | Malay Dance | Basketball |
-| -------- | -------- | -------- |
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/18PJOpt-bxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/VVhZRpTNxN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      | <iframe width="560" height="315" src="https://www.youtube.com/embed/pzEQJ0he4TM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
+<table style="height: 293px;" width="302">
+<tbody>
+<tr>
+<td style="width: 293.333px; text-align: center;">
+<h4><span style="color: #ff6600;"><strong>Student Leadership</strong></span></h4>
+<p><span style="color: #ff6600;"><strong><iframe title="YouTube video player" src="https://www.youtube.com/embed/18PJOpt-bxk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 293.333px; text-align: center;">
+<h4><span style="color: #ff6600;"><strong>Basketball</strong></span></h4>
+<p><span style="color: #ff6600;"><strong><iframe title="YouTube video player" src="https://www.youtube.com/embed/pzEQJ0he4TM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 293.333px; text-align: center;">
+<h4><span style="color: #ff6600;"><strong>Malay Dance</strong></span></h4>
+<p><span style="color: #ff6600;"><strong><iframe title="YouTube video player" src="https://www.youtube.com/embed/VVhZRpTNxN0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 293.333px; text-align: center;">
+<h4><span style="color: #ff6600;"><strong>Badminton</strong></span></h4>
+<p><span style="color: #ff6600;"><strong><iframe title="YouTube video player" src="https://www.youtube.com/embed/VDS5KNyGbaI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></strong></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="302">
+<tbody>
