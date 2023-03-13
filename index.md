@@ -15,9 +15,10 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
+        - title: DSA 2023
+          description: ""
+          url: /dsa-2023/
   - resources:
       subtitle: Announcements & News
       button: More Announcements
 ---
-
-
