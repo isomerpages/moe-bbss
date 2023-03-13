@@ -19,15 +19,6 @@ p {text-align: center;}
 </body>
 </html>
 
-| <html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
-<p>Student Leadership</p>
-</body>
-</html> | Malay Dance | Basketball |
+| Student Leadership | Malay Dance | Basketball |
 | -------- | -------- | -------- |
 | <iframe width="560" height="315" src="https://www.youtube.com/embed/18PJOpt-bxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/VVhZRpTNxN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      | <iframe width="560" height="315" src="https://www.youtube.com/embed/pzEQJ0he4TM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
