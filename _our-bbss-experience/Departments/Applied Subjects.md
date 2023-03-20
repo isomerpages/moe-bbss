@@ -4,8 +4,6 @@ permalink: /our-bbss-experience/Departments/applied-subjects/
 description: ""
 third_nav_title: Departments
 ---
-# upload picture slide to google slide
-
 # Applied Subjects
 
 The Applied Subjects Department comprises the Design & Technology (D&T) Department & Nutrition & Food Science (NFS) Department, Art and Music units.
