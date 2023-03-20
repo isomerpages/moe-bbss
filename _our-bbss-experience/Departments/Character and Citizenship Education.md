@@ -4,7 +4,6 @@ permalink: /our-bbss-experience/Departments/character-and-citizenship-education/
 description: ""
 third_nav_title: Departments
 ---
-# sub-page under the Character and Citizenship Education folder cannot be replicated as isomer cannot accommodate so many layers of navigation. Instead, a separate folder is created with "Sexuality Education Programme, Education and Career Guidance (ECG) & Gallery" pages. The links to these pages are included in the Character and Citizenship Education page.
 # Character and Citizenship Education
 
 Click the links for more information on:
