@@ -4,8 +4,6 @@ permalink: /our-bbss-experience/Departments/science/
 description: ""
 third_nav_title: Departments
 ---
-# upload picture slide to google slide
-
 # Science
 
 <table width="623">
