@@ -75,4 +75,4 @@ The Humanities Department embarks on a curriculum to develop in students an inqu
 
 Learn more about the history and how 'Bukit Batok' got its name from in this short video done by Bukit Batok Secondary School in conjunction with Singapore Heritage Festival 2022.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DttlAAGSkpI" title="The Coughing Hills of Bukit Batok: What's In A Name?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DttlAAGSkpI"></iframe>
