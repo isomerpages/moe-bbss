@@ -17,7 +17,7 @@ third_nav_title: Departments
 <td colspan="3">
 <p>To enable our students to acquire a sound foundation in mathematical knowledge and skills for continuous learning in mathematics and related disciplines, and for application to the real world;&nbsp;</p>
 <p>To nurture in our students the ability to think logically and communicate mathematically, as well as to appreciate the beauty and power of mathematics and its role as a fundamental mode of human thought;</p>
-<p>To stimulate students&rsquo; intellectual curiosity and encourage the practice of Habits of Mind.</p>
+<p>To stimulate students’ intellectual curiosity and encourage the practice of Habits of Mind.</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,10 @@ third_nav_title: Departments
 | 6  | Pi Day (March 14)                                                          | Teachers prepare activities related to Pi to stimulate students’ curiosity, increase general knowledge and appreciation for mathematics.                                                                             |
 | 7  | Lower Sec Math Day                                                         | Station games prepared by Sec 2 students for Sec 1 participants, for students to learn Math in a fun way.                                                                                                            |
 | 8  | Mathematics Trail                                                          | The Mathematics Trail is a school-based activity that is conducted after the year-end examination for the Sec 2 students to help pupils develop an appreciation and enjoyment of Mathematics in everyday situations. |
-| 9  | Individualised Self-Paced Learning (ISPL) for Upper Secondary levels       | A programme to promote self-directed learning & collaborative learning.                                                                                                                                              |
+| 9  | Individualised Self-Paced Learning (ISPL) for Upper Secondary levels       | A programme to promote self-directed learning &amp; collaborative learning.                                                                                                                                              |
 | 10 | Bridging Lessons for Normal Academic students                              | To strengthen student’s foundation to meet the demands of higher academic levels.                                                                                                                                    |
 | 11 | Remedial and Supplementary Lessons                                         | Structured remedial/supplementary lessons to help weaker students.                                                                                                                                                   |
-| 12 | Prep Exam & Consultation for graduating students                           | To prepare students well for N level and O level Exam.                               |
+| 12 | Prep Exam &amp; Consultation for graduating students                           | To prepare students well for N level and O level Exam.                               |
+
+### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSczYa_0aDRZ3lMBC4-Z4vfudjF0dtnSYWv3C82Qoq6W83499egvQtozt61oTFA6mgKZ6_cvj6fR2n/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
