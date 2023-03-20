@@ -19,5 +19,3 @@ sections:
       subtitle: Announcements & News
       button: More Announcements
 ---
-
-
