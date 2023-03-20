@@ -5,16 +5,16 @@ description: ""
 ---
 # Timetable
 
-### <u>2022 Timetable for Semester 2 *NEW* (updated as of 28 July)</u>
+### 2023 Timetable for Term 2
 
 **Dear students, please click on the links below to view your timetable.**
 
 By Levels:
 
-<a href="/files/Useful%20Resources/Timetable/2022%20Timetable_Sem2_Sec%201_v280722.pdf" target="_blank">Secondary 1</a>  
-<a href="/files/Useful%20Resources/Timetable/Sec%202%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 2</a>  
-<a href="/files/Useful%20Resources/Timetable/Sec%203%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 3</a>  
-<a href="/files/Useful%20Resources/Timetable/Sec%204%20and%205%20Semester%202%20Timetable_240622.pdf" target="_blank">Secondary 4 & 5</a>
+<a href="https://drive.google.com/file/d/1ZaamCHt1orJuh4cfz_6Me9M0P8cdpEqd/view?usp=share_link" target="_blank">Secondary 1</a>  
+<a href="https://drive.google.com/file/d/1ti3I45CFUwaEyjzCJys4nfU7vByLh-Ux/view?usp=share_link" target="_blank">Secondary 2</a>  
+<a href="https://drive.google.com/file/d/1aHgCTUxdDQcbY9-OLSF_-JTy-u7HVrD9/view?usp=share_link" target="_blank">Secondary 3</a>  
+<a href="https://drive.google.com/file/d/1CYhYRlDEVb9synpK0ugq-CnMbvJVq9Xa/view?usp=sharing" target="_blank">Secondary 4 & 5</a>
 
 
 
@@ -28,4 +28,4 @@ A search bar will appear. You may type the name/class/room you are looking for, 
   
 \*\*\* Click <a href="/files/Useful%20Resources/Timetable/Subject%20Acronyms%20Guide.pdf" target="_blank">here</a> to know what the acronyms on your timetable means.   
   
-<p style = "text-align: right">*Updated as of 28 July 2022*</p>
+<p style = "text-align: right">*Updated as of 17 March 2023*</p>
