@@ -3,7 +3,6 @@ title: Sexuality Education Programme
 permalink: /cce/sexuality-education-programme/
 description: ""
 ---
-# Under item 3: MOE sexuality education link broken, http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/
 # Sexuality Education Programme
 
 **Moe Sexuality Education in Schools**
