@@ -17,13 +17,7 @@ third_nav_title: Departments
 ### Malay Special Programme 2023
 
 <b><u>Class Schedule</u></b>
-
-| Level       | Lesson Day | Lesson Time     | Teacher                                       |
-|-------------|------------|-----------------|-----------------------------------------------|
-| Secondary 1 | Thursday   | 3:30pm - 6:30pm | MSP1A: Mdm Mastuty<br>MSP1B: Mdm Nisah |
-| Secondary 2 | Thursday   | 3:30pm - 6:30pm | MSP2: Mdm Junaidah                            |
-| Secondary 3 | Monday     | 3:30pm - 6:30pm | MSP3: Mdm Latifah                             |
-| Secondary 4 | Wednesday  | 3:30pm - 6:30pm | MSP4: Mdm Mastuty                             |
+<img src=/images/Our%20BBSS%20Experience/MSP/MSP2023.jpg>
 
 
 **Registration for 2023 Secondary 1 Students**
