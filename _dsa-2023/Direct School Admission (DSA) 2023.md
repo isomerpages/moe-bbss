@@ -101,6 +101,8 @@ description: ""
 <td style="width: 250px; text-align: center;">
 <p><strong><span style="color: #ff6600;">Field</span></strong></p>
 <p><span style="color: #ff6600;"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="214" width="385" src="https://www.youtube.com/embed/KfXUc8oNk6o" class="ive_eobj_right"></iframe></span></p>
+<div style="text-align: center;">Click on the above banner to know more about life in BBSS.</div>
+<p style="text-align: left;"><br />Introduced in 2004, the DSA scheme seeks to promote holistic education and provide students with an opportunity to demonstrate a more diverse range of achievements and talent when seeking admission to a secondary school.<br /><br />At Bukit Batok Secondary School (BBSS), we believe that every child is unique and has innate abilities to be developed. Our school values, mission and vision, represent our collective passion, dreams and aspirations, and guide us in how we work with our parents, community and partners to realise the full potential of our students. We endeavour to build a culture of self-directedness and abundance mentality amongst staff and students. Children are firmly at the heart of our work and we seek to develop the whole child by providing meaningful and connected learning experiences that will allow every BBSSian to develop the right values, competencies and skills to do well in the 21st century.<br /><br /></p>
 </td>
 </tr>
 </tbody>
