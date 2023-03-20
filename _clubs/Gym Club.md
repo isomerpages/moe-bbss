@@ -3,8 +3,6 @@ title: Gym Club
 permalink: /clubs/gym-club/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Gym Club
 
 |                    |                                                  |
@@ -20,5 +18,3 @@ description: ""
 <p style="text-align: justify;">The Gym Club operates daily from 2.00 pm to 5.00pm on Monday to Thursday, and 1.30pm to 4.30pm on Friday. Each student will be given his or her own prescribed exercise program according to his or her fitness condition. The trainings include body weight exercises, resistance band exercises, Gym-ball exercises, weight trainings and TRX Suspension System exercises. The purpose of these trainings are to enhance students fitness conditions and to improve their sports performance. Currently, the Gym Club has 50 odd registered members.</p>
 
 <p style="text-align: justify;">The Gym Club also provide training guidance to the staff of the school too.</p>
-
-### Gallery
