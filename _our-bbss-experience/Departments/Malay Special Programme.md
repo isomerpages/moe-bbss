@@ -8,11 +8,9 @@ third_nav_title: Departments
 
 
 ### Background
-
 <p style="text-align: justify;">MSP is one of the Ministry of Education’s 3rd language programme. It used to be a Programme that is offered only to the top 30% of the PSLE cohort but has been expanded to anyone with the interest and inclination to do so beginning year 2006.</p>
 
 ### Details
-
 <p style="text-align: justify;">MSP Lesson is held once a week, 3 hours per lesson. The programme will prepare pupils for the MSP examination at GCE 'O' Level.</p>
 
 
