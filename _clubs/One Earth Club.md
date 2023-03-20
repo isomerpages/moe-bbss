@@ -3,8 +3,6 @@ title: One Earth Club
 permalink: /clubs/one-earth-club/
 description: ""
 ---
-# upload picture slide to google slide
-
 # One Earth Club
 
 |                     |       |
