@@ -3,8 +3,6 @@ title: Media Club
 permalink: /clubs/media-club/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Media Club
 
 ![](/images/Our%20BBSS%20Experience/Cca/Clubs/New%20CCA%20Logo.jpg)
@@ -85,5 +83,3 @@ BBSS Media Club aims to:
 *   Our Schools Our Stories (2021)
 
 ### Accolades
-
-### Gallery
