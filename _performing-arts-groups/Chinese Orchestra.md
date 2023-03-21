@@ -3,8 +3,6 @@ title: Chinese Orchestra
 permalink: /performing-arts-groups/chinese-orchestra/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Chinese Orchestra
 
 |                            |                    |
