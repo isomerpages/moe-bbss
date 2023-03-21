@@ -3,8 +3,6 @@ title: Boys' Brigade
 permalink: /uniformed-groups/boys-brigade/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Boys' Brigade
 
 |                     |                                                                    |
@@ -25,21 +23,21 @@ description: ""
 
 **Our Core**
 
-<p style="text-align: justify;">The 53rd Boys’ Brigade Company strongly believes in servanthood leadership and our core values include obedience, reverence, discipline and self-respect. Our BB Boys are nurtured to be faithful in what is entrusted to them and to be committed to the organisation. We train with utmost excellence and take pride in what we do.
+<p style="text-align: justify;">The 53rd&nbsp;Boys’ Brigade Company strongly believes in servanthood leadership and our core values include obedience, reverence, discipline and self-respect. Our BB Boys are nurtured to be faithful in what is entrusted to them and to be committed to the organisation. We train with utmost excellence and take pride in what we do.
 
 **Our Company Achievements**
 
-<p style="text-align: justify;">For 2020 to 2021, our company has once again attained the J<b>ames Milner Fraser Gold Honour Roll</b>, which is awarded to the top BB Companies in Singapore. The Boys Brigade has received the Gold Honour Roll from 2016 to 2021.</p>
+</p><p style="text-align: justify;">For 2020 to 2021, our company has once again attained the J<b>ames Milner Fraser Gold Honour Roll</b>, which is awarded to the top BB Companies in Singapore. The Boys Brigade has received the Gold Honour Roll from 2016 to 2021.</p>
 
   
 
 **Our Boys' Achievements**
 
-<p style="text-align: justify;">We are proud to announce  that we have a BB Boy who received the Founder's Award this year. The Founder's Award is the pinnacle of awards achievable at the Secondary School level.</p>
+<p style="text-align: justify;">We are proud to announce&nbsp; that we have a BB Boy who received the Founder's Award this year. The Founder's Award is the pinnacle of awards achievable&nbsp;at the Secondary School level.</p>
 
 **Our Holistic Curriculum**
 
-<p style="text-align: justify;">Our BB camps are specially tailored to suit the needs of our BB Boys. Our Recruit and Company Training Camps, including our Leadership Training and Development Camps focus on building heightened levels of tenacity and teamwork. They provide opportunities for the holistic development of our BB Boys as we observe them engaging in active collaboration and progress to become more confident individuals.</p>
+<p style="text-align: justify;">Our BB camps are&nbsp;specially tailored to suit the needs of our BB Boys. Our Recruit and Company Training Camps, including our Leadership Training and Development Camps focus on building heightened levels of tenacity and teamwork. They provide opportunities for the holistic development of our BB Boys as we observe them engaging in active collaboration and progress to become more confident individuals.</p>
 
   
 
@@ -55,3 +53,4 @@ description: ""
 
 
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWZ4UaE8RMeNp9tjrfAL4FtaC84kQN6aKHD5hlUY54fud0aQI7q2fNDUT2OBkG2Q8xFn7tiDE-KQxS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

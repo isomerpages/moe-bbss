@@ -3,8 +3,6 @@ title: Media Club
 permalink: /clubs/media-club/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Media Club
 
 ![](/images/Our%20BBSS%20Experience/Cca/Clubs/New%20CCA%20Logo.jpg)
@@ -17,9 +15,9 @@ description: ""
 | **Chairperson:**                | Goh Rae Karl (3A5)                                                                                                                                                                    |
 | **Vice-Chairperson:**           | Kyle Lim Liangyu (3A5)<br>Darren Lee Yao Wei (3A7)                                                                                                                                    |
 | **Admin Manager:**              | Haleema Haja Alaudeen (3A2)                                                                                                                                                           |
-| **Training Days:**<br>          | Venue:<br>Broadcasting Room<br><br><u>Odd Week Mondays & Wednesdays</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Mondays:</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Wednesdays:</u><br>2:30 PM to 4:30 PM |
+| **Training Days:**<br>          | Venue:<br>Broadcasting Room<br><br><u>Odd Week Mondays &amp; Wednesdays</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Mondays:</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Wednesdays:</u><br>2:30 PM to 4:30 PM |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ndGdwz-A2rw" title="MEDIA CLUB Video 2021_2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MEDIA CLUB Video 2021_2" src="https://www.youtube.com/embed/ndGdwz-A2rw" height="315" width="560"></iframe>
 
 
 ### About Media Club
@@ -68,7 +66,7 @@ BBSS Media Club aims to:
 
 ### Achievements:
 
-*   IDE Innovation Award (Arduino) – March 2016
+*   IDE Innovation Award (Arduino)&nbsp;–&nbsp;March 2016
 *   1st Runner-up Award (Republic Polytechnic #youthempowered Social Media Challenge) - 2019
 *   Top 3 in Youth Category (Our Schools Our Stories Competition) - 2019
 
@@ -85,5 +83,7 @@ BBSS Media Club aims to:
 *   Our Schools Our Stories (2021)
 
 ### Accolades
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRm2dQ_qBqlglYAVqXkwJlDksXclqldTQrtvJA3gxm0gd-B_ACppsxnB-HbGQ1kNN81Mh7SVhwX0b4k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRD4rlgCc5a6xxPJ02asfLn8H-XlytcV_WTNi1wMu3HGOZahWhnZ-5NdmjC11SH5mgNPyphdcnCznLH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

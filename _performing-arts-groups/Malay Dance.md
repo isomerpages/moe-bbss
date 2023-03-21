@@ -3,8 +3,6 @@ title: Malay Dance
 permalink: /performing-arts-groups/malay-dance/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Malay Dance
 
 |                             |                                    |
@@ -15,7 +13,7 @@ description: ""
 | **President:**                  | Puteri Nur Arfizeanna Binte Zailan                                                   |
 | **Vice-President:**            | Arin Natalya Binte Azmi                                                              |
 | **Section Leaders:**<br>        | Nursyahinda Binte Mohammed Rasul                                                     |
-| **Training Days:**<br>          | Mondays & Wednesdays<br>3.15pm - 6.00pm                                              |
+| **Training Days:**<br>          | Mondays &amp; Wednesdays<br>3.15pm - 6.00pm                                              |
 
 #### Introduction
 
@@ -48,3 +46,4 @@ description: ""
 2019 - Distinction
 
 #### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqEKzXz3ejoMgK2X45OQV35Oapym1UwQbQMSFDZgQoZwdABsWggPiI1WFTJwliQEXGSOISdpdcPjON/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

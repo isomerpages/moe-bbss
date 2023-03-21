@@ -3,8 +3,6 @@ title: Echoes 12
 permalink: /arts-education/echoes-12/
 description: ""
 ---
-# echoes 11,12 pdf & echoes team photograph >5mb
-
 # Echoes 12
 
 ![](/images/Our%20BBSS%20Experience/Arts%20Education/BBSS%20Echoes%2012%20Cover%20Page.jpg)

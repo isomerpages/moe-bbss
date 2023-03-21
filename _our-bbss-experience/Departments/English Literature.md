@@ -4,21 +4,20 @@ permalink: /our-bbss-experience/Departments/english-literature/
 description: ""
 third_nav_title: Departments
 ---
-# upload pictures to google slide
 # English / Literature
 <div>
 <div>
 <table>
 <tbody>
 <tr>
-<th colspan="3"  style="text-align:center">Mission</th>
+<th style="text-align:center" colspan="3">Mission</th>
 </tr>
 <tr>
-<td colspan="3" style="text-align:center">To develop BBSSians to be competent and confident users of English in the global context.</td>
+<td style="text-align:center" colspan="3">To develop BBSSians to be competent and confident users of English in the global context.</td>
 </tr>
 <tr>
 <td><strong>Head of Department</strong></td>
-<td colspan="2" style="text-align: center;">Mr Samuie Tarjalia</td>
+<td style="text-align: center;" colspan="2">Mr Samuie Tarjalia</td>
 </tr>
 <tr>
 <td><strong>Coordinators</strong></td>
@@ -68,29 +67,29 @@ The department organises and explores many activities to build on students’ co
 
 **The six Principles of EL Teaching and Learning (CLLIPS) are:**
 
-### C ontextualisation
+### C&nbsp;ontextualisation
 
 <p style="text-align: justify;">Learning tasks and activities will be designed for pupils to learn the language in authentic and meaningful contexts of use.</p>
 
-### L earner-Centeredness
+### L&nbsp;earner-Centeredness
 
 <p style="text-align: justify;">Learners are at the centre of the teaching-learning process. Teaching will be differentiated according to pupils’ needs, abilities and interests.</p>
 
-### L earning-focused Interaction
+### L&nbsp;earning-focused Interaction
 
 <p style="text-align: justify;">The teacher will provide a rich environment for communication that will explicitly foster listening and speaking skills and focus on the achievement of the Learning Outcomes.</p>
 
-### I ntegration
+### I&nbsp;ntegration
 
 <p style="text-align: justify;">The areas of language learning – the receptive skills, the productive skills, and grammar and vocabulary will be taught in an integrated way, together with the use of relevant print and non-print resources, to provide multiple perspectives and meaningful connections.</p>
 
-### P rocess Orientation
+### P&nbsp;rocess Orientation
 
 <p style="text-align: justify;">The development of language skills and knowledge about language involves the teaching of processes. The teacher will model and scaffold such processes for pupils, while guiding them to put together their final spoken, written and/or multimodal products.</p>
 
-### S piral Progression
+### S&nbsp;piral Progression
 
-<p style="text-align: justify;">Skills, grammatical items, structures and various types of texts will be taught, revised and revisited at increasing levels of difficulty and sophistication. </p>
+<p style="text-align: justify;">Skills, grammatical items, structures and various types of texts will be taught, revised and revisited at increasing levels of difficulty and sophistication.&nbsp;</p>
 
 ### Key department Programmes and Activities
 
@@ -100,3 +99,6 @@ The department organises and explores many activities to build on students’ co
 |  2 | Creative Writing Programme: NAC Artists-in-School Scheme                                        |
 |  3 | Self-Directed Learning Day Projects: Spotlight, Presentation and Story-writing and Storytelling |
 |  4 | Partnership with National Organ Transplant Unit                                                 |
+
+### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMESkAgeZ-RaSVNSc2I2oTL4X9zOGDswz9fvCKYe3P1p__MzWtPJ8Ej-2ps9P-aBMtX2Ttde4GpZUw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

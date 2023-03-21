@@ -4,30 +4,27 @@ permalink: /our-bbss-experience/Departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-
-# upload picture slide to google slide
-
 # Humanities
 
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="471">
+<td width="471" colspan="2">
 <p style="text-align: center;"><strong>Vision</strong></p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="471">
+<td width="471" colspan="2">
 <p style="text-align: center;">A holistic humanities curriculum which develops confident and reflective BBSSians who are emotionally connected to Singapore as well as future-ready to care for the society and the world we live in.</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="471">
+<td width="471" colspan="2">
 <p style="text-align: center;"><strong>Mission</strong></p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="471">
+<td width="471" colspan="2">
 <p style="text-align: center;">To nurture successful self-directed learners with a passion to achieve academic excellence and the desire to understand human societies.</p>
 </td>
 </tr>
@@ -68,16 +65,18 @@ The Humanities Department embarks on a curriculum to develop in students an inqu
 |--|-------------|--------------------------|
 | 1  | Humanities Joy of Learning Week                           | A bi-annual event organised to instill in students a love for the Humanities                                   |
 | 2  | Coastal Studies and Environment Learning Journey          | Coastal Geographical Investigation for Pure Geography students                                                 |
-| 3  | Historical Learning Journey to Museums and Heritage Sites | For Sec 1 & 2 as part of Lower Secondary Historical Investigation                                              |
+| 3  | Historical Learning Journey to Museums and Heritage Sites | For Sec 1 &amp; 2 as part of Lower Secondary Historical Investigation                                              |
 | 4  | Humanities Overseas School Immmersion                     | Humanities Cultural and School Immersion Overseas Programme to Asia Pacific countries for Sec 2 and 3 students |
-| 5  | Docent & Archivist Programme                              | For selected Sec 2 & 3 history students as part of History Talent Development Programme                        |
-| 6  | Model United Nation Training Programme                    | For selected Sec 2 & 3 as part of Social Studies Talent Development Programme                                  |
-| 7  | Green Ambassadors Programme                               | For selected Sec 1, 2 & 3 as part of Geography Talent Development Programme                                    |
+| 5  | Docent &amp; Archivist Programme                              | For selected Sec 2 &amp; 3 history students as part of History Talent Development Programme                        |
+| 6  | Model United Nation Training Programme                    | For selected Sec 2 &amp; 3 as part of Social Studies Talent Development Programme                                  |
+| 7  | Green Ambassadors Programme                               | For selected Sec 1, 2 &amp; 3 as part of Geography Talent Development Programme                                    |
 
 #### The Coughing Hills Of Bukit Batok: What's In A Name?
 
 Learn more about the history and how 'Bukit Batok' got its name from in this short video done by Bukit Batok Secondary School in conjunction with Singapore Heritage Festival 2022.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DttlAAGSkpI" title="The Coughing Hills of Bukit Batok: What's In A Name?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DttlAAGSkpI" height="315" width="560"></iframe>
 
-#### Photo Gallery
+### Gallery
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRNLohaL3NpXzP9fqIGfBXoPVJY_SByaFo4jITzdJdxNvxdwMLGJPolPFfYBXrIxfLhAqL-NoUdpqLW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

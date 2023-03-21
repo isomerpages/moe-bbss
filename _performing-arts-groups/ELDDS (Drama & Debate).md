@@ -3,9 +3,7 @@ title: ELDDS (Drama & Debate)
 permalink: /performing-arts-groups/eldds-drama-n-debate/
 description: ""
 ---
-# upload picture slide to google slide
-
-# ELDDS (Drama & Debate)
+# ELDDS (Drama &amp; Debate)
 
 |                     |                        |
 |----------|-------|
@@ -22,7 +20,7 @@ description: ""
 | **Heads of Welfare:**                | M K Meghaa (3A5)           |
 | **Programme Captains:**                   | Benjamin Yudistira Lee Punyadasa (2A4)<br>Alisha Shahnaz Bte Mohammed Rafi (2A7)                |
 | **Lower Secondary Peer Support Leaders:** | Kong Jing Rui Nygel (2A3)<br>Subeatha Kumar (1A5)                                               |
-| **Training Days:**                        | Mondays & Odd Week Wednesdays<br>3.15pm - 5.30pm<br><br>Even Week Wednesdays<br>2.30pm - 4.45pm |
+| **Training Days:**                        | Mondays &amp; Odd Week Wednesdays<br>3.15pm - 5.30pm<br><br>Even Week Wednesdays<br>2.30pm - 4.45pm |
 
 
 ### About Us
@@ -69,3 +67,4 @@ Endearingly referred to as 'Meraki' meaning 'doing something with heart and soul
 *   BBSS Arts Carnival  
     
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsdGWX5Pco8WBKMMnIQkbn0D-AdPFyXyLk6HXqbZq4XYPkdC6C4Hwr4VEnxS6ZZ2G-ge0JbAcwbxDM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

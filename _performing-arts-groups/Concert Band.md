@@ -3,8 +3,6 @@ title: Concert Band
 permalink: /performing-arts-groups/concert-band/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Concert Band
 
 |                     |                                  |
@@ -36,14 +34,14 @@ description: ""
 | Clarinet:        | Tan Bo Ling Pauline (4A8) |
 | French Horn:     | Clara Ooi Xin Hui (4A6)   |
 | Trombone:        | Chew Zi Rui SHerlyn (4A7) |
-| Euphonium & Tuba | Lau Zi Suan (4A5)         |
+| Euphonium &amp; Tuba | Lau Zi Suan (4A5)         |
 | Percussion:      | Eng Xinyu Natalie (4A8)   |
 
 ### Co-ordinators:
 
 |                    |                           |
 |--------------------|---------------------------|
-| Flute & Saxophone: | Tan Bo Ling Pauline (4A8) |
+| Flute &amp; Saxophone: | Tan Bo Ling Pauline (4A8) |
 | Trumpet/Cornet:    | Clara Ooi Xin Hui (4A6)   |
 
 ### About Us
@@ -81,6 +79,7 @@ Through key programmes, students learn to display values like perseverance, team
 
 ### Training Days
 
-*  Mondays & Wednesdays : 3.00pm - 6.00pm
+* &nbsp;Mondays &amp; Wednesdays : 3.00pm - 6.00pm
 
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBGkmsBbxae7uZZeE5TcBRozQLXf9kAYH7v8nI4wSeehaImdVCTD40BE9WN5amVCHi7B-UFET-1Q3e/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

@@ -4,8 +4,6 @@ permalink: /our-bbss-experience/Departments/computer-applications-elements-of-bu
 description: ""
 third_nav_title: Departments
 ---
-# sub-page under the Computer Applications/Elements of Business Skills folder cannot be replicated as isomer cannot accommodate so many layers of navigation. Instead, the content of the subpages "CPA", "EBS" are included in this page.
-
 # Computer Applications/Elements of Business Skills
 
 |      Mission - Computer Applications           | 

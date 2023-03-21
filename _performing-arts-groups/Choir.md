@@ -3,8 +3,6 @@ title: Choir
 permalink: /performing-arts-groups/choir/
 description: ""
 ---
-# Display error for embedded youtube video
-# upload picture slide to google slide
 # Choir
 
 |                             |               |
@@ -17,7 +15,7 @@ description: ""
 | **Sec 1 Level Heads:**                                       | Vera Goh Hui'er (3A5), Teh Rei Qi (3A8)                                        |
 | **Sec 2 Level Heads:**                                       | Katta Akshitha (4A7), Fidelia Wibowo (4A5)                                        |
 | **Sec 3 Level Heads:**                                       | Chua Kai Xin, Kimberly (4A8), Shristi Singh (4A8)                                  |
-| **Training Days:**<br>                                       | Mondays & Wednesdays<br>3.15pm - 5.45pm      |
+| **Training Days:**<br>                                       | Mondays &amp; Wednesdays<br>3.15pm - 5.45pm      |
 
 #### About Us
 
@@ -52,5 +50,7 @@ Participation in the following events (online):
 *   Certificate of Merit in the vocal examination conducted by the Associated Boards of the Royal Schools of Music (ABRSM)
 
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShIpkTeqbE32GEU5OMPxFpWoRwsd1UqDXU3CGjfVSu3yZgn9R6EVKZA9MJq2vwKUJGekTKsSY4VCG4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-<iframe width="812" height="455" src="https://www.youtube.com/embed/1KsTJ8TH4v8" title="BBSS Choir 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="BBSS Choir 2021" src="https://www.youtube.com/embed/1KsTJ8TH4v8" height="455" width="812"></iframe>

@@ -4,11 +4,9 @@ permalink: /our-bbss-experience/Departments/applied-subjects/
 description: ""
 third_nav_title: Departments
 ---
-# upload picture slide to google slide
-
 # Applied Subjects
 
-The Applied Subjects Department comprises the Design & Technology (D&T) Department & Nutrition & Food Science (NFS) Department, Art and Music units.
+The Applied Subjects Department comprises the Design &amp; Technology (D&amp;T) Department &amp; Nutrition &amp; Food Science (NFS) Department, Art and Music units.
 
 <table>
 <tbody>
@@ -40,22 +38,22 @@ Learning for life with joy through authentic experiences to solve real world pro
 
 ### Department Mission
 
-To nurture creative & independent learners who constantly seek innovative possibilities.
+To nurture creative &amp; independent learners who constantly seek innovative possibilities.
 
 ### Department Brief
 
-<p style="text-align: justify;">The <b>D&T unit</b> aims to develop pupils to become independent student designers who are effective in thinking, innovative in designing solutions & open to continuous learning.  </p>
+<p style="text-align: justify;">The&nbsp;<b>D&amp;T unit</b>&nbsp;aims to develop pupils to become independent student designers who are effective in thinking, innovative in designing solutions &amp; open to continuous learning.  </p>
   
-<p style="text-align: justify;">D&T is the process of inventing or improving things with the application of technology to satisfy practical needs or to solve practical problems (problem-based learning). Through problem-based learning projects, students acquire useful 21st Century Competencies & practical life skills such as project management, research & development (R&D), creative thinking, critical thinking, design & manufacturing. They can also aspire to become designers, architects, project managers, engineers, research personnel, scientists, entrepreneurs & other professionals.  </p>
+<p style="text-align: justify;">D&amp;T is the process of inventing or improving things with the application of technology to satisfy practical needs or to solve practical problems (problem-based learning). Through problem-based learning projects, students acquire useful 21st Century Competencies &amp; practical life skills such as project management, research &amp; development (R&amp;D), creative thinking, critical thinking, design &amp; manufacturing. They can also aspire to become designers, architects, project managers, engineers, research personnel, scientists, entrepreneurs &amp; other professionals.  </p>
   
-<p style="text-align: justify;">The NFS unit aims to educate students to be more health-conscious & better-informed consumers. NFS focuses on how individuals & families can optimize their resources in terms of food, finance & time to meet physical, mental, social & economic needs. It is hoped that students would then apply the knowledge & skills to solve real-world problems through the various activities & case studies. </p> 
+<p style="text-align: justify;">The&nbsp;NFS unit&nbsp;aims to educate students to be more health-conscious &amp; better-informed consumers. NFS focuses on how individuals &amp; families can optimize their resources in terms of food, finance &amp; time to meet physical, mental, social &amp; economic needs. It is hoped that students would then apply the knowledge &amp; skills to solve real-world problems through the various activities &amp; case studies. </p> 
   
-<p style="text-align: justify;">NFS also focuses on food choices, food preparation & budgeting which provide a platform for the development of 21st Century Competencies among students.  </p>
+<p style="text-align: justify;">NFS also focuses on food choices, food preparation &amp; budgeting which provide a platform for the development of 21st Century Competencies among students.  </p>
   
 <p style="text-align: justify;">At BBSS, students undergo a comprehensive 3-year programme to prepare them for the GCE examinations in Sec 4.</p>
 
 
-<p style="text-align: justify;">The <b>Art Unit</b> aims to develop BBSSians' visual literacy and love for visual arts through an enjoyable, broad-based curriculum. BBSSians will develop their sensory perception and imagination; learn to communicate by thinking, planning and creating final pieces. Lastly, they will learn to appreciate and understand current affairs from a variety of cultures and contexts.</p>
+<p style="text-align: justify;">The&nbsp;<b>Art Unit</b>&nbsp;aims to develop BBSSians' visual literacy and love for visual arts through an enjoyable, broad-based curriculum. BBSSians will develop their sensory perception and imagination; learn to communicate by thinking, planning and creating final pieces. Lastly, they will learn to appreciate and understand current affairs from a variety of cultures and contexts.</p>
 
 Passion - Be committed in practicing the various skills by applying prior knowledge into new situations.
 
@@ -65,7 +63,7 @@ Perception - Learn to be observant in daily life through all senses.
 
 Reflection - Understand self and relation with the surroundings by thinking flexibly and generating alternatives.
 
-<p style="text-align: justify;">The <b>Music Unit</b> aims to connect students through the expression of thoughts and emotions. Our students develop a sense of aesthetics through aural experiences empower our students to explore a wide range of genres and styles to deepen learning using instruments and online resources. This allows students to refine skills and understand the cultural diversity of music in Singapore and the world.</p>
+<p style="text-align: justify;">The&nbsp;<b>Music Unit</b>&nbsp;aims to connect students through the expression of thoughts and emotions. Our students develop a sense of aesthetics through aural experiences empower our students to explore a wide range of genres and styles to deepen learning using instruments and online resources. This allows students to refine skills and understand the cultural diversity of music in Singapore and the world.</p>
 
 <p style="text-align: justify;">Our students acquire and apply musical skills and knowledge using instruments such as keyboard and ukelele. Students also have the opportunity to create songs and music using Garageband and Chrome Music Lab.</p>
 
@@ -73,22 +71,22 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 
 | Year  | Programme / Activity       | Description                |
 |-------|--------------|-------------------|
-| 2022  |  MOE CPDD & DTES Design Award              | Creative Invention Award (Guided by Mr Ng)                                                  |
+| 2022  |  MOE CPDD &amp; DTES Design Award              | Creative Invention Award (Guided by Mr Ng)                                                  |
 | 2022  | Impact Festival @ Jurong Spring Makeathon  | Honorary Mention Award (Guided by Mr Hady)                                                  |
 | 2021  |  Live On Design Competition                | Merit Award (Guided by Mr Marshall Tan)                                                     |
 | 2021  | W7 upload! Online Art Competition          | Certificate with Distinction and Certificate with Commendation (Guided by Mr Marshall Tan)  |
 | 2021  | W7 Euphoria (Visual Arts)                  | Participation (Guided by Mdm Nadiah and Mr Marshall Tan)                                    |
 | 2021  | W7 Euphoria (Performances)                 | Participation (Guided by Ms Cherry Fong)                                                    |
 | 2021  | F1@HCI (3D Design Challenge)               | Champion for Lowest Drag Award and Best Downforce-to-Drag Award (Guided by Mr Ng)           |
-| 2020  | Live On Design Competition                 | Awarded Merit (guided by Mdm Nadiah)<br>Participation (Guided by Mdm Nadiah & Mr Azhar)     |
+| 2020  | Live On Design Competition                 | Awarded Merit (guided by Mdm Nadiah)<br>Participation (Guided by Mdm Nadiah &amp; Mr Azhar)     |
 | 2020  | The Online Art Exhibition - SYF 2020       | Participation (Guided by Mdm Nadiah)                                                        |
 | 2019  | RP Hospitality Race                        | 1st Runner-Up                                                                               |
-| 2018  | MOE CPDD D&T Awards                        | Creative Adaptation Award (guided by Mr Hady)                                               |
-| 2018  |  YISS Junior Chef Competition              | Champion (guided by Mdm Haryati & Ms Yap XF)                                                |
-| 2018  |  RP Hospitality Competition                | 1st Runner-Up (guided by Ms Yap XF & Mdm Haryati)                                           |
+| 2018  | MOE CPDD D&amp;T Awards                        | Creative Adaptation Award (guided by Mr Hady)                                               |
+| 2018  |  YISS Junior Chef Competition              | Champion (guided by Mdm Haryati &amp; Ms Yap XF)                                                |
+| 2018  |  RP Hospitality Competition                | 1st Runner-Up (guided by Ms Yap XF &amp; Mdm Haryati)                                           |
 | 2018  |  SP National Earthquake Competition        | Participation (guided by Ms Wynter Lee)                                                     |
 | 2017  |  RP iChef Competition                      | Participation (guided by Ms Yap XF)                                                         |
-| 2016  | MOE CPDD D&T Awards                        | Creative Adaptation Award (guided by Mr Low TS)<br>Participation (guided by Mr Ho SC)       |
+| 2016  | MOE CPDD D&amp;T Awards                        | Creative Adaptation Award (guided by Mr Low TS)<br>Participation (guided by Mr Ho SC)       |
 | 2016  |  RP iChef Competition                      | Participation (guided by Ms Yap XF)                                                         |
 
 ### Key Programmes and Activities
@@ -168,7 +166,7 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 <p>2. SYF Art Exhibition</p>
 <p>3. W7 Euphoria Exhibition</p>
 <p>4. W7 Upload! Online Art Competition</p>
-<br /><br /></td>
+<br><br></td>
 </tr>
 <tr>
 <td>
@@ -180,12 +178,12 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 </td>
 <td>
 <p>1. Music Elective Programme*</p>
-<br />
+<br>
 <p>*conducted at other centre</p>
 </td>
 <td>
 <p>1. BBSS Got Talent (inter-school)</p>
-2. Airtime Concert<br /><br /></td>
+2. Airtime Concert<br><br></td>
 </tr>
 </tbody>
 </table>
@@ -210,5 +208,9 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 ![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Slide1.jpeg)
 
 #### \#StandUpForCleaners Campaign
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 ![](/images/Our%20BBSS%20Experience/Applied%20Subjects/DNT%20NFS.jpg)
+
+### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
