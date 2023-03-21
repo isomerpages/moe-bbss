@@ -208,6 +208,9 @@ Reflection - Understand self and relation with the surroundings by thinking flex
 ![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Slide1.jpeg)
 
 #### \#StandUpForCleaners Campaign
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 ![](/images/Our%20BBSS%20Experience/Applied%20Subjects/DNT%20NFS.jpg)
+
+### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
