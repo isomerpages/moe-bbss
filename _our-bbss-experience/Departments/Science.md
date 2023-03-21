@@ -9,22 +9,22 @@ third_nav_title: Departments
 <table width="623">
 <tbody>
 <tr>
-<td style="width: 613px;" colspan="2">
+<td colspan="2" style="width: 613px;">
 <p style="text-align: center;"><strong>Vision</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 613px;" colspan="2">
+<td colspan="2" style="width: 613px;">
 <p style="text-align: center;"><strong>Every BBSSian is an inquisitive learner, ethical scientist and empathetic contributor.</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 613px;" colspan="2">
+<td colspan="2" style="width: 613px;">
 <p style="text-align: center;"><strong>Mission</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 613px;" colspan="2">
+<td colspan="2" style="width: 613px;">
 <p style="text-align: center;"><strong>To nurture technologists.</strong></p>
 <p style="text-align: center;"><strong>To enhance science literacy in self-directed and lifelong learners in BBSS.</strong></p>
 </td>
@@ -38,12 +38,12 @@ third_nav_title: Departments
 </td>
 </tr>
 <tr>
-<td style="width: 613px;" colspan="2">
+<td colspan="2" style="width: 613px;">
 <p style="text-align: center;"><strong>Subject Coordinators</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 123.198px;" rowspan="2">
+<td rowspan="2" style="width: 123.198px;">
 <p style="text-align: center;"><strong>Lower Sec</strong></p>
 </td>
 <td style="width: 483.802px;">
@@ -92,7 +92,7 @@ third_nav_title: Departments
 
 **Department Brief**
 
-<p style="text-align: justify;">BBSS science department strives to develop and nurture the inquisitive minds of our students through various inquiry approaches in our curriculum such as Problem-Based Learning (PBL), 5E Instructional Model, Modelling Instructional Strategy and Differentiated Instruction strategies.    </p> 
+<p style="text-align: justify;">BBSS science department strives to develop and nurture the inquisitive minds of our students through various inquiry approaches in our curriculum such as Problem-Based Learning (PBL), 5E Instructional Model, Modelling Instructional Strategy and Differentiated Instruction strategies.&nbsp; &nbsp; </p>&nbsp;
 
 <p style="text-align: justify;">The central aspect of the various inquiry approaches lies the spirit of scientific inquiry which promotes the desire in our students to ask questions and plan for research investigations. Our research programme hones the process and research skills in our students to conduct research projects that benefits the society and environment.</p>
 
@@ -114,7 +114,7 @@ third_nav_title: Departments
 
 *   NUS Surprising Science Series workshop
 
-*    Smart City and Sustainability workshop for Secondary 1
+*   &nbsp;Smart City and Sustainability workshop for Secondary 1
 
 *   Bacteria Transformation Workshop
 
@@ -136,7 +136,7 @@ third_nav_title: Departments
 
 *   ICAS UNSW Global Assessment
 
-*   Unity Scientific Innovation Challenge with SP & ERI@N (USPE)
+*   Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE)
 
 *   The ignITE Skills Challenge
 
@@ -149,5 +149,6 @@ third_nav_title: Departments
 *   International C. B. Paul Science Quiz
 
 ### **Gallery**
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRweNxwreQLSQYKC6nMWUEN7Zhyc-_IrPMLtuqIOGXz7S5wKZKdPyjlXDsJIS66aD6CCA4RykLbcCa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![](/images/Our%20BBSS%20Experience/Science%20Photo%20Gallery.jpg)
