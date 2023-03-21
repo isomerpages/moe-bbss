@@ -3,8 +3,6 @@ title: Badminton
 permalink: /sports-and-games/badminton/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Badminton
 
 |                     |         |
@@ -31,6 +29,7 @@ The Badminton CCA aims to promote participation in Badminton as a sport for life
 
 Our students train tremendously hard to improve their skills, either through rigorous workout sessions or in friendly competitions. Students are encouraged to explore doubles as well as singles play to boost individual character and teamwork skills.
 
-The CCA strives to get players to **_play for fun_** (enjoying the game), _**play for fitness**_ (develop them into athletes), _and **play for life**_ (making badminton their lifelong sport and recreational activity).
+The CCA strives to get players to&nbsp;**_play for fun_**&nbsp;(enjoying the game),&nbsp;_**play for fitness**_&nbsp;(develop them into athletes),&nbsp;_and&nbsp;**play for life**_&nbsp;(making badminton their lifelong sport and recreational activity).
 
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk3a7YjaFFRgy3EbURF8Kij0PUd_tdgG5jQTZLayvDLfY7k3onaOrOieCc9A6J6Jb6grkkX-w22phB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
