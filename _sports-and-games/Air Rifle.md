@@ -3,19 +3,17 @@ title: Air Rifle
 permalink: /sports-and-games/air-rifle/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Air Rifle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jDwQLztBaIc" title="Air Rifle CCA 2022 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Air Rifle CCA 2022 Video" src="https://www.youtube.com/embed/jDwQLztBaIc" height="315" width="560"></iframe>
 
 ### **<u>Air Rifle Organisation Chart</u>**
 
 |                         |                                           |
 |-------------------------|-------------------------|
-|    **Training Days & Time** | Monday & Wednesday - 3:00pm to 6:00pm<br><br>Friday - 2:00pm to 5:00pm                                                                           |
+|    **Training Days &amp; Time** | Monday &amp; Wednesday - 3:00pm to 6:00pm<br><br>Friday - 2:00pm to 5:00pm                                                                           |
 |      **Teachers in Charge** | Mr Chun Sir Kin <br>Ms Theodora Soh<br>Mrs Emiline Tan                                                                                           |
-|                   **Coach** |                <br>Mr Gu Yong Qin<br>NCAP Level 1,2,3<br>Integrated NCAP Level 1<br>NROC, Certified First Aider & AED trained<br>                |
+|                   **Coach** |                <br>Mr Gu Yong Qin<br>NCAP Level 1,2,3<br>Integrated NCAP Level 1<br>NROC, Certified First Aider &amp; AED trained<br>                |
 |                **Captain** | Nick Rayan Gunawerdena                                                                                                                           |
 | **Vice-Captain (Training)** | Cedric Lee Jun Hung                                                                                                                              |
 |    **Vice-Captain (Admin)** | Aislinn Chan Sze Ing                                                                                                                             |
@@ -27,15 +25,15 @@ description: ""
 |         **Cleanliness ICs** | Aislinn Chan Sze Ing<br>Wilson Chua Zong Jun<br>Lim Jia Min Sarah<br>Chen Kai Xuan<br>Chantel Tham Li Qin<br>Xu Bo Rui<br>Feng Shiru             |
 
 **Our history**  
- The Air Rifle Club was established in 1989. It has undergone several changes from an underground shooting range to the rooftop facility over the Indoor Sports Hall. Once again, we will be making improvements and come Quarter 4 2019, the range will be upgraded into an air-conditioned shooting range to enhance the training comfort of our shooters.    
+&nbsp;The Air Rifle Club was established in 1989. It has undergone several changes from an underground shooting range to the rooftop facility over the Indoor Sports Hall. Once again, we will be making improvements and come Quarter 4 2019, the range will be upgraded into an air-conditioned shooting range to enhance the training comfort of our shooters. &nbsp;  
   
 **Our Sport**  
 Competitive shooting requires one to persevere, be reflective and patient. It is not about physical strength and power, but composure, mental strength and concentration. Shooters learn to focus on their goals, and work hard. They reflect on their mistakes, correct and make changes and enjoy success doing it. Patience – waiting for the right moment before attempting a shot – is the key to succeeding in this sport. Mental strength, good decision-making skills and teamwork are also key attributes of our shooters.  
   
 Every year, our shooters participate in the National School Games (NSG). From 2019 onwards, we also began participating in both the NUS Invitational Shoot and the NTU Invitational Shoot. In 2021, a team of Secondary 2 girls won 2nd place in the NTU Invitational Shoot Team category. In addition, one of the Secondary 2 girls managed to achieve 3rd place in the Individual category.  
   
- **Our shooters**  
- Air Rifle Club enables our shooters to:
+&nbsp;**Our shooters**  
+&nbsp;Air Rifle Club enables our shooters to:
  
  |   |                             |
 |---|------------|
@@ -49,3 +47,4 @@ Every year, our shooters participate in the National School Games (NSG). From 20
 |  • | enjoy and discover more of themselves through the varied activities and also to experience the camaraderie as a close knit team. |
 
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSH1iBEnl4VKwNrQgxGNKcsfRkRcPTwXcfjnnBVKP6sYBlgvLNDYksAktzZMdjBc7dWEZ-zKoPwRlRe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
