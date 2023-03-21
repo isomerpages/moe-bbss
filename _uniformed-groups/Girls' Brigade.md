@@ -3,8 +3,6 @@ title: Girls' Brigade
 permalink: /uniformed-groups/girls-brigade/
 description: ""
 ---
-# upload picture slide to google slide
-
 # Girls' Brigade
 
 |                    |                        |
