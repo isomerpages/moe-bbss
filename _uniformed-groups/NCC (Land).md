@@ -3,8 +3,6 @@ title: NCC (Land)
 permalink: /uniformed-groups/ncc-land/
 description: ""
 ---
-# upload picture slide to google slide
-
 # NCC (Land)
 
 
@@ -37,7 +35,7 @@ To provide a platform for quality holistic education and to nurture cadets to be
 ### Objectives:
 
 *   To raise the ethos of NCC (Land) and maintain a high standard in the principles embodied in the NCC Pledge and NCC Core Values
-*   To promote camaraderie amongst cadets, instill a sense of commitment and belonging & pride and achievement.
+*   To promote camaraderie amongst cadets, instill a sense of commitment and belonging &amp; pride and achievement.
 
   
 
@@ -64,7 +62,7 @@ So that we, may better serve our country
 
 ### **The NCC Song: We Are Ready**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ww-T528CPw8" title="Singapore NCC SONG 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Singapore NCC SONG 2016" src="https://www.youtube.com/embed/ww-T528CPw8" height="315" width="560"></iframe>
 
 Bukit Batok Secondary School NCC (Land) aims to provide boys with a platform to grow holistically, to discover more about themselves and venture out of their comfort zone.
 
@@ -86,3 +84,4 @@ Bukit Batok Secondary School NCC (Land) aims to provide boys with a platform to 
 | NCC Instagram Page | https://www.instagram.com/sg_ncc/  |
 
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRabJMZRnkTl3wHx2kMEu__B_xKcrciRfENI8RkdQ-mTXq2H6gNnl9iIYWlDjBKm1ClK17iY-zmuXF-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
