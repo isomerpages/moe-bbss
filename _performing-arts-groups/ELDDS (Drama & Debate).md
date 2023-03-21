@@ -3,8 +3,6 @@ title: ELDDS (Drama & Debate)
 permalink: /performing-arts-groups/eldds-drama-n-debate/
 description: ""
 ---
-# upload picture slide to google slide
-
 # ELDDS (Drama &amp; Debate)
 
 |                     |                        |
