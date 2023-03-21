@@ -53,3 +53,4 @@ We provide opportunities for the girls to be equipped with leadership skills and
 *   Sustained Achievement Award for 12 consecutive years (2009 to 2020)
 
 #### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrAYui8a091md2teREX51kNX8L3Ik0uP_awKSM72jZsnXZy8SeBW_p5S-8JnP4sdJXzHoJ9O5fC4Fe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
