@@ -21,7 +21,7 @@ description: ""
 
 ### Objectives
 
-<p style="text-align: justify;">The National Cadet Corps (NCC Sea) is a platform for cadets to bond, learn and participate in numerous activities, which stretch them both mentally and physically. We aim to develop resourceful, responsible, resilient and committed leaders and team players. This is also in line with NCC Cadet Strong Framework where an NCC cadet is ‘Cadet Strong’, with a resilient mind, fit body and committed heart. </p>
+<p style="text-align: justify;">The National Cadet Corps (NCC Sea) is a platform for cadets to bond, learn and participate in numerous activities, which stretch them both mentally and physically. We aim to develop resourceful, responsible, resilient and committed leaders and team players. This is also in line with NCC Cadet Strong Framework where an NCC cadet is ‘Cadet Strong’, with a resilient mind, fit body and committed heart.&nbsp;</p>
 
 
 <p style="text-align: justify;">We want to develop all of them into strong leaders with good character. To achieve this, our cadets are given opportunities to challenge themselves and grow from the experience. They take part in activities designed to push them out of their comfort zone, with safety as the main priority.</p>
@@ -31,12 +31,12 @@ description: ""
 
 <p style="text-align: justify;">Being a Sea unit, we leverage on various water activities to build self-confidence, physical dexterity, situational awareness, teamwork and mental resilience.</p>
 
-<p style="text-align: justify;">Our water activities include kayaking, dragon-boating and sailing. We have planned out several kayaking milestones for each level of our cadets’ progression. </p>
+<p style="text-align: justify;">Our water activities include kayaking, dragon-boating and sailing. We have planned out several kayaking milestones for each level of our cadets’ progression.&nbsp;</p>
 
   
 
-Junior Cadet (Sec 1): Kayaking One-Star Certification   
-Senior Cadet (Sec 2): Kayaking Two-Star Certification    
+Junior Cadet (Sec 1): Kayaking One-Star Certification&nbsp;  
+Senior Cadet (Sec 2): Kayaking Two-Star Certification&nbsp;   
 Cadet Leaders (Sec 3): 36km Mini Kayaking Expedition (MKE) and 100 km Annual Kayaking Expedition (AKE)   
 Senior Cadet Leaders (SCLs): Expedition planning and execution at Kallang Sea Training Centre (KSTC)
 
@@ -59,7 +59,7 @@ Before 2020, our cadets participated in several NCC HQ overseas activities. Thes
 
 **Unit Recognition Award**
 
-2018: Distinction   
+2018: Distinction&nbsp;  
 2019: Distinction   
 2020: Suspended due to COVID-19   
 2021: Distinction
@@ -70,39 +70,40 @@ Before 2020, our cadets participated in several NCC HQ overseas activities. Thes
 2017: MSG (NCC) Ryan Poh Kai Wen   
 2018: MSG (NCC) Cristabel Seow Hsien Ting and MSG (NCC) Ranen Poh Kai Wei   
 2019: MSG (NCC) Tan Yue Rui, Kendrick    
-2020: MSG (NCC) Luo Jun Jie and MSG (NCC) Mohamed Amirul Haqim Bin Mohamed Faizal    
+2020: MSG (NCC) Luo Jun Jie and MSG (NCC) Mohamed Amirul Haqim Bin Mohamed Faizal&nbsp;   
 2021: MSG (NCC) Phoebe Natalie Fong and MSG (NCC) Ziv Koh
 
   
 
 **2018:**
 
-<p style="text-align: justify;">A record 18 Cadet Leaders successfully completed the arduous 36km Mini Kayaking Expedition (MKE) with 11 going on to complete the 100km Annual Kayaking Expedition (AKE). The expeditions saw many cadets step out of their comfort zone and braving the rough challenge to help one another. Our female cadets achieved 1st runner-up in the Girls’ Dragonboat Competition and are champions in the Frisbee component of the NCC Sports Challenge. </p>
+<p style="text-align: justify;">A record 18 Cadet Leaders successfully completed the arduous 36km Mini Kayaking Expedition (MKE) with 11 going on to complete the 100km Annual Kayaking Expedition (AKE). The expeditions saw many cadets step out of their comfort zone and braving the rough challenge to help one another. Our female cadets achieved 1st runner-up in the Girls’ Dragonboat Competition and are champions in the Frisbee component of the NCC Sports Challenge.&nbsp;</p>
 
   
 
 **2019:**
 
-<p style="text-align: justify;">We maintained the winning streak in the Girls’ Dragonboat Competition and NCC Sports Challenge. We also came in 1st in the NCC Fitness Challenge Prelims and 3rd runner up in the Grand Finals, and are NCC and District champions for the Captain’s Ball, Frisbee and Street soccer events in Sports Challenge 2019. </p>
+<p style="text-align: justify;">We maintained the winning streak in the Girls’ Dragonboat Competition and NCC Sports Challenge. We also came in 1st in the NCC Fitness Challenge Prelims and 3rd runner up in the Grand Finals, and are NCC and District champions for the Captain’s Ball, Frisbee and Street soccer events in Sports Challenge 2019.&nbsp;</p>
 
   
 
 **2020 to 2021:**
 
-<p style="text-align: justify;">Our cadets took part in a modified Annual Sea Competition due to COVID-19 restrictions, and did well in the 4 different components of Bends & Hitches Challenge, Sea Proficiency and Knowledge, Fitness Challenge and Sea Challenge (Team initiative). </p>
+<p style="text-align: justify;">Our cadets took part in a modified Annual Sea Competition due to COVID-19 restrictions, and did well in the 4 different components of Bends &amp; Hitches Challenge, Sea Proficiency and Knowledge, Fitness Challenge and Sea Challenge (Team initiative).&nbsp;</p>
 
-<p style="text-align: justify;">Our unit also participated in the NCC 120th Anniversary Virtual Run where every cadet and Teacher Officer participated to run a minimum of 12km across 4 months. We emerged as District Champions and 5th Overall among all the NCC units in Singapore with an outstanding performance of  a total distance of 5,164km. </p>
+<p style="text-align: justify;">Our unit also participated in the NCC 120th Anniversary Virtual Run where every cadet and Teacher Officer participated to run a minimum of 12km across 4 months. We emerged as District Champions and 5th Overall among all the NCC units in Singapore with an outstanding performance of&nbsp; a total distance of 5,164km.&nbsp;</p>
 
 
-<p style="text-align: justify;">Along with that, 8 of our Cadet Leaders were selected to participate in a Virtual AKE (Annual Kayaking Expedition), where our physical fitness and B&H knowledge were put to the test.</p>
+<p style="text-align: justify;">Along with that, 8 of our Cadet Leaders were selected to participate in a Virtual AKE (Annual Kayaking Expedition), where our physical fitness and B&amp;H knowledge were put to the test.</p>
 
   
 
 **Youtube Link:**
 
-<a href="https://www.youtube.com/watch?v=bALFpyxgCE0" target="_blank">In My Boots: Episode 1</a> \- Featuring SSG (NCC) Kayla Khoo   
-<a href="https://www.youtube.com/watch?v=u7x9qvgIrtE&t=7s" target="_blank">In My Boots: Episode 2</a>
- \- Featuring MSG (NCC) Ranen Poh Kai Wei
+<a target="_blank" href="https://www.youtube.com/watch?v=bALFpyxgCE0">In My Boots: Episode 1</a> \- Featuring SSG (NCC) Kayla Khoo   
+<a target="_blank" href="https://www.youtube.com/watch?v=u7x9qvgIrtE&amp;t=7s">In My Boots: Episode 2</a>
+&nbsp;\- Featuring MSG (NCC) Ranen Poh Kai Wei
 
  
 ### Gallery
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQm2Qzvjs7NJNwQfdoW2RCMTHUYRwGasCFvt34yIPbMKrV-Br-Cj57WVHWg0rOEIbERX8r37C7d1abQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
