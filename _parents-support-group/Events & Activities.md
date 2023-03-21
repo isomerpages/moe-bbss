@@ -3,8 +3,6 @@ title: Events & Activities
 permalink: /parents-support-group/events-activities/
 description: ""
 ---
-# links broken: Kite-Making Workshop, Soap-Making Workshop, Annual Cross Country 2015, President's Challenge 2015
-
 # **Events /Activities**
 
 
