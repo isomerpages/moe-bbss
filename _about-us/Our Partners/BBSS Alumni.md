@@ -18,6 +18,8 @@ We welcome all teachers, students, ex-staffs and ex-students to join our events 
 
 <a href="http://www.tinyurl.com/bbssalumni" target="_blank">Click here for Alumni registration</a>
 
+<img src="/images/About%20us/Our%20Partners/Alumni/BBSS%202018%20Alumni%20(informal)%20-%20Compressed.jpg"></img>
+
 | 2018 Alumni Executive Committee |                        |
 |:-------------------------------:|:----------------------:|
 | Advisor:                        | Mr Mak Yew Chong       |
