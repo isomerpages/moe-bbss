@@ -30,4 +30,3 @@ description: ""
 |  | ![](/images/DSA-westories-at-bbss.png) |  |
 | -------- | -------- | -------- |
 |      | <p style="text-align: center;">Click here to know more about life in BBSS!</p>     |      |
-
