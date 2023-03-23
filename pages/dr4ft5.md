@@ -42,12 +42,10 @@ description: ""
 
 
 
-|  | ![](/images/DSA/DSA-ADMISSION-GUIDELINES.png) |  |
+
+|  | <a href="https://www.bukitbatoksec.moe.edu.sg/about-us/Admissions/">
+<img src="/images/DSA/DSA-ADMISSION-GUIDELINES.png" alt="HTML tutorial">
+</a> |  |
 | -------- | -------- | -------- |
-|      | <p style="text-align: center;">Click here to find out more.</p>     |     |
+|      | <p style="text-align: center;">Click on the banner to find out more</p>     |      |
 
-
-
-|  | ![](/images/DSA/DSA-CONNECT-WITH-US-ON-SOCIAL-MEDIA.png) | |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
