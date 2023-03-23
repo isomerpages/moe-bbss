@@ -29,5 +29,5 @@ third_nav_title: Our People
 |  Mr  | Muhamad Uzair Bin Muhamad Lokman  |         NCS Desktop Engineer (DE)         | 225  |      g-ncs3044sde@ncs.com.sg      |
 |  Mr  | Muhammad Elfi Bin Jalani          |                ICT Trainer                |  424 |  muhammad_elfi_jalani@moe.edu.sg  |
 |      |                                   |            AV / IT Technician             |  225 |                                   |
-|      |                                   |             Library Assistant             |  225 |                                   |
+|   Ms   |    Haniz Idayu Bte Jamali   |             Library Assistant             |  225 |                                   |
 |   -  |                                   |            Teachers' Assistant            |  101 |         bbss_ta@moe.edu.sg        |
