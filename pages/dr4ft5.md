@@ -25,8 +25,6 @@ description: ""
 | <iframe width="560" height="315" src="https://www.youtube.com/embed/RYvKuRrg_gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/wdLs2bsvtRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/KfXUc8oNk6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
 
 
-
-
 |  | ![](/images/DSA-westories-at-bbss.png) |  |
 | -------- | -------- | -------- |
 |      | <p style="text-align: center;">Click here to know more about life in BBSS!</p>     |      |
@@ -48,4 +46,3 @@ description: ""
 </a> |  |
 | -------- | -------- | -------- |
 |      | <p style="text-align: center;">Click on the banner to find out more</p>     |      |
-
