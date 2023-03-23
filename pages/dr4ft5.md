@@ -8,3 +8,20 @@ description: ""
 |      | <iframe width="560" height="315" src="https://www.youtube.com/embed/k7xY5QZFo5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |      |
 | <iframe width="560" height="315" src="https://www.youtube.com/embed/VDS5KNyGbaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/VVhZRpTNxN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/pzEQJ0he4TM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
 |      | <iframe width="560" height="315" src="https://www.youtube.com/embed/18PJOpt-bxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |      |
+
+
+
+
+|  | ![](/images/DSA/DSA-VIRTUAL-TOUR-AT-BBSS.png) |  |
+| -------- | -------- | -------- |
+|      | <iframe width="560" height="315" src="https://www.youtube.com/embed/C4eeYHPCv2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |      |
+| <p style="text-align: center;">School Foyer</p>     |      | <p style="text-align: center;">Mural Painting</p>     |
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/B-iEMWrx1EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | Text     | <iframe width="560" height="315" src="https://www.youtube.com/embed/OmIjS2FfwiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
