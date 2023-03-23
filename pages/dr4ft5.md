@@ -23,3 +23,11 @@ description: ""
 | <iframe width="560" height="315" src="https://www.youtube.com/embed/wvTeLWNsXto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/RHctoVDm7HI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/eOoVCX47Dlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
 |  <p style="text-align: center;">Broadcasting Room</p>    | <p style="text-align: center;">Canteen</p>     | <p style="text-align: center;">Field</p>     |
 | <iframe width="560" height="315" src="https://www.youtube.com/embed/RYvKuRrg_gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/wdLs2bsvtRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | <iframe width="560" height="315" src="https://www.youtube.com/embed/KfXUc8oNk6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
+
+
+
+
+|  | ![](/images/DSA-westories-at-bbss.png) |  |
+| -------- | -------- | -------- |
+|      | <p style="text-align: center;">Click here to know more about life in BBSS!</p>     |      |
+
