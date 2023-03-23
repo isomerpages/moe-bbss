@@ -1,9 +1,10 @@
 ---
-title: Direct School Admission (DSA) 2022
-permalink: /about-us/Admissions/direct-school-admission-dsa-2022/
+title: DISCAD2022
+permalink: /nsh/
 description: ""
-third_nav_title: Admissions
 ---
+
+
 # Direct School Admission (DSA) 2022
 
 Introduced in 2004, the DSA scheme seeks to promote holistic education and provide students with an opportunity to demonstrate a more diverse range of achievements and talent when seeking admission to a secondary school.
