@@ -1,5 +1,4 @@
 collections:
   working-folder:
     output: true
-    order:
-      - DISCAD2023.md
+    order: []
