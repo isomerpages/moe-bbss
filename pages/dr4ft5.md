@@ -42,6 +42,12 @@ description: ""
 
 
 
+|  | ![](/images/DSA/DSA-ADMISSION-GUIDELINES.png) |  |
+| -------- | -------- | -------- |
+|      | <p style="text-align: center;">Click here to find out more.</p>     |     |
+
+
+
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
