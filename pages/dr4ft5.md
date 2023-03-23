@@ -16,12 +16,11 @@ description: ""
 | -------- | -------- | -------- |
 |      | <iframe width="560" height="315" src="https://www.youtube.com/embed/C4eeYHPCv2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |      |
 | <p style="text-align: center;">School Foyer</p>     |      | <p style="text-align: center;">Mural Painting</p>     |
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/B-iEMWrx1EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     | Text     | <iframe width="560" height="315" src="https://www.youtube.com/embed/OmIjS2FfwiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/B-iEMWrx1EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |      | <iframe width="560" height="315" src="https://www.youtube.com/embed/OmIjS2FfwiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
+| <p style="text-align: center;">Indoor Sports Hall</p>     |      | <p style="text-align: center;">Library</p>     |
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/JdLCGbwGErQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |      | <iframe width="560" height="315" src="https://www.youtube.com/embed/fViWbR0oyyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-
