@@ -4,7 +4,6 @@ permalink: /useful-resources/Teachers/moe-links/
 description: ""
 third_nav_title: Teachers
 ---
-# all links  EXCEPT for iCon, moe website,OPAL 2.0, Parents’ Gateway cannot be reached
 # MOE Links
 
 *   <a href="http://intranet.moe.gov.sg/guidancebranch/" target="_blank">Guidance Branch</a>
