@@ -48,7 +48,6 @@ description: ""
 
 
 
-| Column 1 | Column 2 | Column 3 |
+|  | ![](/images/DSA/DSA-CONNECT-WITH-US-ON-SOCIAL-MEDIA.png) | |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
