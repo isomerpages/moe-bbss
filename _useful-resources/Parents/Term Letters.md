@@ -6,6 +6,10 @@ third_nav_title: Parents
 ---
 # Term Letters
 
+## 2023 Term 2 Letter to Parents
+
+<a href="https://drive.google.com/file/d/1WDO3qHXasYQE7yVivGua0i6qpV2ZcYat/view" target="_blank">2023 Term 2 Letter to Parents</a>
+
 ## 2023 Term 1 Letter to Parents
 <a href="/files/Announcements/Letter%20to%20Parents/BBSS23-005rev_Termly%20Letter%20to%20Parents%20Term%201.pdf" target="_blank">2023 Term 1 Letter to Parents</a>
 
