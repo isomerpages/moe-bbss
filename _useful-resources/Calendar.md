@@ -4,5 +4,5 @@ permalink: /useful-resources/calendar/
 description: ""
 ---
 # Calendar
-
-![](/images/Term%201%20Events.jpg)
+### Term 2 Major Events
+![](images/Useful%20Resources/2023Term2.jpg)
