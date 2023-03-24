@@ -4,6 +4,8 @@ permalink: /direct-school-admission/
 description: ""
 third_nav_title: Admissions
 ---
+![](/images/DSA/DSA-SUBHEADING-BANNER-TITLE.png)
+To know more about our DSA talents and life in BBSS, click [here](https://sites.google.com/moe.edu.sg/bbssdsa2023/home).
 
 
 Introduced in 2004, the DSA scheme seeks to promote holistic education and provide students with an opportunity to demonstrate a more diverse range of achievements and talent when seeking admission to a secondary school.
