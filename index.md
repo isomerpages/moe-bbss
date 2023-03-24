@@ -11,10 +11,13 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/year-end-sale-of-textbooks-and-uniforms-2023/
+          url: /announcements/
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
+        - title: e-DSA 2023
+          description: ""
+          url: /direct-school-admission/
   - resources:
       subtitle: Announcements & News
       button: More Announcements
