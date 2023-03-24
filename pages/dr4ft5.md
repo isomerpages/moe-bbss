@@ -61,7 +61,7 @@ Note for all applicants: Achievements at the national/international level would 
 
 All applications are to be made via the MOE DSA Application Portal. Parents and students are encouraged to choose school wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-Information on DSA will be available in local media on a later date.
+**Information on DSA will be available in local media on a later date.**
 
 #### Enquiries
 
