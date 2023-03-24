@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/year-end-sale-of-textbooks-and-uniforms-2023/
+          url: /announcements/
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
