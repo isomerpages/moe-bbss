@@ -9,7 +9,7 @@ third_nav_title: Parents
 ## 2023 Term 1 Letter to Parents
 <a href="/files/Announcements/Letter%20to%20Parents/BBSS23-005rev_Termly%20Letter%20to%20Parents%20Term%201.pdf" target="_blank">2023 Term 1 Letter to Parents</a>
 
-## 2022 Term 1 Letter to Parents
+## 2022 Letter to Parents
 
 <a href="/files/Useful%20Resources/Parents/Term%20letters/20220105%20First%20letter%20to%20Parents.pdf" target="_blank">2022 Term 1 Letter to Parents</a>
 
@@ -23,4 +23,4 @@ third_nav_title: Parents
 
 ## Guidelines for School-Home partnership
 
-<a href="/files/Useful%20Resources/Parents/Term%20letters/Guidelines%20for%20School-Home%20Partnership.pdf" target="_blank">Guidelines for School-Home Partnership.pdf</a>   
+<a href="/files/Useful%20Resources/Parents/Term%20letters/Guidelines%20for%20School-Home%20Partnership.pdf" target="_blank">Guidelines for School-Home Partnership.pdf</a>
