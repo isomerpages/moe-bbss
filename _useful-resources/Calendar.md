@@ -5,4 +5,4 @@ description: ""
 ---
 # Calendar
 ### Term 2 Major Events
-![](images/Useful%20Resources/2023Term2.jpg)
+![](/images/Useful%20Resources/2023Term2.jpg)
