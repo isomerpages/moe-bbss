@@ -7,7 +7,7 @@ description: ""
 Dear students,
 This week's SDL Task is for **ALL LEVELS.**
 
-Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks) to view your SDL task list for term 2 week 2.
+Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks) to view your SDL task list for **Term 2 Week 2**.
 
 Please note the following for SDL matters:
 1. All SDL tasks can be found in the Student Learning Space (SLS):
