@@ -3,7 +3,6 @@ title: SDL Task List for Term 2 Week 2
 permalink: /announcements/sdltasklist/
 description: ""
 ---
-
 # SDL Term 2 Week 2
 Dear students,
 This week's SDL Task is for **ALL LEVELS.**
