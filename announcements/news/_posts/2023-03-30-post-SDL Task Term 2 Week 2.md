@@ -17,4 +17,4 @@ Please note the following for SDL matters:
 2. Log in to your SLS account to view the links of your teacher's Google Meet/Zoom under "Announcement".
 3. Use this format for usernames: (Class_Index Number_Name), to log into school-related online meetings. (*e.g. 2A1_02_Henry*)
 
-Click [here](https://www.bukitbatoksec.moe.edu.sg/useful-resources/Students/fhbl-seek-discover-and-learn-sdl-fhbl-matters/) for all SDL related matters and technical assistance
+Click [here](https://www.bukitbatoksec.moe.edu.sg/useful-resources/Students/fhbl-seek-discover-and-learn-sdl-fhbl-matters/) for all SDL related matters and technical assistance.
