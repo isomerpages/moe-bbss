@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - SDL Task List.md
       - "Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope
         of Talents.md"
       - MOE Financial Assistance Scheme (FAS 2023).md
