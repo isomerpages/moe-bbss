@@ -7,4 +7,4 @@ third_nav_title: Students
 # Student E-Handbook
 
 Dear Students,  
-Click <a href="/files/Useful%20Resources/Students/e-handbook%202022_June%202022.pdf" target="_blank">here</a> to read the  E-Handbook.
+Click&nbsp;<a href="https://drive.google.com/file/d/1hWbZA3Fr0n9463cFxektZ6xcbT_wxLxj/view?usp=share_link">here</a>&nbsp;to read the&nbsp; E-Handbook.

@@ -53,13 +53,20 @@ third_nav_title: Key Programmes
 <p class="" align="center"><span class="">Mr Darren Ling</span></p>
 </td>
 </tr>
-<tr>
-<td>&nbsp;</td>
-<td style="text-align: center;">Mr Loo Tin Song&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;Mr Chun Sir Kin</td>
+<tr class="">
+<td class="" width="258">
+<p class="" align="center"><span class="">&nbsp;</span></p>
+</td>
+<td class="" width="449">
+<p class="" align="center"><span class="">Mr Loo Tin Song</span></p>
+</td>
+</tr><tr class="">
+<td class="" width="258">
+<p class="" align="center"><span class="">&nbsp;</span></p>
+</td>
+<td class="" width="449">
+<p class="" align="center"><span class="">Mr Chun Sir Kin</span></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +82,7 @@ third_nav_title: Key Programmes
 <p style="text-align: justify;">Bought something online and it was delivered by a drone? Our robotics interest group support the broadening and deepening of interests in the areas of drones, coding and LEGO©\-based robotics.</p>
 
   
-<p style="text-align: justify;">Most of the world's population now lives in urban centres and city living provide problems and challenges of their own. Singapore, a highly urbanized city with very limited physical and human resources, faces profound challenges when it comes to development, management and sustainability. Our overarching  theme of City and Urban Landscapes let students explore solutions to some of the issues they face in their everyday life.  </p>
+<p style="text-align: justify;">Most of the world's population now lives in urban centres and city living provide problems and challenges of their own. Singapore, a highly urbanized city with very limited physical and human resources, faces profound challenges when it comes to development, management and sustainability. Our overarching&nbsp; theme of City and Urban Landscapes let students explore solutions to some of the issues they face in their everyday life.  </p>
   
 <p style="text-align: justify;">At the upper secondary levels, students have the opportunity to collaborate with partners such as Infineon Technologies to design solutions for real-life issues, participate in engineering competitions, job shadowing and attend STEM-related polytechnic elective modules.  </p>
   
@@ -92,5 +99,5 @@ Through the ALP, the school enables students to:
 
 ### **<u>Key Programmes (2020-2021)</u>**
 
-Secondary 1 - Robotic Technology & Coding  
+Secondary 1 - Robotic Technology &amp; Coding  
 Secondary 2 - Problem-solving via Design Thinking
