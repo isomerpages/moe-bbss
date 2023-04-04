@@ -28,4 +28,4 @@ A search bar will appear. You may type the name/class/room you are looking for, 
   
 \*\*\* Click&nbsp;<a href="/files/Useful%20Resources/Timetable/Subject%20Acronyms%20Guide.pdf" target="_blank">here</a>&nbsp;to know what the acronyms on your timetable means.&nbsp;  
   
-<p style="text-align: right">*Updated as of 17 March 2023*</p>
+<p style="text-align: right">*Updated as of 04 April 2023*</p>
