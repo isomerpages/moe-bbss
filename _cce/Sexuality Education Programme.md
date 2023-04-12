@@ -25,7 +25,7 @@ description: ""
 
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;(link:&nbsp;[Sexuality education | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education))&nbsp;for more information on MOE Sexuality Education.
+You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on MOE Sexuality Education.
 
 #### **Overview of Bukit Batok Secondary**&nbsp;**School’s**&nbsp;**Sexuality Education Programme for 2023**
 
@@ -835,8 +835,8 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20BBSS%20Experience/Departments/CCE/Sexuality%20Education/PDF%20A.pdf).&nbsp;The completed form is to be submitted by 28 February 2023.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/pdf%20a%20(1).pdf). The completed form is to be submitted by 28 February 2023.
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://www.bukitbatoksec.moe.edu.sg/qql/slot/u537/Our%20BBSS%20Experience/Departments/CCE/Sexuality%20Education/PDF%20B.pdf).&nbsp;&nbsp;The completed form is to be submitted by 28 February 2023.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/pdf%20b%20(1).pdf). The completed form is to be submitted by 28 February 2023.
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65663121 or&nbsp;[bbss@moe.edu.sg](mailto:bbss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
