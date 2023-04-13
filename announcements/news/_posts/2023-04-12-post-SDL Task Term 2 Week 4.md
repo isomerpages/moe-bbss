@@ -1,16 +1,16 @@
 ---
-title: SDL Task Term 2 Week 2
+title: SDL Task Term 2 Week 4
 permalink: /announcements/news/sdltasks/
-date: 2023-03-30
+date: 2023-04-12
 layout: post
 description: ""
 image: ""
 ---
-# SDL Term 2 Week 2
-Dear students,
+# SDL Term 2 Week 4
+Dear students, 
 This week's SDL Task is for **ALL LEVELS.**
 
-Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks) to view your SDL task list for **Term 2 Week 2**.
+Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks) to view your SDL task list for **Term 2 Week 4**.
 
 Please note the following for SDL matters:
 1. All SDL tasks can be found in the Student Learning Space (SLS):
