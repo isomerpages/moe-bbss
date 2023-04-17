@@ -5,16 +5,16 @@ description: ""
 ---
 # Special Awards
 
-#### Special Awards Recipient for AAC 2022
+#### Special Awards Recipient for AAC 2023
 
-|            Awards                  |          **Recipient(s)**<br>Secondary 4 Cohort (2021)                    |
+|            Awards                  |          **Recipient(s)**<br>Secondary 4 Cohort (2022)                    |
 |:-------------------:|----------------|
-|    Principal’s Bilingual Book Prize    | LOW YI XUAN REENA                                                                                                        |
-|       Belinda Charles Book Prize       | PATRICK ELLIOT SUBAGIO                                                                                                   |
-|         Sky is the Limit Award         | 1.       SHERLENE, BO XIU LIN<br>2.       CHUA PENG YU VIEVIENE<br>3.       CHAI YU XIN<br>4.       NICOLAS TAN JOON WEN |
-| Chai Chong Yii Community Service Award | ZIV KOH                                                                                                                  |
-|          Habits of Mind Award          | 1.       ZIV KOH<br>2.       WOON VIN ZEN<br>3.       SYAUQI MUHAMMAD IBNU MUHAMMAD IKRAM<br>4.       EDDY TEO HONG MING |
-|     BBSS Student of the Year Award     | LOKE KAI JUN                                                                                                             |
+|    Principal’s Bilingual Book Prize    | LIM JIA HUI                                                                                                        |
+|       Belinda Charles Book Prize       | LIM KAI YANG                                                                                                   |
+|         BBSS Youth Media and Design Award         | 1.       GENEVIEVE SUM YI TING<br>2.       SOH YEE HERN<br>3.       CHAI YU XIN<br>4.       NICOLAS TAN JOON WEN |
+| Chai Chong Yii Community Service Award | ENG XINYU, NATALIE                                                                                                                  |
+|          Habits of Mind Award          | 1.       CHEW ZI RUI SHERLYN<br>2.       OOI WEI SHENG<br>3.       MUHAMMAD AMIN S/O ABDUL KAFOOR<br>4.       TOH TZE ERN CHARLOTTE |
+|     BBSS Student of the Year Award     | CHEW ZI RUI SHERLYN                                                                                                             |
 
 |   |                                                                                                          |
 |:---:|:---------------------------:|
@@ -28,7 +28,7 @@ description: ""
 
 |   |   |
 |:---:|:---:|
-|  <img src="/images/Our%20Achievements/CHERISH%20Bronze%202012.jpg" style="width:50%"> |  **CHERISH AWARD** <br>Bronze<br>2007 – 2015 |
+|  <img src="/images/Our%20Achievements/CHERISH%20Bronze%202012.jpg" style="width:50%"> |  **CHERISH AWARD** <br>Bronze<br>2007&nbsp;–&nbsp;2015 |
 
 ### Other Awards
 
