@@ -12,10 +12,10 @@ description: ""
 <tr>
 <td style="text-align: center;" width="74">&nbsp;</td>
 <td style="text-align: center;" width="169">
-<p><strong>% of 3 or more &lsquo;O&rsquo; Level Distinctions</strong></p>
+<p><strong>% of 3 or more ‘O’ Level Distinctions</strong></p>
 </td>
 <td style="text-align: center;" colspan="2" width="229">
-<p><strong>% of 5 or more &lsquo;O&rsquo; Level Passes</strong></p>
+<p><strong>% of 5 or more ‘O’ Level Passes</strong></p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ description: ""
 </tbody>
 </table>
 
-### Percentage of 4NA students eligible for PFP & DPP
+### Percentage of 4NA students eligible for PFP &amp; DPP
 
 | Year | Percentage Of Students Eligible For PFP<br>(4NA Students) | Percentage Of Students Eligible for DPP<br>(4NA Students) |
 |:----:|:-----------:|:-----------------:|
@@ -194,10 +194,10 @@ description: ""
 | 2019 |        31.6     |        84.2           |
 | 2020 |         26.9      |     84.6         |
 
-#### AAC Academic Award Recipients 2021 - Based On Results In 2021 National Examinations
+#### AAC Academic Award Recipients 2022 - Based On Results In 2022 National Examinations
 
 
 |           Awards         |                Recipient(s)           |
 |:-------------:|----------------|
-| GCE ‘N’ Level 2021 Good Performance Award | 1.       BRYANT NEO CHUN XIANG<br>2.       XANDER WONG SHAO ZE<br>3.       GARRY TAN<br>4.       TERRY BOO CHEE YEE<br>5.       CHIN YULING, NICOLE<br>6.       YEO ZHI YONG JENSEN<br>7.       QUAH WEWIN<br>8.       YIP SI YUAN<br>9.       NG CHEE WEI<br>10.   TAN QIAN HUI<br>11.   CHONG SHAWN EE<br>12.   LOKE KAI JUN                     |
-| GCE ‘O’ Level 2021 Good Performance Award | 1.       RUVAIZA SIDDIQA D/O ABDUL WAHAB LUKUMAN<br>2.       PATRICK ELLIOT SUBAGIO<br>3.       RAJASEKARAN RUDHRESH<br>4.       MANOGARAN MOHNISH<br>5.       BRYAN ZHANG TIAN YU<br>6.       AKSHAYAA D/O ARASUR PRABHAKARAN<br>7.       LINHARES KOGITZKI RAFAEL<br>8.       NEALE KOK YI XUAN<br>9.       HTOO HTET NAING<br>10.   GOH BING LO |
+| GCE ‘N’ Level 2022 Good Performance Award | 1.       AHMAD DANI BIN MOHAMMAD SHARIL<br>2.       BRANDON LEE YONG HUI<br>3.       BRYAN CHUA JUN YANG<br>4.       KAMAKSHI RAVIKUMAR SKANDHAKRIPA<br>5.      NUR SYAFIQAH BINTE MUHAMMAD FADLY<br>6.       NYKAN RAVINDRAN<br>7.       PHONE MIN KHANT<br>8.       RAJ KAMAL S/O MANIVANNAN<br>9.       REBECCA LAU SHU EN<br>10.   JAISHREE D/O RAJAMOORTHI<br>11.   CHIA HONG JIN LARRY<br>12.   OOI CHEN SI<br>13.   TAN HONG YAN JOHN<br>14.   TAN TNG EE, MERVIN<br>15.   WANG KANG XU MATTHIAS                     |
+| GCE ‘O’ Level 2022 Good Performance Award | 1.       GERAUD ANG WEI SHENG<br>2.       AW JUN LE<br>3.       RCHEN XI<br>4.       GERALDINE CHUA<br>5.       MANICKAVASAGOM RAMAKRISHNAN<br>6.       RYAN TAN YI REN<br>7.       LAU XI ZUAN<br>8.       XAVIER LIM KAI LOOK (LIN KAILUN)<br>9.       LIM KAI YANG<br>10.   CHE ZI RUI SHERLYN |
