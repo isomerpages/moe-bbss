@@ -191,13 +191,13 @@ description: ""
 |       ELDDS       |            ALICIA HUA LI YING            |         VICE-PRESIDENT        |
 |       ELDDS       |                  ADITYAN SUBRAMANIAM                 |        VICE-PRESIDENT        |
 |       ELDDS       |                M K MEGHAA                |         HEAD OF WELFARE AND EVENTS        |
-| Chinese Orchestra |              DEENA BINTE AZAHARI              | 4A8           |          CHAIRPERSON          |
-| Chinese Orchestra |                   YEO XIN RU                  | 4A4           |        VICE-CHAIRPERSON       |
-| Chinese Orchestra |               MEGAN WEE YU SUAN               | 4A6           |        VICE-CHAIRPERSON       |
-| Chinese Orchestra |                  TAN XIN JIE                  | 4A6           |         SECTION LEADER        |
-|   Boys' Brigade   |            SSG JEEVAN ISAIAH SAMUEL           | 4A7           |     COMPANY SERGEANT MAJOR    |
-|   Boys' Brigade   |          SSG NATHANAEL GAN CHERN YONG         | 4A7           |    ASSISTANT SERGEANT MAJOR   |
-|   Boys' Brigade   |                 WO LIM JIN AN                 | 4A3           |         LOGISTICS I/C         |
+| Chinese Orchestra |              WONG SHI YAN              |          CHAIRPERSON          |
+| Chinese Orchestra |                   TAN JIN                  |        VICE-CHAIRPERSON       |
+| Chinese Orchestra |               ALYNNA TONG QING YI               |        VICE-CHAIRPERSON       |
+| Chinese Orchestra |                  BRYAN WONG JIN KAI                  |         QUARTERMASTER        |
+|   Boys' Brigade   |            WO SARAVANAN NITHILAN           |     COMPANY SERGEANT MAJOR    |
+|   Boys' Brigade   |          WO SEO JINWON         |    ASSISTANT SERGEANT MAJOR   |
+|   Boys' Brigade   |                 WO ZEN TAN CHOONG BOON                 | 4A3           |         LOGISTICS I/C         |
 |   Boys' Brigade   |                 WO YEO CHEN XI                | 4A6           |  PHYSICAL TRAINING INSTRUCTOR |
 |   Girls' Brigade  |           SGT GWENDELYNE SEO RUI EN           | 4A8           |     COMPANY SERGEANT MAJOR    |
 |   Girls' Brigade  |           SGT SHERNICE TAN YING XIN           | 4A5           |    ASSISTANT SERGEANT MAJOR   |
