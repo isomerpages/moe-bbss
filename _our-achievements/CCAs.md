@@ -197,20 +197,20 @@ description: ""
 | Chinese Orchestra |                  BRYAN WONG JIN KAI                  |         QUARTERMASTER        |
 |   Boys' Brigade   |            WO SARAVANAN NITHILAN           |     COMPANY SERGEANT MAJOR    |
 |   Boys' Brigade   |          WO SEO JINWON         |    ASSISTANT SERGEANT MAJOR   |
-|   Boys' Brigade   |                 WO ZEN TAN CHOONG BOON                 | 4A3           |         LOGISTICS I/C         |
-|   Boys' Brigade   |                 WO YEO CHEN XI                | 4A6           |  PHYSICAL TRAINING INSTRUCTOR |
-|   Girls' Brigade  |           SGT GWENDELYNE SEO RUI EN           | 4A8           |     COMPANY SERGEANT MAJOR    |
-|   Girls' Brigade  |           SGT SHERNICE TAN YING XIN           | 4A5           |    ASSISTANT SERGEANT MAJOR   |
-|   Girls' Brigade  |                SGT SALMA ZAMAN                | 4A8           |       PLATOON COMMANDER       |
-|     NCC (Land)    |                MSG LOKE KAI JUN               | 4A2           |      UNIT SERGEANT MAJOR      |
-|     NCC (Land)    |           MSG ZHANG ZHENG YU XAVIER           | 4A4           |    ASSISTANT SERGEANT MAJOR   |
-|     NCC (Land)    |              SSG HTOO HTET NAING              | 4A5           |     HEAD OF ADMINISTRATION    |
-|     NCC (Sea)     |        MSG PHOEBE NATALIE FONG JING EN        | 4A5           |      UNIT SERGEANT MAJOR      |
-|     NCC (Sea)     |                  MSG ZIV KOH                  | 4A7           | ASSISTANT UNIT SERGEANT MAJOR |
-|     NCC (Sea)     |                SSG YEO ZHI LIN                | 4A5           |     HEAD OF ADMINISTRATION    |
-|     NCC (Sea)     |                SSG P.N.VIGNESH                | 4A5           |        HEAD OF TRAINING       |
-|     NCC (Sea)     |               SSG DHASNA PRESYL               | 4A5           |        HEAD OF TRAINING       |
-|        NPCC       |     SSGT NUR SYAZWANI BINTE MOHAMMED ZAINI    | 4A6           |       MemberHEAD OG UNIT      |
-|        NPCC       | SSGT PUTRI VARISSA AMALIA BINTE MOHAMAD JAMIL | 4A4           |        HEAD OF TRAINING       |
-|        NPCC       |           SSGT LOH YANG GUANG TIMELY          | 4A1           |          TRAINING I/C         |
-|        NPCC       |            SSGT JANISHA D/O PRAKASH           | 4A2           |       DEPUTY HEAD/ADMIN       |
+|   Boys' Brigade   |                 WO ZEN TAN CHOONG BOON                 |         PLATOON SERGEANT         |
+|   Girls' Brigade   |                 SGT SOH XUAN TING                |  COMPANY SERGEANT MAJOR |
+|   Girls' Brigade  |           SGT LYNETTE ISABELLE LIM           |     ASSISTANT SERGEANT MAJOR    |
+|   Girls' Brigade  |           SGT GRETA LOIS LAMIAO MADRID           |    PLATOON COMMANDER   |
+|   NCC (Land)  |                MSG SWASTIK TRIPATHI                |       ASSISTANT SERGEANT MAJOR       |
+|     NCC (Land)    |                MSG KENDREN LEE ZHENGRONG               |      COMPANY SERGEANT MAJOR      |
+|     NCC (Land)    |           3SG HE JIASHENG, EDWARD           |    PLATOON SERGEANT   |
+|     NCC (Land)    |              SSG SSG SYED RAYYAN SYED MUSTHAQ              |     HEAD OF ADMIN    |
+|     NCC (Sea)     |        MSG WONG YU XUAN        |      UNIT SERGEANT MAJOR      |
+|     NCC (Sea)     |                  MSG BRANDON GOH                  | ASSISTANT UNIT SERGEANT MAJOR |
+|     NCC (Sea)     |                SSG CHONG HONG LOK                |     SENIOR CADETS IC    |
+|     NCC (Sea)     |                3SG CHIA HOW CHIEN                |        INSTRUCTOR       |
+|     NPCC     |               SI RAMESH BUVANESH RAM              |        HEAD OF UNIT      |
+|        NPCC       |     SSGT NAINAPILLAI SICKENDERSHA FARHAN    |       HEAD OF TRAINING      |
+|        NPCC       | SI VENKATESWARAN GAYATHRI |        HEAD OF TRAINING       |
+|        NPCC       |           SGT NAVAITH AHMED NUHA          |          HEAD OF ADMIN AND LOGISTICS         |
+||
