@@ -194,7 +194,7 @@ description: ""
 | 2019 |        31.6     |        84.2           |
 | 2020 |         26.9      |     84.6         |
 
-#### AAC Academic Award Recipients 2022 - Based On Results In 2022 National Examinations
+#### AAC Academic Award Recipients 2023 - Based On Results In 2022 National Examinations
 
 
 |           Awards         |                Recipient(s)           |
