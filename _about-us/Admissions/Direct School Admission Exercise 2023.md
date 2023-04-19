@@ -31,8 +31,8 @@ For more information on the DSA-Sec website, please visit the MOE DSA website (w
 You have from 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023 to submit your child's application. Follow these steps to apply:
 1. Log in to the [DSA-Sec portal](https://go.gov.sg/nmsdsa-sec-application) with your Singpass.
 Find out [how to register for a Singpass and 2FA](https://www.singpass.gov.sg/home/ui/register/instructions) if you don't have one.
-2. You can indicate up to 3 chouces and 3 talent areas.
-3. You may indicate up to 2 talent areas for the same secondary school. If you are keen to apply for the 2 talent areas offered by our school, you must indicate both talent areas as seperate chouces.
+2. You can indicate up to 3 choices and 3 talent areas.
+3. You may indicate up to 2 talent areas for the same secondary school. If you are keen to apply for the 2 talent areas offered by our school, you must indicate both talent areas as seperate choices.
 4. You may provide information for up to 10 non-school based activities and achievements which are related to your child's chosen talent areas.
 5. There is no need to submit any supporting documents during application. Your child's primary school records (for example, P5 and P6 academic results, CCA, school-based activities, achievements or awards) will be automatically shared with the schools.
 6. Enter your contact details correctly. This allows the schools to contact you if your child is shortlisted/given an offer.
