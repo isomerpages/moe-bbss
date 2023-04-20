@@ -29,7 +29,7 @@ For more information on the DSA-Sec website, please visit the MOE DSA website (w
 
 **Application Procedure**
 You have from 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023 to submit your child's application. Follow these steps to apply:
-1. Log in to the [DSA-Sec portal](https://go.gov.sg/nmsdsa-sec-application) with your Singpass.
+1. Log in to the [DSA-Sec portal](https://go.gov.sg/apply-dsa-sec) with your Singpass.
 Find out [how to register for a Singpass and 2FA](https://www.singpass.gov.sg/home/ui/register/instructions) if you don't have one.
 2. You can indicate up to 3 choices and 3 talent areas.
 3. You may indicate up to 2 talent areas for the same secondary school. If you are keen to apply for the 2 talent areas offered by our school, you must indicate both talent areas as seperate choices.
@@ -91,10 +91,6 @@ table.GeneratedTable thead {
     <tr>
       <td>Notification Letter (Outcome of application </td>
       <td>By 11 September 2023</td>
-    </tr>
-    <tr>
-      <td>School Preference Submission by students</td>
-      <td>From 23 October to 27 October 2023</td>
     </tr>
     <tr>
       <td>Notification of DSA-Sec admission results (on the same day as the release of the PSLE results)</td>
