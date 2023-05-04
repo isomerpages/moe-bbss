@@ -178,7 +178,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                 <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 157.85pt; vertical-align: top;">
                     <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">We welcome both new and experienced rugby players who are:</span></strong></p>
                     <ul>
-                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in holistic&nbsp;development: <strong>A</strong>thletics, <strong>B</strong>ehaviour and a<strong>C</strong>ademics</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in holistic development: <strong>A</strong>thletics, <strong>B</strong>ehaviour and a<strong>C</strong>ademics</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to learn new rugby skills and knowledge</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to deepen his skills and knowledge to become better rugby player</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in forging strong &nbsp;comaradarie &nbsp;/ friendships with teammates</span></li>
@@ -190,7 +190,6 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                             </ul>
                         </li>
                     </ul>
-                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
                     <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Note: Experience as a member of school CCA rugby team or external rugby club outside school time is an added advantage</span></p>
                 </td>
                 <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 157.85pt; vertical-align: top;">
@@ -204,9 +203,6 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness Test</li>
                             </ul>
                         </li>
-                    </ul>
-                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
-                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Display confidence and keenness to remain open to continuous learning during the interview.</span></li>
                     </ul>
                 </td>
@@ -253,6 +249,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
         </tbody>
     </table>
 </div>
+
 **Group 3: Performing Arts**
 <table style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
