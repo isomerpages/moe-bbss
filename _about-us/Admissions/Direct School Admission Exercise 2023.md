@@ -16,1025 +16,437 @@ At Bukit Batok Secondary School (BBSS), we believe that every child is unique an
 
 We are looking for promising Primary 6 students who demonstrate talent in the following 4 groups of talent areas that are open for DSA.
 
-  
-
-<table style="border: none; border-collapse: collapse;"><colgroup><col width="312"><col width="312"></colgroup><tbody><tr style="height: 25.75pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; background-color: rgb(201, 218, 248); padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">DSA Main Category</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; background-color: rgb(201, 218, 248); padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">DSA Talent Area</span></p></td></tr><tr style="height: 25.75pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 1 – Leadership &amp; Uniformed Groups</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Leadership</span></p></td></tr><tr style="height: 66.25pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 2 – Sports &amp; Games</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Softball (Girls)</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Basketball (Boys)</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Rugby (Boys)</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Cross Country</span></p></td></tr><tr style="height: 52.75pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 3 – Performing Arts</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">English Drama</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Chinese Orchestra</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Malay Dance</span></p></td></tr><tr style="height: 39.25pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 4 – Science, Technology, Engineering and Mathematics</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Robotics</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">STEM</span></p></td></tr></tbody></table>
-
 **Group 1 (Leadership &amp; Uniform Groups)**
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
- 1.0pt solid black">
- <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.65pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  background:#BDD6EE;mso-background-themecolor:accent1;mso-background-themetint:
-  102;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:12.65pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Talent Area</span></b></p>
-  </td>
-  <td width="264" valign="top" style="width:2.75in;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:12.65pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Criteria Eligibility for
-  DSA</span></b></p>
-  </td>
-  <td width="287" valign="top" style="width:215.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt;
-  height:12.65pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Selection Processes for DSA</span></b></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:130.45pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:130.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Leadership</span></p>
-  </td>
-  <td width="264" valign="top" style="width:2.75in;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:130.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Hold key appointments in
-  student leadership bodies and / or CCAs</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Have active involvement in
-  leadership activities / CCAs / community service </span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate the following
-  qualities and skills: </span></p>
-  <p class="MsoNormal" style="margin-left:31.5pt;text-align:justify;text-indent:
-  -.25in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Initiative
-  to serve and lead</span></p>
-  <p class="MsoNormal" style="margin-left:31.5pt;text-align:justify;text-indent:
-  -.25in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Resilient
-  and willing to embrace challenges</span></p>
-  <p class="MsoNormal" style="margin-left:31.5pt;text-align:justify;text-indent:
-  -.25in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Ability
-  to adapt, problem solve and collaborate </span></p>
-  </td>
-  <td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:130.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  be invited to attend a panel interview and complete a performance task. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Please note that: </span></p>
-  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-indent:
-  -.25in;mso-list:l1 level1 lfo2"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Meeting
-  all the criteria does not guarantee the student will be shortlisted</span></p>
-  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-indent:
-  -.25in;mso-list:l1 level1 lfo2"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Attending
-  interview at BBSS does not guarantee that the student will be given an offer</span></p>
-  </td>
- </tr>
-</tbody></table><br>
+<div style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
+    <table style="width: 4.8e+2pt;border-collapse:collapse;border:none;">
+        <tbody>
+            <tr>
+                <td style="width: 17.8107%; border: 1pt solid black; background: rgb(189, 214, 238); padding: 5pt; height: 12.65pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:justify;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Talent Area</span></strong></p>
+                </td>
+                <td style="width: 40.0743%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(189, 214, 238); padding: 5pt; height: 12.65pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:justify;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Criteria Eligibility for DSA</span></strong></p>
+                </td>
+                <td style="width: 215pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(189, 214, 238);padding: 0cm 5.4pt;height: 12.65pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:justify;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Selection Process for DSA</span></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 17.8107%; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left: 1pt solid black; border-image: initial; border-top: none; padding: 5pt; height: 130.45pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:justify;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Leadership</span></p>
+                </td>
+                <td style="width: 40.0743%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 130.45pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Hold key appointments in student leadership bodies and / or CCAs</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Have active involvement in leadership activities / CCAs / community service&nbsp;</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate the following qualities and skills:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Initiative to serve and lead</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Resilient and willing to embrace challenges</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Ability to adapt, problem solve and collaborate </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td style="width: 215pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;height: 130.45pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited &nbsp;to attend a panel interview and complete a performance task.&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Please note that:&nbsp;<ul style="font-family: initial; font-size: initial;">
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Meeting all the criteria does not guarantee the student will be shortlisted</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Attending interview at BBSS does not guarantee that the student will be given an offer</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 **Group 2: Sports &amp; Games**
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
- 1.0pt solid black">
- <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.15pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  background:#BDD6EE;mso-background-themecolor:accent1;mso-background-themetint:
-  102;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:15.15pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Talent
-  Area</span></b></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:15.15pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Criteria
-  Eligibility for DSA</span></b></p>
-  </td>
-  <td width="297" valign="top" style="width:222.65pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt;
-  height:15.15pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selection
-  Processes for DSA</span></b></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:1;height:95.05pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:95.05pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Softball (Girls)</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:95.05pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate passion to
-  further develop and do well in this game</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be able to commit to at
-  least 2 training sessions per week, which include</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l4 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Skills</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l4 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Game play</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l4 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Fitness and Conditioning</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Was a member of a CCA
-  softball school team in primary school</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be able to play in more
-  than one position will be an added advantage</span></p>
-  </td>
-  <td width="297" valign="top" style="width:222.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:95.05pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  participate in skills assessment in which they will:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate ability to play
-  in more than one position</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate basic mechanics
-  of throwing and batting</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Base- running speed</span></p>
-  <p class="MsoNormal" style="margin-left:.75in;text-align:justify;text-indent:
-  -.5in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">One Base</span></p>
-  <p class="MsoNormal" style="margin-left:.75in;text-align:justify;text-indent:
-  -.5in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Two Base</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Display confidence<span style="mso-spacerun:yes">&nbsp; </span>in speaking up and positive attitude
-  (receptive in learning and accepting challenges)</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate adaptability to
-  making adjustments. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:2;height:46.45pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:46.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Basketball (Boys)</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:46.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should meet the
-  criteria in the following areas:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Basketball Skill and
-  Performance:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should possess a
-  high level of basketball skills and demonstrate outstanding performance in
-  competitive games and tournaments. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">They should have experience
-  in playing at a competitive level, and display strong potential for further
-  development.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Physical Fitness:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should have good
-  physical fitness, including excellent stamina, agility, speed, and
-  coordination. They should also show a willingness to engage in regular
-  training and a commitment to maintain their fitness levels.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Sportsmanship and Attitude:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should exhibit a
-  positive attitude towards training and competition, and demonstrate a
-  willingness to learn, take feedback, and work cooperatively with their
-  teammates. They should also show good sportsmanship, respect for<span style="mso-spacerun:yes">&nbsp; </span>rules and their opponents, as well as<span style="mso-spacerun:yes">&nbsp; </span>a commitment to fair play.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Leadership and Service:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should have
-  leadership potential and show an interest in serving the school community.
-  They should have experience in organizing or participating in school
-  activities, and a willingness to contribute to the school's sports and
-  cultural programs.</span></p>
-  </td>
-  <td width="297" valign="top" style="width:222.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:46.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  be invited for the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Basketball Skills
-  Assessment:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  participate in a basketball skills assessment, where they will demonstrate
-  their proficiency in various basketball skills such as dribbling, shooting,
-  passing, and defense. This assessment will be conducted by the basketball
-  coach and other experienced basketball players.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Physical Fitness Test:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates will be
-  evaluated on their physical fitness, including stamina, agility, speed, and
-  coordination. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Interview:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  be invited to attend an interview. The interview will focus on their
-  motivation for joining the basketball team, their attitude towards training
-  and competition, and their willingness to balance academic and sporting
-  commitments.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Character and Leadership
-  Assessment:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates will be assessed
-  on their character, leadership potential, and community service record. This
-  assessment may involve reviewing their academic records, conduct in school,
-  and participation in school activities.</span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:3;height:157.85pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:157.85pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Rugby (Boys)</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:157.85pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">We
-  welcome both new and experienced rugby players who are:</span></b></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Interested in holistic </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">development: <b style="mso-bidi-font-weight:normal">A</b>thletics, <b style="mso-bidi-font-weight:
-  normal">B</b>ehaviour and a<b style="mso-bidi-font-weight:normal">C</b>ademics</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Passionate to learn new
-  rugby skills and knowledge</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Passionate to deepen his
-  skills and knowledge to become better rugby player</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Interested in forging
-  strong<span style="mso-spacerun:yes">&nbsp; </span>comaradarie<span style="mso-spacerun:yes">&nbsp; </span>/ friendships with teammates</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Able to commit to at least
-  2 training sessions per week, which include</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l4 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Skills</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l4 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Game play</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l4 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Fitness and Conditioning</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Note: Experience as a
-  member of school CCA rugby team or external rugby club outside school time is
-  an added advantage</span></p>
-  </td>
-  <td width="297" valign="top" style="width:222.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:157.85pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  be invited to participate in a rugby skills assessment in which they will: </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate their ability
-  to pass rugby balls, rugby skills as well as speed &amp; agility during
-  performance tasks.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Performance Tasks:</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l3 level1 lfo5"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Skills
-  and agility test</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l3 level1 lfo5"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Ball
-  Passing and handling test</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l3 level1 lfo5"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Fitness
-  Test</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Display confidence and
-  keenness to remain open to continuous learning during the interview.</span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:63.05pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:63.05pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Cross Country</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:63.05pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Show passion in running and
-  have the desire to excel. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Constantly strive to<span style="mso-spacerun:yes">&nbsp; </span>improve and take one’s ability to the next
-  level.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be able to commit to at
-  least 2 training sessions a week</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">1.6km run time:</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l1 level1 lfo2"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Boys: below 6 minutes 30seconds</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l1 level1 lfo2"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Girls: below 7 minutes 30seconds </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Or</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be a finalist in National
-  Primary Schools Track and Field Meet in any of the following individual Track
-  events:</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l2 level1 lfo3"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">100 m</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l2 level1 lfo3"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">200 m</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l2 level1 lfo3"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">300 m</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l2 level1 lfo3"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">600 m</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l2 level1 lfo3"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">1500 m</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify;text-indent:
-  -.25in;mso-list:l2 level1 lfo3"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;">Hurdles</span></p>
-  </td>
-  <td width="297" valign="top" style="width:222.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:63.05pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Participate in a 1.6km run
-  or a Beep test. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Participate in an interview
-  and display<span style="mso-spacerun:yes">&nbsp; </span>confidence and keenness to
-  strive for persistence. </span></p>
-  </td>
- </tr>
-</tbody></table>
+<div style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
+    <table style="width: 4.9e+2pt;border-collapse:collapse;border:none;">
+        <tbody>
+            <tr>
+                <td style="width: 71.5pt;border: 1pt solid black;background: rgb(189, 214, 238);padding: 5pt;height: 15.15pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Talent Area</span></strong></p>
+                </td>
+                <td style="width: 40.8162%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(189, 214, 238); padding: 5pt; height: 15.15pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Criteria Eligibility for DSA</span></strong></p>
+                </td>
+                <td style="width: 41.5586%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(189, 214, 238); padding: 0cm 5.4pt; height: 15.15pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Selection Processes for DSA</span></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 95.05pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Softball (Girls)</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 95.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate passion to further develop and do well in this game</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to commit to at least 2 training sessions per week, which include:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Skills</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Game play</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness and Conditioning</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Was a member of a CCA softball school team in primary school</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to play in more than one position will be an added advantage</span></li>
+                    </ul>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 95.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will participate in skills assessment in which they will:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate ability to play in more than one position</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate basic mechanics of throwing and batting</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Base- running speed</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;"><span class="fr-close-ul">One Base</span></li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Two Base</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Display confidence &nbsp;in speaking up and positive attitude (receptive in learning and accepting challenges)</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Demonstrate adaptability to making adjustments.&nbsp;</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 46.45pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Basketball (Boys)</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 46.45pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should meet the criteria in the following areas:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Basketball Skill and Performance:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should possess a high level of basketball skills and demonstrate outstanding performance in competitive games and tournaments.&nbsp;</span></li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">They should have experience in playing at a competitive level, and display strong potential for further development.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Physical Fitness:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should have good physical fitness, including excellent stamina, agility, speed, and coordination. They should also show a willingness to engage in regular training and a commitment to maintain their fitness levels.</span></li>
+                            </ul>
+                        </li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Sportsmanship and Attitude:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should exhibit a positive attitude towards training and competition, and demonstrate a willingness to learn, take feedback, and work cooperatively with their teammates. They should also show good sportsmanship, respect for &nbsp;rules and their opponents, as well as &nbsp;a commitment to fair play.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Leadership and Service:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should have leadership potential and show an interest in serving the school community. They should have experience in organizing or participating in school activities, and a willingness to contribute to the school's sports and cultural programs.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 46.45pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited for the following:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Basketball Skills Assessment:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will participate in a basketball skills assessment, where they will demonstrate their proficiency in various basketball skills such as dribbling, shooting, passing, and defense. This assessment will be conducted by the basketball coach and other experienced basketball players.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Physical Fitness Test:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates will be evaluated on their physical fitness, including stamina, agility, speed, and coordination.&nbsp;</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interview:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited to attend an interview. The interview will focus on their motivation for joining the basketball team, their attitude towards training and competition, and their willingness to balance academic and sporting commitments.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Character and Leadership Assessment:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates will be assessed on their character, leadership potential, and community service record. This assessment may involve reviewing their academic records, conduct in school, and participation in school activities.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 157.85pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Rugby (Boys)</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 157.85pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">We welcome both new and experienced rugby players who are:</span></strong></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in holistic development: <strong>A</strong>thletics, <strong>B</strong>ehaviour and a<strong>C</strong>ademics</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to learn new rugby skills and knowledge</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to deepen his skills and knowledge to become better rugby player</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in forging strong &nbsp;comaradarie &nbsp;/ friendships with teammates</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Able to commit to at least 2 training sessions per week, which include:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Skills</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Game play</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness and Conditioning</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Note: Experience as a member of school CCA rugby team or external rugby club outside school time is an added advantage</span></p>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 157.85pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited to participate in a rugby skills assessment in which they will:&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate their ability to pass rugby balls, rugby skills as well as speed &amp; agility during performance tasks.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Performance Tasks:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Skills and agility test</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Ball Passing and handling test</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness Test</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Display confidence and keenness to remain open to continuous learning during the interview.</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 63.05pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Cross Country</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 63.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Show passion in running and have the desire to excel.&nbsp;</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Constantly strive to &nbsp;improve and take one’s ability to the next level.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to commit to at least 2 training sessions a week</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">1.6km run time:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Boys: below 6 minutes 30seconds</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Girls: below 7 minutes 30seconds </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Or</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be a finalist in National Primary Schools Track and Field Meet in any of the following individual Track events:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">100 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">200 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">300 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">600 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">1500 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Hurdles</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 63.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Participate in a 1.6km run or a Beep test.&nbsp;</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Participate in an interview and display &nbsp;confidence and keenness to strive for persistence.&nbsp;</span></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 **Group 3: Performing Arts**
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
- 1.0pt solid black">
- <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.35pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  background:#BDD6EE;mso-background-themecolor:accent1;mso-background-themetint:
-  102;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:15.35pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Talent
-  Area</span></b></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:15.35pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Criteria
-  Eligibility for DSA</span></b></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt;
-  height:15.35pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selection
-  Processes for DSA</span></b></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:1;height:96.25pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:96.25pt">
-  <p class="MsoNormal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">English
-  Drama </span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:96.25pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be confident and eloquent</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be able to work
-  independently and collaboratively</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be willing to take up
-  production and acting roles in drama, and debate</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Have experience in drama
-  productions, stage performances or competitive debating.</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Note: Experience in
-  emceeing would be<span style="mso-spacerun:yes">&nbsp; </span>a bonus</span></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:96.25pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates will be
-  invited to participate in a </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Live audition in which
-  candidates will perform the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(i) Present a One-minute
-  speech on self-introduction</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(ii) Present a 1.5-minute
-  drama audition</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(iii) Present a 1.5-min
-  crossfire debate (group)</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates should
-  be able to demonstrate confidence, eloquence, stage presence and engagement
-  with audience</span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:2;height:156.9pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:156.9pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Chinese Orchestra</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:156.9pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should meet at
-  least one of the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate strong talent
-  and interest in Chinese Orchestra</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Have a minimum of 2 years
-  playing experience in CO instruments like Dizi, Suona, Yangqin or Erhu etc.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Participated<span style="mso-spacerun:yes">&nbsp; </span>in Singapore Youth Festival Arts
-  Presentation or any other public performances would be an advantage</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Achievements / awards in
-  international / regional / national competition would be an added advantage</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Achieved quality grade in
-  music examination for any specific instrument would be an added advantage</span></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:156.9pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates will be
-  invited to participate in a </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Live audition in which
-  candidates will perform the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(i) Play musical pieces on
-  the instrument (2-3 minutes).</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(ii) Perform sight reading
-  (2 minutes)</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:95.55pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:95.55pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Malay Dance</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:95.55pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should meet at
-  least one of the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate strong talent,
-  commitment and interest in Malay Dance</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be a member of Malay Dance
-  CCA in primary school in either contemporary or traditional</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Participation in Singapore
-  Youth Festival Arts Presentation or any other public/school performances
-  would be an advantage</span></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:95.55pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates will be
-  invited to participate in a performance task in which candidates will: </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(i) Present a live performance
-  on a prepared dance item (2 - 3 minutes).</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(ii) Demonstrate the
-  knowledge of basic Malay dance techniques - either traditional or
-  contemporary.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate confidence in
-  speaking when delivering the dance synopsis before the performance (2-3
-  minutes).</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate knowledge,
-  passion, stage presence and leadership through audience engagement. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  </td>
- </tr>
-</tbody></table><br>
+<div style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
+    <table style="width: 4.7e+2pt;border-collapse:collapse;border:none;">
+        <tbody>
+            <tr>
+                <td style="width: 71.25pt;border: 1pt solid black;background: rgb(189, 214, 238);padding: 5pt;height: 15.35pt;vertical-align: top;">
+                    <p style="margin: 0cm; font-size: 15px; font-family: Calibri, sans-serif; text-align: left;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Talent Area</span></strong></p>
+                </td>
+                <td style="width: 192pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(189, 214, 238);padding: 5pt;height: 15.35pt;vertical-align: top;">
+                    <p style="margin: 0cm; font-size: 15px; font-family: Calibri, sans-serif; text-align: left;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Criteria Eligibility for DSA</span></strong></p>
+                </td>
+                <td style="width: 209.25pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(189, 214, 238);padding: 0cm 5.4pt;height: 15.35pt;vertical-align: top;">
+                    <p style="margin: 0cm; font-size: 15px; font-family: Calibri, sans-serif; text-align: left;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Selection Processes for DSA</span></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.25pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 96.25pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">English Drama&nbsp;</span></p>
+                </td>
+                <td style="width: 192pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 5pt;height: 96.25pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be confident and eloquent</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to work independently and collaboratively</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be willing to take up production and acting roles in drama, and debate</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Have experience in drama productions, stage performances or competitive debating.&nbsp;</span></li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Note: Experience in emceeing would be &nbsp;a bonus</span></p>
+                </td>
+                <td style="width: 209.25pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;height: 96.25pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Selected candidates will be invited to participate in a live audition in which candidates will perform the following:</span></p>
+                    <ol>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;"><span style="font-size: 13px;">Present a One-minute speech on self-introduction</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;"><span style="font-size: 13px;">Present a 1.5-minute drama audition</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;"><span style="font-size: 13px;">Present a 1.5-min crossfire debate (group)</span></li>
+                    </ol>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Selected candidates should be able to demonstrate confidence, eloquence, stage presence and engagement with audience</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.25pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 156.9pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Chinese Orchestra</span></p>
+                </td>
+                <td style="width: 192pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 5pt;height: 156.9pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should meet at least one of the following:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate strong talent and interest in Chinese Orchestra</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Have a minimum of 2 years playing experience in CO instruments like Dizi, Suona, Yangqin or Erhu etc.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Participated &nbsp;in Singapore Youth Festival Arts Presentation or any other public performances would be an advantage</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Achievements / awards in international / regional / national competition would be an added advantage</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Achieved quality grade in music examination for any specific instrument would be an added advantage</span></li>
+                    </ul>
+                </td>
+                <td style="width: 209.25pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;height: 156.9pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Selected candidates will be invited to participate in a l</span><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">ive audition in which candidates will perform the following:</span></p>
+                    <ol>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Play musical pieces on the instrument (2-3 minutes).</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Perform sight reading (2 minutes)</span></li>
+                    </ol>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.25pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 95.55pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Malay Dance</span></p>
+                </td>
+                <td style="width: 192pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 5pt;height: 95.55pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should meet at least one of the following:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate strong talent, commitment and interest in Malay Dance</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be a member of Malay Dance CCA in primary school in either contemporary or traditional</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Participation in Singapore Youth Festival Arts Presentation or any other public/school performances would be an advantage</span></li>
+                    </ul>
+                </td>
+                <td style="width: 209.25pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;height: 95.55pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Selected candidates will be invited to participate in a performance task in which candidates will:&nbsp;</span></p>
+                    <ol>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Present a live performance on a prepared dance item (2 - 3 minutes).</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate the knowledge of basic Malay dance techniques - either traditional or contemporary.</span></li>
+                    </ol>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate confidence in speaking when delivering the dance synopsis before the performance (2-3 minutes).</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate knowledge, passion, stage presence and leadership through audience engagement.&nbsp;</span></li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-**Group 4: Science, Technology, Engineering and Mathematics STEM)**
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
- 1.0pt solid black">
- <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.35pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  background:#BDD6EE;mso-background-themecolor:accent1;mso-background-themetint:
-  102;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:15.35pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Talent
-  Area</span></b></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:15.35pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Criteria
-  Eligibility for DSA</span></b></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt;
-  height:15.35pt">
-  <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selection
-  Processes for DSA</span></b></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:1;height:96.25pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:96.25pt">
-  <p class="MsoNormal"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">English
-  Drama </span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:96.25pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be confident and eloquent</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be able to work
-  independently and collaboratively</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be willing to take up
-  production and acting roles in drama, and debate</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Have experience in drama
-  productions, stage performances or competitive debating.</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Note: Experience in
-  emceeing would be<span style="mso-spacerun:yes">&nbsp; </span>a bonus</span></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:96.25pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates will be
-  invited to participate in a </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Live audition in which
-  candidates will perform the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(i) Present a One-minute
-  speech on self-introduction</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(ii) Present a 1.5-minute
-  drama audition</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(iii) Present a 1.5-min
-  crossfire debate (group)</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates should
-  be able to demonstrate confidence, eloquence, stage presence and engagement
-  with audience</span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:2;height:156.9pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:156.9pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Chinese Orchestra</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:156.9pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should meet at
-  least one of the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate strong talent
-  and interest in Chinese Orchestra</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Have a minimum of 2 years
-  playing experience in CO instruments like Dizi, Suona, Yangqin or Erhu etc.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Participated<span style="mso-spacerun:yes">&nbsp; </span>in Singapore Youth Festival Arts
-  Presentation or any other public performances would be an advantage</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Achievements / awards in
-  international / regional / national competition would be an added advantage</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Achieved quality grade in
-  music examination for any specific instrument would be an added advantage</span></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:156.9pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates will be
-  invited to participate in a </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Live audition in which
-  candidates will perform the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(i) Play musical pieces on
-  the instrument (2-3 minutes).</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(ii) Perform sight reading
-  (2 minutes)</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:95.55pt">
-  <td width="95" valign="top" style="width:71.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:95.55pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Malay Dance</span></p>
-  </td>
-  <td width="256" valign="top" style="width:192.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:95.55pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should meet at
-  least one of the following:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate strong talent,
-  commitment and interest in Malay Dance</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Be a member of Malay Dance
-  CCA in primary school in either contemporary or traditional</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Participation in Singapore
-  Youth Festival Arts Presentation or any other public/school performances
-  would be an advantage</span></p>
-  </td>
-  <td width="279" valign="top" style="width:209.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:95.55pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Selected candidates will be
-  invited to participate in a performance task in which candidates will: </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(i) Present a live performance
-  on a prepared dance item (2 - 3 minutes).</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">(ii) Demonstrate the
-  knowledge of basic Malay dance techniques - either traditional or
-  contemporary.</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate confidence in
-  speaking when delivering the dance synopsis before the performance (2-3
-  minutes).</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate knowledge,
-  passion, stage presence and leadership through audience engagement. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  </td>
- </tr>
-</tbody></table><br>
+**Group 4: Science, Technology, Engineering and Mathematics (STEM)**
 
+<div style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
+    <table style="width: 4.9e+2pt;border-collapse:collapse;border:none;">
+        <tbody>
+            <tr>
+                <td style="width: 71.5pt;border: 1pt solid black;background: rgb(189, 214, 238);padding: 5pt;height: 11.6pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Talent Area</span></strong></p>
+                </td>
+                <td style="width: 191.35pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(189, 214, 238);padding: 5pt;height: 11.6pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Criteria Eligibility for DSA</span></strong></p>
+                </td>
+                <td style="width: 222.05pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;background: rgb(189, 214, 238);padding: 0cm 5.4pt;height: 11.6pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Selection Processes for DSA</span></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 96.4pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">Robotics Club</span></p>
+                </td>
+                <td style="width: 191.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 5pt;height: 96.4pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should:&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Have minimum 2 years of experience in Robotics Club</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Have experience in building Lego Mindstorms EV3 and Spike prime sets and is fluent in writing codes using Mindstorms</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Have experience in Python Programming , AI , or mobile Application Programming (any one area)&nbsp;</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Participated in robotics-related projects in school/external events OR</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Represented school in<span style="color:red;">&nbsp;</span>robotics-related competitions at internal/national level</span></li>
+                    </ul>
+                </td>
+                <td style="width: 222.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;height: 96.4pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Selected candidates will demonstrate the following:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Present a project done by the candidate in one of the following areas (Python Programming, AI, Mobile App Programming)</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Draw a Flow Chart to illustrate the above project the candidate has done in candidate’s primary school. Explain the flowchart.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Explain the function of “If” and “If else” in general programming.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Show a video documenting work done in candidate’s Primary School on Lego EV3 or Spike Prime.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate creative and logical approach (computational thinking) to solving problems.</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 96.4pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:#2A2A2A;">STEM</span></p>
+                </td>
+                <td style="width: 191.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 5pt;height: 96.4pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should exhibit the following qualities:</span></p>
+                    <ol>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Problem solver</li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Reflective</li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Innovative</li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Team player</li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Perseverance</li>
+                    </ol>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate knowledge, interest and passion in STEM.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Recount their past experiences relevant in their application for DSA STEM.</span></li>
+                    </ul>
+                </td>
+                <td style="width: 222.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;height: 96.4pt;vertical-align: top;">
+                    <p><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will:</span></p>
+                    <ul>
+                        <li><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Submit a personal statement (maximum 300 words) detailing the candidate’s active involvement in STEM activities.</span></li>
+                        <li><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Prepare an e-portfolio of work related to STEM with supporting documents such as photos of exhibits, prototypes, certificates etc. Submit this e-portfolio together with the personal statement.</span></li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><br></p>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited for an interview in which they will be required to solve a problem-based task.</span></p>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Note: Students admitted through DSA STEM must participate in STEM related projects and competitions.</span></p>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
 
 Note for all applicants: Meeting all the criteria does not guarantee that the student will be shortlisted/given an offer. Achievements at the national/international level would be an advantage. Applicants may key in relevant information via the MOE DSA Application Portal.
 
