@@ -67,112 +67,211 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
     </tbody>
 </table>
 **Group 2: Sports &amp; Games**
-<!-- CSS Code: Place this code in the document's head (between the <head> -- </head> tags) -->
-<style>
-table.customTable {
-  width: 100%;
-  background-color: #FFFFFF;
-  border-collapse: collapse;
-  border-width: 2px;
-  border-color: #7EA8F8;
-  border-style: solid;
-  color: #000000;
-}
-
-table.customTable td, table.customTable th {
-  border-width: 2px;
-  border-color: #7EA8F8;
-  border-style: solid;
-  padding: 5px;
-}
-
-table.customTable thead {
-  background-color: #7EA8F8;
-}
-</style>
-
-<!-- HTML Code: Place this code in the document's body (between the <body> tags) where the table should appear -->
-<table class="customTable">
-  <thead>
-    <tr>
-      <th>Talent Area</th>
-      <th>Criteria Eligibility for DSA</th>
-      <th>Selection Process for DSA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Softball (Girls)</td>
-      <td>Candidates should:
-				
-* Demonstrate passion to further develop and do well in this game.
-* Be able to commit to at least 2 training sessions per week, which include:
-	*   Skills
-	*   Game play
-	*   Fitness and Conditioning
-* Was a member of a CCA softball school team in primary school.
-* Be able to play in more than one position will be an added advantage.
-</td>
-      <td>
-Shortlisted candidates will participate in skills assessment in which they will:
-* Demonstrate ability to play in more than one position.
-* Demonstrate basic mechanics of throwing and batting.
-* Base- running speed:
-	* One Base
-  * Two Base	
-* Display confidence&nbsp; in speaking up and positive attitude (receptive in learning and accepting
-* Demonstrate adaptability to making adjustments.
-</td>
-    </tr>
-    <tr>
-      <td>Basketball (Boys)</td>
-      <td>
-Candidates should meet the criteria in the following areas:
-* Basketball Skill and Performance:
-	* Candidates should possess a high level of basketball skills and demonstrate outstanding performance in competitive games and tournaments.
-				
-They should have experience in playing at a competitive level, and display strong potential for further development.
-* Physical Fitness:
-	* Candidates should have good physical fitness, including excellent stamina, agility, speed, and coordination. They should also show a willingness to engage in regular training and a commitment to maintain their fitness levels.
-
-* Sportsmanship and Attitude:
-	* Candidates should exhibit a positive attitude towards training and competition, and demonstrate a willingness to learn, take feedback, and work cooperatively with their teammates. They should also show good sportsmanship, respect for&nbsp; rules and their opponents, as well as&nbsp; a commitment to fair play.
-
-* Leadership and Service:
-	* Candidates should have leadership potential and show an interest in serving the school community. They should have experience in organizing or participating in school activities, and a willingness to contribute to the school's sports and cultural programs.
-</td>
-      <td>
-Shortlisted candidates will be invited for the following:
-				
-* Basketball Skills Assessment:
-	* Shortlisted candidates will participate in a basketball skills assessment, where they will demonstrate their proficiency in various basketball skills such as dribbling, shooting, passing, and defense. This assessment will be conducted by the basketball coach and other experienced basketball players.
-
-* Physical Fitness Test:
-	* Candidates will be evaluated on their physical fitness, including stamina, agility, speed, and coordination.&nbsp;
-				
-* Interview:
-	* Shortlisted candidates will be invited to attend an interview. The interview will focus on their motivation for joining the basketball team, their attitude towards training and competition, and their willingness to balance academic and sporting commitments.
-
-* Character and Leadership Assessment:
-	* Candidates will be assessed on their character, leadership potential, and community service record. This assessment may involve reviewing their academic records, conduct in school, and participation in school activities.
-</td>
-    </tr>
-    <tr>
-      <td>Row 3, Cell 1</td>
-      <td>Row 3, Cell 2</td>
-      <td>Row 3, Cell 3</td>
-    </tr>
-    <tr>
-      <td>Row 4, Cell 1</td>
-      <td>Row 4, Cell 2</td>
-      <td>Row 4, Cell 3</td>
-    </tr>
-  </tbody>
-</table>
-<!-- Generated at CSSPortal.com -->
-
-
-
+<div style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
+    <table style="width: 4.9e+2pt;border-collapse:collapse;border:none;">
+        <tbody>
+            <tr>
+                <td style="width: 71.5pt;border: 1pt solid black;background: rgb(189, 214, 238);padding: 5pt;height: 15.15pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Talent Area</span></strong></p>
+                </td>
+                <td style="width: 40.8162%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(189, 214, 238); padding: 5pt; height: 15.15pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Criteria Eligibility for DSA</span></strong></p>
+                </td>
+                <td style="width: 41.5586%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none; background: rgb(189, 214, 238); padding: 0cm 5.4pt; height: 15.15pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;color:black;">Selection Processes for DSA</span></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 95.05pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Softball (Girls)</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 95.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate passion to further develop and do well in this game</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to commit to at least 2 training sessions per week, which include:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Skills</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Game play</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness and Conditioning</li>
+                            </ul>
+                        </li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Was a member of a CCA softball school team in primary school</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to play in more than one position will be an added advantage</span></li>
+                    </ul>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 95.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will participate in skills assessment in which they will:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate ability to play in more than one position</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate basic mechanics of throwing and batting</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Base- running speed</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;"><span class="fr-close-ul">One Base</span></li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Two Base</li>
+                            </ul>
+                        </li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Display confidence &nbsp;in speaking up and positive attitude (receptive in learning and accepting challenges)</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Demonstrate adaptability to making adjustments.&nbsp;</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 46.45pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Basketball (Boys)</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 46.45pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should meet the criteria in the following areas:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Basketball Skill and Performance:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should possess a high level of basketball skills and demonstrate outstanding performance in competitive games and tournaments.&nbsp;</span></li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">They should have experience in playing at a competitive level, and display strong potential for further development.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Physical Fitness:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should have good physical fitness, including excellent stamina, agility, speed, and coordination. They should also show a willingness to engage in regular training and a commitment to maintain their fitness levels.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Sportsmanship and Attitude:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should exhibit a positive attitude towards training and competition, and demonstrate a willingness to learn, take feedback, and work cooperatively with their teammates. They should also show good sportsmanship, respect for &nbsp;rules and their opponents, as well as &nbsp;a commitment to fair play.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Leadership and Service:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should have leadership potential and show an interest in serving the school community. They should have experience in organizing or participating in school activities, and a willingness to contribute to the school's sports and cultural programs.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 46.45pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited for the following:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Basketball Skills Assessment:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will participate in a basketball skills assessment, where they will demonstrate their proficiency in various basketball skills such as dribbling, shooting, passing, and defense. This assessment will be conducted by the basketball coach and other experienced basketball players.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Physical Fitness Test:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates will be evaluated on their physical fitness, including stamina, agility, speed, and coordination.&nbsp;</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interview:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited to attend an interview. The interview will focus on their motivation for joining the basketball team, their attitude towards training and competition, and their willingness to balance academic and sporting commitments.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Character and Leadership Assessment:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates will be assessed on their character, leadership potential, and community service record. This assessment may involve reviewing their academic records, conduct in school, and participation in school activities.</span></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 157.85pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Rugby (Boys)</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 157.85pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">We welcome both new and experienced rugby players who are:</span></strong></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in holistic&nbsp;development: <strong>A</strong>thletics, <strong>B</strong>ehaviour and a<strong>C</strong>ademics</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to learn new rugby skills and knowledge</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to deepen his skills and knowledge to become better rugby player</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in forging strong &nbsp;comaradarie &nbsp;/ friendships with teammates</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Able to commit to at least 2 training sessions per week, which include</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Skills</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Game play</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness and Conditioning</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Note: Experience as a member of school CCA rugby team or external rugby club outside school time is an added advantage</span></p>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 157.85pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited to participate in a rugby skills assessment in which they will:&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate their ability to pass rugby balls, rugby skills as well as speed &amp; agility during performance tasks.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Performance Tasks:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Skills and agility test</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Ball Passing and handling test</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness Test</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Display confidence and keenness to remain open to continuous learning during the interview.</span></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 71.5pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 5pt;height: 63.05pt;vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Cross Country</span></p>
+                </td>
+                <td style="width: 40.8162%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 5pt; height: 63.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Show passion in running and have the desire to excel.&nbsp;</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Constantly strive to &nbsp;improve and take one’s ability to the next level.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to commit to at least 2 training sessions a week</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">1.6km run time:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Boys: below 6 minutes 30seconds</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Girls: below 7 minutes 30seconds </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Or</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be a finalist in National Primary Schools Track and Field Meet in any of the following individual Track events:</span>
+                            <ul>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">100 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">200 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">300 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">600 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">1500 m</li>
+                                <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Hurdles</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td style="width: 41.5586%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm 5.4pt; height: 63.05pt; vertical-align: top;">
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will:</span></p>
+                    <ul>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Participate in a 1.6km run or a Beep test.&nbsp;</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Participate in an interview and display &nbsp;confidence and keenness to strive for persistence.&nbsp;</span></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 **Group 3: Performing Arts**
 <table style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
