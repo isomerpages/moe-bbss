@@ -95,6 +95,9 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness and Conditioning</li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Was a member of a CCA softball school team in primary school</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Be able to play in more than one position will be an added advantage</span></li>
                     </ul>
@@ -110,6 +113,9 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Two Base</li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Display confidence &nbsp;in speaking up and positive attitude (receptive in learning and accepting challenges)</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;Demonstrate adaptability to making adjustments.&nbsp;</span></li>
                     </ul>
@@ -128,6 +134,9 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">They should have experience in playing at a competitive level, and display strong potential for further development.</span></li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Physical Fitness:</span>
                             <ul>
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should have good physical fitness, including excellent stamina, agility, speed, and coordination. They should also show a willingness to engage in regular training and a commitment to maintain their fitness levels.</span></li>
@@ -138,6 +147,9 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should exhibit a positive attitude towards training and competition, and demonstrate a willingness to learn, take feedback, and work cooperatively with their teammates. They should also show good sportsmanship, respect for &nbsp;rules and their opponents, as well as &nbsp;a commitment to fair play.</span></li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Leadership and Service:</span>
                             <ul>
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates should have leadership potential and show an interest in serving the school community. They should have experience in organizing or participating in school activities, and a willingness to contribute to the school's sports and cultural programs.</span></li>
@@ -153,16 +165,25 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will participate in a basketball skills assessment, where they will demonstrate their proficiency in various basketball skills such as dribbling, shooting, passing, and defense. This assessment will be conducted by the basketball coach and other experienced basketball players.</span></li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Physical Fitness Test:</span>
                             <ul>
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates will be evaluated on their physical fitness, including stamina, agility, speed, and coordination.&nbsp;</span></li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interview:</span>
                             <ul>
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited to attend an interview. The interview will focus on their motivation for joining the basketball team, their attitude towards training and competition, and their willingness to balance academic and sporting commitments.</span></li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Character and Leadership Assessment:</span>
                             <ul>
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Candidates will be assessed on their character, leadership potential, and community service record. This assessment may involve reviewing their academic records, conduct in school, and participation in school activities.</span></li>
@@ -203,6 +224,9 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Fitness Test</li>
                             </ul>
                         </li>
+                    </ul>
+                    <p><br></p>
+                    <ul>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Display confidence and keenness to remain open to continuous learning during the interview.</span></li>
                     </ul>
                 </td>
