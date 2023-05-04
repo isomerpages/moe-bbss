@@ -203,7 +203,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to learn new rugby skills and knowledge</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Passionate to deepen his skills and knowledge to become better rugby player</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Interested in forging strong &nbsp;comaradarie &nbsp;/ friendships with teammates</span></li>
-                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Able to commit to at least 2 training sessions per week, which include</span>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Able to commit to at least 2 training sessions per week, which include:</span>
                             <ul>
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Skills</li>
                                 <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 13px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;, sans-serif;">Game play</li>
@@ -403,11 +403,11 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                 <td style="width: 222.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;height: 96.4pt;vertical-align: top;">
                     <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Selected candidates will demonstrate the following:</span></p>
                     <ul>
-                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Present &nbsp;a project done by the candidate in one of the following areas (Python Programming , AI , Mobile App Programming)</span></li>
-                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Draw a Flow Chart to illustrate the above project the candidate has &nbsp;done in candidate’s &nbsp;primary school. Explain the flowchart.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Present a project done by the candidate in one of the following areas (Python Programming, AI, Mobile App Programming)</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Draw a Flow Chart to illustrate the above project the candidate has done in candidate’s primary school. Explain the flowchart.</span></li>
                         <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Explain the function of “If” and “If else” in general programming.</span></li>
-                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Show a video documenting work done in candidate’s &nbsp; &nbsp; Primary School on Lego EV3 or Spike Prime.</span></li>
-                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate creative and logical approach (computational thinking) to solving problems.&nbsp;</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Show a video documenting work done in candidate’s Primary School on Lego EV3 or Spike Prime.</span></li>
+                        <li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0cm; font-size: 15px; font-family: Calibri, sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Demonstrate creative and logical approach (computational thinking) to solving problems.</span></li>
                     </ul>
                 </td>
             </tr>
@@ -437,7 +437,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
                         <li><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Prepare an e-portfolio of work related to STEM with supporting documents such as photos of exhibits, prototypes, certificates etc. Submit this e-portfolio together with the personal statement.</span></li>
                     </ul>
                     <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><br></p>
-                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited for an interview in which they &nbsp;will be required to solve &nbsp;a problem-based task.</span></p>
+                    <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Shortlisted candidates will be invited for an interview in which they will be required to solve a problem-based task.</span></p>
                     <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
                     <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">Note: Students admitted through DSA STEM must participate in STEM related projects and competitions.</span></p>
                     <p style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size:13px;font-family:&quot;Lucida Sans&quot;,sans-serif;">&nbsp;</span></p>
@@ -447,7 +447,6 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
     </table>
 </div>
 <br>
-
 
 Note for all applicants: Meeting all the criteria does not guarantee that the student will be shortlisted/given an offer. Achievements at the national/international level would be an advantage. Applicants may key in relevant information via the MOE DSA Application Portal.
 
