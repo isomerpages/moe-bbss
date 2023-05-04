@@ -16,107 +16,65 @@ At Bukit Batok Secondary School (BBSS), we believe that every child is unique an
 
 We are looking for promising Primary 6 students who demonstrate talent in the following 4 groups of talent areas that are open for DSA.
 
-  
-
-<table style="border: none; border-collapse: collapse;"><colgroup><col width="312"><col width="312"></colgroup><tbody><tr style="height: 25.75pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; background-color: rgb(201, 218, 248); padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">DSA Main Category</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; background-color: rgb(201, 218, 248); padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">DSA Talent Area</span></p></td></tr><tr style="height: 25.75pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 1 – Leadership &amp; Uniformed Groups</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Leadership</span></p></td></tr><tr style="height: 66.25pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 2 – Sports &amp; Games</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Softball (Girls)</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Basketball (Boys)</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Rugby (Boys)</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Cross Country</span></p></td></tr><tr style="height: 52.75pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 3 – Performing Arts</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">English Drama</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Chinese Orchestra</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Malay Dance</span></p></td></tr><tr style="height: 39.25pt;"><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Group 4 – Science, Technology, Engineering and Mathematics</span></p></td><td style="border: 1pt solid rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Robotics</span></p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Lato, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">STEM</span></p></td></tr></tbody></table>
-
 **Group 1 (Leadership &amp; Uniform Groups)**
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
- 1.0pt solid black">
- <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.65pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  background:#BDD6EE;mso-background-themecolor:accent1;mso-background-themetint:
-  102;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:12.65pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Talent Area</span></b></p>
-  </td>
-  <td width="264" valign="top" style="width:2.75in;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:12.65pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Criteria Eligibility for
-  DSA</span></b></p>
-  </td>
-  <td width="287" valign="top" style="width:215.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#BDD6EE;
-  mso-background-themecolor:accent1;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt;
-  height:12.65pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:10.0pt;
-  font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Lucida Sans&quot;;
-  mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Selection Processes for DSA</span></b></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:130.45pt">
-  <td width="95" valign="top" style="width:71.5pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:130.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;;color:#2A2A2A">Leadership</span></p>
-  </td>
-  <td width="264" valign="top" style="width:2.75in;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:130.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Candidates should:</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Hold key appointments in
-  student leadership bodies and / or CCAs</span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Have active involvement in
-  leadership activities / CCAs / community service </span></p>
-  <p class="MsoNormal" style="margin-left:.5in;text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Demonstrate the following
-  qualities and skills: </span></p>
-  <p class="MsoNormal" style="margin-left:31.5pt;text-align:justify;text-indent:
-  -.25in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Initiative
-  to serve and lead</span></p>
-  <p class="MsoNormal" style="margin-left:31.5pt;text-align:justify;text-indent:
-  -.25in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Resilient
-  and willing to embrace challenges</span></p>
-  <p class="MsoNormal" style="margin-left:31.5pt;text-align:justify;text-indent:
-  -.25in;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Ability
-  to adapt, problem solve and collaborate </span></p>
-  </td>
-  <td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:130.45pt">
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Shortlisted candidates will
-  be invited to attend a panel interview and complete a performance task. </span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">&nbsp;</span></p>
-  <p class="MsoNormal" style="text-align:justify"><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Please note that: </span></p>
-  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-indent:
-  -.25in;mso-list:l1 level1 lfo2"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Meeting
-  all the criteria does not guarantee the student will be shortlisted</span></p>
-  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-indent:
-  -.25in;mso-list:l1 level1 lfo2"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:10.0pt;font-family:&quot;Lucida Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Lucida Sans&quot;;mso-bidi-font-family:&quot;Lucida Sans&quot;">Attending
-  interview at BBSS does not guarantee that the student will be given an offer</span></p>
-  </td>
- </tr>
-</tbody></table><br>
+<style>
+table.customTable {
+  width: 100%;
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #7EA8F8;
+  border-style: solid;
+  color: #000000;
+}
+
+table.customTable td, table.customTable th {
+  border-width: 2px;
+  border-color: #7EA8F8;
+  border-style: solid;
+  padding: 5px;
+}
+
+table.customTable thead {
+  background-color: #7EA8F8;
+}
+</style>
+<table class="customTable">
+  <thead>
+    <tr>
+      <th>Talent Area</th>
+      <th>Criteria Eligibility for DSA</th>
+      <th>Selection Process for DSA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leadership
+</td>
+      <td>
+Candidates should:
+
+* Hold key appointments in student leadership bodies and / or CCAs
+* Have active involvement in leadership activities / CCAs / community service
+* Demonstrate the following qualities and skills:&nbsp;
+
+	*   Initiative to serve and lead
+    
+	*   Resilient and willing to embrace challenges
+    
+	*   Ability to adapt, problem solve and collaborate
+</td>
+      <td>Shortlisted candidates will be invited&nbsp; to attend a panel interview and complete a performance task.&nbsp;
+				
+Please note that:&nbsp;
+* Meeting all the criteria does not guarantee the student will be shortlisted
+* Attending interview at BBSS does not guarantee that the student will be given an offer.</td>
+    </tr>
+  </tbody>
+</table>
+<!-- Generated at CSSPortal.com -->
+
+
 
 **Group 2: Sports &amp; Games**
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="margin-left:-5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
