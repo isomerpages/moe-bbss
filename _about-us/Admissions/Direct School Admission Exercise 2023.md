@@ -370,7 +370,7 @@ We are looking for promising Primary 6 students who demonstrate talent in the fo
     </table>
 </div>
 
-**Group 4: Science, Technology, Engineering and Mathematics STEM)**
+**Group 4: Science, Technology, Engineering and Mathematics (STEM)**
 
 <div style="margin:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;" align="center">
     <table style="width: 4.9e+2pt;border-collapse:collapse;border:none;">
