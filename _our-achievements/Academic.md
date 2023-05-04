@@ -34,20 +34,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="74">
-<p>2017</p>
-</td>
-<td style="text-align: center;" width="169">
-<p>45.0</p>
-</td>
-<td style="text-align: center;" width="108">
-<p>98.4</p>
-</td>
-<td style="text-align: center;" width="121">
-<p>90.8</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="74">
 <p>2018</p>
 </td>
 <td style="text-align: center;" width="169">
@@ -102,6 +88,20 @@ description: ""
 <p>85.6</p>
 </td>
 </tr>
+	<tr>
+<td style="text-align: center;" width="74">
+<p>2022</p>
+</td>
+<td style="text-align: center;" width="169">
+<p>To be updated</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>98.0</p>
+</td>
+<td style="text-align: center;" width="121">
+<p>86.2</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -125,17 +125,6 @@ description: ""
 </td>
 <td style="text-align: center;" width="209">
 <p><strong>Polytechnic</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="69">
-<p><strong>2017</strong></p>
-</td>
-<td style="text-align: center;" width="193">
-<p>78.4</p>
-</td>
-<td style="text-align: center;" width="209">
-<p>99.5</p>
 </td>
 </tr>
 <tr>
@@ -182,6 +171,17 @@ description: ""
 <p>98.1</p>
 </td>
 </tr>
+	<tr>
+<td style="text-align: center;" width="69">
+<p><strong>2022</strong></p>
+</td>
+<td style="text-align: center;" width="193">
+<p>81.1</p>
+</td>
+<td style="text-align: center;" width="209">
+<p>98.6</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -189,10 +189,11 @@ description: ""
 
 | Year | Percentage Of Students Eligible For PFP<br>(4NA Students) | Percentage Of Students Eligible for DPP<br>(4NA Students) |
 |:----:|:-----------:|:-----------------:|
-| 2017 |      14.1       |        66.2        |
 | 2018 |       24.1     |         80.7       |
 | 2019 |        31.6     |        84.2           |
 | 2020 |         26.9      |     84.6         |
+| 2021 |         26.9      |     75.6         |
+| 2022 |         25.0      |     82.5         |
 
 #### AAC Academic Award Recipients 2023 - Based On Results In 2022 National Examinations
 
@@ -200,4 +201,4 @@ description: ""
 |           Awards         |                Recipient(s)           |
 |:-------------:|----------------|
 | GCE ‘N’ Level 2022 Good Performance Award | 1.       AHMAD DANI BIN MOHAMMAD SHARIL<br>2.       BRANDON LEE YONG HUI<br>3.       BRYAN CHUA JUN YANG<br>4.       KAMAKSHI RAVIKUMAR SKANDHAKRIPA<br>5.      NUR SYAFIQAH BINTE MUHAMMAD FADLY<br>6.       NYKAN RAVINDRAN<br>7.       PHONE MIN KHANT<br>8.       RAJ KAMAL S/O MANIVANNAN<br>9.       REBECCA LAU SHU EN<br>10.   JAISHREE D/O RAJAMOORTHI<br>11.   CHIA HONG JIN LARRY<br>12.   OOI CHEN SI<br>13.   TAN HONG YAN JOHN<br>14.   TAN TNG EE, MERVIN<br>15.   WANG KANG XU MATTHIAS                     |
-| GCE ‘O’ Level 2022 Good Performance Award | 1.       GERAUD ANG WEI SHENG<br>2.       AW JUN LE<br>3.       RCHEN XI<br>4.       GERALDINE CHUA<br>5.       MANICKAVASAGOM RAMAKRISHNAN<br>6.       RYAN TAN YI REN<br>7.       LAU XI ZUAN<br>8.       XAVIER LIM KAI LOOK (LIN KAILUN)<br>9.       LIM KAI YANG<br>10.   CHE ZI RUI SHERLYN |
+| GCE ‘O’ Level 2022 Good Performance Award | 1.       GERAUD ANG WEI SHENG<br>2.       AW JUN LE<br>3.       RCHEN XI<br>4.       GERALDINE CHUA<br>5.       MANICKAVASAGOM RAMAKRISHNAN<br>6.       RYAN TAN YI REN<br>7.       LAU XI ZUAN<br>8.       XAVIER LIM KAI LOOK (LIN KAILUN)<br>9.       LIM KAI YANG<br>10.   CHEW ZI RUI SHERLYN |
