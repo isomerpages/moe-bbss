@@ -1126,3 +1126,6 @@ Successful applicants will join BBSS in January in the year 2024. Students will 
 · &nbsp; &nbsp; Contact the General Office at 6566 3121. (Monday to Friday - 8.30am to 5.00pm)
 
 · &nbsp; &nbsp; Email us at bbss@moe.edu.sg. Please indicate "DSA Enquiries" in the subject field.
+
+
+*updated as of 4 May 2023
