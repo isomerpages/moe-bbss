@@ -7,3 +7,6 @@ image: ""
 external: sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks
 permalink: /announcements/news/permalink/
 ---
+Dear Sec 3 to 5 students,
+
+Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/timetable-for-semester-2-2022) to view your timetable for the first week of the June holidays.
