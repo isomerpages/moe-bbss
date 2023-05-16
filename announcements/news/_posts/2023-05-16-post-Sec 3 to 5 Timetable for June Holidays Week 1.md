@@ -9,4 +9,4 @@ permalink: /announcements/news/permalink/
 ---
 Dear Sec 3 to 5 students,
 
-Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/timetable-for-semester-2-2022) to view your timetable for the first week of the June holidays.
+Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/june-holidays-week-1-timetable) to view your timetable for the first week of the June holidays.
