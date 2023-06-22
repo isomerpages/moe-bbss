@@ -1,6 +1,6 @@
 ---
-title: 2023 Term 2 Timetable
-date: 2023-03-20
+title: 2023 Semester 2 Timetable (Updated as of 22 June 2023)
+date: 2023-06-22
 layout: link
 description: ""
 image: ""
