@@ -5,16 +5,17 @@ description: ""
 ---
 # Timetable
 
-### 2023 Timetable for Term 2
+### 2023 Timetable for Semester 2
+The timetable uploaded above is updated as of 22 June 2023. **It is of the latest version.**
 
 **Dear students, please click on the links below to view your timetable.**
 
 By Levels:
 
-<a href="https://drive.google.com/file/d/1ZaamCHt1orJuh4cfz_6Me9M0P8cdpEqd/view?usp=share_link" target="_blank">Secondary 1</a>  
-<a href="https://drive.google.com/file/d/1ti3I45CFUwaEyjzCJys4nfU7vByLh-Ux/view?usp=share_link" target="_blank">Secondary 2</a>  
-<a href="https://drive.google.com/file/d/1aHgCTUxdDQcbY9-OLSF_-JTy-u7HVrD9/view?usp=share_link" target="_blank">Secondary 3</a>  
-<a href="https://drive.google.com/file/d/1mP_l9t5kGQgGfh24RQF6owsyhltYcAvO/view?usp=share_link" target="_blank">Secondary 4 &amp; 5 (Updated as of 3 April 2023 for Class 4A2 &amp; 4A3)</a>
+<a href="https://drive.google.com/file/d/1zeFZ-LwPbNWcOGplCq3vmeKRlUSC39G6/view?usp=drive_link" target="_blank">Secondary 1</a>  
+<a href="https://drive.google.com/file/d/1Y7rg4DevWpIThlqUPB85FbReDlrR9KJl/view?usp=drive_link" target="_blank">Secondary 2</a>  
+<a href="https://drive.google.com/file/d/1_18gbKisdTZG3hR7GyMunBgdPvzqfuAD/view?usp=drive_link" target="_blank">Secondary 3</a>  
+<a href="https://drive.google.com/file/d/1ebTUACrdDFIf2QL2sY_Y-yCiKyKlTuem/view?usp=drive_link" target="_blank">Secondary 4 &amp; 5</a>
 
 
 
@@ -28,4 +29,3 @@ A search bar will appear. You may type the name/class/room you are looking for, 
   
 \*\*\* Click&nbsp;<a href="/files/Useful%20Resources/Timetable/Subject%20Acronyms%20Guide.pdf" target="_blank">here</a>&nbsp;to know what the acronyms on your timetable means.&nbsp;  
   
-<p style="text-align: right">*Updated as of 04 April 2023*</p>
