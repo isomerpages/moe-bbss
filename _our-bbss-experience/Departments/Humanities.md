@@ -44,6 +44,14 @@ third_nav_title: Departments
 <p>Mdm Jayanthi D/O Appachamy</p>
 </td>
 </tr>
+	<tr>
+<td width="236">
+<p><strong>Senior Teacher / History</strong></p>
+</td>
+<td width="235">
+<p>Mr Jared Er</p>
+</td>
+</tr>
 </tbody>
 </table>
 
