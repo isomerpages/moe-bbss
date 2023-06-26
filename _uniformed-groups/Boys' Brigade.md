@@ -27,7 +27,7 @@ description: ""
 
 **Our Company Achievements**
 
-</p><p style="text-align: justify;">For 2022 to 2023, our company has attained the <b>James Milner Fraser - High Distinction</b>. This award goes to the top-performing BB Companies in Singapore. Our company has received this award or equivalent since 2016.</p>
+</p><p style="text-align: justify;">For 2022 to 2023, our company has attained the James Milner Fraser - High Distinction. This award goes to the top-performing BB Companies in Singapore. Our company has received this award or equivalent since 2016.</p>
 
   
 
