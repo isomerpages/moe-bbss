@@ -18,8 +18,8 @@ description: ""
 
 |                      |                               |
 |-----------|-------------------|
-| Company Sergeant Major:           | Saravanan Nithilan (Jonathan) |
-| Assistant Company Sergeant Major: | Seo Jinwon         |
+| Company Sergeant Major:           | Hon Jun Kag, Bryson |
+| Assistant Company Sergeant Major: | Lee Yu Ze Clarence         |
 
 **Our Core**
 
@@ -27,29 +27,29 @@ description: ""
 
 **Our Company Achievements**
 
-</p><p style="text-align: justify;">For 2020 to 2021, our company has once again attained the J<b>ames Milner Fraser Gold Honour Roll</b>, which is awarded to the top BB Companies in Singapore. The Boys Brigade has received the Gold Honour Roll from 2016 to 2021.</p>
+</p><p style="text-align: justify;">For 2022 to 2023, our company has attained the <b>James Milner Fraser - High Distinction</b>. This award goes to the top-performing BB Companies in Singapore. Our company has received this award or equivalent since 2016.</p>
 
   
 
 **Our Boys' Achievements**
 
-<p style="text-align: justify;">We are proud to announce&nbsp; that we have a BB Boy who received the Founder's Award this year. The Founder's Award is the pinnacle of awards achievable&nbsp;at the Secondary School level.</p>
+<p style="text-align: justify;">We are proud to announce&nbsp; that we have three BB Boys who received the Founder's Award in 2023. The Founder's Award is the pinnacle of awards achievable&nbsp;at the Secondary School level.</p>
 
 **Our Holistic Curriculum**
 
-<p style="text-align: justify;">Our BB camps are&nbsp;specially tailored to suit the needs of our BB Boys. Our Recruit and Company Training Camps, including our Leadership Training and Development Camps focus on building heightened levels of tenacity and teamwork. They provide opportunities for the holistic development of our BB Boys as we observe them engaging in active collaboration and progress to become more confident individuals.</p>
+<p style="text-align: justify;">Our BB Officers design BB camps to suit the needs of our BB Boys. Our Recruit and Company Training Camps, including our Leadership Training and Development Camps, focus on building tenacity and teamwork. They provide opportunities for the holistic development of our BB Boys as we observe them engaging in active collaboration and progress to become more confident individuals.</p>
 
   
 
-<p style="text-align: justify;">To further help them in this holistic development, we send our BB Boys for proper certification in Kayaking and First Aid. Moreover, we conduct intentional mentoring programmes for selected BB Boys to stretch them even further.</p>
+<p style="text-align: justify;">To further help them in this holistic development, we send our BB Boys for proper certification in Kayaking and First Aid. Moreover, we conduct intentional mentoring programmes for selected BB Boys to stretch them.</p>
 
   
 
-<p style="text-align: justify;">Service to the community is another important component of our BB programme. Towards the end of every year, we are actively involved in the BB Share-a-Gift project. The Boys developed empathy and show kindness to the underprivileged.</p>
+<p style="text-align: justify;">Service to the community is another crucial component of our BB programme. In December, we are actively involved in the BB Share-a-Gift project. The Boys develop empathy and kindness as they help the underprivileged.</p>
 
   
 
-<p style="text-align: justify;">Finally, to help the BB Boys face the Volatile, Uncertain, Complex and Ambiguous (VUCA) world, we constantly engage the parents and guardians too. We host purposeful engagements during our camps and conferences, and even partner with the BBSS Parents Support Group (PSG) at times. We are currently exploring programming in our BB curriculum and social entrepreneurship as we strive to stay current with the trends in the education scene.</p>
+<p style="text-align: justify;">Finally, to help the BB Boys face the Volatile, Uncertain, Complex and Ambiguous (VUCA) world, we constantly engage stakeholders too. We host purposeful engagements for parents and guardians during our camps and conferences and occasionally partner with the BBSS Parents Support Group (PSG). We are currently exploring programming in our BB curriculum and social entrepreneurship as we strive to stay current with the trends in the education scene.</p>
 
 
 ### Gallery
