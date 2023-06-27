@@ -24,10 +24,10 @@ third_nav_title: Our People
 |  Mdm | Ng Pei Tin                        |    Technical Support Officer (Sci Lab)    |  112 |     ng_pei_tin@schools.gov.sg     |
 |  Mdm | Rashidah Bte Mohd                 |    Technical Support Officer (Sci Lab)    | 112  |  rashidah_mohamed@schools.gov.sg  |
 |  Ms  | Fatin Sufiah Bte Kadir            |                ICT Manager                |  232 | fatin_sufiah_kadir@schools.gov.sg |
-|   Mr | Loo Tin Song                      |                ICT Manager                | 425  |    loo_tin_song@schools.gov.sg    |
+|   Mr | Loo Tin Song                      |                ICT Manager                | 232  |    loo_tin_song@schools.gov.sg    |
 |  Mr  | Ong Je Hua                        |          NCS Desktop Engineer (DE)        |  225 |       g-ncs3044sde@ncs.com.sg     |
-|  Mr  | Muhamad Uzair Bin Muhamad Lokman  |         NCS Desktop Engineer (DE)         | 225  |      g-ncs3044sde@ncs.com.sg      |
+|    |   |         NCS Desktop Engineer (DE)         | 225  |      g-ncs3044sde@ncs.com.sg      |
 |  Mr  | Muhammad Elfi Bin Jalani          |                ICT Trainer                |  424 |  muhammad_elfi_jalani@moe.edu.sg  |
 |      |                                   |            AV / IT Technician             |  225 |                                   |
-|   Ms   |    Haniz Idayu Bte Jamali   |             Library Assistant             |  225 |                                   |
+|   Ms   |    Charlene Chua   |             Library Assistant             |  225 |                                   |
 |   -  |                                   |            Teachers' Assistant            |  101 |         bbss_ta@moe.edu.sg        |
