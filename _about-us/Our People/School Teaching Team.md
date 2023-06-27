@@ -120,6 +120,7 @@ third_nav_title: Our People
 |     |        Name        |               Designation              |  Ext |              Email              |
 |:---:|:------------------:|:--------------------------------------:|:----:|:-------------------------------:|
 |  Ms | Julia Tay Li Jun   |            School Counsellor           |  229 | julia_tay_li_jun@schools.gov.sg |
+|  Mr | Mohamed Ashraff Bin Mohamed Ali   |            School Counsellor           |  228 | mohamed_ashraff_mohamed_ali@schools.gov.sg |
 |  Ms | Candy Lee          |                AED (LBS)               | 333  |     candy_lee@schools.gov.sg    |
 |  Mr | Marshall Tan       |           Teacher Counsellor           |  308 |   tan_khoon_lim@schools.gov.sg  |
 |  Mr | Lum Jah Wai Andrew | Education & Career Guidance Counsellor |   -  |                                 |
