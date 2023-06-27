@@ -113,7 +113,7 @@ third_nav_title: Our People
 |   Mr | Irwin Kao Chih Tsung             |    Teacher   | 407  |       kao_chih_tsung_irwin@schools.gov.sg       |
 |  Mdm | Foo Hui Yueh Angeline            |    Teacher   | 429  |         foo_hui_yueh@schools.gov.sg         |
 | Mdm  | Cao Yang                         |    Teacher   | 430  |          cao_yang@schools.gov.sg           |
-|  Mr  | Oon Hock Leong                   |   Teacher    |      |        oon_hock_leong@schools.gov.sg        |
+
 
 ## Counselling and Additional Support
 
