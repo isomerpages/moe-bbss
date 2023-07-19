@@ -59,13 +59,13 @@ third_nav_title: Our People
 |  Ms  |          Sum Xue Fen         |       HOD / Mother Tongue Languages      |  227  |      [sum\_xue\_fen@schools.gov.sg](mailto:sum_xue_fen@schools.gov.sg)      |
 |  Dr  |   Mohamed Faizal Bin Badron  |               HOD / Science              |  221  | [mohamed\_faizal\_badron@schools.gov.sg](mailto:mohamed_faizal_badron@schools.gov.sg) |
 |  Mr  |          Low Yizong          |           School Staff Developer         |  204  |       [low\_yizong@schools.gov.sg](mailto:low_yizong@schools.gov.sg)      |
-|  Ms  |         Toh Pui Yhing        |             HOD / Maths (Int)            |  205  |    [toh\_pui\_yhing@schools.gov.sg](mailto:toh_pui_yhing@schools.gov.sg)    |
+|  Ms  |         Toh Pui Yhing        |             HOD / Maths            |  205  |    [toh\_pui\_yhing@schools.gov.sg](mailto:toh_pui_yhing@schools.gov.sg)    |
 |  Mr  |         Chun Sir Kin         |           SH / Applied Learning          |   210 |      &nbsp;[chun\_sir\_kin@schools.gov.sg](mailto:chun_sir_kin@schools.gov.sg)     |
 |  Mdm |   Nadiah Binte Abdul Nasir   |              SH / Aesthetics             |  212  | [nadiah\_abdul\_nasir@schools.gov.sg](mailto:nadiah_abdul_nasir@schools.gov.sg)  |
 |  Mr  |     Ling Xiao Ern Darren     |           SH / ICT &amp; Innovation        |  213  | [ling\_xiao\_ern\_darren@schools.gov.sg](mailto:ling_xiao_ern_darren@schools.gov.sg) |
 |  Mr  |        Lee Kok Leong         |     SH / Physical Education, CCA OIC     |  208  |     [lee\_kok\_leong@schools.gov.sg](mailto:lee_kok_leong@schools.gov.sg)     |
 |  Ms  |         Chin Yee Woon        |     SH / Youth Leadership Development    |  230  |     [chin\_yee\_woon@schools.gov.sg](mailto:chin_yee_woon@schools.gov.sg)     |
-|  Mdm |    Jayanthi D/O Appachamy    |            LT/ Geography (Int)           |  206  |   [jayanthi\_appachamy@schools.gov.sg](mailto:jayanthi_appachamy@schools.gov.sg)  |
+|  Mdm |    Jayanthi D/O Appachamy    |            LT/ Geography           |  206  |   [jayanthi\_appachamy@schools.gov.sg](mailto:jayanthi_appachamy@schools.gov.sg)  |
 |  Mr  |            Syam Lal          |            LT / Learning Needs           |  222  |  [syam\_lal\_sadanandan@schools.gov.sg](mailto:syam_lal_sadanandan@schools.gov.sg) |
 |  Mr  |            Nikhil Nath Chatterji |            SH / Student Well-Being (Int)           |  416  |  [nikhil_nath_chatterji@schools.gov.sg](mailto:nikhil_nath_chatterji@schools.gov.sg) |
 |  Ms  |            Nithiya Bhavani D/O Thiyagarajan          |            SH / CCE (Int)        |  401 |  [nithiya_bhavani_thiyagarajan@schools.gov.sg](mailto:nithiya_bhavani_thiyagarajan@schools.gov.sg) |

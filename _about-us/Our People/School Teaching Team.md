@@ -51,6 +51,7 @@ third_nav_title: Our People
 | Ms  | Lim Dai Xuan                       | Teacher     | 2A5          | 407     | lim_dai_xuan@schools.gov.sg                |
 | Ms  | Marie Tiong Sing Sing              | Teacher     | 2A5          | 413     | marie_tiong_sing_sing@schools.gov.sg       |
 | Ms  | Seah Lilin                         | Teacher     | 2A6          | 303     | lilin_seah@schools.gov.sg                  |
+| Mdm | Rezwanna Bte Othman       | Teacher                 | 2A6          | 317  | rezwanna_othman@schools.gov.sg       |
 | Ms  | Cheung Zhi Xuan (Nicole)           | Teacher     | 2A7          | 309     | cheung_zhi_xuan@schools.gov.sg             |
 | Ms  | Rafidah Bte Abdul Samad            | Teacher     | 2A7          | 409     | rafidah_abdul_samad@schools.gov.sg         |
 
@@ -58,8 +59,7 @@ third_nav_title: Our People
 
 |     |            Name           |       Designation       | Form Teacher |  Ext |                 Email                |
 |-----|:-------------------------:|:-----------------------:|:------------:|:----:|:------------------------------------:|
-| Mdm | Rezwanna Bte Othman       | Teacher                 | 3A1          | 317  | rezwanna_othman@schools.gov.sg       |
-|  Mr | Song Kin Hoe Terence      | Teacher                 |  3A1         |  408 | song_kin_hoe@schools.gov.sg          |
+  Mr | Song Kin Hoe Terence      | Teacher                 |  3A1         |  408 | song_kin_hoe@schools.gov.sg          |
 |  Ms | Teng Duan Li (June)       | Teacher                 |  3A1         | 405  | teng_duan_li_june@schools.gov.sg     |
 | Mdm | Khairunnisa Bte Khairudin | Teacher                 | 3A2          | 407  | khairunnisa_khairudin@schools.gov.sg |
 | Mr  | Tan Thiam Chye            | Teacher                 | 3A2          | 317  | tan_thiam_chye@schools.gov.sg        |
@@ -121,7 +121,7 @@ third_nav_title: Our People
 |:---:|:------------------:|:--------------------------------------:|:----:|:-------------------------------:|
 |  Ms | Julia Tay Li Jun   |            School Counsellor           |  229 | julia_tay_li_jun@schools.gov.sg |
 |  Mr | Mohamed Ashraff Bin Mohamed Ali   |            School Counsellor           |  228 | mohamed_ashraff_mohamed_ali@schools.gov.sg |
-|  Ms | Candy Lee          |                AED (LBS)               | 333  |     candy_lee@schools.gov.sg    |
+|  Ms | Candy Lee          |                SEN Officer               | 333  |     candy_lee@schools.gov.sg    |
 |  Mr | Marshall Tan       |           Teacher Counsellor           |  308 |   tan_khoon_lim@schools.gov.sg  |
-|  Mr | Lum Jah Wai Andrew | Education & Career Guidance Counsellor |   -  |                                 |
+|   |  | Education & Career Guidance Counsellor |   -  |                                 |
 |  Mr | Ho Yung Laurence   |         Student Welfare Officer        |   -  | laurence_ho_yung@schools.gov.sg |
