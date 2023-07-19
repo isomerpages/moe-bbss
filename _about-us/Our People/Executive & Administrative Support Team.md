@@ -13,8 +13,8 @@ third_nav_title: Our People
 |      |                Name               |                Designation                |  Ext |               Email               |
 |:----:|:---------------------------------:|:-----------------------------------------:|:----:|:---------------------------------:|
 |  Ms  | Law Puay Ee (Stella)              |           Administration Manager          |  106 |     law_puay_ee@schools.gov.sg    |
-|  Mr  | Johari Bin Osman                  | Operations Manager - Discipline (Adjunct) | 122  |      johari_osman@moe.edu.sg      | 
-| Mr | Mohamed Shukri | Operations Manager (Adjunct) | 107 | mohamed_shukri_alfattah_abdul@schools.gov.sg |
+|  Mr  | Johari Bin Osman                  | Operations Manager - Discipline | 122  |      johari_osman@moe.edu.sg      | 
+| Mr | Mohamed Shukri | Operations Manager | 107 | mohamed_shukri_alfattah_abdul@schools.gov.sg |
 |  Mr  | Lee Teck Heng                     |          Administration Executive         |  102 |    lee_teck_heng@schools.gov.sg   |
 | Mdm  | Haslinda Bte Maulan               |          Administration Executive         | 103  |  haslinda_maulan@schools.gov.sg   |
 |  Mdm | Saleha Bte Mohamad                |         Corporate Support Officer         |  123 |   saleha_mohamad@schools.gov.sg   |
