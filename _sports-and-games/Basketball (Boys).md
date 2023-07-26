@@ -8,8 +8,9 @@ description: ""
 |                     |                                              |
 |---------------------|------------------------------|
 | **Teachers-in-charge:** | Mr Terence Tan (IC)<br>Mr Jacky Ong Jie Jun<br>Mdm Yeo-Wong Poh Leng |
-| **B Division Captains** | Ramesh Babu Sudhan Vignesh<br>Lim Yi Da<br>Jeremiah Daileg Maulit                       |
-| **C Division Captains** | Ng Yuan Jie, Aidan John<br>Lim Jia Sheng<br>Fun Xiang Zhi Jeff                          |
+| **Coach:** | Tan Zhi Sen |
+| **B Division Captains** | Heng Junn Hong, Royston<br>Alcandor Seah Sin Ho (She Xinghao)<br>Md Khidir Bin Kamalariffin                       |
+| **C Division Captains** | Hamzah Bin Faizal<br>Tan Jing Yang Jason<br>Tan Jian Wei                          |
 | **Training Days:**      | Mondays, Wednesdays<br>3.15pm – 6.00pm                      |
 
 Our team philosophy is&nbsp;**P.H.D.**&nbsp;It stands for&nbsp;**Professionalism, Hard Work and Discipline.**
@@ -36,6 +37,9 @@ Our team philosophy is&nbsp;**P.H.D.**&nbsp;It stands for&nbsp;**Professionalism
 ![](/images/Our%20BBSS%20Experience/Cca/Sports%20&amp;%20Games/basketball%20directory.png)
 
 <p style="text-align: justify;">You can find out more about our team events via our Instagram (@bbss_basketball). To find out about our direct school admission programmes, do check out the QR code and URL above.</p>
+
+### Highlights
+* C div 2023, Through to NSG Nationals
 
 ### Gallery
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlevp0DWU_lZTB3MtLDAMQyhd9iL8_pMY7y5oool62DrW0RLR3t_De7C4KlYLl0cO_oE_vCvEs0K6B/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
