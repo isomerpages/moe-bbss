@@ -26,24 +26,20 @@ description: ""
 
 <p style="text-align: justify;">Through the guidance of our instructors and teachers-in-charge, BBSS Choir continues to uphold its standard of choral excellence.</p>  
 
-#### Key Events in 2020:
+#### Key Events in 2023:
 
 Participation in the following events (online):
 
-*   BBSS Appreciate the STARS
-*   BBSS Teachers' Day Concert
-*   National Day Virtual Choir
-*   National Teachers' Day Video
+*   ACS Barker and BBSS Collaboration concert
+*   SYF Arts Presentation
 
-#### Past Key Events in 2018 - 2019:
 
-*   Voices of Singapore Festival at CHIJMES
-*   Unique Voices Concert at the Arts House
-*   SingLah at Tampines Hub
-*   Singapore Youth Festival Arts Presentation (SYFAP)
-*   BBSS Arts Carnival
-*   Metamorphosis VI
-*   Certificate of Merit in the vocal examination conducted by the Associated Boards of the Royal Schools of Music (ABRSM)
+#### Past Key Events in 2022:
+
+*   Arts Carnival in BBSS – Rhapsody Concert
+*   Unique Voices concert at Arts House 
+*   Bowling Sports Enrichment Program
+
 
 ### Gallery
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShIpkTeqbE32GEU5OMPxFpWoRwsd1UqDXU3CGjfVSu3yZgn9R6EVKZA9MJq2vwKUJGekTKsSY4VCG4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
