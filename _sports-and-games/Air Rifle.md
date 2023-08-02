@@ -14,26 +14,106 @@ description: ""
 |    **Training Days &amp; Time** | Monday &amp; Wednesday - 3:00pm to 6:00pm<br><br>Friday - 2:00pm to 5:00pm                                                                           |
 |      **Teachers in Charge** | Mr Chun Sir Kin <br>Ms Theodora Soh<br>Mrs Emiline Tan                                                                                           |
 |                   **Coach** |                <br>Mr Gu Yong Qin<br>NCAP Level 1,2,3<br>Integrated NCAP Level 1<br>NROC, Certified First Aider &amp; AED trained<br>                |
-|                **Captain** | Nick Rayan Gunawerdena                                                                                                                           |
-| **Vice-Captain (Training)** | Cedric Lee Jun Hung                                                                                                                              |
-|    **Vice-Captain (Admin)** | Aislinn Chan Sze Ing                                                                                                                             |
-|            **Exco-Members** | Zhang Leyao Aimee<br>Soh Si Ying Jacelyn<br>Chan Yi Ting Felise<br>Wilson Chua Zhong Jun                                                         |
-|           **Logistics ICs** | <br>Chan Yi Ting Felise<br>Nick Rayan<br>Soh Sher Rone<br>Lee Jia Yik<br>Karumuru Krish<br>Phung Si Jie<br>Tracy Zhai Shu Huan<br>Zechariah Chua |
-|               **Armourers** | Soh Si Ying Jacelyn<br>Nick Rayan<br>Ruby Ang Ru-Yi<br>Lee Jia Yik<br>Seo Jin Won<br>Song Zi Yi Chloe<br>Junius Tee Jun Qi                       |
-|     **Assistant Armourers** | Chia Zi Min Jenell<br>Jeral Chong Rui Hang<br>Abigale Chen<br>Yau Kai Zhe                                                                        |
-|   **Physical Training ICs** |     <br>Zhang Leyao Aimee<br>Cedric Lee Jun Hung<br>Toh Yi Xian<br>Nathan Ang An Yuan<br>Ng Le Qi Jessy<br>Krishnan Monish<br>Ian Chew Yu An     |
-|         **Cleanliness ICs** | Aislinn Chan Sze Ing<br>Wilson Chua Zong Jun<br>Lim Jia Min Sarah<br>Chen Kai Xuan<br>Chantel Tham Li Qin<br>Xu Bo Rui<br>Feng Shiru             |
+|                **Captain** | Tracy Zhai Shu Huan                                                                                                                           |
+| **Vice-Captain (Boys)** | Junius Tee Jun Qi (Chi Junqi)                                                                                                                              |
+|    **Vice-Captain (Girls)** | Ng Le Qi, Jessy                                                                                                                             |
+|            **Exco-Members** | Yau Kai Zhe                                                         |
+|           **Logistics Team** | **Sec 3s:**<br>Ng Le Qi, Jessy <br>Phung Si Jie<br>Xu Borui<br>Feng Shiru<br>**Sec 2s:** <br>Emilia Humairah Bte Endy Supanti<br>Neo Rui En<br>Tan Shao Jie, Niklas<br>Kieron Wong Zhi Hong<br> Ng Wei Heng, Dave (Huang Weiheng)<br>**Sec 1s:** <br>Alya Edriana Bte Md Nizam<br>Nicole Stephen<br>Seah Kai Yu, Gabrielle<br>Tan Yong Liang<br> Kevin Koh Zhao Chuang |
+|               **Armoury Team** | **Sec 3s**<br>Junius Tee Jun Qi (Chi Junqi)<br>Yau Kai Zhe<br>Song Ziyi Chloe<br>Chen Jing Bei @ Abigale Chen<br>**Sec 2s**<br>Bernice Nah (Lan Ruiting)<br> Janis Soon Jia Ning<br>Ho Jin Rui, Jaydriel<br> Law Chen Xi, Seth<br>**Sec 1s:**<br>Wang DingJian<br>Tan Zong Hong, Lucas<br>Nur Ariana Bte Md Fauzi<br> NurFarzera Bte Thahirudin                   |
+|     **Physical Training Team** | **Sec 3s**<br>Tracy Zhai Shu Huan<br>Chantel Tham Li Qin<br>Ian Chew Yu An<br>**Sec 2s:**<br>Javier Wong Jie Wei<br>Tan Yan Ze Aidan<br>Jasmine Liew Jia Xuan<br> Ong Rui Xian (Wang Ruixian)<br>Enrique Loh Yu An<br>**Sec 1s:**<br>Putra Md Raihan Bin Noor Azman<br> Kathiresam Shivanand<br>Ong Eu Kym<p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">&nbsp;</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">2023</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">Age Group</span></b><span style="font-size:12.0pt;background:
+  #FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">Category</span></b><span style="font-size:12.0pt;background:
+  #FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">Team Award</span></b><span style="font-size:12.0pt;background:
+  #FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">C-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Men</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">6<sup>th</sup> National</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">C-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Women</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">7<sup>th</sup> National</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">B-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Men</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">6<sup>th</sup> National</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">B-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Women</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">3<sup>rd</sup> National</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">B-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Pistol Men</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">7<sup>th</sup> National</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p>
+       
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:84.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="5" width="111"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">&nbsp;</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">2022</span></b></p></td><td style="width:84.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="110"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">Age Group</span></b><span style="font-size:12.0pt;background:
+  #FFF2CC" lang="EN"></span></p></td><td style="width:106.35pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="138"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">Category</span></b><span style="font-size:12.0pt;background:
+  #FFF2CC" lang="EN"></span></p></td><td style="width:85.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="111"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;mso-font-kerning:12.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">Team Award</span></b><span style="font-size:12.0pt;background:
+  #FFF2CC" lang="EN"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:84.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="110"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">C-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:106.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="138"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Men</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:85.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="111"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">6th National</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:84.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="110"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">C-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:106.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="138"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Women</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:85.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="111"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">2nd National</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:84.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="110"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">B-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:106.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="138"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Men</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:85.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="111"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">8th National</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:84.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="110"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">B-division</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:106.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="138"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Air Rifle Women</span><span style="font-size:12.0pt;color:#484848;background:#FFF2CC" lang="EN"></span></p></td><td style="width:85.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="111"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-themecolor:dark1;
+  mso-font-kerning:12.0pt;mso-ansi-language:EN-SG" lang="EN-SG">5th National</span></p></td></tr></tbody></table>
 
-**Our history**  
-&nbsp;The Air Rifle Club was established in 1989. It has undergone several changes from an underground shooting range to the rooftop facility over the Indoor Sports Hall. Once again, we will be making improvements and come Quarter 4 2019, the range will be upgraded into an air-conditioned shooting range to enhance the training comfort of our shooters. &nbsp;  
-  
-**Our Sport**  
-Competitive shooting requires one to persevere, be reflective and patient. It is not about physical strength and power, but composure, mental strength and concentration. Shooters learn to focus on their goals, and work hard. They reflect on their mistakes, correct and make changes and enjoy success doing it. Patience – waiting for the right moment before attempting a shot – is the key to succeeding in this sport. Mental strength, good decision-making skills and teamwork are also key attributes of our shooters.  
-  
-Every year, our shooters participate in the National School Games (NSG). From 2019 onwards, we also began participating in both the NUS Invitational Shoot and the NTU Invitational Shoot. In 2021, a team of Secondary 2 girls won 2nd place in the NTU Invitational Shoot Team category. In addition, one of the Secondary 2 girls managed to achieve 3rd place in the Individual category.  
-  
-&nbsp;**Our shooters**  
-&nbsp;Air Rifle Club enables our shooters to:
+
+**Our shooters**
+Air Rifle Club enables our shooters to:
  
  |   |                             |
 |---|------------|
