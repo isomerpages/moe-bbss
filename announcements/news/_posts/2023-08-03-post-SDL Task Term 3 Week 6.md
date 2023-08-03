@@ -6,11 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-# SDL Term 3 Week 2
+# SDL Term 3 Week 6
 Dear students, 
 This week's SDL Task is for **ALL STUDENTS.**
 
-Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks) to view your SDL task list for **Term 3 Week 2**.
+Click [here](https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks) to view your SDL task list for **Term 3 Week 6**.
 
 Please note the following for SDL matters:
 1. All SDL tasks can be found in the Student Learning Space (SLS):
