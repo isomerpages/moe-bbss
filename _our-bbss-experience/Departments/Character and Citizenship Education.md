@@ -17,18 +17,7 @@ Click the links for more information on:
 
 To instill in BBSSians the Core Values and equip them with life skills that enable them to function effectively as global citizens.
 
-### **CCE Family**
 
-|            Role            |               Name               |
-|--------------------|--------------------------|
-| HOD CCE                                               | Mdm Norashikin Sulaiman                              |
-| Coordinator for ECG                                   | Mr Luke Tan                                          |
-| Coordinator for VIA Activities &amp; Projects             | Ms Janice Lim                                        |
-| Coordinator for Cyber Wellness Education &amp; Programme  | Mdm Latifah                                          |
-| Coordinator for Sexuality Education                   | Ms Nithiya Bhavani                                   |
-| Coordinator for NE                                    | Mr Terence Tan                                       |
-| Coordinator for Integration &amp; Hosting Programme       | Mr Azhar                                             |
-| Committee Members                                     | Ms Marie Tiong<br>Mr Jeremy Goh<br>Mr Evin Rajasekar |
 
 ### Our Goal:
 
@@ -57,4 +46,3 @@ Students’ emotional, ethical and social needs are built up through various pro
 
 <p style="text-align: justify;">In encouraging critical thinking and understanding issues from multiple perspectives, explicit teaching of CCE values are carried out through an effective and engaging curriculum by the form teachers. In addition, students are given opportunities to discuss current affairs and national concerns through classroom debates and commemoration of significant historical events such as the Racial Harmony Day and National Day. Through our programmes, we also hope that our students will learn to be respectful and appreciate the diversity of our society. As such, every international student is assigned a buddy and on a semestral basis, we organise learning journey for our international students and their buddies to significant local places of interest.</p>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdqlAPOmVLLtUkDPEZDy4Fj5yyLnMQ72sMJPIeTjeh4UGJi_Z3r_19I1QW-9zRCErfZDnfxhcrRtq4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
