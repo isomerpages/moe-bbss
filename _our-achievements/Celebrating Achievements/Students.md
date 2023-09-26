@@ -7,7 +7,11 @@ third_nav_title: Celebrating Achievements
 # Students
 
 ## 2021-2022
+![](/images/Our%20Achievements/Students/chew%20zi%20rui%20sherlyn.png)
 
+![](/images/Our%20Achievements/Students/lim%20kai%20yang.png)
+
+![](/images/Our%20Achievements/Students/ooi%20wei%20sheng.png)
 
 ## 2020-2021
 
