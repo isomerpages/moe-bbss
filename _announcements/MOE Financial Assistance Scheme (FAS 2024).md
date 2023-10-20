@@ -18,7 +18,7 @@ How to Apply:
 	
 	* _You will receive an acknowledgement email upon successful submission of eFAS application._
 
-* **Hardcopy application form** – click here to print.
+* **Hardcopy application form** – [click here to print.](/files/2024%20moe%20fas%20application%20form.pdf)
 
 Students who received financial assistance in 2023, must re-apply if they require financial assistance in 2024.
 
