@@ -3,22 +3,23 @@ title: MOE Financial Assistance Scheme (FAS 2023)
 permalink: /announcements/moe-financial-assistance-scheme-fas-2023/
 description: ""
 ---
-# MOE Financial Assistance Scheme (FAS 2023)
+# MOE Financial Assistance Scheme (FAS 2024)
 
-Application for MOE Financial Assistance Scheme (FAS) for the year 2023 is now open.
+Application for MOE Financial Assistance Scheme (FAS) for the year 2024 is now open.
 
-Eligibility criteria:-  
+Eligibility Criteria:
+* Student must be a Singapore Citizen
+* Gross Monthly Household Income (GHI) not exceeding $3000 or Per Capita Income (PCI) not exceeding $750.
 
-i) Student must be a Singapore citizen  
-ii) Gross Monthly Household Income (GHI) not exceeding $3000 or Per Capita Income (PCI) not exceeding $750
+How to Apply:
+* **eFAS application**_(Singpass required)_
+	
+	* _Available on Parent Gateway under_ **_Service_** _tab > **Financial Assistance**._
+	
+	* _You will receive an acknowledgement email upon successful submission of eFAS application._
 
-To apply, click one of the following methods:  
-            Click <a href="/files/2023%20MOE%20FAS%20Application%20Form.pdf" target="_blank"><b>here</b></a> for hardcopy Application Form  
-            Click <a href="https://go.gov.sg/moe-efas" target="_blank"><b>here</b></a> for eFAS application (Singpass required)  
-  
+* **Hardcopy application form** – click here to print.
 
-Students who received financial assistance in 2022, must re-apply if they require financial assistance in 2023.
+Students who received financial assistance in 2023, must re-apply if they require financial assistance in 2024.
 
-  
-
-Please submit your application form together with the required documents by <u>4 November 2022</u>.
+Please submit your application together with the required documents latest by **10 Nov 2023**.
