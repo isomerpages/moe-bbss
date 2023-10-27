@@ -9,7 +9,7 @@ image: ""
 ![](/images/2023_open%20house%20banner_29092023.png)
 
 <a id="top"></a>
-# 360 Virtual Tour @ BBSS
+### Virtual Tour @ BBSS
 
 <iframe width="743" height="417" src="https://www.youtube.com/embed/C4eeYHPCv2A" title="BBSS 360 VR INTRODUCTION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
