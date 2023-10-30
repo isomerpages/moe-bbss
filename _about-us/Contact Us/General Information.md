@@ -15,7 +15,7 @@ third_nav_title: Contact Us
 |                      |           |
 |-----------------|-------------|
 | **Address:**             | 50, Bukit Batok West Ave 8, Singapore 658962                                                                                                                                    |
-| **Tel:**                 | 6566 3121                                                                                                                                                                       |
+| **Tel:**                 | 6379 9413                                                                                                                                                                       |
 | **Fax:**                 | 6560 7006                                                                                                                                                                       |
 | **E-mail:**              | [bbss@moe.edu.sg](mailto:bbss@moe.edu.sg)                  |
 | **School Website:**      | [www.bukitbatoksec.moe.edu.sg](https://bukitbatoksec.moe.edu.sg/)                                                                                                                                                    |
