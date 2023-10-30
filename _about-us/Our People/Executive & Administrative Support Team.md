@@ -23,6 +23,11 @@ third_nav_title: Our People
 |  Mr  | Lim Eng Hock                      |      Technical Support Officer (D&T)      |  8116 |    lim_eng_hock@schools.gov.sg    |
 |  Mdm | Ng Pei Tin                        |    Technical Support Officer (Sci Lab)    |  8112 |     ng_pei_tin@schools.gov.sg     |
 |  Mdm | Rashidah Bte Mohd                 |    Technical Support Officer (Sci Lab)    | 8113  |  rashidah_mohamed@schools.gov.sg  |
+|  Mdm | Aine Bte Mohd Daud                 |    Operations Support Officer    | 8117  | aine_mohd_daud@moe.edu.sg  |
+|  Mr | Jumahat Bin Mustapha                 |    Operations Support Officer    | 8118  | jumahat_mustapha@moe.edu.sg  |
+|  Mdm | Salmah Binte Abu                 |    Operations Support Officer    | 8114  | salmah_abu@schools.gov.sg  |
+|  Mdm | Susila D/O Karuppiah                 |    Operations Support Officer    | 8101  | susila_karuppiah@schools.gov.sg  |
+|  Mdm | Suridah Binte Ibrahim                 |    Operation Support Officer    | 8119  | suridah_ibrahim@moe.edu.sg  |
 |  Ms  | Fatin Sufiah Bte Kadir            |                ICT Manager                |  8232 | fatin_sufiah_kadir@schools.gov.sg |
 |   Mr | Loo Tin Song                      |                ICT Manager                | 8233  |    loo_tin_song@schools.gov.sg    |
 |  Mr  | Ong Je Hua                        |          NCS Desktop Engineer (DE)        |  8235 |       g-ncs3044sde@ncs.com.sg     |
