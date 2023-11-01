@@ -24,9 +24,10 @@ Monday – Friday 9am to 3pm.
 
 <b><u>2024 Textbook List*</u></b>
 
-*   <a href="/files/Useful%20Resources/Students/2023%20end%20Textbooks%20&amp;%20Uniforms/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S2.pdf" target="_blank">Secondary 2</a>
-*   <a href="/files/Useful%20Resources/Students/2023%20end%20Textbooks%20&amp;%20Uniforms/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S3.pdf" target="_blank">Secondary 3</a>
-*   <a href="/files/Useful%20Resources/Students/2023%20end%20Textbooks%20&amp;%20Uniforms/Bukit%20Batok%20Secondary%20School%20Booklist%202023%20S4.pdf" target="_blank">Secondary 4</a>
+*   <a href="/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/bukit%20batok%20secondary%20school%20booklist%202024%20s2.pdf" target="_blank">Secondary 2</a>
+*   <a href="/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/bukit%20batok%20secondary%20school%20booklist%202024%20s3.pdf" target="_blank">Secondary 3</a>
+*   <a href="/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/bukit%20batok%20secondary%20school%20booklist%202024%20s4.pdf" target="_blank">Secondary 4</a>
+*   <a href="/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/bukit%20batok%20secondary%20school%20booklist%202024%20s5.pdf" target="_blank">Secondary 5</a>
 
 \* to be used in conjunction during online purchase.
 
