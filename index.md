@@ -21,4 +21,12 @@ sections:
   - resources:
       subtitle: Announcements & News
       button: More Announcements
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A Question?
+      id: infopic
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/bbss#home
+      image: /images/bbss-askgov.png
+      alt: Image alt text
 ---
