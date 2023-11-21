@@ -61,7 +61,7 @@ variant: markdown
 
 |     |            Name           |       Designation       | Form Teacher |  Ext |                 Email                |
 |-----|:-------------------------:|:-----------------------:|:------------:|:----:|:------------------------------------:|
-  Mr | Song Kin Hoe Terence      | Teacher                 |  3A1         |  8440 | song_kin_hoe@schools.gov.sg          |
+  Mr | Song Kin Hoe      | Teacher                 |  3A1         |  8440 | song_kin_hoe@schools.gov.sg          |
 |  Ms | Teng Duan Li (June)       | Teacher                 |  3A1         | 8436  | teng_duan_li_june@schools.gov.sg     |
 | Mdm | Khairunnisa Bte Khairudin | Teacher                 | 3A2          | 8438  | khairunnisa_khairudin@schools.gov.sg |
 | Mr  | Tan Thiam Chye            | Teacher                 | 3A2          | 8319  | tan_thiam_chye@schools.gov.sg        |
