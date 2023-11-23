@@ -3,6 +3,7 @@ title: School Teaching Team
 permalink: /about-us/Our-People/school-teaching-team/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 # School Teaching Team
 
@@ -25,7 +26,7 @@ third_nav_title: Our People
 | Ms   | Nithiya Bhavani D/O Thiyagaraj | Teacher             | 1A2          | 8431   | nithiya_bhavani_thiyagarajan@schools.gov.sg |
 | Mr   | Png Choon Bing                 | Teacher             | 1A2          | 8403   | png_choon_bing@schools.gov.sg               |
 | Ms   | Yee Pei Fan                    | Teacher, EBS Co-Ord | 1A2          | 8338   | yee_pei_fan@schools.gov.sg                  |
-| Ms   | Cherry Fong                    | Teacher             | 1A3          | 8313   | fong_cherry@moe.edu.sg                      |
+| Ms   | Cherry Fong                    | Teacher             | 1A3          | 8313   | fong_cherry@schools.gov.sg                      |
 | Ms   | Lu Shan Shan                   | Teacher             | 1A3          | 8402   | lu_shanshan@schools.gov.sg                  |
 | Mrs  | Augustin Paul Nancy Bala       | Teacher             | 1A4          | 8311   | augustin_paul_nancy_bala@schools.gov.sg     |
 | Mrs  |  Emilline Tan                  | Teacher             | 1A4          | 8323   | tan_chin_yih_emilline@schools.gov.sg        |
@@ -60,7 +61,7 @@ third_nav_title: Our People
 
 |     |            Name           |       Designation       | Form Teacher |  Ext |                 Email                |
 |-----|:-------------------------:|:-----------------------:|:------------:|:----:|:------------------------------------:|
-  Mr | Song Kin Hoe Terence      | Teacher                 |  3A1         |  8440 | song_kin_hoe@schools.gov.sg          |
+  Mr | Song Kin Hoe      | Teacher                 |  3A1         |  8440 | song_kin_hoe@schools.gov.sg          |
 |  Ms | Teng Duan Li (June)       | Teacher                 |  3A1         | 8436  | teng_duan_li_june@schools.gov.sg     |
 | Mdm | Khairunnisa Bte Khairudin | Teacher                 | 3A2          | 8438  | khairunnisa_khairudin@schools.gov.sg |
 | Mr  | Tan Thiam Chye            | Teacher                 | 3A2          | 8319  | tan_thiam_chye@schools.gov.sg        |
@@ -113,7 +114,7 @@ third_nav_title: Our People
 |   Mr | Irwin Kao Chih Tsung             |    Teacher   | 8426  |       kao_chih_tsung_irwin@schools.gov.sg       |
 |  Mdm | Foo Hui Yueh Angeline            |    Teacher   | 8429  |         foo_hui_yueh@schools.gov.sg         |
 | Mdm  | Cao Yang                         |    Teacher   | 8430  |          cao_yang@schools.gov.sg           |
-| Mrs  | Toh Sock Tuang                         |    Teacher   | 8329  |          cao_yang@schools.gov.sg           |
+| Mrs  | Toh Sock Tuang                         |    Teacher   | 8329  |          toh_sock_tuang@schools.gov.sg           |
 | Dr  | Tan Jean Lee                         |    Teacher   | 8423  |          tan_jean_lee@schools.gov.sg           |
 
 
@@ -125,4 +126,3 @@ third_nav_title: Our People
 |  Mr | Mohamed Ashraff Bin Mohamed Ali   |            School Counsellor           |  8228 | mohamed_ashraff_mohamed_ali@schools.gov.sg |
 |  Ms | Candy Lee          |                SEN Officer               | 8333  |     candy_lee@schools.gov.sg    |
 |  Mr | Marshall Tan       |           Teacher Counsellor           |  8308 |   tan_khoon_lim@schools.gov.sg  |
-

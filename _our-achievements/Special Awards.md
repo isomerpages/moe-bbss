@@ -2,6 +2,7 @@
 title: Special Awards
 permalink: /our-achievements/special-awards/
 description: ""
+variant: markdown
 ---
 # Special Awards
 
@@ -15,6 +16,14 @@ description: ""
 | Chai Chong Yii Community Service Award | ENG XINYU, NATALIE                                                                                                                  |
 |          Habits of Mind Award          | 1.       CHEW ZI RUI SHERLYN<br>2.       OOI WEI SHENG<br>3.       MUHAMMAD AMIN S/O ABDUL KAFOOR<br>4.       TOH TZE ERN CHARLOTTE |
 |     BBSS Student of the Year Award     | CHEW ZI RUI SHERLYN                                                                                                             |
+
+#### AAC Academic Award Recipients 2023 - Based On Results In 2022 National Examinations
+
+
+|           Awards         |                Recipient(s)           |
+|:-------------:|----------------|
+| GCE ‘N’ Level 2022 Good Performance Award | 1.       AHMAD DANI BIN MOHAMMAD SHARIL<br>2.       BRANDON LEE YONG HUI<br>3.       BRYAN CHUA JUN YANG<br>4.       KAMAKSHI RAVIKUMAR SKANDHAKRIPA<br>5.      NUR SYAFIQAH BINTE MUHAMMAD FADLY<br>6.       NYKAN RAVINDRAN<br>7.       PHONE MIN KHANT<br>8.       RAJ KAMAL S/O MANIVANNAN<br>9.       REBECCA LAU SHU EN<br>10.   JAISHREE D/O RAJAMOORTHI<br>11.   CHIA HONG JIN LARRY<br>12.   OOI CHEN SI<br>13.   TAN HONG YAN JOHN<br>14.   TAN TNG EE, MERVIN<br>15.   WANG KANG XU MATTHIAS                     |
+| GCE ‘O’ Level 2022 Good Performance Award | 1.       GERAUD ANG WEI SHENG<br>2.       AW JUN LE<br>3.       RCHEN XI<br>4.       GERALDINE CHUA<br>5.       MANICKAVASAGOM RAMAKRISHNAN<br>6.       RYAN TAN YI REN<br>7.       LAU XI ZUAN<br>8.       XAVIER LIM KAI LOOK (LIN KAILUN)<br>9.       LIM KAI YANG<br>10.   CHEW ZI RUI SHERLYN |
 
 |   |                                                                                                          |
 |:---:|:---------------------------:|
