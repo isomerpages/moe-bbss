@@ -77,44 +77,54 @@ variant: markdown
 ### **Vision**
 <p style="text-align: justify;">
 The core of the framework lies the vision of STEM-ALP education in BBSS.
+<br>
 	
 **Emphatetic**
+
 *   In the process of problems solving, BBSSians have the end user(s) in mind and heart.
 *   Aligned to school values of RESPECT.&nbsp;
 *   Aligned to HOM disposition of listening with understanding and empathy.
 *   Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.	
 	
-	**Active problem solver**
-	*   Self-directed with the passion to solve authentic real-world problems to improve the existing condition.
+**Active problem solver**
+
+*   Self-directed with the passion to solve authentic real-world problems to improve the existing condition.
 	
 ### **Supporting Attributes**
 The triangle encapsulates the Supporting Attributes in BBSSians to be empathetic and active problem solvers.
 	
 **Ethics &amp; Value**
+
 *   Undergirded by the school values of RESPECT.
 *   Dominant values: Reflection and Empathy.
 	
 **Interdisciplinary Knowledge**
+
 *   Equipped with interdisciplinary knowledge in Science, Applied Subjects, Mathematics and ALP.	
 	
 **Harnessing Technology**
+
 *   Equipped with skills in harnessing emerging and immersive technologies for communication, collaboration, gathering data and automation.	
 
 ### **Approaches**
+
 **Reflective**	
+
 *   The Three-Selfs is the approach for BBSSians to be active problem solvers.&nbsp;
 *   The Three-Selfs refer to Self-awareness, Self-monitoring, and Self-modifying.
 	
-**Design Thinking, Inquiry and Computational Thinking**	
+**Design Thinking, Inquiry and Computational Thinking**
+
 *   Three approaches based on the subject discipline for Science, Applied Subjects and Mathematics which possessed the thinking and doing of a problem solver.
 	
 ### **Focus Areas**	
+
 **Four focus areas** which are impetus for Singapore's economic growth and progress.
 *   Sustainability
 *   Emerging Technologies
 *   City and Urban Landscape
 *   Future of transportation
-	
+<br>	
 Have you ever tried to navigate your way out of a maze? Or fry an egg using a robotic arm? In the age of robotic innovation where industries and lives are disrupted, many of such possibilities can be actualised through our Embedded Electronics programme using robots. This is part of our Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM). Our students learn about the control of robotic vehicles through block programming, harnessing the power of sensors to make smart decisions. They progress to manipulating robotic arms before synthesizing their learning to come up with solutions real-world problems through our Design Thinking approach.</p>
 
 
@@ -142,6 +152,7 @@ Through the ALP, the school enables students to:
 
 * Secondary 1 - Autonomous Vehicles and Maze Explorer
 * Secondary 2 - Problem-solving via Design Thinking
+
 ##### **<u>Key Programmes (2024)</u>**
 
 * Secondary 1 - Explore issues in the theme of Cities and Urban Landscapes
