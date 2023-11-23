@@ -72,9 +72,8 @@ variant: markdown
 </tbody>
 </table>
 
+![](/images/Our%20BBSS%20Experience/ALP_website_image.png)
 
-
-![](/images/Our%20BBSS%20Experience/chart_for_ALP.jpg)
 ### **Vision**
 <p style="text-align: justify;">
 The core of the framework lies the vision of STEM-ALP education in BBSS.
