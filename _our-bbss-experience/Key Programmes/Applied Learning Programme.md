@@ -137,7 +137,6 @@ Through the ALP, the school enables students to:
 *   Grow in motivation as they appreciate the relevance and value of their learning.
 
 <p style="text-align: justify;">Upon completion of the programme, students will attain Young Engineer Award (Applied Learning) awarded by Singapore Polytechnic.</p>
-  
 
 ##### **<u>Key Programmes (2022-2023)</u>**
 
