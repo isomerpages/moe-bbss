@@ -72,6 +72,8 @@ variant: markdown
 </tbody>
 </table>
 
+
+
 ![](/images/Our%20BBSS%20Experience/chart_for_ALP.jpg)
 ### **Vision**
 <p style="text-align: justify;">
