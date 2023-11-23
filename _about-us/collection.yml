@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Information/.keep
-      - School Information/School Information.md
       - School Information/Vision, Mission & Values.md
       - School Information/Principal's Message.md
       - School Information/School Life.md
