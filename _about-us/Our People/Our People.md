@@ -7,4 +7,6 @@ variant: markdown
 ---
 # Our People
 
-School Leaders
+**Our Leaders:**
+
+<img src="/images/About%20us/School%20Information/SL_Nov.jpg">
