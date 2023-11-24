@@ -15,6 +15,7 @@ variant: markdown
 |:--------------:|
 | City and Urban Landscapes |
 
+<div>
 <table>
 <tbody class="">
 <tr class="">
@@ -71,21 +72,19 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+</div>
 
 ![](/images/Our%20BBSS%20Experience/ALP_website_image.png)
 
 ### **Vision**
-<p style="text-align: justify;">
 The core of the framework lies the vision of STEM-ALP education in BBSS. 
-<br>
 	
 **Emphatetic**
-<br>
-* In the process of problems solving, BBSSians have the end user(s) in mind and heart.<br>
-* Aligned to school values of RESPECT.&nbsp; <br>
-* Aligned to HOM disposition of listening with understanding and empathy. <br>
-* Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.	<br>
-	
+* In the process of problems solving, BBSSians have the end user(s) in mind and heart.
+* Aligned to school values of RESPECT.&nbsp;
+* Aligned to HOM disposition of listening with understanding and empathy.
+* Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.
+
 **Active problem solver**
 Self-directed with the passion to solve authentic real-world problems to improve the existing condition.
 	
@@ -124,7 +123,7 @@ The triangle encapsulates the Supporting Attributes in BBSSians to be empathetic
 * City and Urban Landscape
 * Future of transportation
 <br>	
-Have you ever tried to navigate your way out of a maze? Or fry an egg using a robotic arm? In the age of robotic innovation where industries and lives are disrupted, many of such possibilities can be actualised through our Embedded Electronics programme using robots. This is part of our Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM). Our students learn about the control of robotic vehicles through block programming, harnessing the power of sensors to make smart decisions. They progress to manipulating robotic arms before synthesizing their learning to come up with solutions real-world problems through our Design Thinking approach.</p>
+Have you ever tried to navigate your way out of a maze? Or fry an egg using a robotic arm? In the age of robotic innovation where industries and lives are disrupted, many of such possibilities can be actualised through our Embedded Electronics programme using robots. This is part of our Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM). Our students learn about the control of robotic vehicles through block programming, harnessing the power of sensors to make smart decisions. They progress to manipulating robotic arms before synthesizing their learning to come up with solutions real-world problems through our Design Thinking approach.<p></p>
 
 
 <p style="text-align: justify;">Through these activities, students would collaboratively acquire technical knowledge, hone process skills and inculcate values. Through applying past knowledge to new situations, students have fun figuring out many possibilities and further develop the dispositions of Responding with Wonderment and Awe" and "Creating, Imagining and Innovating".</p>
