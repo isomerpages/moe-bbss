@@ -159,6 +159,14 @@ C Girls NSG 1<sup>st<br></sup>Round</td>
 <td style="text-align: center;" width="119"><strong>Wushu</strong><br>Chua Dong En Ralph – Nat 5<sup>th</sup>, 6<sup>th</sup><br>Chen Shaohan – 1 Nat Ind 7<sup>th<br></sup><br><strong>TKD</strong><br>Lin Xiang – 1 Nat 3rd</td>
 <td style="text-align: center;" valign="top"><strong>TKD</strong><br>Letrodo Rojean Macabenta – Nat 3<sup>rd<br></sup><br><strong>Swimming</strong><br>Peh Yi Xian</td>
 <td valign="top">-</td>
+<td style="text-align: center;"><strong>GYMNASTICS (ARTISTIC)</strong>
+<br>GWYNETH BOO - Uneven Bars (Bronze)<br>
+<br>
+<strong>SWIMMING</strong>
+<br>
+ETHAN KOH JIA ZHENG<br>
+<br><strong>FENCING</strong>
+<br>LAW CHEN XI, SETH<br></td>
 </tr>
 </tbody>
 </table>
