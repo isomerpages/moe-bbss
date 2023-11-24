@@ -87,7 +87,6 @@ The core of the framework lies the vision of STEM-ALP education in BBSS.
 * Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.	
 	
 **Active problem solver**
-
 * Self-directed with the passion to solve authentic real-world problems to improve the existing condition.
 	
 ### **Supporting Attributes**
