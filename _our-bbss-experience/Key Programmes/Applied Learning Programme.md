@@ -93,29 +93,29 @@ The triangle encapsulates the Supporting Attributes in BBSSians to be empathetic
 	
 **Ethics &amp; Value**
 
-* Undergirded by the school values of RESPECT. <br>
-* Dominant values: Reflection and Empathy. <br>
+* Undergirded by the school values of RESPECT.
+* Dominant values: Reflection and Empathy.
 	
-**Interdisciplinary Knowledge**<br>
+**Interdisciplinary Knowledge**
 
-* Equipped with interdisciplinary knowledge in Science, Applied Subjects, Mathematics and ALP.	<br>
+* Equipped with interdisciplinary knowledge in Science, Applied Subjects, Mathematics and ALP.
 	
-**Harnessing Technology**<br>
+**Harnessing Technology**
 
-* Equipped with skills in harnessing emerging and immersive technologies for communication, collaboration, gathering data and automation.	<br>
+* Equipped with skills in harnessing emerging and immersive technologies for communication, collaboration, gathering data and automation.	
 
-### **Approaches**<br>
+### **Approaches**
 
-**Reflective**	<br>
+**Reflective**
 
-* The Three-Selfs is the approach for BBSSians to be active problem solvers.&nbsp;<br>
-* The Three-Selfs refer to Self-awareness, Self-monitoring, and Self-modifying.<br>
+* The Three-Selfs is the approach for BBSSians to be active problem solvers.&nbsp;
+* The Three-Selfs refer to Self-awareness, Self-monitoring, and Self-modifying.
 	
-**Design Thinking, Inquiry and Computational Thinking**<br>
+**Design Thinking, Inquiry and Computational Thinking**
 
-* Three approaches based on the subject discipline for Science, Applied Subjects and Mathematics which possessed the thinking and doing of a problem solver.<br>
+* Three approaches based on the subject discipline for Science, Applied Subjects and Mathematics which possessed the thinking and doing of a problem solver.
 	
-### **Focus Areas**	<br>
+### **Focus Areas**
 
 **Four focus areas** which are impetus for Singapore's economic growth and progress.
 * Sustainability
