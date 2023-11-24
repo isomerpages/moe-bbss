@@ -76,7 +76,7 @@ variant: markdown
 
 ### **Vision**
 <p style="text-align: justify;">
-The core of the framework lies the vision of STEM-ALP education in BBSS.
+The core of the framework lies the vision of STEM-ALP education in BBSS. 
 <br>
 	
 **Emphatetic**
