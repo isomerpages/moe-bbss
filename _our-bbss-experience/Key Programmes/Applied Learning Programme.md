@@ -15,6 +15,7 @@ variant: markdown
 |:--------------:|
 | City and Urban Landscapes |
 
+<div>
 <table>
 <tbody class="">
 <tr class="">
@@ -71,20 +72,19 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+</div>
 
 ![](/images/Our%20BBSS%20Experience/ALP_website_image.png)
 
 ### **Vision**
 The core of the framework lies the vision of STEM-ALP education in BBSS. 
-<br>
 	
 **Emphatetic**
-<br>
-* In the process of problems solving, BBSSians have the end user(s) in mind and heart.<br>
-* Aligned to school values of RESPECT.&nbsp; <br>
-* Aligned to HOM disposition of listening with understanding and empathy. <br>
-* Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.	<br>
-	
+* In the process of problems solving, BBSSians have the end user(s) in mind and heart.
+* Aligned to school values of RESPECT.&nbsp;
+* Aligned to HOM disposition of listening with understanding and empathy.
+* Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.
+
 **Active problem solver**
 Self-directed with the passion to solve authentic real-world problems to improve the existing condition.
 	
