@@ -36,7 +36,8 @@ variant: markdown
 <th style="text-align: center;" width="135">2017</th>
 <th style="text-align: center;" width="119">2018</th>
 <th style="text-align: center;" width="100">2019</th>
-<th width="114">2022</th>
+<th style="text-align: center;" width="114">2022</th>
+<th style="text-align: center;" width="114">2023</th>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2"><strong>Air Rifle (B/G)</strong></td>
@@ -45,6 +46,8 @@ variant: markdown
 <td style="text-align: center;">-</td>
 <td style="text-align: center;">-</td>
 <td>B Boys NSG 8<sup>th<br></sup>B Girls NSG 5<sup>th</sup></td>
+<td style="text-align: center;">B Boys Air Rifle NSG 6<sup>th<br></sup>B Boys Air Pistol NSG 7<sup>th<br></sup>B Girls Air Rifle NSG 3<sup>rd<br></sup></td>
+
 </tr>
 <tr>
 <td style="text-align: center;">C Div</td>
@@ -52,6 +55,7 @@ variant: markdown
 <td style="text-align: center;">-</td>
 <td style="text-align: center;">-</td>
 <td>C Boys NSG 6<sup>th</sup><br>&nbsp;C Girls NSG 2<sup>nd</sup><br>- Chantel Tham from 2A3 was ranked 4<sup>th</sup>overall based on her individual score</td>
+<td style="text-align: center;">C Boys Air Rifle NSG 6<sup>th<br></sup>C Girls Air Rifle NSG 7<sup>th<br></sup></td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2"><strong>Badminton (B/G)</strong></td>
