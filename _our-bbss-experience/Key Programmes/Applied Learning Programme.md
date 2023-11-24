@@ -130,7 +130,7 @@ Have you ever tried to navigate your way out of a maze? Or fry an egg using a ro
 <p style="text-align: justify;">Through these activities, students would collaboratively acquire technical knowledge, hone process skills and inculcate values. Through applying past knowledge to new situations, students have fun figuring out many possibilities and further develop the dispositions of Responding with Wonderment and Awe" and "Creating, Imagining and Innovating".</p>
 
 
-<p style="text-align: justify;">Bought something online and it was delivered by a drone? Our robotics interest group support the broadening and deepening of interests in the areas of drones, coding and LEGO©\-based robotics.</p>
+<p style="text-align: justify;">Bought something online and it was delivered by a drone? Our robotics interest group support the broadening and deepening of interests in the areas of drones, coding and LEGO-based robotics.</p>
 
   
 <p style="text-align: justify;">Most of the world's population now lives in urban centres and city living provide problems and challenges of their own. Singapore, a highly urbanized city with very limited physical and human resources, faces profound challenges when it comes to development, management and sustainability. Our overarching&nbsp; theme of City and Urban Landscapes let students explore solutions to some of the issues they face in their everyday life.  </p>
@@ -154,5 +154,6 @@ Through the ALP, the school enables students to:
 
 ##### **<u>Key Programmes (2024)</u>**
 
-* Secondary 1 - Explore issues in the theme of Cities and Urban Landscapes
-* Problem-solving via Design Thinking
+* Secondary 1
+	* Explore issues in the theme of Cities and Urban Landscapes
+	* Problem-solving via Design Thinking
