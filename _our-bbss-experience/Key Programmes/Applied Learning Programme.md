@@ -80,11 +80,11 @@ The core of the framework lies the vision of STEM-ALP education in BBSS.
 <br>
 	
 **Emphatetic**
-
-In the process of problems solving, BBSSians have the end user(s) in mind and heart.
-Aligned to school values of RESPECT.&nbsp;
-Aligned to HOM disposition of listening with understanding and empathy.
-Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.	
+<br>
+* In the process of problems solving, BBSSians have the end user(s) in mind and heart.<br>
+* Aligned to school values of RESPECT.&nbsp; <br>
+* Aligned to HOM disposition of listening with understanding and empathy. <br>
+* Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.	<br>
 	
 **Active problem solver**
 Self-directed with the passion to solve authentic real-world problems to improve the existing condition.
@@ -94,29 +94,29 @@ The triangle encapsulates the Supporting Attributes in BBSSians to be empathetic
 	
 **Ethics &amp; Value**
 
-*   Undergirded by the school values of RESPECT.
-*   Dominant values: Reflection and Empathy.
+* Undergirded by the school values of RESPECT. <br>
+* Dominant values: Reflection and Empathy. <br>
 	
-**Interdisciplinary Knowledge**
+**Interdisciplinary Knowledge**<br>
 
-* Equipped with interdisciplinary knowledge in Science, Applied Subjects, Mathematics and ALP.	
+* Equipped with interdisciplinary knowledge in Science, Applied Subjects, Mathematics and ALP.	<br>
 	
-**Harnessing Technology**
+**Harnessing Technology**<br>
 
-* Equipped with skills in harnessing emerging and immersive technologies for communication, collaboration, gathering data and automation.	
+* Equipped with skills in harnessing emerging and immersive technologies for communication, collaboration, gathering data and automation.	<br>
 
-### **Approaches**
+### **Approaches**<br>
 
-**Reflective**	
+**Reflective**	<br>
 
-* The Three-Selfs is the approach for BBSSians to be active problem solvers.&nbsp;
-* The Three-Selfs refer to Self-awareness, Self-monitoring, and Self-modifying.
+* The Three-Selfs is the approach for BBSSians to be active problem solvers.&nbsp;<br>
+* The Three-Selfs refer to Self-awareness, Self-monitoring, and Self-modifying.<br>
 	
-**Design Thinking, Inquiry and Computational Thinking**
+**Design Thinking, Inquiry and Computational Thinking**<br>
 
-* Three approaches based on the subject discipline for Science, Applied Subjects and Mathematics which possessed the thinking and doing of a problem solver.
+* Three approaches based on the subject discipline for Science, Applied Subjects and Mathematics which possessed the thinking and doing of a problem solver.<br>
 	
-### **Focus Areas**	
+### **Focus Areas**	<br>
 
 **Four focus areas** which are impetus for Singapore's economic growth and progress.
 * Sustainability
