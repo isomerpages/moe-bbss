@@ -64,6 +64,8 @@ variant: markdown
 <td style="text-align: center;">-</td>
 <td style="text-align: center;">-</td>
 <td valign="top">B Boys NSG WZ 1<sup>st</sup>&nbsp;Round<br>&nbsp;B Girls NSG WZ 1<sup>st</sup>&nbsp;Round</td>
+<td style="text-align: center;">B Boys NSG WZ 1<sup>st<br></sup> Round
+B Girls NSG 1<sup>st<br></sup>Round</td>
 </tr>
 <tr>
 <td style="text-align: center;">C Div</td>
@@ -71,6 +73,8 @@ variant: markdown
 <td style="text-align: center;">Boys – WZ – 2<sup>nd</sup>&nbsp;Round</td>
 <td style="text-align: center;" valign="top">-</td>
 <td>C Boys NSG WZ 1<sup>st</sup>&nbsp;Round<br>C Girls NSG WZ 1<sup>st</sup>&nbsp;Round</td>
+<td style="text-align: center;">C Boys NSG WZ 1<sup>st<br></sup> Round
+C Girls NSG 1<sup>st<br></sup>Round</td>	
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2"><strong>Basketball (B)</strong></td>
@@ -79,13 +83,15 @@ variant: markdown
 <td style="text-align: center;">WZ – 2<sup>nd</sup>&nbsp;Round</td>
 <td style="text-align: center;">-</td>
 <td valign="top">B Boys NSG WZ 1<sup>st</sup>&nbsp;Round</td>
-</tr>
+	<td style="text-align: center;">B Boys NSG WZ 1<sup>st<br></sup> Round
+</td></tr>
 <tr>
 <td style="text-align: center;">C Div</td>
 <td style="text-align: center;">WZ – 2<sup>nd</sup>&nbsp;Round</td>
 <td style="text-align: center;">WZ - 2<sup>nd</sup>&nbsp;Round</td>
 <td style="text-align: center;" valign="top">-</td>
 <td valign="top">C Boys NSG WZ 2<sup>nd</sup>&nbsp;Round</td>
+<td style="text-align: center;">C Boys NSG WZ First Runners-up Nationals QF</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2"><strong>Softball (G)</strong></td>
@@ -94,6 +100,7 @@ variant: markdown
 <td style="text-align: center;">Nat QF</td>
 <td style="text-align: center;">Nat QF</td>
 <td>B Girls NSG 1<sup>st</sup>&nbsp;Round</td>
+<td style="text-align: center;">B Girls NSG 1<sup>st<br></sup>Round</td>
 </tr>
 <tr>
 <td style="text-align: center;">C Div</td>
@@ -101,6 +108,7 @@ variant: markdown
 <td style="text-align: center;">-</td>
 <td style="text-align: center;">-</td>
 <td>C Girls NSG 1<sup>st</sup>&nbsp;Round</td>
+	<td style="text-align: center;">C Girls NSG QF</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2"><strong>Rugby (B)</strong></td>
@@ -109,6 +117,7 @@ variant: markdown
 <td style="text-align: center;">-</td>
 <td style="text-align: center;">Bowl – 4th</td>
 <td>B Boys NSG BOWL 3<sup>rd&nbsp;</sup>Runners Up</td>
+<td style="text-align: center;">B Boys NSG 1<sup>st<br></sup>Round</td>
 </tr>
 <tr>
 <td style="text-align: center;">C Div</td>
@@ -116,6 +125,7 @@ variant: markdown
 <td style="text-align: center;">Bowl – 3rd</td>
 <td style="text-align: center;">Bowl - Champions</td>
 <td>C Boys NSG BOWL Champions</td>
+<td style="text-align: center;">C Boys NSG BOWL Champions</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2"><strong>Cross Country (B/G)</strong></td>
@@ -124,6 +134,7 @@ variant: markdown
 <td style="text-align: center;">Boys – Team 14<br>Girls – Team 17</td>
 <td style="text-align: center;">Boys – Team 11<br>Girls – Team 21<br>Nat 9<sup>th</sup>&nbsp;– Bryan|<br>Ong Nat 14<sup>th</sup>&nbsp;– Letrodo Rojean</td>
 <td valign="top">-</td>
+	<td style="text-align: center;">NSG B Boys Team - 16<sup>th<br></sup> NSG B Girls Team - 18<sup>th<br></sup></td>
 </tr>
 <tr>
 <td style="text-align: center;">C Div</td>
@@ -131,6 +142,7 @@ variant: markdown
 <td style="text-align: center;" valign="top">Boys – Team 15<br>Girls – Team 13</td>
 <td style="text-align: center;" valign="top">Boys – Team 11<br>Girls – Team 19</td>
 <td valign="top">-</td>
+<td style="text-align: center;">NSG C Boys Team - 26<sup>th<br></sup> NSG C Girls Team - 26<sup>th<br></sup></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Track &amp; Field</strong></td>
@@ -139,6 +151,7 @@ variant: markdown
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;"><strong>National School Track and Field Championships</strong>&nbsp;Boys - Bryan Ong -1500m (6<sup>th</sup>), 3000m (8<sup>th</sup>)&nbsp;</td>
 <td valign="top">-</td>
+<td valign="top">-</td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="2"><strong>Others</strong></td>
@@ -146,6 +159,14 @@ variant: markdown
 <td style="text-align: center;" width="119"><strong>Wushu</strong><br>Chua Dong En Ralph – Nat 5<sup>th</sup>, 6<sup>th</sup><br>Chen Shaohan – 1 Nat Ind 7<sup>th<br></sup><br><strong>TKD</strong><br>Lin Xiang – 1 Nat 3rd</td>
 <td style="text-align: center;" valign="top"><strong>TKD</strong><br>Letrodo Rojean Macabenta – Nat 3<sup>rd<br></sup><br><strong>Swimming</strong><br>Peh Yi Xian</td>
 <td valign="top">-</td>
+<td style="text-align: center;"><strong>GYMNASTICS (ARTISTIC)</strong>
+<br>GWYNETH BOO - Uneven Bars (Bronze)<br>
+<br>
+<strong>SWIMMING</strong>
+<br>
+ETHAN KOH JIA ZHENG<br>
+<br><strong>FENCING</strong>
+<br>LAW CHEN XI, SETH<br></td>
 </tr>
 </tbody>
 </table>

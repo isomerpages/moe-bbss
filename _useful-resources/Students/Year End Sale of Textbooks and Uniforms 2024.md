@@ -3,6 +3,7 @@ title: Year End Sale of Textbooks and Uniforms 2024
 permalink: /useful-resources/students/year-end-sale-of-textbooks-and-uniforms-2024/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 # Year End Sale of Textbooks and Uniforms 2024
 
@@ -14,6 +15,7 @@ Please see the booklist 2024 for more information. If your child is offering sub
 
 &nbsp;Online Sales Date:&nbsp;**From 14 November, Tue to 15 December, Fri.**
 
+*   Sec 1 (2024) - 20th to 22nd Nov, 26th to 29th Dec
 *   Sec 2 (2024) – 14th Nov to 17th Nov
 *   Sec 3 (2024) – 20th Nov to 24th Nov
 *   Sec 4 (2024) – 27th Nov to 01st Dec
@@ -23,7 +25,7 @@ Monday – Friday 9am to 3pm.
 \*except Christmas Eve and Christmas Day
 
 <b><u>2024 Textbook List*</u></b>
-
+*   [Secondary 1](/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/Bukit_Batok_Secondary_School_Booklist_2024___Sec_1.pdf)
 *   <a href="/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/bukit%20batok%20secondary%20school%20booklist%202024%20s2.pdf" target="_blank">Secondary 2</a>
 *   <a href="/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/bukit%20batok%20secondary%20school%20booklist%202024%20s3.pdf" target="_blank">Secondary 3</a>
 *   <a href="/files/Useful%20Resources/Students/2024%20end%20Textbooks%20&amp;%20Uniforms/bukit%20batok%20secondary%20school%20booklist%202024%20s4.pdf" target="_blank">Secondary 4</a>
