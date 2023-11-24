@@ -5,8 +5,13 @@ date: 2023-10-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/2023_open%20house%20banner_29092023.png)
+
+![](/images/PAG_schedule.png)
+
+![](/images/Sports_schedule.png)
 
 <a id="top"></a>
 ### Virtual Tour @ BBSS
