@@ -3,6 +3,7 @@ title: Admissions
 permalink: /about-us/Admissions/
 description: ""
 third_nav_title: Admissions
+variant: markdown
 ---
 # Admissions
 
@@ -18,6 +19,15 @@ third_nav_title: Admissions
 | 2020 |    4    |   2  |  1   |   7   |
 | 2019 |    4    |   2  |  1   |   7   |
 | 2018 |    4    |   2  |   1  |   7   |
+
+##### 2023 Sec 1 Cohort
+
+|                  | Cut-off | Range | Median |
+|:----------------:|:-------:|:-----:|:------:|
+|       Year       |   2023  |  2023 |  2023  |
+|      Express     |    16   |   12  |   15   |
+|  Normal Academic |    24   |   21  |   22   |
+| Normal Technical |    28   |   25  |   27   |
 
 ##### 2022 Sec 1 Cohort
 
