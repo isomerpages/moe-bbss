@@ -3,6 +3,7 @@ title: Computer Applications Elements of Business Skills
 permalink: /our-bbss-experience/Departments/computer-applications-elements-of-business-sk/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 # Computer Applications/Elements of Business Skills
 
@@ -20,15 +21,15 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td><strong>Programme Director</strong></td>
-<td colspan="2" style="text-align: center;">Mr Andy Lee Chin Hock</td>
+<td colspan="2" style="text-align: center;">Mdm Tong Wee Onn</td>
 </tr>
 <tr>
 <td><strong>Coordinators</strong></td>
-<td >Computer Applications (CPA)</td>
+<td>Computer Applications (CPA)</td>
 <td>&nbsp;</td>
 </tr>
-<tr >
-<td >&nbsp;</td>
+<tr>
+<td>&nbsp;</td>
 <td>Elements of Business Study (EBS)</td>
 <td>Ms Yee Pei Fan</td>
 </tr>
@@ -70,8 +71,8 @@ Students will be taught 6 compulsory modules in the subject. These modules are a
 |:--:|:-----:|:------------------:|:-----------------------:|
 |  1 |  2022 |                   Animation and Game Making (AGM) Competition                 |                                              Gold Award<br>(Game Category)<br>Nurul Adilah (3A1)                                              |
 |  2 | 2021  |                  Animation and Game Making (AGM) Competition                  |          Bronze Award<br>(Animation Category)Er Wei Tong (2A1)<br><br><br>Bronze Award<br>(Game Category)Wayne Lau Zheng Heng (3A1)           |
-|  3 |  2020 |                  Animation and Game Making (AGM) Competition                  | Gold & Platinum Award<br>(Animation Category)Wayne Lau Zheng Heng (2A1)<br><br><br>Silver Award<br>(Game Category)Bryant Neo Chun Xiang (3A1) |
-|  4 | 2018  |  Media Computing Competition<br>(Cat B - Game Making Programme Scratch File)  |                                                 Gold & Platinum AwardJaven Koh Wei Yang (3T1)                                                 |
+|  3 |  2020 |                  Animation and Game Making (AGM) Competition                  | Gold &amp; Platinum Award<br>(Animation Category)Wayne Lau Zheng Heng (2A1)<br><br><br>Silver Award<br>(Game Category)Bryant Neo Chun Xiang (3A1) |
+|  4 | 2018  |  Media Computing Competition<br>(Cat B - Game Making Programme Scratch File)  |                                                 Gold &amp; Platinum AwardJaven Koh Wei Yang (3T1)                                                 |
 |  5 | 2018  |         Media Computing Competition Animation Programme (Scratch File)        |                                                   Bronze Award<br>Andrew Lim Meng Whie  (2T1)                                                 |
 |  6 |  2017 |       Media Computing Competition<br>Animation Programme (Scratch file)       |            Gold Award<br>(for Animation Programme (Scratch file) submitted to CPDD)<br>Platinum Award<br>Kang Jun Wei, Wayne (3T1)            |
 |  7 | 2016  |             Media Computing Competition<br>(Cat B - Game Making)              |                                             Gold AwardMohamad Haziq Irwan Bin Mohamad Kamal (3T1)                                             |
