@@ -41,4 +41,4 @@ variant: markdown
 
 ### Other Awards
 
-*   Model Canteen Award by HPB (Health Promotion Board)
+*   Model Canteen Award by HPB(Health Promotion Board)

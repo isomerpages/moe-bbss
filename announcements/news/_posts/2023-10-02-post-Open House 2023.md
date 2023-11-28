@@ -9,6 +9,10 @@ variant: markdown
 ---
 ![](/images/2023_open%20house%20banner_29092023.png)
 
+If you have missed our Open House, please watch the recorded session of our Principal Talk to know more about BBSS!
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VIGuCq4hQvQ?si=WMDRMgLKYeZ_pja5" height="315" width="560"></iframe>
+
 ![](/images/PAG_schedule.png)
 
 ![](/images/Sports_schedule.png)
