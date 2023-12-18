@@ -3,6 +3,7 @@ title: Executive & Administrative Support Team
 permalink: /about-us/Our-People/executive-n-administrative-support-team/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 # Executive & Administrative Support Team
 
@@ -30,8 +31,7 @@ third_nav_title: Our People
 |  Mdm | Suridah Binte Ibrahim                 |    Operation Support Officer    | 8119  | suridah_ibrahim@moe.edu.sg  |
 |  Ms  | Fatin Sufiah Bte Kadir            |                ICT Manager                |  8232 | fatin_sufiah_kadir@schools.gov.sg |
 |   Mr | Loo Tin Song                      |                ICT Manager                | 8233  |    loo_tin_song@schools.gov.sg    |
-|  Mr  | Ong Je Hua                        |          NCS Desktop Engineer (DE)        |  8235 |       g-ncs3044sde@ncs.com.sg     |
-|  Mr  | Muhammad Dandarawie Bin Rohani  |         NCS Desktop Engineer (DE)         | 8236  |      g-ncs3044sde@ncs.com.sg      |
+|  Mr  | Mohamed Ariffin  |          NCS Desktop Engineer (DE)        |  - |      ariffin.alamahiqbal@ncs.com.sg     | 
 |  Mr  | Muhammad Elfi Bin Jalani          |                ICT Trainer                |  8234 |  muhammad_elfi_jalani@moe.edu.sg  |
 |   Ms   |    Charlene Chua   |             Library Assistant             |  8237 |   charlene_chua@moe.edu.sg            |
 |   -  |                                   |            Teachers' Assistant            |  8120 |         bbss_ta@moe.edu.sg        |
