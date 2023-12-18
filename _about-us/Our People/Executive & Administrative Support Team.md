@@ -28,7 +28,7 @@ variant: markdown
 |  Mr | Jumahat Bin Mustapha                 |    Operations Support Officer    | 8118  | jumahat_mustapha@moe.edu.sg  |
 |  Mdm | Salmah Binte Abu                 |    Operations Support Officer    | 8114  | salmah_abu@schools.gov.sg  |
 |  Mdm | Susila D/O Karuppiah                 |    Operations Support Officer    | 8101  | susila_karuppiah@schools.gov.sg  |
-|  Mdm | Suridah Binte Ibrahim                 |    Operation Support Officer    | 8119  | suridah_ibrahim@moe.edu.sg  |
+|  Ms | Suridah Binte Ibrahim                 |    Operation Support Officer    | 8119  | suridah_ibrahim@moe.edu.sg  |
 |  Ms  | Fatin Sufiah Bte Kadir            |                ICT Manager                |  8232 | fatin_sufiah_kadir@schools.gov.sg |
 |   Mr | Loo Tin Song                      |                ICT Manager                | 8233  |    loo_tin_song@schools.gov.sg    |
 |  Mr  | Mohamed Ariffin  |          NCS Desktop Engineer (DE)        |  - |      ariffin.alamahiqbal@ncs.com.sg     | 
