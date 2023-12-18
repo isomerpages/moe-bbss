@@ -18,10 +18,14 @@ variant: markdown
 ### Malay Special Programme 2024
 
 <b><u>Class Schedule</u></b>
-<img src="/images/Our%20BBSS%20Experience/MSP/MSP2023.jpg">
+![](/images/Our%20BBSS%20Experience/MSP/MSP_Timetable_2024.png)
 
+All lessons will commence in Term 1 Week 3; ie. Tuesday, 16 Jan for Secondary 1; Wednesday, 17 Jan for Secondary 2; and Thursday, 18 Jan for Secondary 3 and 4.
 
-**Registration for 2023 Secondary 1 Students**
+**Registration for 2024 Secondary 1 Students**
+
+#### **NEW**:
+Seconday 1 2024 students who have been offered the subject, please register [here](https://go.gov.sg/bukitbatok2024) or scan the following QR code (link will be available from **21 Dec 2023, 0700hrs to 4 Jan 2024, 1700hrs** only)
 
 Registration has ended on 5 January 2023.  
 Applicants who wish to appeal to take up the subject, please contact your respective school's Head of Department. Appeals will have to be submitted by 13 January 2023.
