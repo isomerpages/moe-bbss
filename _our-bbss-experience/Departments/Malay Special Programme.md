@@ -27,6 +27,8 @@ All lessons will commence in Term 1 Week 3; ie. Tuesday, 16 Jan for Secondary 1;
 #### **NEW**:
 Seconday 1 2024 students who have been offered the subject, please register [here](https://go.gov.sg/bukitbatok2024) or scan the following QR code (link will be available from **21 Dec 2023, 0700hrs to 4 Jan 2024, 1700hrs** only)
 
+![](/images/Our%20BBSS%20Experience/MSP/QR_Code_MSP_2024.png)
+
 Please note that this registration is **only** for those who have successfully been offered the subject, Malay (Special Programme) at Bukit Batok Secondary School (West - Zonal Centre).
 
 (i) If successful applicants do not register by 4 January 2024, the offer will lapse, and the place will be offered to another applicant.
@@ -40,6 +42,7 @@ Commencement details will be sent to schools in Term 1 Week 2 (8 - 12 Jan 2024).
 **Applicants who were unsuccessful and those who wish to appeal to take up the subject, please contact your respective school's Head of Department.**
 
 ##### **Withdrawal from Programme**  
-For current students who would like to withdraw from the programme, please complete the Withdrawal Form&nbsp;[here](https://drive.google.com/file/d/1mp94Uu4le4iGdYJpsK5ix2zd_ezln-MF/view?usp=share_link)&nbsp;and submit it to BBSS.  
+For current students who would like to withdraw from the programme, please complete the Withdrawal Form [here](/files/Our%20bbss%20experience/BBSS_MSP_WITHDRAWAL_FORM_2024.pdf) and submit it to BBSS.  
 
 ##### **MSP Teachers’ Contacts**
+![](/images/Our%20BBSS%20Experience/MSP/MSP_Teachers_2024.png)
