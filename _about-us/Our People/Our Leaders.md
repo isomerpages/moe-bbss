@@ -8,4 +8,4 @@ variant: markdown
 # Our Leaders
 
 
-<img src="/images/About%20us/School%20Information/SL_Nov.jpg">
+![](/images/principal_update_2023_dec.png)
