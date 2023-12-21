@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>For students who have successfully been offered the programme, kindly click <a href="https://www.bukitbatoksec.moe.edu.sg/our-bbss-experience/Departments/malay-special-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a> to register.</p>
