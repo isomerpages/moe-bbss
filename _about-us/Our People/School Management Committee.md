@@ -31,14 +31,14 @@ variant: markdown
 <td>Shirley Lee</td>
 <td>Principal-Designate</td>
 </tr>
-<tr>
-<td>Mr</td>
-<td>Cheng Poh Huat, Alan</td>
+	<tr>
+<td>Mdm</td>
+<td>Mabel Chia Bee Khim</td>
 <td>Vice-Principal (EO)</td>
 </tr>
 <tr>
-<td>Mdm</td>
-<td>Mabel Chia Bee Khim</td>
+<td>Mr</td>
+<td>Cheng Poh Huat, Alan</td>
 <td>Vice-Principal (EO)</td>
 </tr>
 </tbody>
