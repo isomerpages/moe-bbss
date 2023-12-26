@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/Our-People/school-management-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 # School Management Committee
 
@@ -32,7 +33,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td>Mr</td>
-<td>Wu Tian Hwee</td>
+<td>Cheng Poh Huat, Alan</td>
 <td>Vice-Principal (EO)</td>
 </tr>
 <tr>
