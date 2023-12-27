@@ -8,4 +8,4 @@ variant: markdown
 # Student E-Handbook
 
 Dear Students,  
-Click&nbsp;<a href="https://drive.google.com/file/d/1AyuQtdH06uKdgIJCIziekoC7MXEg7-7H/view?usp=sharing">here</a>&nbsp;to read the&nbsp; E-Handbook.
+Click&nbsp;<a href="https://drive.google.com/file/d/1GvGMnYd6Sm6V8Zss47k0ZgAW6s5Z-uew/view?usp=sharing">here</a>&nbsp;to read the&nbsp; E-Handbook.
