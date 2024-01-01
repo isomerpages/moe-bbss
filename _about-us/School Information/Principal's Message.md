@@ -3,30 +3,35 @@ title: Principal's Message
 permalink: /about-us/School-Information/principals-message/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 # Principal's Message
 
-## A Message From Our Principal
 
 
 <figure>
-	<img src="/images/About%20us/School%20Information/Mr%20Phua%20Huat%20Chuan%20(Principal).jpg"
-     style="width:50%">
+	<img src="/images/Mrs_Shirley_Lee.JPG" style="width:50%">
 <figcaption>
-	<strong> Mr Phua Huat Chuan<br>
+	<strong> Mrs Shirley Lee<br>
 Principal, Bukit Batok Secondary School</strong>
 	</figcaption>
 </figure>
 
+### A Legacy of Excellence
+<p style="text-align: justify;">As the 8th Principal of Bukit Batok Secondary School, I am humbled and very zestful to step into this role, to build upon legacy of excellence established by my predecessor Mr Phua Huat Chuan and esteemed principals before me. For 37 years, BBSS has been known in the community to be a school that provides quality holistic education.  </p>
 
-<p style="text-align: justify;">A school draws its identity from the national consciousness that is forged by families, communities and organisations in the country. BBSS is more than 30 years old and in the same way Singapore has evolved its identity in the world, we have forged our own identity within the Bukit Batok community. Like Singapore, we have become unique in our own ways. A heartening example is Project Mi where our students, staff and parents with support of Bukit Batok grassroot leaders collect rice from donors and distribute to needy residents. That this service to the community was initiated many years ago by our very own NPCC cadets is indeed heartwarming. Besides donating rice, we also shore up Singapore's blood bank through the collaborative efforts of our youth leadership team and Bukit Batok CC in organising the annual blood donation drive for more than 10 years.  </p>
+### Honoring our Heritage, Inspiring the Future
+<p style="text-align: justify;">Bukit Batok holds a special place in Singapore’s history. The iconic Old Ford Factory stands as a testament to our nation’s resilience and the dawn of a new era, which ultimately saw Singapore’s independence post World War II. Founded in 1986, Bukit Batok Secondary School stands proud as the school built for this township, with a heritage of serving and growing with the Bukit Batok community. As a school rooted in this rich heritage, we proudly carry the torch of nurturing R.E.S.P.E.C.T.ful leaders – self-directed and confident youths who contribute meaningfully to our society and the future of Singapore..</p>
 
-<p style="text-align: justify;">We are known in our community to be a school that provides holistic education. Our students excel in both their studies and CCAs. A prime example is our NCC Sea unit, where our boys and girls undergo rigorous sea training and develop strong esprit de corps. It is therefore not surprising that they are once again affirmed with a Gold Award in the NCC Best Unit Competition.</p>
+### Every Child Is Unique, Every Talent Flourishes
+<p style="text-align: justify;">The school’s philosophy is grounded on the belief that every <b>child is unique and has innate abilities to be developed</b>. This philosophy resonates with my education leadership beliefs in nurturing the holistic development of every child, recognising that every child is different, with their unique strengths, interests and needs. As a mother of 2 and an educator having over 2 decades of teaching, leadership and service in various schools and at the Ministry of education headquarters, has only strengthened this conviction that every child can and wants to learn. We eagerly look forward implementing Full Subject Based Banding in 2024. Together with our dedicated team at BBSS, we are committed to designing engaging learning experiences that cater to diverse learners, so that each student finds purpose, engagement and growth in their education journey.  </p>
 
-<p style="text-align: justify;">Every student goes through their rites of passage at our challenging Multi-Level Activities which endeavour to bond them to the school and challenge them in an outdoor environment. As every group, big or small, progresses from strength to strength, our conviction that BBSSians are capable of being self-directed with an abundance mentality becomes stronger. This evokes a strong sense of pride amongst stakeholders in BBSS which permeates into the community. In this way, we strengthen our identity in the Bukit Batok community.</p>
+### Be Our Best, for Good
+<p style="text-align: justify;">BBSS education challenges our students in being and becoming their best selves for the greater good, so that they can contribute purposefully to community. Together with my team, we remain steadfast in our mission to <b>nurture BBSSians to be self-directed learners with abundance mentality</b>. With the school’s academic and student development programmes carefully designed to engage BBSSians, they will be able to embrace their future with confidence and grace. I believe that BBSS will provide a caring and supportive environment that allows students to develop values, dispositions, wellbeing skills, a growth mindset that they can <b>Be Our Best</b> for good.</p>
 
-<p style="text-align: justify;">BBSS was created together with Bukit Batok Town more than 30 years ago and it is only right that we continue to remain relevant and effective in service to our community. We now look forward to the next 5 years of our journey by building on the successes we have achieved in the last 30 years. Our Vision is to be a premier school which provides quality holistic education to every BBSSians. We aspire to achieve this by nurturing BBSSians to be successful self-directed learners with an abundance mentality. Tapping on our niche programme Habits of Mind, we aim to develop BBSSians to be self-managing, self-monitoring and self-modifying citizens with a generosity of spirit and a willingness to value the well-being of others.</p>
+<p style="text-align: justify;">BBSS has stood the test of time as an excellent school and I look forward to working with my Vice Principals, staff and stakeholders in our community in steering the school towards even greater heights. </p>
 
-<p style="text-align: justify;">Finally, we want to be a `little red dot’ that makes a big difference in the Bukit Batok community and in Singapore.</p>
+Have a meaningful and positive 2024!
 
-**BBSSians, go forth and Be Our Best!**
+Mrs Shirley Lee
+<br>Principal
