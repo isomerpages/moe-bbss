@@ -8,4 +8,4 @@ variant: markdown
 # Our Leaders
 
 
-![](/images/principal_update_2023_dec.png)
+![](/images/principal_update_2024_jan.png)
