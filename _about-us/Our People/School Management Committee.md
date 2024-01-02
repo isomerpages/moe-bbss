@@ -20,16 +20,11 @@ variant: markdown
 <th>Email</th>
 </tr>
 <tr>
-<td>Mr</td>
-<td>Phua Huat Chuan</td>
+<td>Mrs</td>
+<td>Shirley Lee</td>
 <td>Principal</td>
 <td rowspan="4">63799413</td>
 <td rowspan="4"><a href="mailto:bbss@moe.edu.sg" target="">bbss@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mrs</td>
-<td>Shirley Lee</td>
-<td>Principal-Designate</td>
 </tr>
 	<tr>
 <td>Mdm</td>
