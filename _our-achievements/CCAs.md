@@ -8,13 +8,13 @@ variant: markdown
 
 ### Uniform Groups
 
-|      CCA      |     2018 - 2019    |     2019 - 2020    | 2020 - 2021 |     2021 - 2022    |     2022 - 2023    |
-|:--------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|   NCC (Land)  | Distinction | Distinction |  N/A | Distinction |  Distinction |
-|   NCC (Sea)   | Distinction | Distinction |  N/A | Distinction |  Distinction |
-|      NPCC     |    Silver   |     Gold    |  N/A |     Gold    | Gold |
-|  Boys Brigade |     Gold    |     Gold    |  N/A |     Gold    |  High Distinction |
-| Girls Brigade |     Gold    |     Gold    |  N/A |    Silver   |  Silver |
+|      CCA      |     2018 - 2019    |     2019 - 2020    | 2020 - 2021 |     2021 - 2022    |     2022 - 2023    |     2023 - 2024     |
+|:--------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|   NCC (Land)  | Distinction | Distinction |  N/A | Distinction |  Distinction | TBA |
+|   NCC (Sea)   | Distinction | Distinction |  N/A | Distinction |  Distinction | TBA |
+|      NPCC     |    Silver   |     Gold    |  N/A |     Gold    | Distinction | Distinction |
+|  Boys Brigade |     Gold    |     Gold    |  N/A |     Gold    |  High Distinction | TBA |
+| Girls Brigade |     Gold    |     Gold    |  N/A |    Silver   |  Silver | TBA |
 
 ### Performing Arts Groups
 
