@@ -17,32 +17,25 @@ variant: markdown
 
 ### Malay Special Programme 2024
 
-<b><u>Class Schedule</u></b>
-![](/images/Our%20BBSS%20Experience/MSP/MSP_Timetable_2024.png)
+##### <b><u>Class Schedule</u></b>
+![](/images/Our%20BBSS%20Experience/MSP/MSP_Class_Schedule_2024_001.jpeg)
 
-All lessons will commence in Term 1 Week 3; ie. Tuesday, 16 Jan for Secondary 1; Wednesday, 17 Jan for Secondary 2; and Thursday, 18 Jan for Secondary 3 and 4.
+##### <u>**Registration for 2024 Secondary 1 Students**</u>
+Registration has ended on 4 Jan 2024.
 
-##### **Registration for 2024 Secondary 1 Students**
+##### <u>**Commencement of Lessons**</u>
+All lessons will commence in Term 1 Week 3(refer to table above).
+<br>
+Books will be bought upon the teacher's instruction in class.
+<br>
+Letter to parents regarding the commencement details has been sent to schools in Term 1 Week 2 (Dated 10 Jan 2024). Please click [here](/files/Our%20bbss%20experience/COMMENCEMENT_DETAILS_FOR_MSP_2024__for_schs_.pdf) for a copy of the Commencement Letter.
 
-#### **NEW**:
-Seconday 1 2024 students who have been offered the subject, please register [here](https://go.gov.sg/bukitbatok2024) or scan the following QR code (link will be available from **21 Dec 2023, 0700hrs to 4 Jan 2024, 1700hrs** only)
-
-![](/images/Our%20BBSS%20Experience/MSP/QR_Code_MSP_2024.png)
-
-Please note that this registration is **only** for those who have successfully been offered the subject, Malay (Special Programme) at Bukit Batok Secondary School (West - Zonal Centre).
-
-(i) If successful applicants do not register by 4 January 2024, the offer will lapse, and the place will be offered to another applicant.
-
-(ii) Commencement of lesson will begin on the week of 15 January 2024.
-
-(iii) Books will be bought upon the teacher's instruction in class.
-
-Commencement details will be sent to schools in Term 1 Week 2 (8 - 12 Jan 2024).
-
-**Applicants who were unsuccessful and those who wish to appeal to take up the subject, please contact your respective school's Head of Department.**
+##### <u>**Examination Details 2024**</u>
+Please click [here](/files/Our%20bbss%20experience/MSP1_4_Exam_Dates_2024.pdf) for our examination dates.
 
 ##### **Withdrawal from Programme**  
-For current students who would like to withdraw from the programme, please complete the Withdrawal Form [here](/files/Our%20bbss%20experience/BBSS_MSP_WITHDRAWAL_FORM_2024.pdf) and submit it to BBSS.  
+For current students who would like to withdraw from the programme, please complete the Withdrawal Form [here](/files/Our%20bbss%20experience/BBSS_MSP_WITHDRAWAL_FORM.pdf) and submit it to BBSS.  
 
 ##### **MSP Teachers’ Contacts**
-![](/images/Our%20BBSS%20Experience/MSP/MSP_Teachers_2024.png)
+For any queries regarding Malay (Special Programme) at Bukit Batok Secondary School, please contact any of the following teachers:
+![](/images/Our%20BBSS%20Experience/MSP/MSP_Teachers_contact_2024_001.jpeg)
