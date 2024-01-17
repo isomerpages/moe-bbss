@@ -69,5 +69,5 @@ variant: markdown
 |  Ms  |         Chin Yee Woon        |     SH / Youth Leadership Development    |  8230  |     [chin\_yee\_woon@schools.gov.sg](mailto:chin_yee_woon@schools.gov.sg)     |
 |  Mdm |    Jayanthi D/O Appachamy    |            LT/ Geography           |  8206  |   [jayanthi\_appachamy@schools.gov.sg](mailto:jayanthi_appachamy@schools.gov.sg)  |
 |  Mr  |            Syam Lal          |            LT / Learning Needs           |  8222  |  [syam\_lal\_sadanandan@schools.gov.sg](mailto:syam_lal_sadanandan@schools.gov.sg) |
-|  Mr  |            Nikhil Nath Chatterji |            SH / Student Well-Being (Int)           |  8431  |  [nikhil_nath_chatterji@schools.gov.sg](mailto:nikhil_nath_chatterji@schools.gov.sg) |
+|  Mr  |            Nikhil Nath Chatterji |            SH / Student Well-Being           |  8431  |  [nikhil_nath_chatterji@schools.gov.sg](mailto:nikhil_nath_chatterji@schools.gov.sg) |
 |  Ms  |            Nithiya Bhavani D/O Thiyagarajan          |            SH / CCE (Int)        |  8431 |  [nithiya_bhavani_thiyagarajan@schools.gov.sg](mailto:nithiya_bhavani_thiyagarajan@schools.gov.sg) |
