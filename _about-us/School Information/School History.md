@@ -78,4 +78,5 @@ variant: markdown
 | <img src="/images/About%20us/School%20Information/School%20History/Mr%20Tan%20Soon%20Yong.jpg" style="width:50%"> |   MR TAN SOON YONG<br>**2003 - 2004**     |
 | <img src="/images/About%20us/School%20Information/School%20History/mrs%20lysia%20kee2.jpg" style="width:50%"> |     MRS LYSIA KEE<br>**2005 - 2013**      |
 | <img src="/images/About%20us/School%20Information/School%20History/ms%20chamb%20cherk.jpg" style="width:50%"> |    MS CHAMB CHERK ING<br>**2014 - 2016**  |
-| <img src="/images/About%20us/School%20Information/School%20History/mr%20phua%20huat%20chuan.jpg" style="width:50%"> | MR PHUA HUAT CHUAN<br>**2017 - PRESENT** |
+| <img src="/images/About%20us/School%20Information/School%20History/mr%20phua%20huat%20chuan.jpg" style="width:50%"> | MR PHUA HUAT CHUAN<br>**2017 - 2023** |
+| <img src="/images/About%20us/School%20Information/School%20History/mrsshirleylee.png" style="width:50%"> | MRS SHIRLEY LEE<br>**2024 - Present** |

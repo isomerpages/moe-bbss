@@ -7,7 +7,7 @@ variant: markdown
 ---
 # School Life
 
-#### BBSS Westories 2023
+#### BBSS Westories
 
 ![](/images/About%20us/School%20Information/School%20Life/1703_23%20bukit%20batok%20secondary%20school%20we%20stories%20(internal)_page_1.png)
 
