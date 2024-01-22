@@ -2,12 +2,13 @@
 title: Choir
 permalink: /performing-arts-groups/choir/
 description: ""
+variant: markdown
 ---
 # Choir
 
 |                             |               |
 |--------------------|---------------------|
-| **Teachers-In-Charge:** <br><br>                             | Ms Seah Lilin (IC)<br>Ms Cherry Fong          <br>Ms Lim Dai Xuan         |
+| **Teachers-In-Charge:**                              | Ms Seah Lilin (IC)<br>Ms Fong          <br>Ms Lim Dai Xuan         |
 | **President**                                                | Lustetica Rhiann Gabrielle Masangcay (3A7)                                 |
 | **Vice-President (Student Development):**                                          | Niki Adlina Chaw Bte Md Faizal (3A2)                                           | **Vice-President (Student Welfare):**                                          | Peren Ben Rylee Dalangin (3A6)                                            |
 | **Head Of Logistics:**                                       | Ilham Adha Bin Masri (3A2)                                          |
