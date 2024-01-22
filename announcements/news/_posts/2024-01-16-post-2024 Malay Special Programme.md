@@ -1,7 +1,7 @@
 ---
 title: 2024 Malay Special Programme
 permalink: /announcements/news/msp2024/
-date: 2023-01-16
+date: 2024-01-16
 layout: post
 description: ""
 image: ""
