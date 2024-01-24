@@ -7,17 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-# **Sec 1**
-* [2023 EYE Timetable - S1NT](https://drive.google.com/file/d/1KUWODPSQcSB_iaBh9nawo6m5maLZhQXL/view?usp=drive_link)
-* [2023 EYE Timetable - S1NA](https://drive.google.com/file/d/1s0rU5ewRuzryj_JwWX1W4HwAaANNuqcH/view?usp=drive_link)
-* [2023 EYE Timetable - S1E](https://drive.google.com/file/d/18EmHU-bcxxxkySA8o-uEMHuD1RaRqZCv/view?usp=drive_link)
-
-# **Sec 2**
-* [2023 EYE Timetable - S2NT](https://drive.google.com/file/d/1vJs_tA2jv-6R7CQH8uB_rn1zNy0TL0P0/view?usp=drive_link)
-* [2023 EYE Timetable - S2NA](https://drive.google.com/file/d/1bGAWtgNbljEoribq0VydXK2MIBXcrBpp/view?usp=drive_link)
-* [2023 EYE Timetable - S2E](https://drive.google.com/file/d/15PK7rG4ObOAXZhwX4mMlrRU0SceNZZoW/view?usp=drive_link)
-
-# **Sec 3**
-* [2023 EYE Timetable - S3NT](https://drive.google.com/file/d/1yFIR2lWzIH48TTu-YhVXBPjbMUXzvKlw/view?usp=drive_link)
-* [2023 EYE Timetable - S3NA](https://drive.google.com/file/d/1WwSoWargNorLo4h5xzS342HhxMQbRwdr/view?usp=drive_link)
-* [2023 EYE Timetable - S3E](https://drive.google.com/file/d/1rnRSXqNSPrXRTKyQZmbT_HGnOOCNTR3w/view?usp=drive_link)
+<p>To all BBSS students,</p><p>Please click on the link below to view your schedule and scope for Weighted Assessment 1(for Sec 1-3) and Class Test schedule and scope (for Sec 4 and 5).</p><p><strong>Sec 1</strong></p><ul data-tight="true" class="tight"><li><p><a href="/files/Sec_1_WA1_Scope_and_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1 Scope and Schedule</a></p></li></ul><p><strong>Sec 2</strong></p><ul data-tight="true" class="tight"><li><p><a href="/files/Sec_2_WA1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1 Scope and Schedule</a></p></li></ul><p><strong>Sec 3</strong></p><ul data-tight="true" class="tight"><li><p><a href="/files/Sec_3_WA1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1 Schedule and Scope</a></p></li></ul><p><strong>Sec 4 and 5</strong></p><ul data-tight="true" class="tight"><li><p><a href="/files/Sec_4_and_5_Class_Test_1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 and 5 Class Test 1 Schedule and Scope</a></p></li></ul><p></p>
