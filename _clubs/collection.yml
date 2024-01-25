@@ -1,0 +1,8 @@
+collections:
+  clubs:
+    output: true
+    order:
+      - Gym Club.md
+      - Media Club.md
+      - One Earth Club.md
+      - Robotics Club.md

@@ -1,0 +1,12 @@
+logo: /images/bbss-small-Maroon-final.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our BBSS Experience
+    collection: our-bbss-experience
+  - title: Useful Resources
+    collection: useful-resources
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Have a Question?
+    url: https://ask.gov.sg/bbss

@@ -1,0 +1,6 @@
+collections:
+  arts-education:
+    output: true
+    order:
+      - Echoes 11.md
+      - Echoes 12.md

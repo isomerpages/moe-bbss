@@ -1,0 +1,10 @@
+collections:
+  sports-and-games:
+    output: true
+    order:
+      - Air Rifle.md
+      - Basketball (Boys).md
+      - Badminton.md
+      - Cross Country.md
+      - Rugby.md
+      - Softball (Girls).md

@@ -1,0 +1,17 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - "Launch of the W7 2022 Euphoria for the Arts Exhibition: A Kaleidoscope
+        of Talents.md"
+      - MOE Financial Assistance Scheme (FAS 2024).md
+      - Student E Handbook.md
+      - FAQ For New Secondary 1 Students.md
+      - PDLP @ BBSS.md
+      - "HBL Resource Kit for Parents: Fostering a strong relationship with your
+        child.md"
+      - Full Home Based Learning Matters.md
+      - Personal Accident Insurance Online Claim for Students.md
+      - Schoolbag sg.md
+      - Welcome onboard to Parents Gateway (PG).md
+      - "Cyber Wellness: Tip sheet for Parents on Cyber issue at home.md"

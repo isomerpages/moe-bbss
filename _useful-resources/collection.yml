@@ -1,0 +1,29 @@
+collections:
+  useful-resources:
+    output: true
+    order:
+      - Timetable.md
+      - Calendar.md
+      - Students/.keep
+      - Students/Students.md
+      - Students/FHBL Seek, Discover and Learn (SDL,FHBL) Matters.md
+      - Students/School Safety Resources.md
+      - Students/School Safety Policy.md
+      - Students/BBSS Deep Breathing and Grounding Exercise.md
+      - Students/Year End Sale of Textbooks and Uniforms 2024.md
+      - Students/Student E Handbook.md
+      - Students/BBSS Student Link.md
+      - Teachers/.keep
+      - Teachers/Teachers.md
+      - Parents/.keep
+      - Parents/Parents.md
+      - Parents/CyberWellness.md
+      - Parents/Sexuality Education.md
+      - Parents/Schoolbag sg.md
+      - Parents/Group Personal Accident Insurance Claim for Students.md
+      - Parents/PDLP @ BBSS.md
+      - Parents/Principal's Talk for Sec 2 and Subject Selection Information
+        2023.md
+      - Parents/My Healthy Plate Campaign | Wholegrains.md
+      - Parents/MOE Parents' Support Group (PSG) Portal.md
+      - Parents/Homework Policy for Parents.md
