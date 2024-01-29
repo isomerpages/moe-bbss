@@ -2,6 +2,7 @@
 title: Media Club
 permalink: /clubs/media-club/
 description: ""
+variant: markdown
 ---
 # Media Club
 
@@ -11,10 +12,10 @@ description: ""
 
 |                             |             |
 |-----------------|-----------|
-| **Teachers-in-charge:**<br><br> | Mdm Nadiah (IC)<br>Mr Luke Tan (2nd IC)<br>Mr Tan Thiam Chye<br>Mdm Rafidah<br>Ms Fatin (ICT Associate)<br>Mr Elfi (ICT Trainer)  |
-| **Chairperson:**                | Goh Rae Karl (3A5)                                                                                                                                                                    |
-| **Vice-Chairperson:**           | Kyle Lim Liangyu (3A5)<br>Darren Lee Yao Wei (3A7)                                                                                                                                    |
-| **Admin Manager:**              | Haleema Haja Alaudeen (3A2)                                                                                                                                                           |
+| **Teachers-in-charge:**<br><br> | Mdm Nadiah (IC)<br>Mr Tan Thiam Chye (2nd IC)<br><br>Mdm Rafidah<br><br>Mdm Khairunissah<br>Ms Fatin (ICT Manager<br>Mr Elfi (ICT Trainer)  |
+| **Chairperson:**                | Ang Jia Xuan Sheryl (4A2)                                                                                                                                                                    |
+| **Vice-Chairperson:**           | Chua Wen Biao (4A3)<br>Sheler Yap Zi Xuan (4A3)                                                                                                                                    |
+| **Admin Manager:**              | Hannah Iwani Bte Senin (4A3)                                                                                                                                                           |
 | **Training Days:**<br>          | Venue:<br>Broadcasting Room<br><br><u>Odd Week Mondays &amp; Wednesdays</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Mondays:</u><br>3:15 PM to 5:15 PM<br><br><u>Even Week Wednesdays:</u><br>2:30 PM to 4:30 PM |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MEDIA CLUB Video 2021_2" src="https://www.youtube.com/embed/ndGdwz-A2rw" height="315" width="560"></iframe>
