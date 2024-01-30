@@ -14,8 +14,8 @@ Preventive programmes and responsive services are made available to all
 students in BBSS and these services are tailored to suit the individual
 needs of our students.</p>
 <p>Students can reach out for help from the school counselling team through
-the Need Someone To Talk To Portal by scanning the QR Code or clicking
-this <a href="https://forms.gle/CFgHH2yUr7Y2gSp28" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+the Need Someone To Talk To Portal by scanning the QR Code or click on
+the poster.</p>
 <p>Some examples of issues that students may face challenges in include the
 following:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic
