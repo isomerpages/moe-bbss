@@ -2,7 +2,8 @@
 title: Calendar
 permalink: /useful-resources/calendar/
 description: ""
+variant: markdown
 ---
 # Calendar
-### Term 2 Major Events
-![](/images/Useful%20Resources/2023Term2.jpg)
+### 2024 Term 1 Major Events
+![](/images/Useful%20Resources/2024Term1.JPG)
