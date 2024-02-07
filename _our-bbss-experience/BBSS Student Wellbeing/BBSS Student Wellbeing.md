@@ -15,8 +15,6 @@ The School Counsellor's primary role is to work with students and other stakehol
   
 We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Tongue Learning Centre.
 
-<center><a href="/our-bbss-experience/bbss-student-wellbeing/make-an-appointment/">Make An Appointment</a></center>
-
 ## Resources
 
 
