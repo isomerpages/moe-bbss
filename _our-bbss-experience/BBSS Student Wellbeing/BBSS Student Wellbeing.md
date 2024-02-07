@@ -3,6 +3,7 @@ title: BBSS Student Wellbeing
 permalink: /our-bbss-experience/BBSS-Student-Wellbeing/
 description: ""
 third_nav_title: BBSS Student Wellbeing
+variant: markdown
 ---
 # BBSS Student Wellbeing
 
@@ -13,8 +14,6 @@ Your well-being as a student is important because it has an impact on your quali
 The School Counsellor's primary role is to work with students and other stakeholders to provide quality school counselling support for the student's mental health and social-emotional development.  
   
 We are located on the 2nd floor of Empathy Block (#02-04), beside the Mother Tongue Learning Centre.
-
-<center><a href="/our-bbss-experience/BBSS-Student-Wellbeing/make-an-appointment/">Make An Appointment</a></center>
 
 ## Resources
 
