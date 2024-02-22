@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 1 Week 84 2024</h1>
+<h1>SDL Term 1 Week 8 2024</h1>
 <p>Dear students, This week's SDL Task is for <strong>ALL STUDENTS.</strong>
 </p>
 <p>Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3dHCnRv5puuhg_KLj7TGbizF7rDbsLoo0E73z-l35OBC3zi2NcUk7tvT8qiqGNiXTzjyx0ORq599Z/pubhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
