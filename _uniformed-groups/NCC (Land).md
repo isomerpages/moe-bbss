@@ -2,6 +2,7 @@
 title: NCC (Land)
 permalink: /uniformed-groups/ncc-land/
 description: ""
+variant: markdown
 ---
 # NCC (Land)
 
@@ -14,18 +15,18 @@ description: ""
 
 |                          |                       |
 |-----------------|------------------|
-| **Unit Sergeant Major:**            | 1SG Kendren Lee Zhengrong                                                                                             |
-| **Asst Unit Sergeant Major:**       | 1SG Swastik Tripathi                                                                                                  |
-| **Head of Admin:**                  | 3SG Syed Rayyan Syed Musthaq                                                                                          |
-| **Head of Logistics:**              | 1SG Lin Weijian                                                                                                       |
-| **Head of Training:**               | 1SG John Andriel Tapia Hernandez                                                                                      |
-| **Junior Cadet Platoon Sergeant:**  | 3SG Muhammad Fir Ramadhan Bin Abdullah                                                                                |
-| **Senior Cadet Platoon Sergeant:**  | 3SG Arjun Anil        |
-| **Cadet Leaders Platoon Sergeant:** | 1SG Shanthosh S/O Periyasamy                                                                                          |
-| **Cadet Officer:**                  | C/LTA Tang Kai Kiat<br>C/2LT Ang Jun Han Xavier<br>C/2LT Mohamad Zahyn Zeyneddyn B M Z<br>C/2LT Ganesan Rishi Bharath |
+| **Unit Sergeant Major:**            | MSG Chang Jiang Rong                                                                                             |
+| **Asst Unit Sergeant Major:**       | MSG Amiry Qashri Bin Zainuri                                                                                                 |
+| **Head of Admin:**                  | SSG Htet Eain Khant                                                                                          |
+| **Head of Logistics:**              | SSG Ong Hua Jun, Dylan                                                                                                       |
+| **Head of Training:**               | SSG Ho Shun Yi, Alexander                                                                                      |
+| **Junior Cadet Platoon Sergeant:**  | SSG Md Thaqif Bin Md Tarmidi                                                                                |
+| **Senior Cadet Platoon Sergeant:**  | SSG Arnav Kocheta        |
+| **Cadet Leaders Platoon Sergeant:** | 1SG Rohan Prasanth                                                                                          |
+| **Cadet Officer:**                  | C/LTA Tang Kai Kiat<br>C/2LT Ganesan Rishi Bharath |
 | **Associate Members:**              | MSG Lee Jen Fai                                                                                                       |
-| **Total Strength:70**               |                       |
-| **CCA Training Days:**<br>          | Wednesdays -  4.00PM to 6.00PM<br>Fridays - 2.30PM to 6.00PM                                                          |
+| **Total Strength:**               |    70                   |
+| **CCA Training Days:**<br>          | Mondays -  3.30PM to 5.30PM<br>Wednesdays - 3.30PM to 5.30PM                                                          |
 
 
 ### Mission:
