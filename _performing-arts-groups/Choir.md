@@ -60,25 +60,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Soprano 1:</strong>
+<p><strong>Soprano 1:</strong> 
 <br>Niki Adlina Chaw Bte Md Faizal (4A2)
 <br>Huang Yin En (4A7)
 <br>
-<br><strong>Soprano 2:</strong>
+<br><strong>Soprano 2:</strong> 
 <br>Filene Low (4A2)
 <br>Ong Yong Ying (4A3)
 <br>
-<br><strong>Alto:</strong>
+<br><strong>Alto:</strong> 
 <br>Lustestica Rhiann Gabrielle Masangcay (4A7)
 <br>
-<br><strong>Baritones:</strong>
+<br><strong>Baritones:</strong> 
 <br>Peren Ben Rylee Dalangin (4A6)
 <br>Charles Terrence Concepcion Fiesta (4A6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong>
+<p><strong>Training Days:</strong> 
 <br>
 </p>
 </td>
