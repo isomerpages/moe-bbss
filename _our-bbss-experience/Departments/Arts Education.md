@@ -19,7 +19,7 @@ Click the links for more information on:
 
 | Subject Head Aesthetic       | Mdm Nadiah Bte Abdul Nasir                      |
 |---------------------|-----------|
-| Music Teachers               | Ms Jade Leong (Music Coordinator)<br>Ms Cherry Fong                                                                  |
+| Music Teachers               | Ms Jade Leong (Music Coordinator)<br>Ms Fong                                                                  |
 |  Aesthetic Committee Members | Ms Lim Dai Xuan<br>Mr Jared Er<br>Ms Nancy Bala<br>Ms Ng Siew Yong<br>Ms Lu Shan Shan<br>Ms Kali Sri D/O Sivanantham<br>Mr Jeremy Goh|
 
 #### Aesthetics Department&nbsp;
