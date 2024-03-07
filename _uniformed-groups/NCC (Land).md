@@ -25,7 +25,7 @@ variant: markdown
 | **Cadet Leaders Platoon Sergeant:** | 1SG Rohan Prasanth                                                                                          |
 | **Cadet Officer:**                  | C/LTA Tang Kai Kiat<br>C/2LT Ganesan Rishi Bharath |
 | **Associate Members:**              | MSG Lee Jen Fai                                                                                                       |
-| **Total Strength:70**               |                       |
+| **Total Strength:**               |    70                   |
 | **CCA Training Days:**<br>          | Mondays -  3.30PM to 5.30PM<br>Wednesdays - 3.30PM to 5.30PM                                                          |
 
 
