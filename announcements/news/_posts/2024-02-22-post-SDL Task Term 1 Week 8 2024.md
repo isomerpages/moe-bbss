@@ -10,7 +10,7 @@ variant: tiptap
 <h1>SDL Term 1 Week 10 2024</h1>
 <p>Dear students, This week's SDL Task is for <strong>SEC 3 STUDENTS ONLY.</strong>
 </p>
-<p>Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3dHCnRv5puuhg_KLj7TGbizF7rDbsLoo0E73z-l35OBC3zi2NcUk7tvT8qiqGNiXTzjyx0ORq599Z/pubhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0nV5l6RFbr0K9jrXO3sj2Ri-PV1SlKEJJKX4hEBBWaVBOVceGIL1L__1h8QfGrhyobkTL2miPYn7u/pubhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view your SDL task list for <strong>Term 1 Week 10</strong>.</p>
 <p>Please note the following for SDL matters:</p>
 <ol data-tight="true" class="tight">
