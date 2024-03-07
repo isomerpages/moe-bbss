@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-bbss-experience/Departments/mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 # Mathematics
 
@@ -28,17 +29,6 @@ third_nav_title: Departments
 <p style="text-align: center;">Ms Toh Pui Yhing</p>
 </td>
 </tr>
-<tr>
-<td>
-<p><strong>Subject Head</strong></p>
-</td>
-<td>
-<p>Innovation &amp; Math</p>
-</td>
-<td>
-<p>Mr Ling Xiao Ern Darren</p>
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -53,26 +43,16 @@ third_nav_title: Departments
 
 | No  | Year  | Competition Title                | Award/Achievement                            |
 |:----:|:------:|:---------:|:------------------:|
-|   1 |  2021 | Singapore Mathematical Olympiad  |                         1 Bronze, 3 Honourable Mention                         |
-|   2 |  2021 |   ICAS Mathematics Competition   |                       1 High Distinction, 10 Distinction                       |
-|   3 |  2020 | Singapore Mathematical Olympiad  |                               3 Honourable Mention                             |
-|   4 | 2020  |   ICAS Mathematics Competition   |                                 7 Distinction                                  |
-|   5 |  2019 | Singapore Mathematical Olympiad  |                         2 Bronze, 4 Honourable Mention                         |
-|   6 |  2019 |   ICAS Mathematics Competition   |                       1 High Distinction, 11 Distinction                       |
-|  7  | 2018  | Singapore Mathematical Olympiad  |              1 Silver, 4 Honourable Mention <br>(42 participants)              |
-| 8   | 2018  | ICAS Mathematics Competition     |             3 High Distinction, 28 Distinction<br>(99 participants)            |
-| 9   | 2017  | Singapore Mathematical Olympiad  |          1 Gold, 3 Bronze, 4 Honourable Mention <br>(45 participants)          |
-|  10 | 2017  | ICAS Mathematics Competition     | 6 High Distinction, 17 Distinction, 38 Credit, 17 Merit <br>(100 participants) |
-| 11  | 2016  | Singapore Mathematical Olympiad  |          1 Gold, 4 Bronze, 6 Honourable Mention <br>(45 participants)          |
-| 12  | 2016  | ICAS Mathematics Competition     | 5 High Distinction, 19 Distinction, 42 Credit, 7 Merit <br>(100 participants)  |
-|  13 | 2015  | Singapore Mathematical Olympiad  |          2 Gold, 4 Bronze, 7 Honourable Mention <br>(40 participants)          |
-| 14  | 2015  | ICAS Mathematics Competition     | 2 High Distinction, 18 Distinction, 42 Credit, 12 Merit <br>(100 participants) |
-| 15  | 2014  | Singapore Mathematical Olympiad  |         1 Silver, 3 Bronze, 2 Honourable Mention <br>(45 participants)         |
-| 16  | 2014  | ICAS Mathematics Competition     | 2 High Distinction, 21 Distinction, 46 Credit, 14 Merit <br>(100 participants) |
-| 17  | 2013  | Singapore Mathematical Olympiad  |         1 Silver, 3 Bronze, 5 Honourable Mention <br>(48 participants)         |
-| 18  | 2013  | ICAS Mathematics Competition     |       1 High Distinction, 7 Distinction, 56 Credit <br>(100 participants)      |
-| 19  | 2012  | Singapore Mathematical Olympiad  |                2 Bronze, 3 Honourable Mention (49 participants)                |
-|  20 | 2012  | ICAS Mathematics Competition     |                  22 Distinction, 47 Credit (100 participants)                  |
+|   1 |  2023 | Singapore Mathematical Olympiad  |                               1 Bronze, 6 Honourable Mention                             |
+|   2 |  2023 | ICAS Mathematics Competition  |                               7 Distinction                             |
+|   3 |  2022 | Singapore Mathematical Olympiad  |                               2 Bronze, 4 Honourable Mention                             |
+|   4 |  2022 | ICAS Mathematics Competition  |                               7 Distinction                             |
+|   5 |  2021 | Singapore Mathematical Olympiad  |                         1 Bronze, 3 Honourable Mention                         |
+|   6 |  2021 |   ICAS Mathematics Competition   |                       1 High Distinction, 10 Distinction                       |
+|   7 |  2020 | Singapore Mathematical Olympiad  |                               3 Honourable Mention                             |
+|   8 | 2020  |   ICAS Mathematics Competition   |                                 7 Distinction                                  |
+|   9 |  2019 | Singapore Mathematical Olympiad  |                         2 Bronze, 4 Honourable Mention                         |
+|   10 |  2019 |   ICAS Mathematics Competition   |                       1 High Distinction, 11 Distinction                       |
 
 ### Key department Programmes and Activities
 
@@ -87,10 +67,9 @@ third_nav_title: Departments
 | 6  | Pi Day (March 14)                                                          | Teachers prepare activities related to Pi to stimulate students’ curiosity, increase general knowledge and appreciation for mathematics.                                                                             |
 | 7  | Lower Sec Math Day                                                         | Station games prepared by Sec 2 students for Sec 1 participants, for students to learn Math in a fun way.                                                                                                            |
 | 8  | Mathematics Trail                                                          | The Mathematics Trail is a school-based activity that is conducted after the year-end examination for the Sec 2 students to help pupils develop an appreciation and enjoyment of Mathematics in everyday situations. |
-| 9  | Individualised Self-Paced Learning (ISPL) for Upper Secondary levels       | A programme to promote self-directed learning &amp; collaborative learning.                                                                                                                                              |
-| 10 | Bridging Lessons for Normal Academic students                              | To strengthen student’s foundation to meet the demands of higher academic levels.                                                                                                                                    |
-| 11 | Remedial and Supplementary Lessons                                         | Structured remedial/supplementary lessons to help weaker students.                                                                                                                                                   |
-| 12 | Prep Exam &amp; Consultation for graduating students                           | To prepare students well for N level and O level Exam.                               |
+| 9 | Bridging Lessons for Normal Academic students                              | To strengthen student’s foundation to meet the demands of higher academic levels.                                                                                                                                    |
+| 10 | Remedial and Supplementary Lessons                                         | Structured remedial/supplementary lessons to help weaker students.                                                                                                                                                   |
+| 11 | Prep Exam &amp; Consultation for graduating students                           | To prepare students well for N level and O level Exam.                               |
 
 ### Gallery
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSczYa_0aDRZ3lMBC4-Z4vfudjF0dtnSYWv3C82Qoq6W83499egvQtozt61oTFA6mgKZ6_cvj6fR2n/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
