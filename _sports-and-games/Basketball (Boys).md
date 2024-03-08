@@ -39,7 +39,6 @@ Our team philosophy is&nbsp;**P.H.D.**&nbsp;It stands for&nbsp;**Professionalism
 
 <p style="text-align: justify;">Our basketball team is the only secondary school team in Singapore to be certified as a cohort with professional referees. This will allow our players to referee Junior Basketball game and continue their interest in the game. Our players also have the opportunity to participate in our yearly BBSS 5v5 cup and BBSS 3v3 cup. With exceptional skills and experience, our players organise our school level wide yearly 3v3 competition.</p>
 
-
 ### Highlights
 * C div 2023, Through to NSG Nationals
 
