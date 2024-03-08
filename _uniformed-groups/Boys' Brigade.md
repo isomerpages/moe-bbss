@@ -2,38 +2,31 @@
 title: Boys' Brigade
 permalink: /uniformed-groups/boys-brigade/
 description: ""
+variant: markdown
 ---
 # Boys' Brigade
 
 |                     |                                                                    |
 |-----------|--------------|
-| Teachers-in-charge: | LTA Mr Darren Ling (IC)<br>2LT Ms Leah Chua<br>2LT Mr Terence Chua |
+| Teachers-in-charge:   | LTA Mr Darren Ling (IC)<br>2LT Ms Leah Chua<br>OCT Ms Koh Caihua |
 
 |                    |                  |
 |--------------------|------------------|
-| Captain:           | Mr Brendan Chang |
-| Assistant Chaplain | Mr Tim Chin      |
-
-### Student Leaders
-
-|                      |                               |
-|-----------|-------------------|
-| Company Sergeant Major:           | Hon Jun Kag, Bryson |
-| Assistant Company Sergeant Major: | Lee Yu Ze Clarence         |
+| Captain:           | LTA Mr Brendan Chang |
+| Assistant Chaplain | LTA Mr Tim Chin      |
+| Company Sergeant Major:           | SSG Hon Jun Kag, Bryson |
+| Assistant Company Sergeant Major: | SSG Lee Yu Ze Clarence         |
 
 **Our Core**
-
-<p style="text-align: justify;">The 53rd&nbsp;Boys’ Brigade Company strongly believes in servanthood leadership and our core values include obedience, reverence, discipline and self-respect. Our BB Boys are nurtured to be faithful in what is entrusted to them and to be committed to the organisation. We train with utmost excellence and take pride in what we do.
+<p style="text-align: justify;">The 53rd Boys’ Brigade Company strongly believes in servanthood leadership. Our core values include obedience, reverence, discipline and self-respect. Our BB Boys learn to be faithful in their responsibilities. They also learn to be committed to the organisation. We train with excellence and take pride in what we do.
 
 **Our Company Achievements**
 
-</p><p style="text-align: justify;">For 2022 to 2023, our company has attained the James Milner Fraser - High Distinction. This award goes to the top-performing BB Companies in Singapore. Our company has received this award or equivalent since 2016.</p>
-
-  
+</p><p style="text-align: justify;">For 2023 to 2024, our company has attained the James Milner Fraser - High Distinction. This award goes to the top-performing BB Companies in Singapore. Our company has received this award or equivalent since 2016.</p>
 
 **Our Boys' Achievements**
 
-<p style="text-align: justify;">We are proud to announce&nbsp; that we have three BB Boys who received the Founder's Award in 2023. The Founder's Award is the pinnacle of awards achievable&nbsp;at the Secondary School level.</p>
+<p style="text-align: justify;">We have BB Boys receiving the coveted Founder's Award yearly. The Founder's Award is the pinnacle of awards achievable at the Secondary School level.</p>
 
 **Our Holistic Curriculum**
 
