@@ -2,6 +2,7 @@
 title: Basketball (Boys)
 permalink: /sports-and-games/basketball-boys/
 description: ""
+variant: markdown
 ---
 # Basketball (Boys)
 
