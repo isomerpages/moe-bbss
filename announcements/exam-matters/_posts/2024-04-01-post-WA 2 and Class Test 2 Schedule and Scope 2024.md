@@ -15,7 +15,7 @@ and 5).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_1_WA1_Scope_and_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Scope and Schedule</a>
+<p><a href="/files/2024_Sec_1_WA2_Schedule_and_Scope.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Scope and Schedule</a>
 </p>
 </li>
 </ul>
@@ -31,7 +31,7 @@ and 5).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_3_WA1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA2 Scope and Schedule</a>
+<p><a href="/files/2024_Sec_3_WA2_Schedule_and_Scope.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA2 Scope and Schedule</a>
 </p>
 </li>
 </ul>
@@ -39,7 +39,7 @@ and 5).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_4_and_5_Class_Test_1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E and 5NA Class Test 2 Scope and Schedule</a>
+<p><a href="/files/2024_Sec_4_Express_and_Sec_5_NA_Class_Tests_2_Schedule_and_Scope.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E and 5N Class Test 2 Scope and Schedule</a>
 </p>
 </li>
 </ul>
