@@ -23,7 +23,7 @@ and 5).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_2_WA1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA2 Scope an</a> 
+<p><a href="/files/Sec_2_WA1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA2 Scope an</a>
 <a href="/files/2024_Sec_2_WA2_Schedule_and_Scope.pdf" rel="noopener noreferrer nofollow" target="_blank">d</a><a href="/files/Sec_2_WA1_Schedule_and_Scope_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
 </p>
 </li>
