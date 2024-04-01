@@ -9,8 +9,8 @@ variant: tiptap
 ---
 <p>To all BBSS students,</p>
 <p>Please click on the link below to view your schedule and scope for Weighted
-Assessment 1(for Sec 1-3) and Class Test schedule and scope (for Sec 4
-and 5).</p>
+Assessment 2(for Sec 1-3) and Class Test schedule and scope (for Sec 4E
+and 5N).</p>
 <p><strong>Sec 1</strong>
 </p>
 <ul data-tight="true" class="tight">
