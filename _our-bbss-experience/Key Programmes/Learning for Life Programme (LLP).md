@@ -103,12 +103,19 @@ for the student body to give back to the community and make a tangible
 impact on the students.</p>
 <p></p>
 <p>Please find the details of the events in the reports below.</p>
-<p><strong>YL Stretch:</strong>
+<p><strong><a href="https://www.canva.com/design/DAFzdXbYvKU/sf0jJUXlL-V2paOKFP1dPA/edit?utm_content=DAFzdXbYvKU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" rel="noopener noreferrer nofollow" target="_blank">YL Stretch</a></strong>
 </p>
-<p><strong>Photo Slideshow:</strong>
+<p><strong>Photo Slideshow</strong>
 </p>
-<p><strong><a href="https://docs.google.com/presentation/d/1GOLGOTUqKxouutB3KKG4wYTY39JKfw5E_rWq55bcHsk/edit#slide=id.gb42fc8fb7c_0_0" rel="noopener noreferrer nofollow" target="_blank">iDonate</a></strong>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST1rDpE0dDWlDt-a9bPvF5uWuhrZ1KXQhJmnPfYAUIPj-80wIpgse4jcrhbzMmUEo-miophCEZO4Zr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>iDonate:</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWCH-SoioNrJpMXHI8N_I9srp9hHrRPvgPEdwHK5oL5RFhTX19Wm7kZFTGjc2zhNs09jgD_YRn_Pgd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p><strong>Project Inclusivia:</strong>
 </p>
 <h3>Student Council</h3>
