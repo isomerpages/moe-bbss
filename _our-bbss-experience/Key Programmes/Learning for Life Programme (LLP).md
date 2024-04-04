@@ -20,6 +20,10 @@ while Tier 2 experiences cater to a specific group of students with higher
 interest and ability. These two tiers comprise three developmental stages
 whereby the students first discover their strengths, develop their leadership
 skills and subsequently lead their peers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ylexco.png">
+</div>
 <p>The LLP focuses on Youth leadership and nurturing future leaders. It emphasizes
 the development of essential leadership capabilities, fostering resilience,
 and promoting effective teamwork among student leaders across various domains.</p>
@@ -103,7 +107,9 @@ for the student body to give back to the community and make a tangible
 impact on the students.</p>
 <p></p>
 <p>Please find the details of the events in the reports below.</p>
-<p><strong><a href="https://www.canva.com/design/DAFzdXbYvKU/sf0jJUXlL-V2paOKFP1dPA/edit?utm_content=DAFzdXbYvKU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" rel="noopener noreferrer nofollow" target="_blank">YL Stretch</a></strong>
+<p><strong>YL Stretch:</strong>
+</p>
+<p><strong><a href="https://www.canva.com/design/DAFzdXbYvKU/sf0jJUXlL-V2paOKFP1dPA/edit?utm_content=DAFzdXbYvKU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" rel="noopener noreferrer nofollow" target="_blank">Link</a></strong>
 </p>
 <p><strong>Photo Slideshow</strong>
 </p>
@@ -117,6 +123,7 @@ impact on the students.</p>
 </div>
 <p></p>
 <p><strong>Project Inclusivia:</strong>
+<br><strong><a href="https://www.instagram.com/p/C4F6wCChkdw/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank">Link</a></strong>
 </p>
 <h3>Student Council</h3>
 <p>Find out more about BBSS through the students’ point of view. Explore
