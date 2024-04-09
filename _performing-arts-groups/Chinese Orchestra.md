@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Quartermaster:</strong>
+<p><strong>Quartermaster:</strong> 
 <br>
 </p>
 </td>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Bowed String:</strong>
+<p><strong>Section Leader - Bowed String:</strong> 
 <br>
 </p>
 </td>
@@ -80,7 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Plucked String:</strong>
+<p><strong>Section Leader - Plucked String:</strong> 
 <br>
 </p>
 </td>
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Cello &amp; Bass:</strong>
+<p><strong>Section Leader - Cello &amp; Bass:</strong> 
 <br>
 </p>
 </td>
@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Woodwind:</strong>
+<p><strong>Section Leader - Woodwind:</strong> 
 <br>
 </p>
 </td>
@@ -127,7 +127,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday (Combined)</strong>
+<p><strong>Monday (Combined)</strong> 
 <br>3.00pm - 6.00pm
 <br>
 <br><strong>Wednesday (Sectionals)</strong> 
