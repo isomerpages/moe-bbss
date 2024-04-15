@@ -81,7 +81,7 @@ and promoting effective teamwork among student leaders across various domains.</
 <p>
 <br>
 </p>
-<p>Youth Leadership Stretch (Overseas programme for selected leaders)</p>
+<p>Youth Leadership Stretch (Overseas training for selected leaders)</p>
 <p>
 <br>
 </p>
@@ -122,7 +122,7 @@ impact on the students.</p>
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWCH-SoioNrJpMXHI8N_I9srp9hHrRPvgPEdwHK5oL5RFhTX19Wm7kZFTGjc2zhNs09jgD_YRn_Pgd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<p><strong>Project Inclusivia:</strong>
+<p><strong>Project Inclusivia:</strong> 
 <br><strong><a href="https://www.instagram.com/p/C4F6wCChkdw/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank">Link</a></strong>
 </p>
 <h3>Student Council</h3>
