@@ -3,71 +3,524 @@ title: School Management Committee
 permalink: /about-us/Our-People/school-management-committee/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-# School Management Committee
-
-## School Leaders
-<div>
-<div>
+<h1>School Management Committee</h1>
+<h2>School Leaders</h2>
 <table>
 <tbody>
 <tr>
-	<th></th>
-<th>Name</th>
-<th>Designation</th>
-<th>Contact</th>
-<th>Email</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
 </tr>
 <tr>
-<td>Mrs</td>
-<td>Shirley Lee</td>
-<td>Principal</td>
-<td rowspan="4">63799413</td>
-<td rowspan="4"><a href="mailto:bbss@moe.edu.sg" target="">bbss@moe.edu.sg</a></td>
-</tr>
-	<tr>
-<td>Mdm</td>
-<td>Mabel Chia Bee Khim</td>
-<td>Vice-Principal (EO)</td>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shirley Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>63799413</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:bbss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">bbss@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
-<td>Mr</td>
-<td>Cheng Poh Huat, Alan</td>
-<td>Vice-Principal (EO)</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mabel Chia Bee Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (EO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Poh Huat, Alan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (EO)</p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-<div>
-</div>
-
-
-#### Year Heads (YHs) / Assistant Year Heads (AYHs); Head of Departments (HODs) / Subject Heads (SHs)
-
-|        |          Name         |     Designation                   | Ext |       Email               |
-|:----:|:---------:|:-----------:|:-----:|-----------|
-|  Mdm | Tham Meng Chee<br>(Mrs Quek) |               YH / Lower Sec             |  8216  |     [tham\_meng\_chee@schools.gov.sg](mailto:tham_meng_chee@schools.gov.sg)    |
-|  Ms  |       Lim Jia Xin Janice     |              AYH / Lower Sec             |  8203  |  [lim\_jia\_xin\_janice@schools.gov.sg](mailto:lim_jia_xin_janice@schools.gov.sg)  |
-|  Mdm |      Dianah Bte Abdullah     |              YH / Upper Sec              |  8211  |   [dianah\_abdullah@schools.gov.sg](mailto:dianah_abdullah@schools.gov.sg)   |
-|  Mr  |       Tan Wei Loong Luke     |              AYH / Upper Sec             |  8209  |   [tan\_wei\_loong\_luke@schools.gov.sg](mailto:tan_wei_loong_luke@schools.gov.sg) |
-|   Mr |        Ng Boon Chong         |           HOD / Applied Subjects         |   8219 |     [ng\_boon\_chong@schools.gov.sg](mailto:ng_boon_chong@schools.gov.sg)    |
-|  Mdm |      Norashikin Sulaiman     |  HOD / Citizenship &amp; Character Education |  8220  |  [norashikin\_sulaiman@schools.gov.sg](mailto:norashikin_sulaiman@schools.gov.sg)  |
-|  Mr  |      Loh Khai Loon Kevin     |             HOD / Discipline             |   8231 |  [loh\_khai\_loon\_kevin@schools.gov.sg](mailto:loh_khai_loon_kevin@schools.gov.sg)  |
-|  Mr  |       Samuie B Tarjalia      |          HOD / English Language          |  8207  |    [samuie\_tarjalia@schools.gov.sg](mailto:samuie_tarjalia@schools.gov.sg)    |
-|  Mdm |          Tong Wee Onn        |             HOD / Humanities             |  8217  |      [tong\_wee\_onn@schools.gov.sg](mailto:tong_wee_onn@schools.gov.sg)     |
-|  Mdm |          Lin Jia Hui         |             HOD / Curriculum             |      8208 |     [lin\_jia\_hui@schools.gov.sg](mailto:lin_jia_hui@schools.gov.sg)      |
-|  Ms  |          Sum Xue Fen         |       HOD / Mother Tongue Languages      |  8227  |      [sum\_xue\_fen@schools.gov.sg](mailto:sum_xue_fen@schools.gov.sg)      |
-|  Dr  |   Mohamed Faizal Bin Badron  |               HOD / Science              |  8221  | [mohamed\_faizal\_badron@schools.gov.sg](mailto:mohamed_faizal_badron@schools.gov.sg) |
-|  Mr  |          Low Yizong          |           School Staff Developer         |  8204  |       [low\_yizong@schools.gov.sg](mailto:low_yizong@schools.gov.sg)      |
-|  Ms  |         Toh Pui Yhing        |             HOD / Maths            |  8205  |    [toh\_pui\_yhing@schools.gov.sg](mailto:toh_pui_yhing@schools.gov.sg)    |
-|  Mr  |         Chun Sir Kin         |           SH / Applied Learning          |   8210 |      &nbsp;[chun\_sir\_kin@schools.gov.sg](mailto:chun_sir_kin@schools.gov.sg)     |
-|  Mdm |   Nadiah Binte Abdul Nasir   |              SH / Aesthetics             |  8212  | [nadiah\_abdul\_nasir@schools.gov.sg](mailto:nadiah_abdul_nasir@schools.gov.sg)  |
-|  Mr  |     Ling Xiao Ern Darren     |           SH / ICT &amp; Innovation        |  8213  | [ling\_xiao\_ern\_darren@schools.gov.sg](mailto:ling_xiao_ern_darren@schools.gov.sg) |
-|  Mr  |        Lee Kok Leong         |     SH / Physical Education, CCA OIC     |  8202  |     [lee\_kok\_leong@schools.gov.sg](mailto:lee_kok_leong@schools.gov.sg)     |
-|  Ms  |         Chin Yee Woon        |     SH / Youth Leadership Development    |  8230  |     [chin\_yee\_woon@schools.gov.sg](mailto:chin_yee_woon@schools.gov.sg)     |
-|  Mdm |    Jayanthi D/O Appachamy    |            LT/ Geography           |  8206  |   [jayanthi\_appachamy@schools.gov.sg](mailto:jayanthi_appachamy@schools.gov.sg)  |
-|  Mr  |            Syam Lal          |            LT / Learning Needs           |  8222  |  [syam\_lal\_sadanandan@schools.gov.sg](mailto:syam_lal_sadanandan@schools.gov.sg) |
-|  Mr  |            Nikhil Nath Chatterji |            SH / Student Well-Being           |  8431  |  [nikhil_nath_chatterji@schools.gov.sg](mailto:nikhil_nath_chatterji@schools.gov.sg) |
-|  Ms  |            Nithiya Bhavani D/O Thiyagarajan          |            SH / CCE (Int)        |  8431 |  [nithiya_bhavani_thiyagarajan@schools.gov.sg](mailto:nithiya_bhavani_thiyagarajan@schools.gov.sg) |
+<h4>Year Heads (YHs) / Assistant Year Heads (AYHs); Head of Departments (HODs) / Subject Heads (SHs)</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ext</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tham Meng Chee
+<br>(Mrs Quek)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH / Lower Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8216</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_meng_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_meng_chee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Jia Xin Janice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH / Lower Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8203</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jia_xin_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_xin_janice@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dianah Bte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH / Upper Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8211</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dianah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dianah_abdullah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Wei Loong Luke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH / Upper Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8209</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wei_loong_luke@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_loong_luke@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Boon Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Applied Subjects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8219</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_boon_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_boon_chong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norashikin Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Citizenship &amp; Character Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8220</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norashikin_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_sulaiman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Khai Loon Kevin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8231</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_khai_loon_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_khai_loon_kevin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samuie B Tarjalia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8207</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samuie_tarjalia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuie_tarjalia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tong Wee Onn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8217</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tong_wee_onn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_wee_onn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Jia Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8208</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jia_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sum Xue Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8227</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sum_xue_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sum_xue_fen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Faizal Bin Badron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8221</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_faizal_badron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_faizal_badron@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low Yizong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8204</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_yizong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yizong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Pui Yhing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8205</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_pui_yhing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pui_yhing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chun Sir Kin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Applied Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8210</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="mailto:chun_sir_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chun_sir_kin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nadiah Binte Abdul Nasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8212</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nadiah_abdul_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_nasir@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ling Xiao Ern Darren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / ICT &amp; Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8213</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_xiao_ern_darren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_xiao_ern_darren@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Kok Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Physical Education, CCA OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8202</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kok_leong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chin Yee Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Youth Leadership Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_yee_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yee_woon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayanthi D/O Appachamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LT/ Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8206</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jayanthi_appachamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jayanthi_appachamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Syam Lal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LT / Learning Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8222</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syam_lal_sadanandan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syam_lal_sadanandan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nikhil Nath Chatterji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8431</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nikhil_nath_chatterji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nikhil_nath_chatterji@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nithiya Bhavani D/O Thiyagarajan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / CCE (Int)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8431</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nithiya_bhavani_thiyagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiya_bhavani_thiyagarajan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Matthew Crawshaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8215</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="matthew_crawshaw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_crawshaw@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
