@@ -81,12 +81,12 @@ level would be an advantage. Applicants may key in relevant information
 via the MOE DSA Application Portal.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>All applications are to be made via the MOE DSA Application Portal. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
+<p><strong>All applications are to be made via the MOE DSA Application Portal. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong> 
 <br>
 </p>
 <p><strong>Information on DSA will be available in local media on 6 May 2024. More details on our school DSA selection process/criteria and key dates will be provided by early May 2024. For more information on the DSA-Sec, please visit&nbsp;the MOE DSA-Sec website</strong> (<em><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></em>).</p>
 <p></p>
-<p><strong>Application Procedure</strong> 
+<p><strong>Application Procedure</strong>
 </p>
 <p>You have from 11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 June 2024
 to submit your child’s application. Follow these steps to apply:</p>
