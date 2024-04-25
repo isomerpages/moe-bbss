@@ -38,15 +38,7 @@ in the following 4 groups of talent areas that are open for DSA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 1 - Leadership &amp; Uniformed Groups</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leadership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Group 2 - Sports &amp; Games</p>
+<p>Group 1 - Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Softball (Girls)</p>
@@ -57,7 +49,7 @@ in the following 4 groups of talent areas that are open for DSA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 3 - Performing Arts</p>
+<p>Group 2 - Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Drama</p>
@@ -67,7 +59,7 @@ in the following 4 groups of talent areas that are open for DSA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 4 - Science, Technology, Engineering and Mathematics</p>
+<p>Group 3 - Science, Technology, Engineering and Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robotics</p>
