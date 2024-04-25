@@ -15,7 +15,7 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
-        - title: e-DSA 2023
+        - title: e-DSA 2024
           description: ""
           url: /direct-school-admission/
   - resources:
