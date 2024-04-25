@@ -1,17 +1,17 @@
 ---
-title: SDL Task Term 2 Week 4 2024
+title: SDL Task Term 2 Week 6 2024
 permalink: /announcements/news/sdltasks/
-date: 2024-04-11
+date: 2024-04-25
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 2 Week 4 2024</h1>
+<h1>SDL Term 2 Week 6 2024</h1>
 <p>Dear students, This week's SDL Task is for <strong>all students.</strong>
 </p>
-<p>Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrTQsM6FqmrNJDiS9Chzk3vO-bRTOZCK6MHAJVXMxJ1SKKSTc8t2s0x6xszpc31Kwm2VE8-PYuHI-z/pubhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view your SDL task list for <strong>Term 2 Week 4</strong>.</p>
+<p>Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRarQBMw2rj0YfasgFM9M7SeKP6jJL50gvZBmkmaeTunG_pUSQpyzDLScnfGwKchtFfKgyNYmwq_xdI/pubhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view your SDL task list for <strong>Term 2 Week 6</strong>.</p>
 <p>Please note the following for SDL matters:</p>
 <ol data-tight="true" class="tight">
 <li>
