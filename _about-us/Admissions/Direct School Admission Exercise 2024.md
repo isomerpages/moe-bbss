@@ -18,15 +18,65 @@ unique and has innate abilities to be developed. Our school values, mission
 and vision, represent our collective passion, dreams and aspirations, and
 guide us in how we work with our parents, community and partners to realise
 the full potential of our students. We endeavour to build a culture of
-self-directedness and abundance mentality amongst staff and students. Children
-are firmly at the heart of our work and we seek to develop the whole child
-by providing meaningful and connected learning experiences that will allow
-every BBSSian to develop the right values, competencies and skills to do
-well in the 21st century.</p>
+self-directedness and abundance mentality amongst staff and students. Our
+students are firmly at the heart of our work and we seek to develop the
+whole child by providing meaningful and connected learning experiences
+that will allow every BBSSian to develop the right values, competencies
+and skills to do well in the 21st century.</p>
 <h4>DSA to Bukit Batok Secondary School</h4>
 <p>We are looking for promising Primary 6 students who demonstrate talent
-in the following 4 groups of talent areas that are open for DSA.</p>
-<table>
+in the following 4 groups of talent areas that are open for DSA. Applicants
+who do not have prior experience may also apply. The school will assess
+applicants based on the selection criteria, which may include assessing
+the potential of the applicants.</p>
+<p>Group 1 (Sports &amp; Games)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Talent Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Criteria Eligibility for DSA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Selection Processes for DSA</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -131,7 +181,11 @@ for assistance.</p>
 </ol>
 <p><strong>Schedule</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
