@@ -7,11 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 2 Week 6 2024</h1>
+<h1>SDL Term 2 Week 8 2024</h1>
 <p>Dear students, This week's SDL Task is for <strong>all students.</strong>
 </p>
-<p>Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRarQBMw2rj0YfasgFM9M7SeKP6jJL50gvZBmkmaeTunG_pUSQpyzDLScnfGwKchtFfKgyNYmwq_xdI/pubhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view your SDL task list for <strong>Term 2 Week 6</strong>.</p>
+<p>Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNtLykwxDuQ2UcqCQj2HGlTOT_RvFADwC-sLA_cJ-in8flgK484Bw_GdzorJytz3Eb-9UlqrzRE39s/pubhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view your SDL task list for <strong>Term 2 Week 8</strong>.</p>
 <p>Please note the following for SDL matters:</p>
 <ol data-tight="true" class="tight">
 <li>
