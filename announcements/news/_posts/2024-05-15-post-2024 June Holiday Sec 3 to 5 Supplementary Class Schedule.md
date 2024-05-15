@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Sec 3-5 students,</p>
+<p>Click on the link below to view your timetable schedule for the upcoming
+June Holiday supplementary classes.</p>
+<p></p>
