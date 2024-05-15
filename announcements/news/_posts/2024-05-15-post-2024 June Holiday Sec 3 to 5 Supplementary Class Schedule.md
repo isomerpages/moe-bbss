@@ -10,4 +10,5 @@ variant: tiptap
 <p>Dear Sec 3-5 students,</p>
 <p>Click on the link below to view your timetable schedule for the upcoming
 June Holiday supplementary classes.</p>
-<p></p>
+<p><a href="/files/2024_June_Holiday_Supplementary_Class_vFinal2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3-5 2024 June Holiday Supplementary Class Timetable</a>
+</p>
