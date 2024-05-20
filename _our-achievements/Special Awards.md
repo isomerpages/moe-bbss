@@ -17,7 +17,7 @@ variant: tiptap
 <p>Awards</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Recipient(s)</strong>
+<p><strong>Recipient(s)</strong> 
 <br>Secondary 4 Cohort (2023)</p>
 </th>
 </tr>
@@ -155,7 +155,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NATIONAL ARTS EDUCATION</strong>
+<p><strong>NATIONAL ARTS EDUCATION</strong> 
 <br>Spark Award
 <br>2016 – 2018</p>
 </td>
@@ -167,7 +167,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>BPA STAFF WELL-BEING AWARD</strong>
+<p><strong>BPA STAFF WELL-BEING AWARD</strong> 
 <br>2013 – 2018</p>
 </td>
 </tr>
@@ -179,7 +179,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><strong>NATIONAL EDUCATION DEVELOPMENT AWARD</strong>
+<br><strong>NATIONAL EDUCATION DEVELOPMENT AWARD</strong> 
 <br>2011 – 2018</p>
 </td>
 </tr>
@@ -191,7 +191,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><strong>YELLOW FLAME AWARD</strong>
+<br><strong>YELLOW FLAME AWARD</strong> 
 <br>2018</p>
 </td>
 </tr>
@@ -203,7 +203,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><strong>THE LEE HSIEN LOONG AWARD</strong>
+<br><strong>THE LEE HSIEN LOONG AWARD</strong> 
 <br>for Innovation in the Normal Course
 <br>
 <br>(LHL AIN)
