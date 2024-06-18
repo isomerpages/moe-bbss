@@ -8,7 +8,11 @@ variant: markdown
 # Students
 
 ## 2023
+![](/images/Season.png)
 
+![](/images/Choo_Zhi_Yee.png)
+
+![](/images/Danish.png)
 
 ## 2022
 ![](/images/Our%20Achievements/Students/chew%20zi%20rui%20sherlyn.png)
