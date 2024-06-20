@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Timetable
 
-### 2024 Timetable for Semester 1 Term 2
+### 2024 Timetable for Semester 2 (Term 3 and 4)
 The timetable uploaded below is updated as of 11 March 2024. 
 <br>
 **Dear students, please click on the links below to view your timetable.**
