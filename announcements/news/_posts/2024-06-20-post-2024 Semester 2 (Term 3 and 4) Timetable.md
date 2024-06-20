@@ -8,11 +8,11 @@ image: ""
 variant: tiptap
 ---
 <p>Dear BBSS students,</p>
-<p>Please click the link below to find your updated timetable for Term 2
-2024.</p>
+<p>Please click the link below to find your updated timetable for Semester
+2 (term 3 and 4).</p>
 <p>Timetable will be updated from time to time, so please check if there
 are any updates frequently.</p>
-<p><a href="https://www.bukitbatoksec.moe.edu.sg/useful-resources/timetable/" rel="noopener noreferrer nofollow" target="_blank">Term 2 2024 Timetable</a>
+<p><a href="https://www.bukitbatoksec.moe.edu.sg/useful-resources/timetable/" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Timetable</a>
 </p>
-<p><em>*updated as of 11 March 2024</em>
+<p><em>*updated as of 20 June 2024</em>
 </p>
