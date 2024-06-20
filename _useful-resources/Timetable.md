@@ -7,19 +7,19 @@ variant: markdown
 # Timetable
 
 ### 2024 Timetable for Semester 2 (Term 3 and 4)
-The timetable uploaded below is updated as of 11 March 2024. 
+The timetable uploaded below is updated as of 20 June 2024. 
 <br>
 **Dear students, please click on the links below to view your timetable.**
 <br>
 By Levels:
 <br>
-<a href="https://drive.google.com/file/d/17ZX-cNdz_Hb0ej8S6mNlT7iF99bWsSYq/view?usp=drive_link" target="_blank">Secondary 1</a>
+<a href="https://drive.google.com/file/d/1NZtX8txoNioElh7B-UIk_PJnTTv3aOz7/view?usp=sharingk" target="_blank">Secondary 1</a>
 <br>
-<a href="https://drive.google.com/file/d/1YhgKwYKZAEpOV2NL0LnTXrTZauCa3nSX/view?usp=drive_link" target="_blank">Secondary 2</a>
+<a href="https://drive.google.com/file/d/1tDayAUPfzcTismYjkKNYnR91xANE3cIx/view?usp=sharing" target="_blank">Secondary 2</a>
 <br>
-<a href="https://drive.google.com/file/d/1ic45nN5vgwtyQAsUfTQY_XMoat0hqnBC/view?usp=drive_link" target="_blank">Secondary 3</a>
+<a href="https://drive.google.com/file/d/15GPAHfaqi15U2ERAcwuH_Tr1-nKXTlHN/view?usp=sharing" target="_blank">Secondary 3</a>
 <br>
-<a href="https://drive.google.com/file/d/1MOuW1J2LQrfGdQGdqDo-igxh0_4-DuNM/view?usp=sharing" target="_blank">Secondary 4 &amp; 5</a>
+<a href="https://drive.google.com/file/d/1nz7oQ9dZZy_BeiXY2eAVFigMIWIWa0J-/view?usp=sharing" target="_blank">Secondary 4 &amp; 5</a>
 
 
 
