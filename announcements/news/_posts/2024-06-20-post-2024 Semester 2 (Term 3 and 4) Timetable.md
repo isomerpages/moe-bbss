@@ -14,5 +14,5 @@ variant: tiptap
 are any updates frequently.</p>
 <p><a href="https://www.bukitbatoksec.moe.edu.sg/useful-resources/timetable/" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Timetable</a>
 </p>
-<p><em>*updated as of 20 June 2024</em>
+<p><em>*updated as of 21 June 2024</em>
 </p>
