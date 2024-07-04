@@ -1,7 +1,7 @@
 ---
-title: SDL Task Term 2 Week 8 2024
+title: SDL Task Term 3 Week 2 2024
 permalink: /announcements/news/sdltasks/
-date: 2024-05-09
+date: 2024-07-04
 layout: post
 description: ""
 image: ""
