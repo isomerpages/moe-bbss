@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Sec 4 and 5 students,</p>
+<p>Click on the link below to view your prelim exam timetable.</p>
+<p></p>
