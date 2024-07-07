@@ -11,12 +11,10 @@ variant: tiptap
 <p>Click on the link below to view your prelim exam timetable.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_Prelim_Exam_Timetable___S4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NT Prelim Timetable</a>
-</p>
+<p>Sec 4NT Prelim Timetable (updated as of 8 July 2024)</p>
 </li>
 <li>
-<p><a href="/files/2024_Prelim_Exam_Timetable___S4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NA Prelim Timetable</a>
-</p>
+<p>Sec 4NA Prelim Timetable (updated as of 8 July 2024)</p>
 </li>
 <li>
 <p><a href="/files/2024_Prelim_Exam_Timetable___4E.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E Prelim Timetable</a>
