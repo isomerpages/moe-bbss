@@ -7,7 +7,14 @@ variant: tiptap
 ---
 <h1>School Teaching Team</h1>
 <h2>Level Discipline Masters (LDMs)</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -116,7 +123,14 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Sec 1 Faculty (YH / Ms Janice Lim Jia Xin)</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -202,16 +216,16 @@ variant: tiptap
 <p>1A3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Jun Tian Terence</p>
+<p>Nithiya Bhavani D/O Thiyagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8437</p>
+<p>8431</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_juntian_terence@schools.gov.sg</p>
+<p>nithiya_bhavani_thiyagarajan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +369,14 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Sec 2 Faculty (YH /Mrs Quek Meng Chee)</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -410,20 +431,6 @@ variant: tiptap
 <p>2A2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Png Choon Bing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8403</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>png_choon_bing@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -434,6 +441,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yee_pei_fan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nikhil Nath Chatterji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8214</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nikhil_nath_chatterji@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -468,7 +489,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2A4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -482,6 +503,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chin_yih_emilline@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8412</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>evin_rajasekar_kulanthaisamy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -516,7 +551,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2A6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -533,23 +568,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>2A7</p>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Jade Leong Tse Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhd Hafiz bin&nbsp;&nbsp;&nbsp;Yusof</p>
+<p>8331</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8448</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_hafiz_yusof@schools.gov.sg</p>
+<p>jade_leong_tse_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2A7</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mrs</p>
 </td>
@@ -563,10 +598,31 @@ variant: tiptap
 <p>sen_li-yin_regina@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bibi Nur Shakirrah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8316</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bibi_nur_shakirrah@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Sec 3 Faculty (YH / Mr Luke Tan)</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -666,20 +722,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lau Gek Mui</p>
+<p>Tan Yi Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8305</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lau_gek_mui@schools.gov.sg</p>
+<p>tan_yi_ming_e@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3A4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -693,6 +749,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_lay_yen_jane@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Matthew Crawshaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8215</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>matthew_crawshaw@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -720,30 +790,16 @@ variant: tiptap
 <p>Teo Yun Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8304</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_yun_hao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>3A6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheung Zhi Xuan, Nicole</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8309</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cheung_zhi_xuan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs</p>
 </td>
@@ -759,6 +815,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharifah Beevi Abd Salam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sharifah_beevi_abd_salam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>3A7</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -774,10 +844,31 @@ variant: tiptap
 <p>ho_ping_ping_crystal@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lilin Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8324</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lilin_seah@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Sec 4 &amp; 5 Faculty (YH / Mdm Dianah Bte Abdullah)</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1033,7 +1124,14 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Non-Form Teachers</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1067,23 +1165,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_lin_lin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yeo-Wong Poh Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8335</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeo-wong_poh_leng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1293,7 +1374,14 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Counselling and Additional Support</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1382,23 +1470,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Jun Tian Terence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8437</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_juntian_terence@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1416,19 +1487,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adam Bin Aid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJSC</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>oth_adam_aid@schools.gov.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
