@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024_Prelim_Exam_Timetable___4E.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E Prelim Timetable</a>
+<p><a href="/files/2024_Prelim_Exam_Timetable___4E_9_July.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E Prelim Timetable</a><em><a href="/files/2024_Prelim_Exam_Timetable___4E_9_July.pdf" rel="noopener noreferrer nofollow" target="_blank"> (updated as of 9 July 2024)</a></em>
 </p>
 </li>
 <li>
