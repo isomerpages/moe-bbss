@@ -20,7 +20,3 @@ variant: markdown
 ![](/images/About%20us/School%20Information/School%20Life/westories%202023%20pg%205.PNG)
 
 ![](/images/About%20us/School%20Information/School%20Life/westories%202023%20pg%206.PNG)
-
-#### BBSS Yearbook 2022
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5z52GDycf4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
