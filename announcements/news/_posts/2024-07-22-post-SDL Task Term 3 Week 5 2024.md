@@ -13,14 +13,15 @@ variant: tiptap
 <p>Click below to view your SDL task list for <strong>Term 3 Week 5</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>23 July 2024 SDL Tasks for Sec 1 - 5 students</p>
-</li>
-<li>
-<p>24 July 2024 SDL Tasks for Sec 1 - 5 students <em>(link will be up before 2pm, 23/7/2024)</em>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQWxraY_LNLPe3PSGiqmDuHt5Zsu_FByfTIfNujihYGrdkSlA2AduOLfw8Okuoe_cRe-zSCBThu8M9J/pubhtml" rel="noopener noreferrer nofollow" target="_blank">23 July 2024 SDL Tasks for Sec 1 - 5 students</a>
 </p>
 </li>
 <li>
-<p>25 July 2024 SDL Tasks for Sec 1 - 5 students <em>(link will be up before 2pm, 24/7/2024)</em>
+<p>24 July 2024 SDL Tasks for Sec 1 - 5 students <em>(link will be up by 2pm, 23/7/2024)</em>
+</p>
+</li>
+<li>
+<p>25 July 2024 SDL Tasks for Sec 1 - 5 students <em>(link will be up by 2pm, 24/7/2024)</em>
 </p>
 </li>
 </ul>
