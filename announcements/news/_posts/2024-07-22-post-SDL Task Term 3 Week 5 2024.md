@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>24 July 2024 SDL Tasks for Sec 1 - 5 students <em>(link will be up by 2pm, 23/7/2024)</em>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpp4YPzLLj5ZGR7sKP3J0MaKaM7UnC9bLYjsBwNTnvh6hbsm6ohKCHEb9aSBRjR5fX7ioCUuAQM90x/pubhtml" rel="noopener noreferrer nofollow" target="_blank">24 July 2024 SDL Tasks for Sec 1 - 5 students</a>
 </p>
 </li>
 <li>
