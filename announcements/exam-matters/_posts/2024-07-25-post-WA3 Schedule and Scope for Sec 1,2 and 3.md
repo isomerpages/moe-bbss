@@ -26,4 +26,12 @@ Assessment 3 (for Sec 1 and 2.</p>
 </p>
 </li>
 </ul>
+<p><strong>Sec 3</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_Sec_3_WA3_Schedule_and_Scope.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA3 Scope and Schedule</a>
+</p>
+</li>
+</ul>
 <p></p>
