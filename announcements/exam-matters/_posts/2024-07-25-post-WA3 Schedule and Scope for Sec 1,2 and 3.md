@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>To all Sec 1,2 and 3 BBSS students,</p>
+<p>To all Sec 1, 2 and 3 BBSS students,</p>
 <p>Please click on the link below to view your schedule and scope for Weighted
 Assessment 3.</p>
 <p><strong>Sec 1</strong>
