@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Sec 4 and 5 students,</p>
+<p>Pls refer to the following links for the shift schedules:</p>
+<p></p>
+<p></p>
