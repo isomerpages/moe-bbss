@@ -18,6 +18,9 @@ sections:
         - title: e-DSA 2024
           description: ""
           url: /direct-school-admission/
+        - title: BBSS Rhapsody Recording
+          description: ""
+          url: ""
   - resources:
       subtitle: Announcements & News
       button: More Announcements
