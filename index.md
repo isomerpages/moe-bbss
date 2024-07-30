@@ -20,7 +20,7 @@ sections:
           url: /direct-school-admission/
         - title: BBSS Rhapsody Recording
           description: ""
-          url: https://bukitbatoksec.moe.edu.sg/bbss-rhapsody-culture-unleashed/
+          url: /bbss-rhapsody-culture-unleashed/
   - resources:
       subtitle: Announcements & News
       button: More Announcements
