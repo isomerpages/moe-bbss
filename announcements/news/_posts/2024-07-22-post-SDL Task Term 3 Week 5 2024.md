@@ -7,22 +7,15 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 3 Week 5 2024</h1>
+<h1>SDL Term 3 Week 6 2024</h1>
 <p>Dear students, This week's SDL Task is for <strong>all students.</strong>
 </p>
-<p>Click below to view your SDL task list for <strong>Term 3 Week 5</strong>.</p>
+<p>Click below to view your SDL task list for <strong>Term 3 Week 6</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQWxraY_LNLPe3PSGiqmDuHt5Zsu_FByfTIfNujihYGrdkSlA2AduOLfw8Okuoe_cRe-zSCBThu8M9J/pubhtml" rel="noopener noreferrer nofollow" target="_blank">23 July 2024 SDL Tasks for Sec 1 - 5 students</a>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkbq2EwefCDB4P4qrgk0O0CCQ2_68t16QTb54qpRao6s6D2TEpEqikCjO-_hLrJsqkuAqIcLVFyS5_/pubhtml" rel="noopener noreferrer nofollow" target="_blank">2 August 2024 SDL Tasks for Sec 1 - 5 students</a>
 </p>
-</li>
-<li>
-<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpp4YPzLLj5ZGR7sKP3J0MaKaM7UnC9bLYjsBwNTnvh6hbsm6ohKCHEb9aSBRjR5fX7ioCUuAQM90x/pubhtml" rel="noopener noreferrer nofollow" target="_blank">24 July 2024 SDL Tasks for Sec 1 - 5 students</a>
-</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQlTn7cvuOVk5ZhHG0gnK8lWhkLTNiOwYgm_Na4WWt8y103mLnmBNZKaVGAKS7bjcECayEa13ISBmZZ/pubhtml" rel="noopener noreferrer nofollow" target="_blank">25 July 2024 SDL Tasks for Sec 1 - 5 students</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p>Please note the following for SDL matters:</p>
