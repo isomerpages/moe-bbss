@@ -15,9 +15,6 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
-        - title: e-DSA 2024
-          description: ""
-          url: /direct-school-admission/
         - title: BBSS Rhapsody Recording
           description: ""
           url: https://bukitbatoksec.moe.edu.sg/bbss-rhapsody-culture-unleashed/
