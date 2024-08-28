@@ -1,19 +1,19 @@
 ---
-title: SDL Task Term 3 Week 8 2024
+title: SDL Task Term 3 Week 10 2024
 permalink: /announcements/news/sdltasks/
-date: 2024-08-15
+date: 2024-08-28
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 3 Week 8 2024</h1>
+<h1>SDL Term 3 Week 10 2024</h1>
 <p>Dear students, This week's SDL Task is for <strong>all students.</strong>
 </p>
-<p>Click below to view your SDL task list for <strong>Term 3 Week 8</strong>.</p>
+<p>Click below to view your SDL task list for <strong>Term 3 Week 10</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/12S1FY8YrSF1a-X-kFoHmKmLG0gZjURKGXnQpkEEUplI/pubhtml" rel="noopener noreferrer nofollow" target="_blank">15 August 2024 SDL Tasks for Sec 1 - 5 students</a>
+<p><a href="https://docs.google.com/spreadsheets/d/10bYVTB_Ll8djyDER72SFRut8jRkx20FAe62-gkbNoY4/pubhtml" rel="noopener noreferrer nofollow" target="_blank">29 August 2024 SDL Tasks for Sec 1 - 5 students</a>
 </p>
 <p></p>
 </li>
