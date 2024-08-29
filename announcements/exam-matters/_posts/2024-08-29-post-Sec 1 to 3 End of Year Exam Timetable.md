@@ -12,8 +12,8 @@ variant: tiptap
 weighted assessments (WA) and class test for this term.</p>
 <p></p>
 <p><strong>Secondary 1</strong> 
-<br><a href="/files/Announcements/Exam/BBSS24_207_Weighted_Assessments_Schedule_2024_Term_2_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessments Schedule for Term 2</a>
 </p>
+<p></p>
 <p><strong>Secondary 2</strong> 
 <br><a href="/files/Announcements/Exam/BBSS24_208_Weighted_Assessments_Schedule_2024_Term_2_2E2N.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2E2N Weighted Assessments Schedule for Term 2</a> 
 <br><a href="/files/Announcements/Exam/BBSS24_209_Weighted_Assessments_Schedule_2024_Term_2_2T.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2NT Weighted Assessments Schedule for Term 2</a>
