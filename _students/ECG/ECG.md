@@ -5,8 +5,13 @@ description: ""
 third_nav_title: ECG
 variant: tiptap
 ---
-<p><strong><a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">Make an Appointment </a></strong>with
+<p><strong><a href="https://for.edu.sg/bbssecg" rel="noopener noreferrer nofollow" target="_blank">Make an Appointment </a></strong>with
 our friendly ECG Counsellor!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/BBSS Student Wellbeing/ECGC.png">
+</div>
 <h3>Pathways for 'O' Level students</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/GCE%20O%20Level%20Multiple%20Pathways.jpg">
