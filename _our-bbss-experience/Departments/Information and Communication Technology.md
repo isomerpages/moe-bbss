@@ -3,98 +3,475 @@ title: Information and Communication Technology
 permalink: /our-bbss-experience/Departments/information-and-communication-technology/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-# Information and Communication Technology
-
-<table>
+<h1>Information and Communication Technology</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th colspan="3" style="text-align: center;" >Mission</th>
+<th rowspan="1" colspan="3">
+<p>Mission</p>
+</th>
 </tr>
 <tr>
-<td colspan="3">To prepare BBSSians to be successful self-directed learners with a passion for life-long learning by equipping with employability skills to stay relevant for the future.</td>
-</tr>
-<tr>
-<td><strong>Programme Director<br /></strong></td>
-<td colspan="2">Mr Andy Lee Chin Hock</td>
-</tr>
-<tr>
-<td><strong>ICT Champions</strong></td>
-<td>English &amp; Literature</td>
-<td>Mr Lau Tuck Yan<br />Mr Derrick Teo</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Mother Tongue</td>
-<td>Mdm Rafidah</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Mathematics</td>
-<td>Mr Khor Lee Chiang</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Science</td>
-<td>Ms Crystal Ho</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Humanities</td>
-<td>Ms Catherine Bok</td>
-</tr>
-<tr>
-<td><strong>Coordinators<br /><br /></strong></td>
-<td>Cyber Wellness<br />(School Ambassadors)</td>
-<td>Mdm Latifah<br /><br /></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<div>&nbsp;Cyber Wellness</div>
-<div>(Ambassadors)</div>
+<td rowspan="1" colspan="3">
+<p>To prepare BBSSians to be successful self-directed learners with a passion
+for life-long learning by equipping with employability skills to stay relevant
+for the future.</p>
 </td>
-<td>Mr Nikhil Nath Chatterji<br /><br /></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH ICT &amp; Innovation<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Darren Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Champions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Catherine Bok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherry Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Derek Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryati</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Crystal Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Gui Fang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Hwa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Theodora Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fatin Sufiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loo Tin Song</p>
+</td>
 </tr>
 </tbody>
 </table>
-
-### ICT Goals
-
-**Goals and Desired Outcomes**
-
-(1)  Pupils will be:  
-(1.1)   involved in ICT-based learning activities that promote higher order thinking,  
-self-directed learning and collaboration;  
-(1.2)   fluent and creative users of ICT;  
-(1.3)   respect intellectual property rights of others;  
-(1.4)   become discerning and responsible ICT users 
-
-(2)  Teachers will:  
-(2.1)   integrate the use of ICT in curriculum, instruction and assessment;  
-(2.2)   collaborate with colleagues to create learning activities which build on the  
-ICT infrastructure in school;  
-(2.3)   demonstrate effective use of ICT tools in teaching and learning and assessment;  
-(2.4)   understand issues relating to Cyberwellness  
-
-(3)  There is a sound ICT infrastructure that:  
-(3.1)   supports teaching and learning and assessment;  
-(3.2)   promote and develop competencies for self-directed and collaborative learning for students;  
-(3.3)   develop students to become discerning and responsible ICT users
-
-### Key Programmes and Activities
-
-| No |                        Programme/Activity Title                       |                Brief Description                                             |
-|:--:|----------|-----|
-|  1 | e-Learning Day                                                        | The E-Learning exercise is one of the several measures that our school has put in place to better prepare ourselves in the unfortunate event of a school closure (such as SARS which we experienced in 2003). During the school closure stage, it is important for students to continue to be engaged in their learning and they can do so via the school’s E-portal. This exercise serves to test out our school’s preparedness and readiness in delivering online lessons and assignments for students. This exercise was conducted after SA1 for all students. Students were instructed to logon to the e-portal from home and access the E-learning packages and complete the learning tasks assigned to them. |
-|  2 | Photo-editing enrichment programme for Sec 1 NT students              | (a) Establishment of a structured approach to enable students to familarise with photo-editing skill. <br><br>(b) Conduct a 8hrs enrichment workshop for students<br><br>(c) At the end of the course, students will showcase their work on LMS Portal.                                                        |
-|  3 | ICT Baseline skills enrichment programme for Sec 1 Exp & 1NA students | (a) Establishment of a structured approach to enable students to do learn Microsoft Office 2010 <br><br>(b) Engage an residential ICT trainer to conduct the enrichment programme <br><br>(c) Students will sit for a test and complete a project at the end of the enrichment programme.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|  4 | Videography enrichment programme for Sec 2 & 3 students               | (a) Establishment of a structured approach to  infuse videography skill into English Oral lesson and  Literature projects. <br><br>(b) Engage an residential ICT trainer to conduct the enrichment programme <br><br>(c) This programme will be collaborated with EL and Arts Depts. <br><br>(d) EL HODs will provide the theme for the video production (e) Students will produce a 3min video productions for subject teachers to grade after the enrichment programme <br><br>(f) The selected video productions will be: <br><br>(i) showcased on LMS  <br><br>(ii) used as resources for EL lesson                                                                                                                                    |
-|  5 | Cyberwellness Ambassador programme                                    | Students were selected to be the School Cyberwellness Ambassador. They were trained by the vendor and the Cyberwellness Coordinator on Cyberwellness topics.                 |
-
-### Gallery
-
-|   |   |
-|:-:|:-:|
-| ![](/images/Our%20BBSS%20Experience/Ict/ICEnrichmentLessons.jpg)ICT Enrichment Lessons  | ![](/images/Our%20BBSS%20Experience/Ict/ClassroomoftheFuture.jpg) Classroom of the Future |
-|  ![](/images/Our%20BBSS%20Experience/Ict/ClassroomoftheFuture2.jpg) Classroom of the Future | ![](/images/Our%20BBSS%20Experience/Ict/CyberwellnessAmbassador.jpg) Cyberwellness Ambassador giving a talk to the PSG |
+<h3>ICT Goals</h3>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Desired Outcomes</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students can achieve the following.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Involved in ICT-based learning activities that promote higher-order thinking,
+self-directed learning and collaboration.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Proactive ICT users.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Respectful of intellectual property.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Responsible ICT users.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers can conduct the following.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Integrate ICT in curriculum, instruction and assessment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collaborate on learning activities to enhance the</p>
+<p>ICT infrastructure in BBSS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Effectively use ICT tools in teaching and learning,</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Understand issues relating to cyber wellness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The ICT infrastructure can enhance the following.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Improve teaching, learning and assessment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promote and develop self-directed and collaborative learning.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Develop students to become responsible ICT users.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Core Programmes and Activities</strong></h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme/Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Target Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Brief Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seek, Learn, and Discover (SDL) Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students complete blended learning tasks through home-based learning.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Computer Driving License</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary Ones</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students complete baseline ICT skills training and learn responsible ICT
+use.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Effective use of Artificial Intelligence in learning and research.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learn the affordances of Large Language Models such as <a rel="noopener noreferrer nofollow" target="_blank">Perplexity.AI</a> for their learning
+and research.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peer support leadership programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students go through peer support training which includes modules on cyber
+wellness.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Core Programmes and Activities</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme/Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Target Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Brief Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seek, Learn, and Discover (SDL) Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students complete blended learning tasks through home-based learning.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Computer Driving License</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary Ones</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students complete baseline ICT skills training and learn responsible ICT
+use.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Effective use of Artificial Intelligence in learning and research.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learn the affordances of Large Language Models such as <a rel="noopener noreferrer nofollow" target="_blank">Perplexity.AI</a> for their learning
+and research.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peer support leadership programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students go through peer support training which includes modules on cyber
+wellness.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
