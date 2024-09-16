@@ -148,6 +148,8 @@ for the future.</p>
 </tbody>
 </table>
 <h3>ICT Goals</h3>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -363,8 +365,8 @@ use.</p>
 <p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students learn the affordances of Large Language Models such as <a rel="noopener noreferrer nofollow" target="_blank">Perplexity.AI</a> for
-their learning and research.</p>
+<p>Students learn the affordances of Large Language Models such as <a rel="noopener noreferrer nofollow" target="_blank">Perplexity.AI</a> for their learning
+and research.</p>
 </td>
 </tr>
 <tr>
@@ -451,8 +453,8 @@ use.</p>
 <p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students learn the affordances of Large Language Models such as <a rel="noopener noreferrer nofollow" target="_blank">Perplexity.AI</a> for
-their learning and research.</p>
+<p>Students learn the affordances of Large Language Models such as <a rel="noopener noreferrer nofollow" target="_blank">Perplexity.AI</a> for their learning
+and research.</p>
 </td>
 </tr>
 <tr>
