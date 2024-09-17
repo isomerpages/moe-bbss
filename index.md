@@ -22,6 +22,13 @@ sections:
       subtitle: Announcements & News
       button: More Announcements
   - infopic:
+      title: BBSS Open House
+      subtitle: Join us!
+      id: infopic
+      description: Saturday, 23 November 2024, 8.00 A.M. - 1.30 P.M.
+      image: /images/BBSS_Banner_0_15x.png
+      alt: Image alt text
+  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
       id: infopic
