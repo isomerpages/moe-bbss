@@ -22,6 +22,15 @@ sections:
       subtitle: Announcements & News
       button: More Announcements
   - infopic:
+      title: BBSS Open House
+      subtitle: Join Us!
+      id: infopic
+      description: Join us on 23 November from 8am to 1.30pm! Guided tours by student
+        ambassadors | CCA showcase | Curriculum Exhibitions | Principal Talks at
+        9.00 am and 11.00am
+      image: /images/BBSS_Banner_0_15x.png
+      alt: Image alt text
+  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
       id: infopic
