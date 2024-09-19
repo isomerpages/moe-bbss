@@ -11,7 +11,24 @@ variant: tiptap
 <p>Please refer to the following for the shift schedules and seating plan.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Shift_Schedules.pdf" rel="noopener nofollow" target="_blank">'O' Level Science Practical Examination: Shifts and Seating Plan</a>
+<p><a href="/files/Seating_arrangement___Chem.pdf" rel="noopener nofollow" target="_blank">Seating Arrangement (Chemistry)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Seating_arrangement___Bio.pdf" rel="noopener nofollow" target="_blank">Seating Arrangement (Biology)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Seating_arrangement___Physics.pdf" rel="noopener nofollow" target="_blank">Seating Arrangement (Physics)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Seating_arrangement___Science__phychem_.pdf" rel="noopener nofollow" target="_blank">Seating Arrangement (Physics and Chemistry)</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="/files/Shift_Schedules.pdf" rel="noopener nofollow" target="_blank">'O' Level Science Practical Examination: Shift Schedules</a>
 </p>
 </li>
 </ul>
