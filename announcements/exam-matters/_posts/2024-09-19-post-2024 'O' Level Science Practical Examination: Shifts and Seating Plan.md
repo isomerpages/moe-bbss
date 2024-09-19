@@ -28,7 +28,7 @@ variant: tiptap
 <p></p>
 </li>
 <li>
-<p><a href="/files/Shift_Schedules.pdf" rel="noopener nofollow" target="_blank">'O' Level Science Practical Examination: Shifts and Seating Plan</a>
+<p><a href="/files/Shift_Schedules.pdf" rel="noopener nofollow" target="_blank">'O' Level Science Practical Examination: Shift Schedules</a>
 </p>
 </li>
 </ul>
