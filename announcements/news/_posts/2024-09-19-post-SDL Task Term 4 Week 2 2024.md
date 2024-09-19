@@ -1,21 +1,21 @@
 ---
-title: SDL Task Term 3 Week 10 2024
+title: SDL Task Term 4 Week 2 2024
 permalink: /announcements/news/sdltasks/
-date: 2024-08-28
+date: 2024-09-19
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 3 Week 10 2024</h1>
-<p>Dear students, This week's SDL Task is for <strong>all students.</strong>
+<h1>SDL Term 4 Week 2 2024</h1>
+<p>Dear students,</p>
+<p>This week's SDL Task is for <strong>all students.</strong>
 </p>
-<p>Click below to view your SDL task list for <strong>Term 3 Week 10</strong>.</p>
+<p>Click below to view your SDL task list for <strong>Term 4 Week 2</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/10bYVTB_Ll8djyDER72SFRut8jRkx20FAe62-gkbNoY4/pubhtml" rel="noopener noreferrer nofollow" target="_blank">29 August 2024 SDL Tasks for Sec 1 - 5 students</a>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQw1e3UdWumnL1-l19jQei_cQOh4WZeIX4YGF8rj5EvYsNrhLWPty8KzAGgVBpcLvIHbLhOpU-9BRQY/pubhtml" rel="noopener noreferrer nofollow" target="_blank">20 September 2024 SDL Tasks for Sec 1 - 5 students</a>
 </p>
-<p></p>
 </li>
 </ul>
 <p>Please note the following for SDL matters:</p>
