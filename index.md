@@ -27,9 +27,11 @@ sections:
       id: infopic
       description: Join us on 23 November from 8am to 1.30pm! Guided tours by student
         ambassadors | CCA showcase | Curriculum Exhibitions | Principal Talks at
-        9.00 am and 11.00am
+        9.00 am and 11.00am.
       image: /images/BBSS_Banner_0_15x.png
-      alt: Image alt text
+      alt: BBSS 360 virtual tour
+      button: View our 360 BBSS virtual tour
+      url: https://www.youtube.com/playlist?list=PLtHtEPc10ZSQSW84N6Nm7tbC_2idPN7I6
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
