@@ -29,7 +29,8 @@ Capita Income (PCI) not exceeding $750.</p>
 </li>
 <li>
 <p><strong>Hardcopy application form</strong>&nbsp;– available at school
-General Office or click here to print.</p>
+General Office or <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">click here</a> to
+print.</p>
 </li>
 </ul>
 <p>Students who received financial assistance in 2024, must re-apply if they
