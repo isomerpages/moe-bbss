@@ -28,7 +28,7 @@ Income (PCI) not exceeding $750.</p>
 <p>Online application – <strong>e-FAS</strong> (<em>Singpass required</em>)</p>
 </li>
 <li>
-<p><em>Available on Parent Gateway under</em><strong><em> Service</em></strong><em> tab &gt; </em><strong><em>Financial Assistance</em></strong><em>. </em>
+<p><em>Available on Parent Gateway under</em><strong><em> Service</em></strong><em> tab &gt; </em><strong><em>Financial Assistance</em></strong><em>.</em>
 </p>
 </li>
 <li>
