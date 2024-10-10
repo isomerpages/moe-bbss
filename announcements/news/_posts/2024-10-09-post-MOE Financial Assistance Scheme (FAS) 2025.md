@@ -25,7 +25,7 @@ Income (PCI) not exceeding $750.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Online application – <strong>e-FAS</strong> (<em>Singpass required</em>)</p>
+<p>Online application – <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">e-FAS</a> (<em>Singpass required</em>)</p>
 </li>
 <li>
 <p><em>Available on Parent Gateway under</em><strong><em> Service</em></strong><em> tab &gt; </em><strong><em>Financial Assistance</em></strong><em>.</em>
@@ -34,6 +34,7 @@ Income (PCI) not exceeding $750.</p>
 <li>
 <p><em>You will receive an acknowledgement email upon successful submission of eFAS application.</em>
 </p>
+<p></p>
 </li>
 <li>
 <p><strong>Hardcopy application form</strong> – available at school General
@@ -44,4 +45,5 @@ print.</p>
 <p>Students who received financial assistance in 2024, must re-apply if they
 require financial assistance in 2025.
 <br>Please submit your application together with the required documents latest
-by 8 Nov 2024.</p>
+by <strong><u>8 Nov 2024.</u></strong>
+</p>
