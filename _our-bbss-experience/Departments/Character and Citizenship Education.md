@@ -9,7 +9,11 @@ variant: tiptap
 <h4><strong>Our Mission:</strong></h4>
 <p><strong>Nurturing BBSSians to be individuals of good character, exhibiting RESPECT values and having the abundance mentality to care for others.</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -128,15 +132,6 @@ develop social-emotional competencies, and cultivate responsible citizenship.</p
 <ul data-tight="true" class="tight">
 <li>
 <p>For more information, access this link: <a href="https://www.bukitbatoksec.moe.edu.sg/cce/sexuality-education-programme/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.bukitbatoksec.moe.edu.sg/cce/sexuality-education-programme/</u></a>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Gallery</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Link for access to pictures: <a href="https://drive.google.com/drive/u/0/folders/1sKesbdHgkb1NSD8o1PrIXLUolFvpl2QG" rel="noopener noreferrer nofollow" target="_blank"><u>https://drive.google.com/drive/u/0/folders/1sKesbdHgkb1NSD8o1PrIXLUolFvpl2QG</u></a>
 </p>
 </li>
 </ul>
