@@ -3,8 +3,8 @@ title: Self help Resources
 permalink: /students/self-help-resources/
 description: ""
 third_nav_title: Self Help Resources
+variant: markdown
 ---
-#  cyber bullying link broken
 # Self help Resources
 
 ![](/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/star%20in%20every%20student.jpg)
@@ -17,4 +17,4 @@ If you continue to be troubled by your issue(s), you may wish to speak to a Coun
 
 |   |   |   |
 |:---:|:---:|:---:|
-| <a href="/students/Self-Help-Resources/developing-self/" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Developing_Self_1.jpg"></a><a href="/students/Self-Help-Resources/developing-self/" target="_blank">Developing Self</a>    | <a href="/students/Self-Help-Resources/getting-through-school/" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting_Through_School_2.jpg"></a><a href="/students/Self-Help-Resources/getting-through-school/" target="_blank">Getting Through School</a>    | <a href="https://www.medialiteracycouncil.sg/campaign2017/video.html" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Cyberbullying_3.jpg"></a><a href="https://www.medialiteracycouncil.sg/campaign2017/video.html" target="_blank">Cyberbullying</a>  |
+| <a href="/students/Self-Help-Resources/developing-self/" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Developing_Self_1.jpg"></a><a href="/students/Self-Help-Resources/developing-self/" target="_blank">Developing Self</a>    | <a href="/students/Self-Help-Resources/getting-through-school/" target="_blank"><img src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Student/Getting_Through_School_2.jpg"></a><a href="/students/Self-Help-Resources/getting-through-school/" target="_blank">Getting Through School</a>    | 
