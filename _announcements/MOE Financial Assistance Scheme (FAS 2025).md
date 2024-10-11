@@ -20,12 +20,19 @@ Capita Income (PCI) not exceeding $750.</p>
 <p>How to Apply:</p>
 <ul>
 <li>
-<p><strong>Online application - e-FAS </strong><em>(Singpass required)</em>
+<p><strong>Online application - </strong><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">e-FAS</a><strong> </strong><em>(Singpass required)</em>
 </p>
-<p>*&nbsp;<em>Available on Parent Gateway under</em>&nbsp;<strong><em>Service</em></strong>&nbsp;<em>tab &gt;&nbsp;</em><strong><em>Financial Assistance</em></strong><em>.</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Available on Parent Gateway under</em>&nbsp;<strong><em>Service</em></strong>&nbsp;<em>tab &gt;&nbsp;</em><strong><em>Financial Assistance</em></strong><em>.</em>
 </p>
-<p>*&nbsp;<em>You will receive an acknowledgement email upon successful submission of eFAS application.</em>
+</li>
+<li>
+<p><em>You will receive an acknowledgement email upon successful submission of eFAS application.</em>
 </p>
+<p></p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Hardcopy application form</strong>&nbsp;– available at school
@@ -34,6 +41,6 @@ print.</p>
 </li>
 </ul>
 <p>Students who received financial assistance in 2024, must re-apply if they
-require financial assistance in 2025.</p>
-<p>Please submit your application together with the required documents latest
+require financial assistance in 2025.
+<br>Please submit your application together with the required documents latest
 by&nbsp;<strong>8 Nov 2024</strong>.</p>
