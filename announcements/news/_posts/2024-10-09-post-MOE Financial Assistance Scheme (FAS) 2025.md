@@ -26,7 +26,7 @@ Income (PCI) not exceeding $750.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Online application – <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">e-FAS</a></strong> (<em>Singpass required</em>)</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><em>Available on Parent Gateway under</em><strong><em> Service</em></strong><em> tab &gt; </em><strong><em>Financial Assistance</em></strong><em>.</em>
 </p>
@@ -35,6 +35,8 @@ Income (PCI) not exceeding $750.</p>
 <p><em>You will receive an acknowledgement email upon successful submission of eFAS application.</em>
 </p>
 <p></p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Hardcopy application form</strong> – available at school General
