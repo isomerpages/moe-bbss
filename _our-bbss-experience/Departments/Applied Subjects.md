@@ -136,6 +136,85 @@ songs and music using Garageband and Chrome Music Lab.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kah Kee Young Inventors' Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Zhao Jun (Commendation Award)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE CPDD &amp; DTES Design Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Zhao Jun (Innovation Award
+<br>Noor Muhammad Aman (Innovation Award)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BBSS Got Talent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performances for Teachers' Day celebration (led by Music Teachers)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BBSS Airtime</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performances for Lunchtime concert (led by Music Teachers)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Art Exhibition Artist and Collaboration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://tinyurl.com/ArtSYF2024" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/ArtSYF2024</u><br></a>Page
+63 - 65 (guided by Mdm Nadiah)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BBSS Got Talent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performances for Teachers' Day celebration (led by Music teachers)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BBSS Airtime</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performances during assembly (led by Music teachers)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,95 +313,6 @@ by Mr Ng)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation (Guided by Mdm Nadiah)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RP Hospitality Race</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Runner-Up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE CPDD D&amp;T Awards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Creative Adaptation Award (guided by Mr Hady)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YISS Junior Chef Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion (guided by Mdm Haryati &amp; Ms Yap XF)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RP Hospitality Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Runner-Up (guided by Ms Yap XF &amp; Mdm Haryati)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP National Earthquake Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation (guided by Ms Wynter Lee)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RP iChef Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation (guided by Ms Yap XF)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE CPDD D&amp;T Awards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Creative Adaptation Award (guided by Mr Low TS)
-<br>Participation (guided by Mr Ho SC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RP iChef Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation (guided by Ms Yap XF)</p>
 </td>
 </tr>
 </tbody>
