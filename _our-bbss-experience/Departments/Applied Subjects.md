@@ -459,10 +459,37 @@ Speed Drawing, Mini Coursework</p>
 </tbody>
 </table>
 <hr>
-<h3>NOTABLE HIGHLIGHTS</h3>
-<h4></h4>
-<h3>Gallery</h3>
+<h3><strong>NOTABLE HIGHLIGHTS</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Applied Subjects/Design_Award_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Applied Subjects/Design_Award_and_TKKYI_Award_2024.jpg">
+</div>
+<p></p>
+<h4><u>SYF Art Exhibition</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pages_from_Final_SYF_2024_Catalogue_caa_15_July_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pages_from_Final_SYF_2024_Catalogue_caa_15_July_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pages_from_Final_SYF_2024_Catalogue_caa_15_July_Page_3.jpg">
+</div>
+<p></p>
+<h3><strong>Gallery</strong></h3>
+<h4>FCENFS Unit</h4>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>D&amp;T Unit</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk7uddyxCaAtbhb0zySEpj8g2vZHjbm-lIZN0pHCa_3UFhXC8y5sk1YnftNI8ohKWiaYai4pbkb7Px/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Art and Music Unit</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
