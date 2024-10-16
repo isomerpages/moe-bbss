@@ -357,17 +357,27 @@ by Mr Ng)</p>
 <td rowspan="1" colspan="1">
 <p>1. Acquisition and development of basic designing &amp; making skills
 through mini coursework</p>
+<p></p>
 <p>2. Design Thinking Processes and Skills</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Upcycling Project</p>
+<p></p>
 <p>2. Makers Programme</p>
 <p>Laser Cutting, 3D Pen, 3D Printing</p>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Learning Jopurney for Sec 3 to Red Dot Museum</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. DTES Design Awards</p>
+<p></p>
 <p>2. Tan Kah Kee Awards</p>
-<p>3. Makeathon @ Jurong Spring</p>
+<p></p>
+<p>3. F1 Card Design Competition @ HCI</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +386,9 @@ through mini coursework</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Food &amp; Consumer Education mini coursework</p>
+<p></p>
 <p>2. Consumer Awareness Programme though LJ @ Supermarket</p>
+<p></p>
 <p>3. Garden to plate programme</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,6 +396,7 @@ through mini coursework</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. My Healthy Plate Campaign! - 5 day 'Fruit &amp; Veggie Activations'</p>
+<p></p>
 <p>2. Food and Beverage Entrepreneurship Competition 2022 - Republic Polytechnic</p>
 </td>
 </tr>
@@ -393,8 +406,10 @@ through mini coursework</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Acquisition of Fundamental Art (elements of art), character design</p>
+<p></p>
 <p>2. Exploration of different medium, Creative and developmental idea drawings,
 Speed Drawing, Mini Coursework</p>
+<p></p>
 <p>3. Inquiry-Based Learning, mini coursework/project</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -403,8 +418,11 @@ Speed Drawing, Mini Coursework</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Live On Design Competition</p>
+<p></p>
 <p>2. SYF Art Exhibition</p>
+<p></p>
 <p>3. W7 Euphoria Exhibition</p>
+<p></p>
 <p>4. W7 Upload! Online Art Competition</p>
 <p>
 <br>
@@ -418,6 +436,7 @@ Speed Drawing, Mini Coursework</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Creation using Garageband and Chrome Music Lab&nbsp;</p>
+<p></p>
 <p>2. Instrumental experiments</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -425,12 +444,14 @@ Speed Drawing, Mini Coursework</p>
 <p>
 <br>
 </p>
+<p></p>
 <p>*conducted at other centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. BBSS Got Talent (inter-school)</p>
+<p></p>
+<p></p>
 <p>2. Airtime Concert
-<br>
 <br>
 </p>
 </td>
