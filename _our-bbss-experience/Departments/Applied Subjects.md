@@ -459,31 +459,8 @@ Speed Drawing, Mini Coursework</p>
 </tbody>
 </table>
 <hr>
-<h2>NOTABLE HIGHLIGHTS</h2>
-<h4>Live On Competition 2021</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%201.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%202.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%203.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Applied%20Subjects/Applied%20subjects%204.png">
-</div>
-<h4>Live On Competition 2020</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Applied%20Subjects/Slide1.jpeg">
-</div>
-<h4>#StandUpForCleaners Campaign</h4>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Applied%20Subjects/DNT%20NFS.jpg">
-</div>
+<h3>NOTABLE HIGHLIGHTS</h3>
+<h4></h4>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
