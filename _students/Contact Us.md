@@ -2,12 +2,13 @@
 title: Contact Us
 permalink: /students/contact-us/
 description: ""
+variant: tiptap
 ---
-# Contact Us
-
-Our School Counsellors are available by appointment.  
-To request an appointment, please fill in the information below.  
-  
-We will be in touch with you&nbsp;**within two working days**.
-
-<iframe marginwidth="0" marginheight="0" frameborder="0" height="1100" width="600" src="https://docs.google.com/forms/d/e/1FAIpQLSeUYQJhtF332N3dji366ZIkkD9AeeMC6sSAyxyVVm5ToERrAA/viewform?embedded=true"></iframe>
+<h1>Contact Us</h1>
+<p>Our School Counsellors are available by appointment.
+<br>To request an appointment, please fill in the information below.</p>
+<p>We will be in touch with you&nbsp;<strong>within three working days</strong>.</p>
+<a class="isomer-image-wrapper" href="https://forms.gle/DcmohXKiJ9GD7m7dA">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/BBSS%20Student%20Wellbeing/Need_someone_to_talk_to_Poster.jpg">
+</a>
+<p></p>
