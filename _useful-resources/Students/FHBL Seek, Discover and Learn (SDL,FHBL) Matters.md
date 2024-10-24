@@ -61,7 +61,7 @@ SLS queries including all SLS access matters such as password reset and
 unlocking of accounts, as well as queries about lesson assignments.</p>
 <p>School-based Helpline: 6566 3121 (ext 225)
 <br>Mondays - Fridays: 8:00 A.M. - 4:00 P.M.
-<br>Email:&nbsp;<a href="mailto:fatin_sufiah_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatin sufiah_kadir@moe.edu.sg</a>
+<br>Email:&nbsp;<a href="mailto:fatin_sufiah_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_sufiah_kadir@moe.edu.sg</a>
 </p>
 <p>For other matters, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.
 When emailing the SLS Helpdesk, they should include their full name, name
