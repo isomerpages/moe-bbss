@@ -36,8 +36,8 @@ variant: tiptap
 <br>
 <br>Mdm Rafidah
 <br>
-<br>Mdm Khairunissah
-<br>Ms Fatin (ICT Manager
+<br>Mdm Khairunnisah
+<br>Ms Fatin (ICT Manager)
 <br>Mr Elfi (ICT Trainer)</p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jasper Puah Yu Heng(3A2)</p>
+<p>Jasper Puah Yu Heng (3A2)</p>
 </td>
 </tr>
 <tr>
