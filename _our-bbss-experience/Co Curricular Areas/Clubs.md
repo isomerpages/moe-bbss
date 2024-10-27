@@ -42,7 +42,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Clubs/Mrs%20Kok%20planting%20a%20tree%20in%20school.jpg">
 </div>
-<p><a href="/clubs/one-earth-club/" rel="noopener noreferrer nofollow" target="_blank"> One Earth Club</a>
+<p><a href="/clubs/one-earth-club/" rel="noopener noreferrer nofollow" target="_blank">One Earth Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
