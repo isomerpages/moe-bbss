@@ -17,7 +17,7 @@ self-collection in school or delivery at a small fee.</p>
 is offering subject-based banding or higher-level subjects, please purchase
 the appropriate books accordingly.</p>
 <p></p>
-<p><strong>Online Sales Date: From 06 November, Wed to 17 December, Tue.</strong>
+<p><strong>Online Sales Date: From Wednesday, 06 November - Tuesday, 17 December.</strong>
 </p>
 <p><u>Bookshop Operating Hours During School Holiday:</u>
 </p>
@@ -35,7 +35,7 @@ the appropriate books accordingly.</p>
 <p>Sec 2, 3 &amp; 4 (2025) – 09th Dec to 13 Dec</p>
 </li>
 </ul>
-<p><strong>Monday – Friday 9am to 3pm</strong>
+<p><strong>Monday – Friday 9am to 3pm.</strong>
 </p>
 <p></p>
 <p>Click on the links below to view the textbook list:</p>
