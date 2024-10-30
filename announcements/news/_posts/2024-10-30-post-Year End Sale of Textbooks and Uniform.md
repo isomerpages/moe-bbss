@@ -1,7 +1,7 @@
 ---
 title: Year End Sale of Textbooks and Uniform
 permalink: /year-end-sale-of-textbooks-and-uniform/
-date: 2024-10-29
+date: 2024-10-30
 layout: post
 description: ""
 image: ""
@@ -43,7 +43,7 @@ the appropriate books accordingly.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Bukit_Batok_Secondary_School_Booklist_2025_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Bukit_Batok_Secondary_2025_Sec_2_Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
