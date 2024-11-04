@@ -14,6 +14,8 @@ variant: markdown
 ### Details
 <p style="text-align: justify;">MSP Lesson is held once a week, 3 hours per lesson. The programme will prepare pupils for the MSP examination at GCE 'O' Level.</p>
 
+### Malay Special Programme 2025 Class Schedule
+![](/images/MSP_Schedule_2025.png)
 
 ### Malay Special Programme 2024
 
