@@ -30,8 +30,8 @@ sections:
         9.00 am and 11.00am.
       image: /images/BBSS_Banner_0_15x.png
       alt: BBSS 360 virtual tour
-      button: View our 360 BBSS virtual tour
-      url: https://www.youtube.com/playlist?list=PLtHtEPc10ZSQSW84N6Nm7tbC_2idPN7I6
+      button: Watch our Principal Talk here!
+      url: https://youtu.be/CEs_43OA3KI
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
