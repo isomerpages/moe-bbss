@@ -22,14 +22,12 @@ sections:
       subtitle: Announcements & News
       button: More Announcements
   - infopic:
-      title: BBSS Open House
-      subtitle: Join Us!
+      title: BBSS Principal Talk
       id: infopic
-      description: Join us on 23 November from 8am to 1.30pm! Guided tours by student
-        ambassadors | CCA showcase | Curriculum Exhibitions | Principal Talks at
-        9.00 am and 11.00am.
+      description: P6 students and parents, missed our Open House?  Click below to
+        watch our Principal Talk session and learn more about BBSS!
       image: /images/BBSS_Banner_0_15x.png
-      alt: BBSS 360 virtual tour
+      alt: BBSS Open House Principal Talk
       button: Watch our Principal Talk here!
       url: https://youtu.be/CEs_43OA3KI
   - infopic:
