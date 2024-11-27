@@ -24,7 +24,7 @@ sections:
       description: • Year end Sales of Textbooks & Uniform | • Notice of Vacancy &
         Application of Hot Drinks & Snacks (Halal) Canteen Stall | • MOE FAS
         2025
-      button: For more announcement click here
+      button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
       alt: BBSS Banner
