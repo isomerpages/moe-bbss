@@ -18,9 +18,15 @@ sections:
         - title: BBSS Rhapsody Recording
           description: ""
           url: https://bukitbatoksec.moe.edu.sg/bbss-rhapsody-culture-unleashed/
-  - resources:
-      subtitle: Announcements & News
-      button: More Announcements
+  - infopic:
+      title: Announcements & News
+      id: infopic
+      description: • Year end Sales of Textbooks & Uniform | • Notice of Vacancy &
+        Application of Hot Drinks & Snacks (Halal) Canteen Stall | • MOE FAS
+        2025
+      button: For more announcement click here
+      url: /annoucements/
+      image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
   - infopic:
       title: BBSS Principal Talk
       id: infopic
