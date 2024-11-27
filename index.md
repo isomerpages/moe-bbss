@@ -27,6 +27,7 @@ sections:
       button: For more announcement click here
       url: /annoucements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
+      alt: BBSS Banner
   - infopic:
       title: BBSS Principal Talk
       id: infopic
