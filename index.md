@@ -25,7 +25,7 @@ sections:
         Application of Hot Drinks & Snacks (Halal) Canteen Stall | • MOE FAS
         2025
       button: For more announcement click here
-      url: /annoucements/
+      url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
       alt: BBSS Banner
   - infopic:
