@@ -15,9 +15,6 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
-        - title: BBSS Rhapsody Recording
-          description: ""
-          url: https://bukitbatoksec.moe.edu.sg/bbss-rhapsody-culture-unleashed/
   - infopic:
       title: Announcements & News
       id: infopic
