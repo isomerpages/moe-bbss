@@ -1,0 +1,18 @@
+---
+title: "Registration for 2025 Secondary 1 students: 18 Dec 2024 to 6 Jan
+  2025(1700hrs)"
+permalink: /announcements/news/msp2025/
+date: 2024-12-17
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p><strong><em>Secondary 1 2025 students who have been offered the subject, please register </em></strong><em><a href="https://go.gov.sg/mspregistration25bukitbatoksec" rel="noopener nofollow" target="_blank"><u>here</u></a></em><strong><em> or scan the following QR code (link will be available from 18 Dec 2024, 0700hrs to 6 Jan 2025, 1700hrs only).</em></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_mspregistration25bukitbatoksec.png">
+</div>
+<p></p>
