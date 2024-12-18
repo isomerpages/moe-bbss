@@ -2,8 +2,9 @@
 title: FAQ For New Secondary 1 Students
 permalink: /announcements/faq-for-new-secondary-1-students/
 description: ""
+variant: markdown
 ---
-# <a href="/useful-resources/Students/faq-for-new-secondary-1-students/" target="_blank">FAQ For New Secondary 1 Students</a>
+# <a href="https://ask.gov.sg/bbss/" target="_blank">FAQ For New Secondary 1 Students</a>
 
 Dear Sec 1 students and parents,
 
