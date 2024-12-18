@@ -1,6 +1,6 @@
 ---
-title: "Registration for 2025 Secondary 1 students: 18 Dec 2024 to 6 Jan
-  2025(1700hrs)"
+title: "Malay Special Programme Registration for 2025 Sec 1 students: 18 Dec
+  2024 to 6 Jan 2025 (1700hrs)"
 permalink: /announcements/news/msp2025/
 date: 2024-12-17
 layout: post
