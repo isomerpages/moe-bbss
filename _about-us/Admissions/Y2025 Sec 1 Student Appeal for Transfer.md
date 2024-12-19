@@ -7,7 +7,7 @@ third_nav_title: Admissions
 ---
 <h3><strong>Sec 1 Student Appeal for Transfer</strong></h3>
 <h4>For students posted to other schools but wish to transfer to BBSS</h4>
-<p>Students seeking transfer may complete this online <a href="https://form.gov.sg/5f96453b2464570011d2fee5" rel="noopener noreferrer nofollow" target="_blank">Transfer Form</a>,
+<p>Students seeking transfer may complete this <a href="https://form.gov.sg/5f96453b2464570011d2fee5" rel="noopener nofollow" target="_blank">online Transfer Form</a>,
 with softcopy supporting documents.
 <br>
 <br>We review every application carefully, taking a holistic view in determining
