@@ -18,8 +18,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: •2025 S1 Registration •2025 S1 Higher Mother Tongue Appeal •Year
-        end Sales of Textbooks & Uniform •2025 S1 Malay Special Programme
+      description: •2025 Sec1 Registration •Appeal for 2025 Sec1 Higher Mother Tongue
+        •Sales of Textbooks & Uniform •2025 Sec1 Malay Special Programme
         Registration •MOE FAS 2025
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
