@@ -18,9 +18,9 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: "• Year end Sales of Textbooks & Uniform | • Malay Special
-        Programme Registration for 2025 Sec 1 students: 18 Dec 2024 to 6 Jan
-        2025 (1700hrs) | • MOE FAS 2025"
+      description: •2025 Sec1 Registration •Appeal for 2025 Sec1 Higher Mother Tongue
+        •Sales of Textbooks & Uniform •2025 Sec1 Malay Special Programme
+        Registration •MOE FAS 2025
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
