@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Sec 1 Parents and Students,
+<br>
+<br>all information has been sent out via Parents’ Gateway on 19 December
+2024.
+<br>Please contact the school’s General Office if you have not received these
+information.
+<br>
+<br>Thank you.</p>
