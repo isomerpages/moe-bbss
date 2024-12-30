@@ -7,5 +7,4 @@ variant: markdown
 ---
 # Our Leaders
 
-
-![](/images/SL2.png)
+![](/images/SL_2025_photos_for_website.png)
