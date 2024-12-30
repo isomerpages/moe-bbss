@@ -7,7 +7,14 @@ variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <h2>School Leaders</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -69,7 +76,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Year Heads (YHs) / Assistant Year Heads (AYHs); Head of Departments (HODs) / Subject Heads (SHs)</h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
