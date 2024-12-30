@@ -42,13 +42,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Mr Gu Yong Qin
+<p>Mr Gu Yong Qin
 <br>NCAP Level 1,2,3
 <br>Integrated NCAP Level 1
-<br>NROC, Certified First Aider &amp; AED trained
-<br>
-</p>
+<br>NROC, Certified First Aider &amp; AED trained</p>
 </td>
 </tr>
 <tr>
