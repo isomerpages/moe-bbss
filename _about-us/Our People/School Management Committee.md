@@ -43,10 +43,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>63799413</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><a href="mailto:bbss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">bbss@moe.edu.sg</a>
 </p>
 </td>
@@ -73,6 +73,17 @@ variant: tiptap
 <p>Vice-Principal (EO)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Teck Hong David</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (EO)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Year Heads (YHs) / Assistant Year Heads (AYHs); Head of Departments (HODs) / Subject Heads (SHs)</h4>
@@ -86,38 +97,41 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ext</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ext</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tham Meng Chee
-<br>(Mrs Quek)</p>
+<p>Wah Rou Jing Charmaine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH / Lower Sec</p>
+<p>YH / Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8216</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tham_meng_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_meng_chee@schools.gov.sg</a>
+<p><a href="mailto:wah_rou_jing_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wah_rou_jing_charmaine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -129,7 +143,7 @@ variant: tiptap
 <p>Lim Jia Xin Janice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH / Lower Sec</p>
+<p>AYH / Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8203</p>
@@ -144,16 +158,17 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dianah Bte Abdullah</p>
+<p>Tham Meng Chee
+<br>(Mrs Quek)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH / Upper Sec</p>
+<p>YH / Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8211</p>
+<p>8216</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dianah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dianah_abdullah@schools.gov.sg</a>
+<p><a href="mailto:tham_meng_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_meng_chee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -165,7 +180,7 @@ variant: tiptap
 <p>Tan Wei Loong Luke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH / Upper Sec</p>
+<p>AYH / Sec 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8209</p>
@@ -216,24 +231,6 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh Khai Loon Kevin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8231</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_khai_loon_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_khai_loon_kevin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Samuie B Tarjalia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,19 +264,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Jia Hui</p>
+<p>Toh Pui Yhing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Curriculum</p>
+<p>HOD / Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8208</p>
+<p>8205</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jia_hui@schools.gov.sg</a>
+<p><a href="mailto:toh_pui_yhing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pui_yhing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -298,6 +295,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sum_xue_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sum_xue_fen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prabaakaran S/O Janarthanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:prabaakaran_janarthanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prabaakaran_janarthanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -324,6 +339,24 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ajmal Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ajmal_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Low Yizong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -334,24 +367,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_yizong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yizong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Toh Pui Yhing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8205</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:toh_pui_yhing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pui_yhing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -369,7 +384,7 @@ variant: tiptap
 <p>8210</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:chun_sir_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chun_sir_kin@schools.gov.sg</a>
+<p><a href="mailto:chun_sir_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chun_sir_kin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -396,6 +411,24 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teoh Tick Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Chermisty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tick_meng_teoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tick_meng_teoh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ling Xiao Ern Darren</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -406,6 +439,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_xiao_ern_darren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_xiao_ern_darren@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Kangcheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_kangcheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_kangcheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -531,7 +582,25 @@ variant: tiptap
 <p>8215</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="matthew_crawshaw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_crawshaw@schools.gov.sg</a>
+<p><a href="mailto:matthew_crawshaw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_crawshaw@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bok Ke Xin Catherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Social Studies (Int)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8314</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:catherine.kexin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">catherine.kexin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
