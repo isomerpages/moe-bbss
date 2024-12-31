@@ -18,8 +18,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>LTA Mr Darren Ling (IC)
 <br>2LT Ms Leah Chua
-<br>OCT Ms Koh Caihua</p>
-<p>Mr Jeremy Goh</p>
+<br>OCT Ms Koh Caihua
+<br>Mr Jeremy Goh</p>
 </td>
 </tr>
 </tbody>
@@ -30,14 +30,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Captain:</p>
