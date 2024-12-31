@@ -5,16 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h1>Chinese Orchestra</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge:</strong>
@@ -22,8 +18,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Siew Yong (IC)
-<br>Ms Lu Shan Shan
-<br>Ms Tan Li Shi</p>
+<br>Ms Tan Li Shi (2IC)</p>
+<p>Ms Lu Shan Shan</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +161,12 @@ engage in creative expression of music as they challenge themselves to
 prevent popular music using traditional instruments in school.</p>
 <p><strong><u>Summary of CO's main activities (performances, competitions, and events)</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
