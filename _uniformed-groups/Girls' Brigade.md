@@ -41,7 +41,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Student Leaders</p>
+<h4>Student Leaders</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
