@@ -2,48 +2,109 @@
 title: Malay Dance
 permalink: /performing-arts-groups/malay-dance/
 description: ""
+variant: tiptap
 ---
-# Malay Dance
-
-|                             |                                    |
-|-------------------|---------------------------|
-| **Teachers-in-charge:**<br>     | Mdm Sri Haryati (IC) <br>Mdm Rezwanna Othman                                         |
-| **Instructor / Choreographer:** | Mr Shahrul Azhar Marekan Bin Norazhar                                                |
-| **Training Days / Time:**       | Mondays: 3 pm - 6 pm @ Tutorial Room<br>Wednesdays: 3.30 pm - 6.30 pm @ Dance Studio |
-| **President:**                  | Puteri Nur Arfizeanna Binte Zailan                                                   |
-| **Vice-President:**            | Arin Natalya Binte Azmi                                                              |
-| **Section Leaders:**<br>        | Nursyahinda Binte Mohammed Rasul                                                     |
-| **Training Days:**<br>          | Mondays &amp; Wednesdays<br>3.15pm - 6.00pm                                              |
-
-#### Introduction
-
-<p style="text-align: justify;">The Malay Dance Club, known fondly by its members as Bakti! has established itself as a promising dance group that infuses different traditional genres in its extensive repertoire. It has garnered much acclaim from its participation in numerous events, showcases and dance competitions. We aim to develop our students into disciplined, confident and gracious young dancers who take pride in their performances.</p>
-
-
-#### CCA Activities
-
-1\.  Warm up routines before practice sessions  
-2\.  Be familiar with the different dance genre techniques  
-3\.  Bi-annual school camp during SYF year
-
-  
-
-#### CCA Achievements
-
-2020
-
-1\.  Teachers' Day Celebration  
-2\.  MUARA Dance Festival (Esplanade Outdoor Theater)
-
-  
-
-#### SYF Arts Presentations (Achievements)
-
-2011 - Gold with Honours  
-2013 - Distinction  
-2015 - Distinction  
-2017 - Distinction   
-2019 - Distinction
-
-#### Gallery
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqEKzXz3ejoMgK2X45OQV35Oapym1UwQbQMSFDZgQoZwdABsWggPiI1WFTJwliQEXGSOISdpdcPjON/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<h1>Malay Dance</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge:</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri Haryati (IC)
+<br>Mdm Rezwanna Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Instructor / Choreographer:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shahrul Azhar Marekan Bin Norazhar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days / Time:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays: 3 pm - 6 pm @ Tutorial Room
+<br>Wednesdays: 3.30 pm - 6.30 pm @ Dance Studio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>President:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puteri Nur Arfizeanna Binte Zailan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-President:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arin Natalya Binte Azmi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Section Leaders:</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursyahinda Binte Mohammed Rasul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days:</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays
+<br>3.15pm - 6.00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Introduction</h4>
+<p>The Malay Dance Club, known fondly by its members as Bakti! has established
+itself as a promising dance group that infuses different traditional genres
+in its extensive repertoire. It has garnered much acclaim from its participation
+in numerous events, showcases and dance competitions. We aim to develop
+our students into disciplined, confident and gracious young dancers who
+take pride in their performances.</p>
+<h4>CCA Activities</h4>
+<p>1. Warm up routines before practice sessions
+<br>2. Be familiar with the different dance genre techniques
+<br>3. Bi-annual school camp during SYF year</p>
+<h4>CCA Achievements</h4>
+<p>2020</p>
+<p>1. Teachers' Day Celebration
+<br>2. MUARA Dance Festival (Esplanade Outdoor Theater)</p>
+<h4>SYF Arts Presentations (Achievements)</h4>
+<p>2011 - Gold with Honours
+<br>2013 - Distinction
+<br>2015 - Distinction
+<br>2017 - Distinction
+<br>2019 - Distinction</p>
+<h4>Gallery</h4>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqEKzXz3ejoMgK2X45OQV35Oapym1UwQbQMSFDZgQoZwdABsWggPiI1WFTJwliQEXGSOISdpdcPjON/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
