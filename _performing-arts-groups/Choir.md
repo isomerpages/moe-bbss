@@ -5,25 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h1>Choir</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers-In-Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Lilin (I/C)
-<br>Ms Fong (I/C)
+<p>Ms Fong (I/C)
 <br>Ms Lim Dai Xuan</p>
+<p>Ms Nancy Bala</p>
 <p>Mrs Jenny Chua</p>
 </td>
 </tr>
