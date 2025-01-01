@@ -9,7 +9,7 @@ variant: markdown
 
 
 <figure>
-	<img src="/images/Mrs_Shirley_Lee.JPG" style="width:50%">
+	<img src="/images/Mrs_Lee.JPG" style="width:50%">
 <figcaption>
 	<strong> Mrs Shirley Lee<br>
 Principal, Bukit Batok Secondary School</strong>
