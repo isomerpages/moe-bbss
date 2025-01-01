@@ -16,21 +16,25 @@ Principal, Bukit Batok Secondary School</strong>
 	</figcaption>
 </figure>
 
-### A Legacy of Excellence
-<p style="text-align: justify;">As the 8th Principal of Bukit Batok Secondary School, I am humbled and very zestful to step into this role, to build upon legacy of excellence established by my predecessor Mr Phua Huat Chuan and esteemed principals before me. For 37 years, BBSS has been known in the community to be a school that provides quality holistic education.  </p>
+*Rooted in Strength, Growing Together*
 
-### Honoring our Heritage, Inspiring the Future
-<p style="text-align: justify;">Bukit Batok holds a special place in Singapore’s history. The iconic Old Ford Factory stands as a testament to our nation’s resilience and the dawn of a new era, which ultimately saw Singapore’s independence post World War II. Founded in 1986, Bukit Batok Secondary School stands proud as the school built for this township, with a heritage of serving and growing with the Bukit Batok community. As a school rooted in this rich heritage, we proudly carry the torch of nurturing R.E.S.P.E.C.T.ful leaders – self-directed and confident youths who contribute meaningfully to our society and the future of Singapore..</p>
+Dear Parents, Students, and Community Partners,
 
-### Every Child Is Unique, Every Talent Flourishes
-<p style="text-align: justify;">The school’s philosophy is grounded on the belief that every <b>child is unique and has innate abilities to be developed</b>. This philosophy resonates with my education leadership beliefs in nurturing the holistic development of every child, recognising that every child is different, with their unique strengths, interests and needs. As a mother of 2 and an educator having over 2 decades of teaching, leadership and service in various schools and at the Ministry of education headquarters, has only strengthened this conviction that every child can and wants to learn. We eagerly look forward implementing Full Subject Based Banding in 2024. Together with our dedicated team at BBSS, we are committed to designing engaging learning experiences that cater to diverse learners, so that each student finds purpose, engagement and growth in their education journey.  </p>
+<p style="text-align: justify;">Welcome to another exciting school year at Bukit Batok Secondary School! This year, our theme Rooted in Strength, Growing Together embodies the journey we undertake as a school community — rooted in our values, united in our mission, and committed to growth. </p>
+
+### A Place to Flourish
+<p style="text-align: justify;">At BBSS, we believe every student is unique, with individual strengths and needs. Our inclusive and supportive school environment ensures that all students are given the opportunity to thrive. Through the efforts of our dedicated Student Development Team, teachers, student leaders, and peer support programmes, we focus on the holistic well-being of each BBSSian — nurturing their cognitive, psychological, physical, and social well-being. Together with the support of our parents, stakeholders, and partners, we work to provide the best possible environment for every student to flourish. </p>
+
+### Motivated Learners with Voice
+<p style="text-align: justify;">We strive to empower our students to become motivated learners who are equipped with the 21st-century skills needed to be future ready. Through signature programmes such as Community Youth Leadership, STEM-Environmental Education, we provide opportunities for BBSSians to engage meaningfully with the world around them. In 2025, the school embarks on an exciting journey to harness Student Voice to dream and rebuild the learning spaces in the school through a Design Thinking approach. Our renewed focus on civic and cross-cultural literacies, facilitated through the school’s heritage curriculum and enriching overseas cultural learning trips to China, Japan, and ASEAN countries, allows students to broaden their perspectives and develop into informed global citizens.</p>
 
 ### Be Our Best, for Good
-<p style="text-align: justify;">BBSS education challenges our students in being and becoming their best selves for the greater good, so that they can contribute purposefully to community. Together with my team, we remain steadfast in our mission to <b>nurture BBSSians to be self-directed learners with abundance mentality</b>. With the school’s academic and student development programmes carefully designed to engage BBSSians, they will be able to embrace their future with confidence and grace. I believe that BBSS will provide a caring and supportive environment that allows students to develop values, dispositions, wellbeing skills, a growth mindset that they can <b>Be Our Best</b> for good.</p>
+<p style="text-align: justify;">We are deeply privileged to be the school built for the Bukit Batok community when the Township was founded, and we remain committed to embodying the ethos of being the School on a Hill . Through our Community Youth Leadership programme, we teach BBSSians the true meaning of service, participation, and building a better society. It is through this deep-rooted sense of purpose that our students learn about making a positive difference for a greater good.</p>
 
-<p style="text-align: justify;">BBSS has stood the test of time as an excellent school and I look forward to working with my Vice Principals, staff and stakeholders in our community in steering the school towards even greater heights. </p>
+<p style="text-align: justify;">Our staff community stands strong, embracing the vision for 2025, drawing strength from one another as we grow together in this learning community. Thank you for your continued trust and partnership as we embark on this exciting journey of growth and discovery. </p>
 
-Have a meaningful and positive 2024!
+Let us move forward together, **rooted in strength, growing together.**
 
-Mrs Shirley Lee
+**Mrs Shirley Lee
 <br>Principal
+<br>Bukit Batok Secondary School**
