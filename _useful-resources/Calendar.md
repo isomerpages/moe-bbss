@@ -2,8 +2,12 @@
 title: Calendar
 permalink: /useful-resources/calendar/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Calendar
-### 2024 Term 1 Major Events
-![](/images/Useful%20Resources/2024Term1.JPG)
+<h1>Calendar</h1>
+<h3>2025 Term 1 School Events</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Resources/2025_term_1_school_events.png">
+</div>
+<p></p>
