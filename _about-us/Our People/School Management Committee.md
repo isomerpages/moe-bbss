@@ -270,7 +270,7 @@ variant: tiptap
 <p>Toh Pui Yhing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Maths</p>
+<p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8205</p>
