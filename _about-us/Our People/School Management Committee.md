@@ -414,7 +414,7 @@ variant: tiptap
 <p>Teoh Tick Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Chermisty</p>
+<p>SH / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
