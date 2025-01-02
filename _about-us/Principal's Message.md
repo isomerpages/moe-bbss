@@ -8,10 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Mrs_Lee.jpg">
 </div>
-<p><strong> Mrs Shirley Lee<br>Principal, Bukit Batok Secondary School</strong>
-</p>
-<p><em>Rooted in Strength, Growing Together</em>
-</p>
+<p></p>
+<h4><em>Rooted in Strength, Growing Together</em></h4>
+<p></p>
 <p>Dear Parents, Students, and Community Partners,</p>
 <p>Welcome to another exciting school year at Bukit Batok Secondary School!
 This year, our theme <strong><em>Rooted in Strength, Growing Together </em></strong>embodies
