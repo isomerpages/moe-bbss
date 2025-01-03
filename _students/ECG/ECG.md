@@ -8,9 +8,8 @@ variant: tiptap
 <p><strong><a href="https://for.edu.sg/bbssecg" rel="noopener noreferrer nofollow" target="_blank">Make an Appointment </a></strong>with
 our friendly ECG Counsellor!</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/BBSS Student Wellbeing/ECGC.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BBSS_Poster.png">
 </div>
 <h3>Pathways for 'O' Level students</h3>
 <div class="isomer-image-wrapper">
