@@ -83,7 +83,7 @@ be stepping down from April onwards.</p>
 <p>Air Rifle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCC Land (Boys)</p>
+<p>NCC Land</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Choir</p>
