@@ -12,8 +12,5 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_mspregistration25bukitbatoksec.png">
-</div>
 <p>You may also visit our <a href="https://www.bukitbatoksec.moe.edu.sg/our-bbss-experience/Departments/malay-special-programme/" rel="noopener nofollow" target="_blank">MSP page</a> for
 more information.</p>
