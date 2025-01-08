@@ -15,8 +15,10 @@ so beginning year 2006.</p>
 <p>MSP Lesson is held once a week, 3 hours per lesson. The programme will
 prepare pupils for the MSP examination at GCE 'O' Level.</p>
 <h3>Malay Special Programme 2025 Class Schedule</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -34,35 +36,69 @@ prepare pupils for the MSP examination at GCE 'O' Level.</p>
 <p>Lesson Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Commencement Date</p>
+<p>Start Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Secondary 1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursdays</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3.30pm - 6.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>16 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSP1A - Mdm Latifah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A3 CR</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MSP1B - Mdm Mastuty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A4 CR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Secondary 2</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Tuesdays</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3.30pm - 6.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>14 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSP2A - Mdm Rafidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A1 CR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MSP2B - Mdm Khatijah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A2 CR</p>
 </td>
 </tr>
 <tr>
@@ -78,6 +114,12 @@ prepare pupils for the MSP examination at GCE 'O' Level.</p>
 <td rowspan="1" colspan="1">
 <p>15 Jan 2025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khatijah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A3 CR</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -92,29 +134,26 @@ prepare pupils for the MSP examination at GCE 'O' Level.</p>
 <td rowspan="1" colspan="1">
 <p>16 Jan 2025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rafidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A2 CR</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p>All lessons will commence in Term 1 Week 2; as per the dates stated above.</p>
-<h4>Registration for 2025 Secondary 1 students *18 Dec 2024-6 Jan 2025(1700hrs)*</h4>
-<p><strong><em>Secondary 1 2025 students who have been offered the subject, please register </em></strong><em><a href="https://go.gov.sg/mspregistration25bukitbatoksec" rel="noopener nofollow" target="_blank">here</a></em><strong><em> or scan the following QR code (link will be available from 18 Dec 2024, 0700hrs to 6 Jan 2025, 1700hrs only).</em></strong>
-</p>
+<h4><u>Registration for 2025 Secondary 1 students</u> </h4>
+<p>Registration has ended on 6 January 2025.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_mspregistration25bukitbatoksec.png">
-</div>
-<p>Please note that this registration is <strong>only</strong> for those who
-have successfully been offered the subject, Malay (Special Programme) at
-Bukit Batok Secondary School (West - Zonal Centre).</p>
-<p>(i) If successful applicants do not register by 6 January 2025, the offer
-will lapse, and the place will be offered to another applicant.
-<br>(ii) Commencement of lesson will begin on the week of 13 January 2025
-(please see above for the specific date).
-<br>(iii) Books will be bought upon the teacher's instruction in class.</p>
-<p>Commencement details will be sent to schools in Term 1 Week 1 (6-10 Jan
-2025).</p>
-<p><strong>Applicants who were unsuccessful and those who wish to appeal to take up the subject, please contact your respective school's Head of Department.</strong>
-</p>
+<h4><strong><u>Commencement of Lessons</u></strong></h4>
+<p>All lessons will commence in Term 1 Week 2 (refer to table above).
+<br>Books will be bought upon the teacher's instruction in class.
+<br>Letter to parents regarding commencement details has been sent to schools
+(dated 8 Jan 2025). Please click <a href="/files/COMMENCEMENT_DETAILS_FOR_MSP_2025__for_schs_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a copy of the Commencement Details.</p>
+<p></p>
 <h5><strong>Withdrawal from Programme</strong></h5>
 <p>For current students who would like to withdraw from the programme, please
 complete the Withdrawal Form <a href="/files/BBSS_MSP_WITHDRAWAL_FORM_2025.pdf" rel="noopener nofollow" target="_blank">here</a> and submit it to
