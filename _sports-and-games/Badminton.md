@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwek Yi Heng</p>
+<p>Sukumar Ashwin</p>
 </td>
 </tr>
 <tr>
@@ -46,19 +46,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Chian Chou Joel
-<br>Lim Kee Yong Marcius</p>
+<p>Cheng Jia Le Xavier (Zheng Jiale)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Training Days:</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 3:00PM - 5:00PM
-<br>Friday: 2:00PM - 5:00PM</p>
+<p>Wednesday: 3:15PM - 5.45PM</p>
 </td>
 </tr>
 </tbody>
@@ -76,7 +73,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chai Yu Xin</p>
+<p>Zhuo Lingxin</p>
 </td>
 </tr>
 <tr>
@@ -85,19 +82,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ankita Anand
-<br>Obias Althea Raine Banatine</p>
+<p>Gwyneth Boo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Training Days:</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 3:30PM - 5:30PM
-<br>Friday: 2:30PM - 5:30PM</p>
+<p>Monday: 3:15PM - 5:45PM</p>
 </td>
 </tr>
 </tbody>
