@@ -62,6 +62,15 @@ variant: tiptap
 <br>3.15pm – 6.00pm</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH</p>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
