@@ -13,6 +13,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Training Days:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
