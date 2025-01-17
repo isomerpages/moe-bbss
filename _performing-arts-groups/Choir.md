@@ -13,6 +13,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Training Days:</strong> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays(Music Room 1&amp;2): 3:15PM - 5:15PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teachers-In-Charge:</strong>
 </p>
 </td>
@@ -81,14 +90,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mondays &amp; Wednesdays
 <br>3.15pm - 5.15pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
