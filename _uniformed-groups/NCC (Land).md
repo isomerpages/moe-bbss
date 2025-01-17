@@ -13,6 +13,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>CCA Training Days:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge:</strong>
 <br>
 <br>
@@ -133,17 +142,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>70</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCA Training Days:</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays - 3.30PM to 5.30PM
-<br>Wednesdays - 3.30PM to 5.30PM</p>
 </td>
 </tr>
 </tbody>
