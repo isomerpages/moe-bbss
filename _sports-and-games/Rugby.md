@@ -53,15 +53,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Skills - Mondays &amp; Fridays: 3pm - 6pm
-<br>Physical Conditioning - Wednesdays: 3pm - 4.30pm</p>
+<p>Mondays: 3:00PM - 6:00 PM</p>
+<p>Wednesdays: 3:00PM - 6:00PM</p>
+<p>Odd week Fridays &amp; Even week Thursday</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Cca/Sports%20&amp;%20Games/PART%201%20-%20Rugby%20lineup%20poster%20draft%204%20(1).jpg">
-</div>
+<p>s: 3:00</p>
 <div class="iframe-wrapper">
 <iframe height="397" width="706" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XAFMn8R1Jv4"></iframe>
 </div>
