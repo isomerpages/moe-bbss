@@ -60,7 +60,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>s: 3:00</p>
 <div class="iframe-wrapper">
 <iframe height="397" width="706" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XAFMn8R1Jv4"></iframe>
 </div>
