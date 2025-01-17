@@ -52,8 +52,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays: 3.30pm - 6.00pm
-<br>Fridays: 3.00pm - 5.30pm</p>
+<p>Mondays, Wednesdays &amp; Odd Week Fridays: 3.00pm - 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Plaza</p>
 </td>
 </tr>
 </tbody>
