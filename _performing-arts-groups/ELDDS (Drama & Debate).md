@@ -13,6 +13,24 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Training Days:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays - Debate
+<br>Wednesdays - Drama
+<br>3.15pm - 5.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge:</strong>
 </p>
 </td>
@@ -58,17 +76,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Cortardo Francheska Grace Tuazon (4A4)
 <br>Alicia Shahnaz Bte Md Rafi (4A6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays - Debate
-<br>Wednesdays - Drama
-<br>3.15pm - 5.30pm</p>
 </td>
 </tr>
 </tbody>
