@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 3:15PM - 5.45PM</p>
+<p>Wednesday: 3:00PM - 6:00PM</p>
 </td>
 </tr>
 </tbody>
@@ -91,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 3:15PM - 5:45PM</p>
+<p>Monday: 3:00PM - 6:00PM</p>
 </td>
 </tr>
 </tbody>

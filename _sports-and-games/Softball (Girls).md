@@ -57,16 +57,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday</strong> 
-<br>3.15pm - 6.00pm
+<p><strong>Monday(ODC)</strong>
+<br>3:00PM - 6:00PM
 <br>
-<br>
-<br><strong>Wednesday</strong>
-<br>Odd Week: 3.15pm - 6.00pm
-<br>Even Week: 2.30pm - 6.00pm
-<br>
-<br><strong>Fridays</strong>
-<br>2.30pm - 6.00 pm</p>
+<br><strong>Wednesday(Field)</strong>
+</p>
+<p>3:00PM - 6:00PM</p>
 </td>
 </tr>
 </tbody>

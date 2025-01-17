@@ -13,6 +13,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Training Days</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesdays: 3:00PM - 6:00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge</strong>
 </p>
 </td>
@@ -127,32 +136,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Soh Enya</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Training Days</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Week A: Friday 2.30pm to 5.30pm
-<br>Week B: Wednesday 2.30pm to 5.30pm</p>
 </td>
 </tr>
 </tbody>

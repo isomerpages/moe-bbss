@@ -12,14 +12,41 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Training Days:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Music Centre, classrooms 2A1, 3A2 - 3A8, MT2</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jade Leong (IC)
-<br>Mr Jared Er</p>
-<p>Ms Syazwani
+<br>Mr Jared Er
+<br>Ms Syazwani
 <br>Ms Ong Gui Fang</p>
 </td>
 </tr>
