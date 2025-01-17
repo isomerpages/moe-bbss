@@ -18,8 +18,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Siew Yong (IC)
-<br>Ms Tan Li Shi (2IC)</p>
-<p>Ms Lu Shan Shan</p>
+<br>Ms Tan Li Shi (2IC)
+<br>Ms Lu Shan Shan</p>
 </td>
 </tr>
 <tr>
