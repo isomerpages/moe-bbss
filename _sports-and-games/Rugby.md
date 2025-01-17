@@ -53,9 +53,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays: 3:00PM - 6:00 PM</p>
-<p>Wednesdays: 3:00PM - 6:00PM</p>
-<p>Odd week Fridays &amp; Even week Thursday</p>
+<p>Mondays (Field): 3:00PM - 6:00PM</p>
+<p>Wednesdays (ODC): 3:00PM - 6:00PM</p>
+<p>Odd week Fridays &amp; Even week Thursdays(Field): 3:00PM - 6:00PM</p>
 </td>
 </tr>
 </tbody>
