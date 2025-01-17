@@ -37,8 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays: 3 pm - 6 pm @ Tutorial Room
-<br>Wednesdays: 3.30 pm - 6.30 pm @ Dance Studio</p>
+<p>Mondays: 3:00PM - 6:00PM @ Tutorial Room
+<br>Wednesdays: 3:00PM - 6:00PM @ Dance Studio</p>
 </td>
 </tr>
 <tr>
@@ -67,17 +67,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Nursyahinda Binte Mohammed Rasul</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays
-<br>3.15pm - 6.00pm</p>
 </td>
 </tr>
 </tbody>
