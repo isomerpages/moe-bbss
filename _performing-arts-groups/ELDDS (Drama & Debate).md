@@ -13,7 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days:</p>
+<p><strong>Training Days:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays - Debate
