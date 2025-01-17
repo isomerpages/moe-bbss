@@ -103,7 +103,7 @@ variant: tiptap
 <br>3:15 PM to 5:15 PM
 <br>
 <br><u>Even Week Wednesdays:</u>
-<br>2:30 PM to 4:30 PM</p>
+<br>3:00PM - 5:00PM</p>
 </td>
 </tr>
 </tbody>
