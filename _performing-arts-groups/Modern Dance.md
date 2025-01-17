@@ -13,6 +13,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Training Days:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays(Dance Studio) &amp; Wednesdays(Tutorial Room 1&amp;2)
+<br>3:00PM - 6:00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge:</strong>
 </p>
 </td>
@@ -36,16 +46,6 @@ variant: tiptap
 <br>Vasu Varshni (Vice-President - Welfare)
 <br>Yong Jing Shyan (Logistics IC)
 <br>Hazel Goh (Logistics IC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays
-<br>3.15pm - 5.45pm</p>
 </td>
 </tr>
 </tbody>
