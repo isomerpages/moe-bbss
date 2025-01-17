@@ -16,13 +16,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Teachers In Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Catherine Bok (IC)
-<br>Mr Derek Goh (2IC)
-<br>Mr Luke Tan</p>
+<p><strong>Ms Catherine Bok (IC) <br>Mr Derek Goh (2IC) <br>Mr Luke Tan</strong>
+</p>
 </th>
 </tr>
 </tbody>
