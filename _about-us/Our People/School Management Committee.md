@@ -558,7 +558,7 @@ variant: tiptap
 <p>Nithiya Bhavani D/O Thiyagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / CCE (Int)</p>
+<p>SH / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8431</p>
