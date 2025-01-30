@@ -18,8 +18,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: Sec 1-5 WA1 Schedule • 2025 Semester 1 Timetable • GCE O level
-        resources •
+      description: T1W4 SDL Task List Sec 1-5 • WA1 Schedule • 2025 Semester 1
+        Timetable • GCE O level resources •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
