@@ -78,7 +78,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terence Song</p>
+<p>Song</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8440</p>
@@ -806,7 +806,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Song Kin Hoe (Terence)</p>
+<p>Song</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8440</p>
