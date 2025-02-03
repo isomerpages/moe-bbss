@@ -128,7 +128,7 @@ variant: tiptap
 <p>YH / Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8211</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wah_rou_jing_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wah_rou_jing_charmaine@moe.edu.sg</a>
@@ -309,7 +309,7 @@ variant: tiptap
 <p>HOD / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8208</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:prabaakaran_janarthanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prabaakaran_janarthanan@schools.gov.sg</a>
@@ -345,7 +345,7 @@ variant: tiptap
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8231</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ajmal_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@schools.gov.sg</a>
@@ -417,7 +417,7 @@ variant: tiptap
 <p>SH / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8423</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tick_meng_teoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tick_meng_teoh@moe.edu.sg</a>
@@ -453,7 +453,7 @@ variant: tiptap
 <p>SH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8427</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_kangcheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_kangcheng@moe.edu.sg</a>
