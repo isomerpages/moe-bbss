@@ -102,7 +102,7 @@ variant: tiptap
 <p>8331</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jade_leong_tse_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jade_leong_tse_wei@moe.edu.sg</a>
+<p><a href="mailto:jade_leong_tze_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jade_leong_tze_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -165,7 +165,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gaayathri_k_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gaayathri_k_chandra@moe.edu.sg</a>
+<p><a href="mailto:gaayathri_v_n_arasakumar_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gaayathri_v_n_arasakumar_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
