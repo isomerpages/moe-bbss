@@ -178,5 +178,4 @@ Brigade are Christian organisations.&nbsp;</p>
 <p><strong><u>LEAPS 2.0 Guide</u></strong>
 </p>
 <p><a href="/files/Our%20bbss%20experience/LEAPS%202%20(Sch%20Handbook).pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0 (Sch Handbook).pdf</a>
-<br><a href="/files/Our%20bbss%20experience/CCA%20Training%20Schedule%202019.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Training Schedule 2019.pdf</a>
 </p>
