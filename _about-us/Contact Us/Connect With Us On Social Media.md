@@ -8,13 +8,7 @@ variant: tiptap
 <p></p>
 <h1>Connect With Us On Social Media</h1>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bbss e open house 2022/bbss-fb.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Contact us/2025_bbss_ig_banner_for_website_2.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/bukitbatoksecondary/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Contact us/2025_bbss_ig_banner_for_website_2.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bbss e open house 2022/bbss_sc.png">
 </div>
