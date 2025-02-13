@@ -16,7 +16,8 @@ variant: tiptap
 <p>Training Days:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
+<p>Mondays &amp; Wednesdays
+<br>1500 to 1800</p>
 </td>
 </tr>
 <tr>
@@ -27,17 +28,9 @@ variant: tiptap
 <p>LTA Mr Darren Ling (IC)
 <br>2LT Ms Leah Chua
 <br>OCT Ms Koh Caihua
-<br>Mr Jeremy Goh</p>
+<br>OCT Mr Jeremy Goh</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Captain:</p>
@@ -59,7 +52,7 @@ variant: tiptap
 <p>Company Sergeant Major:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG Hon Jun Kag, Bryson</p>
+<p>SSG Justus Jojo</p>
 </td>
 </tr>
 <tr>
@@ -67,31 +60,28 @@ variant: tiptap
 <p>Assistant Company Sergeant Major:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG Lee Yu Ze Clarence</p>
+<p>SSG Aloysius Woon</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Our Core</strong>
-</p>
-<p>The 53rd Boys’ Brigade Company strongly believes in servanthood leadership.
+<br>The 53rd Boys’ Brigade Company strongly believes in servanthood leadership.
 Our core values include obedience, reverence, discipline and self-respect.
 Our BB Boys learn to be faithful in their responsibilities. They also learn
 to be committed to the organisation. We train with excellence and take
-pride in what we do.</p>
+pride in what we do</p>
 <p><strong>Our Company Achievements</strong>
-</p>
-<p></p>
-<p>For 2023 to 2024, our company has attained the James Milner Fraser - High
+<br>For 2023 to 2024, our company has attained the James Milner Fraser - High
 Distinction. This award goes to the top-performing BB Companies in Singapore.
 Our company has received this award or equivalent since 2016.</p>
-<p><strong>Our Boys' Achievements</strong>
-</p>
-<p>We have BB Boys receiving the coveted Founder's Award yearly. The Founder's
-Award is the pinnacle of awards achievable at the Secondary School level.</p>
+<p></p>
+<p><strong>Our Achievements</strong>
+<br>We have BB Boys receiving the coveted Founder's Award yearly. This award
+is the pinnacle of awards achievable at the Secondary School level.</p>
+<p></p>
 <p><strong>Our Holistic Curriculum</strong>
-</p>
-<p>Our BB Officers design BB camps to suit the needs of our BB Boys. Our
+<br>Our BB Officers design BB camps to suit the needs of our BB Boys. Our
 Recruit and Company Training Camps, including our Leadership Training and
 Development Camps, focus on building tenacity and teamwork. They provide
 opportunities for the holistic development of our BB Boys as we observe
@@ -109,6 +99,7 @@ purposeful engagements for parents and guardians during our camps and conference
 and occasionally partner with the BBSS Parents Support Group (PSG). We
 are currently exploring programming in our BB curriculum and social entrepreneurship
 as we strive to stay current with the trends in the education scene.</p>
+<p></p>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWZ4UaE8RMeNp9tjrfAL4FtaC84kQN6aKHD5hlUY54fud0aQI7q2fNDUT2OBkG2Q8xFn7tiDE-KQxS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
