@@ -3,18 +3,14 @@ title: Connect With Us On Social Media
 permalink: /about-us/contact-us/bbss-socialmedia/
 description: ""
 third_nav_title: Contact Us
-variant: markdown
+variant: tiptap
 ---
-<a id="top"></a>
-
-# Connect With Us On Social Media
-
-
-<a href="https://www.facebook.com/BukitBatokSecondarySchool/" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/bbss-fb.png" style="width:50%;float:center"></a>
-
-|   |   |
-|---|---|
-| <a href="https://www.instagram.com/bbss_sc/" target="_blank"><img src="/images/Bbss%20e%20open%20house%202022/bbss_sc.png" style="width:100%"></a>  | 
-
-
-<center><a href="#top">Back to Top</a></center>
+<p></p>
+<h1>Connect With Us On Social Media</h1>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/bukitbatoksecondary/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Contact us/2025_bbss_ig_banner_for_website_2.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bbss e open house 2022/bbss_sc.png">
+</div>
+<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to Top</a>
+</p>
