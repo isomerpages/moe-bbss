@@ -2,8 +2,9 @@
 title: PDLP @ BBSS
 permalink: /announcements/pdlp-bbss/
 description: ""
+variant: markdown
 ---
-# <a href="https://sites.google.com/moe.edu.sg/bbsspdlp/bbss-pdlp" target="_blank">PDLP @ BBSS</a>
+# <a href="https://sites.google.com/moe.edu.sg/bbsspdlp/pdlp" target="_blank">PDLP @ BBSS</a>
 
 Dear Parents,
 
