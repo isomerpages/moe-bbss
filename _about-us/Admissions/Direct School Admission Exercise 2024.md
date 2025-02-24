@@ -141,10 +141,10 @@ the following:</p>
 <p>(i) 1.6km run time:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Boys: below 6 minutes 30seconds</p>
+<p>Boys: below 7 minutes 30seconds</p>
 </li>
 <li>
-<p>Girls: below 7 minutes 30seconds</p>
+<p>Girls: below 8 minutes 30seconds</p>
 </li>
 </ul>
 <p>Or</p>
