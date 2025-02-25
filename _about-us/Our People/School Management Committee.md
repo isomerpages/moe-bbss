@@ -43,23 +43,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>63799413</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><a href="mailto:bbss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">bbss@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mabel Chia Bee Khim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (EO)</p>
 </td>
 </tr>
 <tr>
