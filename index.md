@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: T1W6 SDL Task List Sec 1-5 • WA1 Schedule • 2025 Semester 1
+      description: T1W8 SDL Task List Sec 1-5 • WA1 Schedule • 2025 Semester 1
         Timetable • GCE O level resources •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
