@@ -36,7 +36,7 @@ prepare pupils for the MSP examination at GCE 'O' Level.</p>
 <p>Lesson Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Start Date</p>
+<p>Commencement Date</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -144,7 +144,7 @@ prepare pupils for the MSP examination at GCE 'O' Level.</p>
 </tbody>
 </table>
 <p>All lessons will commence in Term 1 Week 2; as per the dates stated above.</p>
-<h4><u>Registration for 2025 Secondary 1 students</u> </h4>
+<h4><u>Registration for 2025 Secondary 1 students</u></h4>
 <p>Registration has ended on 6 January 2025.</p>
 <p></p>
 <h4><strong><u>Commencement of Lessons</u></strong></h4>
@@ -153,11 +153,12 @@ prepare pupils for the MSP examination at GCE 'O' Level.</p>
 <br>Letter to parents regarding commencement details has been sent to schools
 (dated 8 Jan 2025). Please click <a href="/files/COMMENCEMENT_DETAILS_FOR_MSP_2025__for_schs_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a copy of the Commencement Details.</p>
+<p><strong>Please click <a href="/files/Updated_Term_2_calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the updated calendar for Term 2 2025.</strong>
+</p>
 <p></p>
 <h5><strong>Withdrawal from Programme</strong></h5>
 <p>For current students who would like to withdraw from the programme, please
-complete the Withdrawal Form <a href="/files/BBSS_MSP_WITHDRAWAL_FORM_2025.pdf" rel="noopener nofollow" target="_blank">here</a> and submit it to
-BBSS.</p>
+complete the Withdrawal Form <a href="/files/BBSS_MSP_WITHDRAWAL_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> and submit it to BBSS.</p>
 <h5><strong>MSP Teachers’ Contacts</strong></h5>
 <p>For any queries regarding Malay (Special Programme) at Bukit Batok Secondary
 School, please contact any of the following teachers:</p>
