@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Sec 1 to 3, 4E and 5N BBSS students,
-<br>Please click on the links below to view your WA1 Scope and Schedule:</p>
+<br>Please click on the links below to view your WA2 Scope and Schedule:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="/files/2025_Sec_1_WA2_Scope.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
