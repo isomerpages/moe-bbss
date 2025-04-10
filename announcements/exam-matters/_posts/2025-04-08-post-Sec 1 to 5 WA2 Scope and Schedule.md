@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/2025_Sec_2_WA2_Scope.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
+<p><strong><a href="/files/2025_WA2_Schedule_25_March___Sec_2__8Apr_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
 </p>
 </li>
 <li>
