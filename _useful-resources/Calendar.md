@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>Calendar</h1>
-<h3>2025 Term 1 School Events</h3>
-<p></p>
+<h3>2025 Term 2</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Resources/2025_term_1_school_events.png">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Term 2 School Events" src="/images/Useful Resources/School_events_template.png">
 </div>
+<h3> School Events</h3>
+<p></p>
 <p></p>
