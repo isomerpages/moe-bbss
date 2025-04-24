@@ -1,28 +1,66 @@
 ---
 title: Uniformed Groups
-permalink: /our-bbss-experience/Co-Curricular-Areas/uniformed-groups/
+permalink: /our-bbss-experience/co-curricular-areas/uniformed-groups/
 description: ""
 third_nav_title: Co Curricular Areas
 variant: markdown
 ---
-# Uniformed Groups
-<table>
-<thead>
-  <tr>
-    <th style="width: 305px"></th>
-    <th style="width: 305px"></th>
-  </tr>
-</thead>
+<h1>Uniformed Groups</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td style="text-align: center;"><img src="/images/Our%20BBSS%20Experience/Cca/IMG_1654.jpg"><a href="/uniformed-groups/ncc-land/">NCC (Land)</a></td>
-    <td style="text-align: center;"><a href="/uniformed-groups/girls-brigade/"> <img src="/images/Our%20BBSS%20Experience/Cca/AwardCeremony.jpg"></a><a href="/uniformed-groups/girls-brigade/">Girls' Brigade</a></td>
-    <td style="text-align: center;"></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><a href="/uniformed-groups/npcc/"> <img src="/images/Our%20BBSS%20Experience/Cca/773634_478874892170923_580015190.jpg"></a><a href="/uniformed-groups/npcc/">NPCC</a></td>
-    <td style="text-align: center;"><a href="/uniformed-groups/boys-brigade/"> <img src="/images/Our%20BBSS%20Experience/Cca/Drill%20Competition.jpg"></a><a href="/uniformed-groups/boys-brigade/">Boys' Brigade</a></td>
-  </tr>
-  <tr>
-</tr></tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/IMG_1654.jpg">
+</div>
+<p><a href="/uniformed-groups/ncc-land/" rel="noopener noreferrer nofollow" target="_blank">NCC (Land)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/AwardCeremony.jpg">
+</div>
+<p><a href="/uniformed-groups/girls-brigade/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img height="300" width="500" src="/images/Our BBSS Experience/Cca/Uniformed Groups/NPCC.jpg">
+</div>
+<p></p>
+<p><a href="/uniformed-groups/npcc/" rel="noopener noreferrer nofollow" target="_blank">NPCC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Drill%20Competition.jpg">
+</div>
+<p><a href="/uniformed-groups/boys-brigade/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
