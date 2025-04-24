@@ -52,7 +52,7 @@ variant: tiptap
 <p>Company Sergeant Major:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG Justus Jojo</p>
+<p>SGT Sathivada Sashank</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>Assistant Company Sergeant Major:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG Aloysius Woon</p>
+<p>SGT Jeriel Kwok</p>
 </td>
 </tr>
 </tbody>
