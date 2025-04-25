@@ -25,14 +25,11 @@ sections:
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
       alt: BBSS Banner
   - infopic:
-      title: BBSS Rhapsody
+      title: DSA Talent Identification Sessions
       id: infopic
-      description: Held at ACJC's Faith Centre of Performing Arts, our students worked
-        in harmony to dazzle the audience with their artistic talents.
-      image: /images/1722300247917_f3697ee7_3555_4709_809d_1c1aae65a876_1.png
-      alt: BBSS Open House Principal Talk
-      button: Relive the experience here!
-      url: https://youtu.be/8o-YHXaON40?si=ef7inLoH1NfToltl
+      description: For 2026 admission to BBSS, scan the QR code to sign up.
+      image: /images/DSA_Engagement_Sessions_MOTD.jpg
+      alt: DSA Engagement Sessions
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
