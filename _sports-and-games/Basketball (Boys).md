@@ -32,24 +32,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>B Division Captains</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heng Junn Hong, Royston
-<br>Alcandor Seah Sin Ho (She Xinghao)
-<br>Md Khidir Bin Kamalariffin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>C Division Captains</strong>
+<p><strong>B Division Captains (2024-2025)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hamzah Bin Faizal
 <br>Tan Jing Yang Jason
 <br>Tan Jian Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>C Division Captains</strong>
+</p>
+<p><strong>(2024-2025)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siah Bock Woon
+<br>Gatbonton John Joseph Balomaga
+<br>Derek Tun</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +128,16 @@ our players organise our school level wide yearly 3v3 competition.</p>
 <h3>Highlights</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>C div 2023, Through to NSG Nationals</p>
+<p>B Div NSG 2025, West Zone 3rd Place</p>
+</li>
+<li>
+<p>B Div NSG 2025, Nationals Top 8</p>
+</li>
+<li>
+<p>C Div NSG 2023, West Zone 2nd Place</p>
+</li>
+<li>
+<p>C Div NSG 2023 Nationals Top 8</p>
 </li>
 </ul>
 <h3>Gallery</h3>

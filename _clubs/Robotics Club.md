@@ -12,14 +12,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Teachers-in-charge:</p>
 </td>
@@ -33,16 +25,16 @@ variant: tiptap
 <p>Training Days:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Even-week Mondays:</u>
-<br>3.15pm to 4.45pm
-<br>(For VIA, Learning Journeys or extra sessions during peak competition
-periods - if any)
+<p><u>Every Wednesdays:</u>
+<br>3.15pm to 5.30pm (Odd Week)
+<br>2.15pm to 4.45pm (Even Week)</p>
+<p></p>
+<p>Monday (Selected date only):
+<br>3.00pm to 5.00pm</p>
+<p>Note: Weekly Mondays are reserved for VIA/Learning Journeys/extra training
+(if any) or extra sessions during peak competition periods.
 <br>
-<br><u>Even-week Wednesdays:</u>
-<br>2.30pm to 4.30pm
-<br>
-<br><u>Odd-week Wednesdays:</u>
-<br>3.15pm to 5.15pm</p>
+</p>
 </td>
 </tr>
 <tr>
@@ -50,134 +42,112 @@ periods - if any)
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 2 and 2A5 Classroom</p>
+<p>Computer Lab 2, Computer Lab 3 and 2A5 Classroom (standby)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>About Us</h4>
-<p>BBSS Robotics Club is a gathering for robotics enthusiasts who are:</p>
+<p>BBSS Robotics Club is a gathering for robotics and programming enthusiasts
+who are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>interested in robotics</p>
+<p>interested in robotics programming with python , mobile apps programming
+with python and python programming.</p>
 </li>
 <li>
-<p>passionate about programming, building and engineering</p>
+<p>passionate about programming, building and engineering.</p>
 </li>
 <li>
-<p>excited to learn how to control robots, fly drones and more</p>
+<p>Student-directed CCA, managed by selected CCA leaders and with guidance
+from teachers.</p>
 </li>
 <li>
-<p>always on the look-out for updates on latest tech trends</p>
+<p>Problem-solving through Problem-Based Learning (PBL) framework.</p>
+</li>
+<li>
+<p>excited to learn how to control robots, python programming, fly drones
+and more</p>
+</li>
+<li>
+<p>Upskill on programming and robotics aspects with abundance mentality to
+prepare learners and leaders for their post-Secondary tertiary education
+in the future.</p>
+</li>
+<li>
+<p>VIA – Contribute back to the society by impacting basic Python Programming
+to Primary School students (In Partnership with CCKPS)</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Cca/Clubs/Robotics%20Club%202.jpeg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RrgpOVZPpsY?si=8-rnBT_npsohTa9Y"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Cca/Clubs/Robotics%20Club%203.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Cca/Clubs/Image%203.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Cca/Clubs/Image%204.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Our Vision</h4>
 <p>In line with Singapore's vision of becoming a Smart Nation, BBSS Robotics
 Club seeks to equip students with important 21st Century Competencies such
-as&nbsp;<strong><em>Critical and Inventive Thinking</em></strong>&nbsp;
-skills as well as&nbsp;<strong><em>Communication, Collaboration and Information</em></strong>&nbsp;skills.</p>
-<p>Learn to assemble robots, design robot creatures and program robotic movements!&nbsp;Find
-out all about drones and what makes them fly! We encourage teamwork and
-creativity while applying problem-solving skills and technical knowledge
-in order to learn more about the role of technology in our world!</p>
+as<strong><em> Critical and Inventive Thinking</em></strong> skills as well
+as <strong><em>Communication, Collaboration and Information</em></strong> skills,
+self-directed learners and leaders.</p>
+<p>Learn to assemble robots, design robot creatures and program robotic movements!
+Find out all about drones and what makes them fly! We encourage teamwork
+and creativity while applying problem-solving skills and technical knowledge
+to learn more about the role of technology in our world!</p>
+<p><strong><u>STEM Alignment:</u></strong>
+</p>
+<p><strong><u>Our Objectives:&nbsp;</u></strong>
+<br>To inculcate Emerging 21CC skills for every robotics member to be an empathetic
+and active problem solver who champions environmental and sustainable innovation.</p>
+<p><strong><u>Our Focus</u></strong>
+<br>Developing a Sustainable City and Urban Landscape through innovation.
+In School and Community. We use the word “SCAMPER” to merge (m) Modify
+with our robotics CCA objectives. Using sustainable materials and python
+programming and mobile apps programming to do a project with theme on sustainability</p>
 <h4>Our Learning Platforms &amp; Key Activities</h4>
 <p>Members of Robotics Club will have fun exploring different platforms of
 robotics, experimenting with ideas and solving problems. Our main learning
 platform will be on LEGO Mindstorms and members will also get opportunities
-to work on other projects involving Micro:bit, drones and more.</p>
+to work on other projects involving Python Programming, drones and more.</p>
 <p>Members will also be engaged, motivated and challenged through participation
 in competitions! Members can gain the experience and opportunity to develop
 ideas and practical skills to solve real-life problems through competitions
-such as DrCT Challenge and National Robotics Programming Competition (NRPC).</p>
+and leadership training platforms.</p>
+<p></p>
 <h4>Participation &amp; Achievements</h4>
-<p><u>Competitions</u>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chips@Schools Competition 2022 - Top 10 Finalists</p>
+<p>Design Thinking and Computational Thinking Competition (2024) International
+– 4 Gold, 3 Silver, 9 Bronze and 3 Honorable Mention</p>
 </li>
 <li>
-<p>NRC Coderz Coding Challenge 2022 - Participation</p>
+<p>National Coderz Competition – Participation</p>
 </li>
 <li>
-<p>DrCT Competition 2022 - 1 Gold, 1 Silver, 1 Bronze and 1 Honourable Mention</p>
+<p>National Robotics Competition – Participation</p>
 </li>
 <li>
-<p>FIRST LEGO League CARGO CONNECT Challenge 2021/2022 - Participation</p>
+<p>Robotics 65 Drones Sharing by DSTA</p>
 </li>
 <li>
-<p>Chips@Schools Competition 2021 - Top 10 Finalists</p>
+<p>Python Programming Training with Ngee Ann Polytechnic, School Of Electrical
+Engineering.</p>
 </li>
 <li>
-<p>Visualise 2030! Data Storytelling Inter-School Coding Competition - Participation</p>
+<p>Robotics Challenge Competition By Rulang Primary School</p>
 </li>
 <li>
-<p>DrCT Competition 2020 - 2 Silver &amp; 1 Bronze award</p>
+<p>VIA (Planning, executing and leadership training platform) benefiting
+Primary 4 and Primary 5 students from Choa Chu Kang Primary School Robotics
+Club</p>
 </li>
 <li>
-<p>RippleUX Competition 2020 - 3rd position in the Senior Category (Halocode)</p>
+<p>2025 Learning Journey to Japan (Tokyo) - selected Excos.</p>
 </li>
 <li>
-<p>FIRST LEGO League RePLAY Challenge 2020/2021 - Participation</p>
-</li>
-</ul>
-<p><u>Learning Journeys and Values in Action (VIA) Programmes</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Headrock VR (Virtual Reality) Learning Journey 2022</p>
-</li>
-<li>
-<p>Singapore Maritime Gallery Learning Journey 2022</p>
-</li>
-<li>
-<p>Emerging Tech x VIA projects (SERVE) 2022</p>
-</li>
-<li>
-<p>Coastal Clean-up VIA 2021</p>
+<p>Collaboration and Partnership with Ngee Ann Polytechnic , School Of Aerospace
+Engineering.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdN9_9igxx0"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNfm1C_AWnm8EV16nOPqA_90WKumvbwvogWzehb6ZvLWS_qGzFc9hbBizX_ny830kveraN69dq3sKj/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
