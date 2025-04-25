@@ -103,9 +103,8 @@ to learn more about the role of technology in our world!</p>
 <p><strong><u>STEM Alignment:</u></strong>
 </p>
 <p><strong><u>Our Objectives:&nbsp;</u></strong>
-<br>To inculcate Emerging 21CC skills for every robotics members to be an
-empathetic and active problem solver who champions environmental and sustainable
-innovation.</p>
+<br>To inculcate Emerging 21CC skills for every robotics member to be an empathetic
+and active problem solver who champions environmental and sustainable innovation.</p>
 <p><strong><u>Our Focus</u></strong>
 <br>Developing a Sustainable City and Urban Landscape through innovation.
 In School and Community. We use the word “SCAMPER” to merge (m) Modify
