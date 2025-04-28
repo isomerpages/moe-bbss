@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please click on the following link for more information:
+<br><strong><a href="/files/Announcements/News/BUKIT_BATOK_SECONDARY_SCHOOL___Canteen_Stall_Vacancy__Chinese_Noodle_.pdf" rel="noopener nofollow" target="_blank">School Canteen Stall Vacancy (Chinese Noodles)</a></strong>
+</p>
