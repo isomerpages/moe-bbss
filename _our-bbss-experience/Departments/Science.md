@@ -3,6 +3,7 @@ title: Science
 permalink: /our-bbss-experience/Departments/science/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 # Science
 
@@ -68,7 +69,7 @@ third_nav_title: Departments
 <p style="text-align: center;"><strong>Chemistry</strong></p>
 </td>
 <td style="width: 483.802px;">
-<p>Mdm Lin Jia Hui</p>
+<p>Mr Teoh Tick Mengi</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +77,7 @@ third_nav_title: Departments
 <p style="text-align: center;"><strong>Biology</strong></p>
 </td>
 <td style="width: 483.802px;">
-<p>Mdm Dianah Abdullah</p>
+<p>Ms Ho Ping Ping Crystal</p>
 </td>
 </tr>
 <tr>
@@ -112,17 +113,13 @@ third_nav_title: Departments
 
 *   Advanced Elective Modules in polytechnics
 
-*   NUS Surprising Science Series workshop
-
-*   &nbsp;Smart City and Sustainability workshop for Secondary 1
+*   Smart City and Sustainability learning journey for Secondary 1
 
 *   Bacteria Transformation Workshop
 
   
 
 **Key Department Competitions**
-
-*   International Biomedical Quiz
 
 *   Singapore Youth Science Fair
 
@@ -134,17 +131,13 @@ third_nav_title: Departments
 
 *   Singapore Junior Biology Olympiad
 
-*   ICAS UNSW Global Assessment
-
 *   Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE)
 
 *   The ignITE Skills Challenge
 
 *   Singapore Amazing Flying Machine (SAFMC)
 
-*   Marine and Offshore Challenge
-
-*   Crystal growing competition
+*   Offshore &amp; Sustainable Engineering Challenge
 
 *   International C. B. Paul Science Quiz
 
