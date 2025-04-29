@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
+<p>Mondays &amp; Wednesdays: 3:00PM - 65:00PM</p>
 </td>
 </tr>
 <tr>
@@ -31,18 +31,19 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><strong>Ms Catherine Bok (IC) <br>Mr Derek Goh (2IC) <br>Mr Luke Tan</strong>
 </p>
+<p><strong>Mr Asriq</strong>
+</p>
 </th>
 </tr>
 </tbody>
 </table>
-<p>The Bukit Batok Secondary School National Police Cadet Corps unit was
-founded in 1986.&nbsp; This year, in 2019, we welcome our 30th batch of
-cadets. NPCC is a well-rounded and enriching co-curricular activity. It
-is one in which cadets learn to develop an ardent love for the country,
-give back to the wider community and mature into a leader. The unit seeks
-to provide a holistic training environment for all cadets with an emphasis
-in character building and leadership development. We believe strongly that
-the values taught and learnt by the cadets is far more important than any
-attainment that can be given. The unit was awarded the&nbsp;<strong>Gold Award for the 2019-2022 Unit Overall Proficiency Award</strong>.&nbsp;</p>
+<p>Since its founding in 1986, the Bukit Batok Secondary School National
+Police Cadet Corps (NPCC) unit continues to shape young leaders, welcoming
+its 36th batch of cadets in 2025. NPCC is a dynamic and enriching co-curricular
+activity where cadets develop a strong sense of patriotism, actively contribute
+to the community, and grow into capable leaders. The unit's holistic training
+program prioritises character building and leadership development, evidenced
+by its consistent achievement of Distinction in the Unit Overall Proficiency
+Award for five consecutive years (2019-2024).</p>
 <p>To know more about us, click on this&nbsp;<a href="https://sites.google.com/view/bbssnpcc/about-us" rel="noopener noreferrer nofollow" target="_blank">link!</a>
 </p>
