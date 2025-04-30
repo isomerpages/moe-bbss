@@ -7,14 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 2 Week 2 2025</h1>
+<h1>SDL Term 2 Week 6 2025</h1>
 <p>Dear students,</p>
 <p>This week's SDL Task is for <strong>all students.</strong>
 </p>
-<p>Click below to view your SDL task list for <strong>Term 2 Week 2</strong>.</p>
+<p>Click below to view your SDL task list for <strong>Term 2 Week 6</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks" rel="noopener nofollow" target="_blank">Sec 1 to 5 Summary List Of SDL Tasks For 2025 Term 2 Week 2</a>
+<p><a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks" rel="noopener nofollow" target="_blank">Sec 1 to 5 Summary List Of SDL Tasks For 2025 Term 2 Week 6</a>
 </p>
 </li>
 </ul>
