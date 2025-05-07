@@ -1,20 +1,20 @@
 ---
-title: SDL Task Term 2 Week 6 2025
+title: SDL Task Term 2 Week 7 2025
 permalink: /announcements/news/sdltasks/
-date: 2025-04-30
+date: 2025-05-07
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h1>SDL Term 2 Week 6 2025</h1>
+<h1>SDL Term 2 Week 7 2025</h1>
 <p>Dear students,</p>
 <p>This week's SDL Task is for <strong>all students.</strong>
 </p>
-<p>Click below to view your SDL task list for <strong>Term 2 Week 6</strong>.</p>
+<p>Click below to view your SDL task list for <strong>Term 2 Week 7</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks" rel="noopener nofollow" target="_blank">Sec 1 to 5 Summary List Of SDL Tasks For 2025 Term 2 Week 6</a>
+<p><a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks" rel="noopener nofollow" target="_blank">Sec 1 to 5 Summary List Of SDL Tasks For 2025 Term 2 Week 7</a>
 </p>
 </li>
 </ul>
@@ -34,3 +34,4 @@ school-related online meetings. (<em>e.g. 2A1_02_Henry</em>)</p>
 </ol>
 <p>Click <a href="https://www.bukitbatoksec.moe.edu.sg/useful-resources/Students/fhbl-seek-discover-and-learn-sdl-fhbl-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 all SDL related matters and technical assistance.</p>
+<p></p>
