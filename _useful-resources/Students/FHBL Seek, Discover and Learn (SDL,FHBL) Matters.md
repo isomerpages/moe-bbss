@@ -37,7 +37,7 @@ actual SDL day.</p>
 <h2>Student Learning Space (SLS)</h2>
 <ul>
 <li>
-<p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
