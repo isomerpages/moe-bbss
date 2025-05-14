@@ -26,12 +26,6 @@ sections:
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
       alt: BBSS Banner
   - infopic:
-      title: DSA Talent Identification Sessions
-      id: infopic
-      description: For 2026 admission to BBSS, scan the QR code to sign up.
-      image: /images/DSA_Engagement_Sessions_MOTD.jpg
-      alt: DSA Engagement Sessions
-  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
       id: infopic
