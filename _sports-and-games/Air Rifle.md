@@ -5,9 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h1>Air Rifle</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Sports &amp; Games/PHOTO_Main_Page_for_CCAs___Shooting.png">
+</div>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTY3e5ZvCvApsma1j9ZfSA1-7ot0q3Rp6UADZF59GEpM16_-TWl7dA2zmE8ht4daQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jDwQLztBaIc"></iframe>
 </div>
+<h4><strong><u>About Us</u></strong></h4>
 <h3><strong><u>Air Rifle Organisation Chart</u></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
