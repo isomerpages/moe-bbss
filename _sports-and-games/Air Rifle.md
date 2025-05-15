@@ -5,10 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h1>Air Rifle</h1>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jDwQLztBaIc"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Sports &amp; Games/PHOTO_Main_Page_for_CCAs___Shooting.png">
 </div>
-<h3><strong><u>Air Rifle Organisation Chart</u></strong></h3>
+<h4><strong>About Us</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTY3e5ZvCvApsma1j9ZfSA1-7ot0q3Rp6UADZF59GEpM16_-TWl7dA2zmE8ht4daQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>Air Rifle Organisation Chart</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,7 +26,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday &amp; Wednesday - 3:00pm to 6:00pm
-<br>Friday - 3:00pm to 6:00pm</p>
+<br>Friday - 1:30pm to 4:30pm</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chin Yih Emiline (IC)
+<p>Mrs Emiline Tan(IC)
 <br>Ms Theodora Soh
 <br>Ms Dana Sim</p>
 </td>
@@ -42,304 +46,52 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gu Yong Qin
-<br>NCAP Level 1,2,3
-<br>Integrated NCAP Level 1
-<br>NROC, Certified First Aider &amp; AED trained</p>
+<p>Mr Gu Yong Qin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p> <strong><u>Student Leaders</u></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Captain</strong>
+<p><strong>Captains</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tracy Zhai Shu Huan</p>
+<p>Tan Zong Hong Lucas (3A7)</p>
+<p>Seah Kai Yu Gabrielle (3A5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Captain (Boys)</strong>
+<p><strong>Vice-Captain</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junius Tee Jun Qi (Chi Junqi)</p>
+<p>Nur Farzera Bte Thahirudin (3A3)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Captain (Girls)</strong>
+<p><strong>Peer Support Leaders</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Le Qi, Jessy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Exco-Members</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yau Kai Zhe</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Logistics Team</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3s:</strong>
-<br>Ng Le Qi, Jessy
-<br>Phung Si Jie
-<br>Xu Borui
-<br>Feng Shiru
-<br><strong>Sec 2s:</strong> 
-<br>Emilia Humairah Bte Endy Supanti
-<br>Neo Rui En
-<br>Tan Shao Jie, Niklas
-<br>Kieron Wong Zhi Hong
-<br>Ng Wei Heng, Dave (Huang Weiheng)
-<br><strong>Sec 1s:</strong> 
-<br>Alya Edriana Bte Md Nizam
-<br>Nicole Stephen
-<br>Seah Kai Yu, Gabrielle
-<br>Tan Yong Liang
-<br>Kevin Koh Zhao Chuang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Armoury Team</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3s</strong>
-<br>Junius Tee Jun Qi (Chi Junqi)
-<br>Yau Kai Zhe
-<br>Song Ziyi Chloe
-<br>Chen Jing Bei @ Abigale Chen
-<br><strong>Sec 2s</strong>
-<br>Bernice Nah (Lan Ruiting)
-<br>Janis Soon Jia Ning
-<br>Ho Jin Rui, Jaydriel
-<br>Law Chen Xi, Seth
-<br><strong>Sec 1s:</strong>
-<br>Wang DingJian
-<br>Tan Zong Hong, Lucas
-<br>Nur Ariana Bte Md Fauzi
-<br>NurFarzera Bte Thahirudin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Physical Training Team</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3s</strong>
-<br>Tracy Zhai Shu Huan
-<br>Chantel Tham Li Qin
-<br>Ian Chew Yu An
-<br><strong>Sec 2s:</strong>
-<br>Javier Wong Jie Wei
-<br>Tan Yan Ze Aidan
-<br>Jasmine Liew Jia Xuan
-<br>Ong Rui Xian (Wang Ruixian)
-<br>Enrique Loh Yu An
-<br><strong>Sec 1s:</strong>
-<br>Putra Md Raihan Bin Noor Azman
-<br>Kathiresam Shivanand
-<br>Ong Eu Kym
-<br>Itricia Yap YiHui</p>
+<p>Alya Edriana Bte Md Nizam (3A1)</p>
+<p>Tan Yong Liang (3A6)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Our History</strong>
-<br>The Air Rifle Club was established in 1989. It has undergone several changes
-from an underground shooting range to the rooftop facility over the Indoor
-Sports Hall. Once again, we will be making improvements and come Quarter
-4 2019, the range will be upgraded into an air-conditioned shooting range
-to enhance the training comfort of our shooters.</p>
-<p><strong>Our Sport</strong>
-<br>Competitive shooting requires one to persevere, be reflective and patient.
-It is not about physical strength and power, but composure, mental strength
-and concentration. Shooters learn to focus on their goals, and work hard.
-They reflect on their mistakes, correct and make changes and enjoy success
-doing it. Patience – waiting for the right moment before attempting a shot
-– is the key to succeeding in this sport. Mental strength, good decision-making
-skills and teamwork are also key attributes of our shooters.</p>
-<p>Every year, our shooters participate in the National School Games (NSG).
-From 2019 onwards, we also began participating in both the NUS Invitational
-Shoot and the NTU Invitational Shoot.</p>
-<p><strong>Our Achievements</strong>
-<br>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="6" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Age Group</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Category</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Team Award</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Men</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6<sup>th</sup>&nbsp;National</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Women</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7<sup>th</sup>&nbsp;National</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Men</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6<sup>th</sup>&nbsp;National</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Women</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3<sup>rd</sup>&nbsp;National</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Pistol Men</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7<sup>th</sup>&nbsp;National</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="5" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Age Group</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Category</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Team Award</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Men</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6th National</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Women</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd National</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Men</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8th National</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Women</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5th National</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-<br>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55Y-CUxEDX8?si=t9wM3AW9BXK6liWU"></iframe>
+</div>
+<p></p>
+<h4><strong>Our Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -348,236 +100,235 @@ Shoot and the NTU Invitational Shoot.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="13" colspan="1">
-<p><strong>2023</strong>
-</p>
-</td>
-<td rowspan="3" colspan="1">
-<p><strong>B-Division NTU Invitational Shoot</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Team Category -</p>
-<p>Group 1: 10th Place</p>
-<p>Group 2: 7th Place</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Air Rifle Men) Team Category: 11th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Air Pistol Women) Team Category: 18th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p><strong>B-Division NSG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Team Category: 3rd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Air Rifle Men) Team Category: 6th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Air Pistol Women) Team Category: 15th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Air Pistol Men) Team Category: 7th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p><strong>Sportsmanship Award</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chia Zi Min Jenell</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jerald Chong Rui Hang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Toh Yi Xian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nathan Ang&nbsp;An&nbsp;Yuan</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Acheivement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>C-Division NSG</strong>
-</p>
+<p>NSG B Division 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Team Category: 7th Place</p>
+<p>Air Pistol Men</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place: Law Chen Xi Seth</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(Air Rifle Men) Team Category: 6th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>B-Division NSG</strong>
-</p>
+<p>Air Rifle Women</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Team category: 5th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Air Rifle Men) Team category: 8th Place</p>
+<p>13th place: Emilia Humairah Bte Endy Supanti</p>
+<p>21st place: Bernice Nah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>C-Division NSG</strong>
-</p>
+<p>NTU Invitational Shoot 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Team category: 2nd Place</p>
+<p>Air Pistol Men</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd place (National): Law Chen Xi Seth, Ng Wei Heng, Dave, Tan Shao Jie,
+Niklas</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Individual category - Chantel Tham: 4th Place</p>
+<p>Air Rifle Women</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place (West Zone): Emilia Humairah Bte Endy Supanti, Bernice Nah,
+Itricia Yap Yihui</p>
+<p></p>
+<p>3rd place (West Zone): Nur Farzera Bte Thahirudin, Janis Soon Jia Ning,
+Ong Eu Kym</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(Air Rifle Men) Team category: 6th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>C-Division NTU Invitational Shoot</strong>
-</p>
+<p>Air Pistol Women</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Team category: 2nd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Air Rifle Women) Individual category - Toh Yi Xian: 3rd Place</p>
+<p>2nd place (West Zone): Alya Edriana Bte Md Nizam, Ong Rui Xian, Seah Kai
+Yu Gabrielle</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Our shooters</strong>Air Rifle Club enables our shooters to:</p>
-<table style="minWidth: 50px">
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>•</p>
+<td rowspan="2" colspan="1">
+<p>NSG B Division 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>develop the required skills, knowledge and attitudes expected of a shooter</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>•</p>
+<p>Air Pistol Men</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>build good character that embodies the BBSSians’ values, vision and mission
-through trainings and competition</p>
+<p>15th place: Ian Chew Yu An</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>•</p>
+<p>Air Rifle Women</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>develop good hand-eye coordination and fine motor skills for life</p>
+<p>10th place: Song Ziyi Chloe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>NUS Invitational Shoot 2024</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Air Pistol Men</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th place (team category): Feng Shiru, Ian Chew Yu An, Junius Tee Jun
+Qi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>•</p>
+<p>19th place (team category): Law Chen Xi Seth, Ng Wei Heng, Dave, Tan Shao
+Jie, Niklas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Air Rifle Men</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>acquire and enhance mental resilience through sharpening and deepening
-concentration</p>
+<p>4th place (team category): Yau Kai Zhe, Xu Borui, Zechariah Chua Jun Zhi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>•</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cultivate good personal responsibility in safety and skill acquisition</p>
+<p>11th place (team category): Kieron Wong Zhi Hong, Ho Jin Rui, Jaydriel,
+Javier Wong Jie Wei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>•</p>
+<p>Air Rifle Women</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>develop good physical discipline through weekly stamina and strength training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>•</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>appreciate the passion for competitive shooting as a sport</p>
+<p>11th place (team category): Phung Si Jie, Janis Soon Jia Ning, Song Ziyi
+Chloe</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>•</p>
+<p>Air Pistol Women</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>enjoy and discover more of themselves through the varied activities and
-also to experience the camaraderie as a close knit team.</p>
+<p>18th place (team category): Abigale Chen, Tracy Zhai Shu Huan, Jasmine
+Liew Jia Xuan</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Gallery</h3>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSH1iBEnl4VKwNrQgxGNKcsfRkRcPTwXcfjnnBVKP6sYBlgvLNDYksAktzZMdjBc7dWEZ-zKoPwRlRe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>NSG B Division 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Pistol Men</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place: Law Chen Xi Seth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Air Pistol Women</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team category: 15th place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Women</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team category: 3rd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Men</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team category: 6th place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>NSG C Division 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Men</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team category: 6th place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Women</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team category: 7th place</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
