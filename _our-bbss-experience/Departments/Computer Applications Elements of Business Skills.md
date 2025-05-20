@@ -387,11 +387,12 @@ of the lesson concepts in real life example.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3 and S4 2D1N Excursion</p>
+<p>S3 field trips</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days field studies of hospitality, travel and tourism. 1 night stay
-at local hotel</p>
+<p>Local trips to retail mall and city heritage trails to understand retails
+practices and inbound tourism</p>
+<p></p>
 </td>
 </tr>
 <tr>
