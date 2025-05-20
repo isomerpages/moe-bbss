@@ -37,8 +37,8 @@ creative in the use of ICT in their learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>To prepare BBSSians to be successful self-directed learners with a passion
-for life-long learning by equipping with employability skills to stay relevant
-for the future</p>
+for life-long learning by equipping them with employability skills to stay
+relevant for the future</p>
 </td>
 </tr>
 </tbody>
@@ -376,10 +376,10 @@ of the lesson concepts in real life example.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4: N Level Coursework</p>
+<p>S4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>N Level Coursework</p>
 </td>
 </tr>
 <tr>
@@ -387,24 +387,12 @@ of the lesson concepts in real life example.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3 field trips</p>
+<p>S3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Local trips to retail mall and city heritage trails to understand retails
-practices and inbound tourism</p>
+<p>Local field trips to retail mall and city heritage trails to understand
+retails practices and inbound tourism</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3 field trips</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Local trips to retail mall and city heritage trails to understand retails
-practices and inbound tourism</p>
 </td>
 </tr>
 </tbody>
