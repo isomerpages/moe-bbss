@@ -69,7 +69,7 @@ variant: markdown
 <p style="text-align: center;"><strong>Chemistry</strong></p>
 </td>
 <td style="width: 483.802px;">
-<p>Mr Teoh Tick Mengi</p>
+<p>Mr Teoh Tick Meng</p>
 </td>
 </tr>
 <tr>
