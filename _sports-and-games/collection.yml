@@ -2,7 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Air Rifle.md
+      - Shooting.md
       - Basketball (Boys).md
       - Badminton.md
       - Cross Country.md

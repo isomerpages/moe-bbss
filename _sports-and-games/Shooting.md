@@ -1,10 +1,10 @@
 ---
-title: Air Rifle
-permalink: /sports-and-games/air-rifle/
+title: Shooting
+permalink: /sports-and-games/shooting/
 description: ""
 variant: tiptap
 ---
-<h1>Air Rifle</h1>
+<h1>Shooting</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Sports &amp; Games/PHOTO_Main_Page_for_CCAs___Shooting.png">
 </div>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Emiline Tan(IC)
+<p>Mrs Emilline Tan(IC)
 <br>Ms Theodora Soh
 <br>Ms Dana Sim</p>
 </td>
@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p> <strong><u>Student Leaders</u></strong>
+<p><strong><u>Student Leaders</u></strong>
 </p>
 </td>
 </tr>
