@@ -82,7 +82,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 123.198px;">
-<p style="text-align: center;"><strong>NT</strong></p>
+<p style="text-align: center;"><strong>G1 Coordinator</strong></p>
 </td>
 <td style="width: 483.802px;">
 <p>Mr Syam Lal S/O Sadanandan</p>
