@@ -977,7 +977,7 @@ variant: tiptap
 <p>8320</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sri_haryati_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_haryati_abdul_hamid@moe.edu.sg</a> 
+<p><a href="mailto:sri_haryati_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_haryati_abdul_hamid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
