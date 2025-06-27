@@ -5,17 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h1>Timetable</h1>
-<h3>2025 Timetable for Semester 1 (Term 1 and 2)</h3>
-<p>The timetable uploaded below is updated as of <strong><em>30 December 2024</em></strong><em>.</em> 
+<h3>2025 Timetable for Semester 2 (Term 3 and 4)</h3>
+<p>The timetable uploaded below is updated as of <strong><em>27 June 2025</em></strong><em>.</em> 
 <br><strong>Dear students, please click on the links below to view your timetable.</strong>
 <br>
 </p>
-<p>By Levels:
-<br><a href="/files/2025_Sec_1_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-<br><a href="/files/2025_Sec_2_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-<br><a href="/files/2025_Sec_3_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-<br><a href="/files/2025_Sec_4_and_5_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5</a>
+<p>By Levels:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec_1_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Semester 2 Timetable</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Sec_2_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Semester 2 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_3_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Semester 2 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_4_and_5_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 4 and 5 Semester 2 Timetable</a>
+</p>
+</li>
+</ul>
 <p><a href="/files/Subject_Acronyms_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Acronyms Guide</a>
 </p>
 <p>For teachers, please locate it in the time-tabling folder.</p>
