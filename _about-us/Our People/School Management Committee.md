@@ -403,31 +403,14 @@ variant: tiptap
 <p>Teoh Tick Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Chemistry</p>
+<p>SH / EdTech
+<br>SH / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8423</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tick_meng_teoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tick_meng_teoh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ling Xiao Ern Darren</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / ICT &amp; Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8213</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ling_xiao_ern_darren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_xiao_ern_darren@schools.gov.sg</a>
 </p>
 </td>
 </tr>
