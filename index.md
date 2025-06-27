@@ -18,9 +18,9 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: T2W7 SDL Task List Sec 1-5 • School Canteen Vacancy (Chinese
-        Noodles) • WA2 Scope and Schedule • 2025 Semester 1 Timetable • GCE O
-        level resources
+      description: 2025 Semester 2 Timetable • T2W7 SDL Task List Sec 1-5 • School
+        Canteen Vacancy (Chinese Noodles) • WA2 Scope and Schedule • GCE O level
+        resources
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
