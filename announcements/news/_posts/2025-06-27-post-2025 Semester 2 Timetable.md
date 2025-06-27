@@ -12,22 +12,24 @@ variant: tiptap
 The timetable will take effect from 30 June 2025.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Sec_1_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Semester 1 Timetable</a>
+<p><a href="/files/Sec_1_2025_Semester_2_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Semester 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_2_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Semester 1 Timetable</a>
+<p><a href="/files/Sec_2_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 Semester 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_3_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Semester 1 Timetable</a>
+<p><a href="/files/Sec_3_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Sec 3 Semester 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_4_and_5_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 and 5 Semester 1 Timetable</a>
+<p><a href="/files/Sec_4_and_5_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5 Semester 2 Timetable</a>
 </p>
+</li>
+</ul>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Subject_Acronyms_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Acronyms Guide</a>
 </p>
