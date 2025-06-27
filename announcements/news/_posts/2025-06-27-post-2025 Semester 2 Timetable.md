@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Sec 1 to 5 BBSS students,</p>
-<p>Please click the link below to find your timetable for Semester 1 2025.
-The timetable will take effect from 6 January 2025.</p>
+<p>Please click the link below to find your timetable for Semester 2 2025.
+The timetable will take effect from 30 June 2025.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025_Sec_1_Semester_1_Timetable_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Semester 1 Timetable</a>
@@ -36,5 +36,5 @@ The timetable will take effect from 6 January 2025.</p>
 <p>Timetable will be updated from time to time, so please check here if there
 are any updates frequently.</p>
 <p></p>
-<p><em>*updated as of 30/12/2024</em>
+<p><em>*updated as of 27/06/2025</em>
 </p>
