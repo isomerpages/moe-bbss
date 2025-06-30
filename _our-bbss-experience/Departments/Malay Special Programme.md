@@ -153,7 +153,7 @@ prepare pupils for the MSP examination at GCE 'O' Level.</p>
 <br>Letter to parents regarding commencement details has been sent to schools
 (dated 8 Jan 2025). Please click <a href="/files/COMMENCEMENT_DETAILS_FOR_MSP_2025__for_schs_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a copy of the Commencement Details.</p>
-<p><strong>Please click <a href="/files/Updated_Term_2_calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the updated calendar for Term 2 2025.</strong>
+<p><strong>Please click </strong><a href="/files/Updated_Term_3_calendar.pdf" rel="noopener nofollow" target="_blank">here</a><strong> for the updated calendar for Term 3 2025.</strong>
 </p>
 <p></p>
 <h5><strong>Withdrawal from Programme</strong></h5>
