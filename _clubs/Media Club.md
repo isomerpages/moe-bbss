@@ -95,14 +95,11 @@ variant: tiptap
 <p>Venue:
 <br>Broadcasting Room
 <br>
-<br><u>Odd Week Mondays &amp; Wednesdays</u>
+<br><u>Odd &amp; Even Week Mondays</u>
 <br>3:15 PM to 5:15 PM
 <br>
-<br><u>Even Week Mondays:</u>
-<br>3:15 PM to 5:15 PM
-<br>
-<br><u>Even Week Wednesdays:</u>
-<br>3:00PM - 5:00PM</p>
+<br><u>Odd &amp; Even Week Wednesdays:</u>
+<br>2:30PM - 4:30PM</p>
 </td>
 </tr>
 </tbody>
