@@ -31,9 +31,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah (IC)
+<p>Mdm Khairunnisah (IC)
 <br>Mr Tan Thiam Chye (2nd IC)
-<br>Mdm Khairunnisah (2nd IC)
 <br>Mdm Rafidah
 <br>Ms Fatin (ICT Manager)</p>
 <p>Loo Tin Song (ICT Manager)
