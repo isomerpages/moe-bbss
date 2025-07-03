@@ -31,9 +31,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah (IC)
+<p>Mdm Khairunnisah (IC)
 <br>Mr Tan Thiam Chye (2nd IC)
-<br>Mdm Khairunnisah (2nd IC)
 <br>Mdm Rafidah
 <br>Ms Fatin (ICT Manager)</p>
 <p>Loo Tin Song (ICT Manager)
@@ -96,14 +95,11 @@ variant: tiptap
 <p>Venue:
 <br>Broadcasting Room
 <br>
-<br><u>Odd Week Mondays &amp; Wednesdays</u>
+<br><u>Odd &amp; Even Week Mondays</u>
 <br>3:15 PM to 5:15 PM
 <br>
-<br><u>Even Week Mondays:</u>
-<br>3:15 PM to 5:15 PM
-<br>
-<br><u>Even Week Wednesdays:</u>
-<br>3:00PM - 5:00PM</p>
+<br><u>Odd &amp; Even Week Wednesdays:</u>
+<br>2:30PM - 4:30PM</p>
 </td>
 </tr>
 </tbody>

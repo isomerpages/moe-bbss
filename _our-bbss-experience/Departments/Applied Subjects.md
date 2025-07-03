@@ -46,7 +46,7 @@ Art and Music units.</p>
 <p>Music&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jade Leong Tze Wei&nbsp;</p>
+<p>Ms Cherry Fong</p>
 </td>
 </tr>
 <tr>
