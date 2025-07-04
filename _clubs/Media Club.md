@@ -34,8 +34,8 @@ variant: tiptap
 <p>Mdm Khairunnisah (IC)
 <br>Mr Tan Thiam Chye (2nd IC)
 <br>Mdm Rafidah
-<br>Ms Fatin (ICT Manager)</p>
-<p>Loo Tin Song (ICT Manager)
+<br>Ms Fatin (ICT Manager)
+<br>Loo Tin Song (ICT Manager)
 <br>Mr Elfi (ICT Trainer)</p>
 </td>
 </tr>
