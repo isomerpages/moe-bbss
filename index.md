@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: 2025 Semester 2 Timetable • T2W7 SDL Task List Sec 1-5 • School
+      description: T3W2 SDL Task List Sec 1-5 • 2025 Semester 2 Timetable • School
         Canteen Vacancy (Chinese Noodles) • WA2 Scope and Schedule • GCE O level
         resources
       button: More announcements here
