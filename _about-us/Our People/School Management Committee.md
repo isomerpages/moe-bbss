@@ -138,7 +138,7 @@ variant: tiptap
 <p>8203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jia_xin_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_xin_janice@schools.gov.sg</a>
+<p><a href="mailto:lim_jia_xin_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_xin_janice@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ variant: tiptap
 <p>8216</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tham_meng_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_meng_chee@schools.gov.sg</a>
+<p><a href="mailto:tham_meng_chee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_meng_chee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ variant: tiptap
 <p>8209</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wei_loong_luke@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_loong_luke@schools.gov.sg</a>
+<p><a href="mailto:tan_wei_loong_luke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_loong_luke@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -193,7 +193,7 @@ variant: tiptap
 <p>8219</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_boon_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_boon_chong@schools.gov.sg</a>
+<p><a href="mailto:ng_boon_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_boon_chong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -211,7 +211,7 @@ variant: tiptap
 <p>8220</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norashikin_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_sulaiman@schools.gov.sg</a>
+<p><a href="mailto:norashikin_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_sulaiman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>8207</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuie_tarjalia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuie_tarjalia@schools.gov.sg</a>
+<p><a href="mailto:samuie_tarjalia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuie_tarjalia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -247,7 +247,7 @@ variant: tiptap
 <p>8217</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tong_wee_onn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_wee_onn@schools.gov.sg</a>
+<p><a href="mailto:tong_wee_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tong_wee_onn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -265,7 +265,7 @@ variant: tiptap
 <p>8205</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_pui_yhing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pui_yhing@schools.gov.sg</a>
+<p><a href="mailto:toh_pui_yhing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pui_yhing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -283,7 +283,7 @@ variant: tiptap
 <p>8227</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sum_xue_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sum_xue_fen@schools.gov.sg</a>
+<p><a href="mailto:sum_xue_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sum_xue_fen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -301,7 +301,7 @@ variant: tiptap
 <p>8208</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:prabaakaran_janarthanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prabaakaran_janarthanan@schools.gov.sg</a>
+<p><a href="mailto:prabaakaran_janarthanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prabaakaran_janarthanan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -319,7 +319,7 @@ variant: tiptap
 <p>8221</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_faizal_badron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_faizal_badron@schools.gov.sg</a>
+<p><a href="mailto:mohamed_faizal_badron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_faizal_badron@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -337,7 +337,7 @@ variant: tiptap
 <p>8231</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ajmal_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@schools.gov.sg</a>
+<p><a href="mailto:ajmal_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -355,7 +355,7 @@ variant: tiptap
 <p>8204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_yizong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yizong@schools.gov.sg</a>
+<p><a href="mailto:low_yizong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yizong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -373,7 +373,7 @@ variant: tiptap
 <p>8210</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chun_sir_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chun_sir_kin@schools.gov.sg</a>
+<p><a href="mailto:chun_sir_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chun_sir_kin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -391,7 +391,7 @@ variant: tiptap
 <p>8212</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadiah_abdul_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_nasir@schools.gov.sg</a>
+<p><a href="mailto:nadiah_abdul_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_nasir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -434,6 +434,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khatijah Bte Mohamed Yatim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / ML</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khatijah_mohamed_yatim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khatijah_mohamed_yatim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -446,7 +464,7 @@ variant: tiptap
 <p>8202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kok_leong@schools.gov.sg</a>
+<p><a href="mailto:lee_kok_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kok_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -464,7 +482,7 @@ variant: tiptap
 <p>8230</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_yee_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yee_woon@schools.gov.sg</a>
+<p><a href="mailto:chin_yee_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yee_woon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -482,7 +500,7 @@ variant: tiptap
 <p>8206</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jayanthi_appachamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jayanthi_appachamy@schools.gov.sg</a>
+<p><a href="mailto:jayanthi_appachamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayanthi_appachamy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -500,7 +518,7 @@ variant: tiptap
 <p>8222</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syam_lal_sadanandan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syam_lal_sadanandan@schools.gov.sg</a>
+<p><a href="mailto:syam_lal_sadanandan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syam_lal_sadanandan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -518,7 +536,7 @@ variant: tiptap
 <p>8431</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nikhil_nath_chatterji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nikhil_nath_chatterji@schools.gov.sg</a>
+<p><a href="mailto:nikhil_nath_chatterji@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nikhil_nath_chatterji@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -536,7 +554,7 @@ variant: tiptap
 <p>8431</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nithiya_bhavani_thiyagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiya_bhavani_thiyagarajan@schools.gov.sg</a>
+<p><a href="mailto:nithiya_bhavani_thiyagarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nithiya_bhavani_thiyagarajan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -554,7 +572,7 @@ variant: tiptap
 <p>8215</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:matthew_crawshaw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_crawshaw@schools.gov.sg</a>
+<p><a href="mailto:matthew_crawshaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_crawshaw@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -572,7 +590,7 @@ variant: tiptap
 <p>8314</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:catherine.kexin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">catherine.kexin@schools.gov.sg</a>
+<p><a href="mailto:catherine.kexin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catherine.kexin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
