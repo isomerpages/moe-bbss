@@ -46,7 +46,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms June Teng, Mr Bonaparte Reuben, Mr Jacky Ong, Mr Chia Kwek Fah</p>
+<p>Ms June Teng,
+<br>Mr Bonaparte Reuben,
+<br>Mr Jacky Ong,
+<br>Mr Chia Kwek Fah</p>
 </td>
 </tr>
 </tbody>
