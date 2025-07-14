@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jasper Puah Yu Heng (3A2)</p>
+<p>Gian Chee Han (3A5)</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +54,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lucas Tan Jian Wen (3A6)</p>
-<p>Nina Nathifa (3A2)</p>
+<p>Tan Hai En Chloe (3A5) - Operations Manager</p>
+<p>Olivia Huang Chee (3A6) - Creative Director</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Kian Jun (3A6)</p>
+<p>Goh Yong Jun (3A4)</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nandhica Prakash (3A6)</p>
+<p>Shine Moe Ko (3A7)</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Qelicia Felysha (3A2)</p>
+<p>Ooi Yong Zhi Jeremiah (3A4)</p>
 </td>
 </tr>
 <tr>
@@ -196,6 +196,9 @@ Challenge) - 2019</p>
 </li>
 <li>
 <p>Top 3 in Youth Category (Our Schools Our Stories Competition) - 2019</p>
+</li>
+<li>
+<p>Gold Award in Copyright School Challenge Video COmpetition - 2025</p>
 </li>
 </ul>
 <h3>Participation:</h3>
