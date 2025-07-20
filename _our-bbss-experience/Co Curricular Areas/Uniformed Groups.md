@@ -3,7 +3,7 @@ title: Uniformed Groups
 permalink: /our-bbss-experience/co-curricular-areas/uniformed-groups/
 description: ""
 third_nav_title: Co Curricular Areas
-variant: markdown
+variant: tiptap
 ---
 <h1>Uniformed Groups</h1>
 <table style="minWidth: 50px">
@@ -23,14 +23,14 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/IMG_1654.jpg">
+<img style="width: 100%" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/IMG_1654.jpg">
 </div>
 <p><a href="/uniformed-groups/ncc-land/" rel="noopener noreferrer nofollow" target="_blank">NCC (Land)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/AwardCeremony.jpg">
+<img style="width: 100%" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/AwardCeremony.jpg">
 </div>
 <p><a href="/uniformed-groups/girls-brigade/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
 </p>
@@ -39,7 +39,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img height="300" width="500" src="/images/Our BBSS Experience/Cca/Uniformed Groups/NPCC.jpg">
+<img style="width: 100%" height="300" width="500" src="/images/Our BBSS Experience/Cca/Uniformed Groups/NPCC.jpg">
 </div>
 <p></p>
 <p><a href="/uniformed-groups/npcc/" rel="noopener noreferrer nofollow" target="_blank">NPCC</a>
@@ -47,7 +47,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Drill%20Competition.jpg">
+<img style="width: 100%" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Drill%20Competition.jpg">
 </div>
 <p><a href="/uniformed-groups/boys-brigade/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>
 </p>
