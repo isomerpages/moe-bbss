@@ -21,7 +21,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/SYF2013_0410_SOTA_BukitBatokSecondarySchool_0023.jpg">
 </div>
@@ -30,7 +30,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/SYF2013_0423_SCH_BukitBatok_Sec_0019.jpg">
 </div>
@@ -39,7 +39,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/DSC06662.jpg">
 </div>
@@ -48,7 +48,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/SYF2013_0416_UCC_BukitBatok_Sec_0027.jpg">
 </div>
@@ -57,7 +57,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/formal2.jpg">
 </div>
