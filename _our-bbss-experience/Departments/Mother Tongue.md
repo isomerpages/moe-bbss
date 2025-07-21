@@ -33,7 +33,7 @@ communicators who embrace our Mother Tongue culture.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm MastutyKhatijah Bte Md Yatim</p>
+<p>Mdm Khatijah Bte Md Yatim</p>
 </td>
 </tr>
 <tr>
