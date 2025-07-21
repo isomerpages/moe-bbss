@@ -27,11 +27,20 @@ for the future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH ICT &amp; Innovation<br></strong>
+<p><strong>SH Educational Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Teoh Tick Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Wang Kangcheng</p>
 </td>
 </tr>
 <tr>
