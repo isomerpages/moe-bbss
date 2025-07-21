@@ -17,7 +17,7 @@ variant: markdown
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/IMG_1654.jpg">
 </div>
@@ -26,7 +26,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="300" width="500" src="/images/Our BBSS Experience/Cca/Uniformed Groups/NPCC.jpg">
 </div>
@@ -36,7 +36,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/AwardCeremony.jpg">
 </div>
@@ -45,7 +45,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Drill%20Competition.jpg">
 </div>
