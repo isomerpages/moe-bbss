@@ -7,153 +7,39 @@ variant: markdown
 ---
 # Applied Learning Programme
 
-| Mission       | 
+#### (STEM-Environment Eduation)
+
+| Objective       | 
 |:--------------:|
-| Every BBSSian an empathetic and active problem solver |
+| Developing Empathetic Problem Solvers in STEM-Environmental Education Innovation |
 
-| Overarching Theme       | 
+| Our Focus       | 
 |:--------------:|
-| City and Urban Landscapes |
+| Our ALP focuses on developing empathetic problem-solvers through Design Thinking, integrating STEM education with environmental sustainability. Students progress through thoughtfully designed experiences across their years in BBSS. Secondary 1 students explore Code For Fun and AI applications, while Secondary 2 students engage in the BBSS Legacy Trail redesign project. Upper secondary students collaborate with industry partners like polytechnics, A*STAR, and Infineon Technologies on advanced STEM projects. <p> From 2025, we're expanding our horizons through international partnerships with overseas schools, offering students global perspectives on STEM and environmental solutions.
+ |
 
-<div>
-<table>
-<tbody class="">
-<tr class="">
-<td class="" colspan="2" width="707">
-<p class="" align="center"><strong class=""><span class="">STEM and Innovation Education Committee</span></strong></p>
-</td>
-</tr>
-<tr class="">
-<td class="" width="258">
-<p class="" align="center"><strong class=""><span class="">Committee Chairman</span></strong></p>
-</td>
-<td class="" width="449">
-<p class="" align="center"><span class="">Dr. Mohamed Faizal</span></p>
-</td>
-</tr>
-<tr class="">
-<td class="" width="258">
-<p class="" align="center"><strong class=""><span class="">Committee Vice-Chairman</span></strong></p>
-</td>
-<td class="" width="449">
-<p class="" align="center"><span class="">Mr. Ng Boon Chong</span></p>
-</td>
-</tr>
-<tr class="">
-<td class="" width="258">
-<p class="" align="center"><span class="">&nbsp;</span><strong class="">Committee Members</strong></p>
-</td>
-<td class="" width="449">
-<p class="" align="center"><span class="">Mdm Lin Jia Hui</span></p>
-</td>
-</tr>
-<tr class="">
-<td class="" width="258">
-<p class="" align="center"><span class="">&nbsp;</span></p>
-</td>
-<td class="" width="449">
-<p class="" align="center"><span class="">Mr Darren Ling</span></p>
-</td>
-</tr>
-<tr class="">
-<td class="" width="258">
-<p class="" align="center"><span class="">&nbsp;</span></p>
-</td>
-<td class="" width="449">
-<p class="" align="center"><span class="">Mr Loo Tin Song</span></p>
-</td>
-</tr><tr class="">
-<td class="" width="258">
-<p class="" align="center"><span class="">&nbsp;</span></p>
-</td>
-<td class="" width="449">
-<p class="" align="center"><span class="">Mr Chun Sir Kin</span></p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
 
-![](/images/Our%20BBSS%20Experience/ALP_website_image.png)
-
-### **Vision**
-The core of the framework lies the vision of STEM-ALP education in BBSS. 
+### **4 Thinking and Learning Methodologies**
 	
-**Emphatetic**
-* In the process of problems solving, BBSSians have the end user(s) in mind and heart.
-* Aligned to school values of RESPECT.&nbsp;
-* Aligned to HOM disposition of listening with understanding and empathy.
-* Aligned to abundance mentality mindset and school's DNA of Care, Give, and Share.
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Picture1.png)
 
-**Active problem solver**
-Self-directed with the passion to solve authentic real-world problems to improve the existing condition.
-	
-### **Supporting Attributes**
-The triangle encapsulates the Supporting Attributes in BBSSians to be empathetic and active problem solvers.
-	
-**Ethics &amp; Value**
-
-* Undergirded by the school values of RESPECT.
-* Dominant values: Reflection and Empathy.
-	
-**Interdisciplinary Knowledge**
-
-* Equipped with interdisciplinary knowledge in Science, Applied Subjects, Mathematics and ALP.
-	
-**Harnessing Technology**
-
-* Equipped with skills in harnessing emerging and immersive technologies for communication, collaboration, gathering data and automation.	
-
-### **Approaches**
-
-**Reflective**
-
-* The Three-Selfs is the approach for BBSSians to be active problem solvers.&nbsp;
-* The Three-Selfs refer to Self-awareness, Self-monitoring, and Self-modifying.
-	
-**Design Thinking, Inquiry and Computational Thinking**
-
-* Three approaches based on the subject discipline for Science, Applied Subjects and Mathematics which possessed the thinking and doing of a problem solver.
-	
-### **Focus Areas**
-
-**Four focus areas** which are impetus for Singapore's economic growth and progress.
-* Sustainability
-* Emerging Technologies
-* City and Urban Landscape
-* Future of transportation
-<br>
-
-Have you ever tried to navigate your way out of a maze? Or fry an egg using a robotic arm? In the age of robotic innovation where industries and lives are disrupted, many of such possibilities can be actualised through our Embedded Electronics programme using robots. This is part of our Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM). Our students learn about the control of robotic vehicles through block programming, harnessing the power of sensors to make smart decisions. They progress to manipulating robotic arms before synthesizing their learning to come up with solutions real-world problems through our Design Thinking approach.<p></p>
-
-
-<p style="text-align: justify;">Through these activities, students would collaboratively acquire technical knowledge, hone process skills and inculcate values. Through applying past knowledge to new situations, students have fun figuring out many possibilities and further develop the dispositions of Responding with Wonderment and Awe" and "Creating, Imagining and Innovating".</p>
-
-
-<p style="text-align: justify;">Bought something online and it was delivered by a drone? Our robotics interest group support the broadening and deepening of interests in the areas of drones, coding and LEGO-based robotics.</p>
+</p><p style="text-align: justify;">In ALP, we develop empathetic problem-solvers through four key thinking and learning methodologies, with Design Thinking as our primary approach. Through Design Thinking, students learn to understand user needs, ideate solutions and create prototypes iteratively, while Computational Thinking enables them to tackle complex environmental challenges through pattern recognition and algorithmic thinking. These are enhanced by Reflective Thinking, where students employ the '3-Selfs' (self-assessment, self-monitoring and self-modification) to build metacognitive skills and learning ownership.</p>
 
   
-<p style="text-align: justify;">Most of the world's population now lives in urban centres and city living provide problems and challenges of their own. Singapore, a highly urbanized city with very limited physical and human resources, faces profound challenges when it comes to development, management and sustainability. Our overarching&nbsp; theme of City and Urban Landscapes let students explore solutions to some of the issues they face in their everyday life.  </p>
+<p style="text-align: justify;">Inquiry-based Learning supports these methodologies as students progress from basic coding and AI applications in Secondary 1 to complex environmental projects in upper secondary. Through systematic investigations and partnerships with industry experts, students develop critical thinking skills while applying their learning to real-world challenges. This progressive journey builds a robust foundation for our students to become environmentally conscious problem-solvers who can effectively address sustainability challenges both locally and globally. </p>
   
-<p style="text-align: justify;">At the upper secondary levels, students have the opportunity to collaborate with partners such as Infineon Technologies to design solutions for real-life issues, participate in engineering competitions, job shadowing and attend STEM-related polytechnic elective modules.  </p>
-  
-<p style="text-align: justify;">Through these activities, we hope to cultivate in students the dispositions of "Remaining Open to Continuous Learning" and "Questioning and Problem Posing" which would prepare them well for self-directed lifelong learning.  </p>
-  
-Through the ALP, the school enables students to:  
 
-*   Connect academic knowledge and process skills with the real world,
-*   Apply thinking skills and connect knowledge across subject disciplines in authentic settings, and
-*   Grow in motivation as they appreciate the relevance and value of their learning.
 
-<p style="text-align: justify;">Upon completion of the programme, students will attain Young Engineer Award (Applied Learning) awarded by Singapore Polytechnic.</p>
+### **BBSS STEM-EE Programme Structure:**
 
-##### **<u>Key Programmes (2022-2023)</u>**
+Tier 1 (All): School-wide STEM-EE Programmes
 
-* Secondary 1 - Autonomous Vehicles and Maze Explorer
-* Secondary 2 - Problem-solving via Design Thinking
+Tier 2 (Selected): Interest Groups and Partnership Programme
 
-##### **<u>Key Programmes (2024)</u>**
+Tier 3 (Stretch): STEM-EE Talents Programme
 
-* Secondary 1
-	* Explore issues in the theme of Cities and Urban Landscapes
-	* Problem-solving via Design Thinking
+![](/images/Our%20BBSS%20Experience/Applied%20Subjects/Picture2.png)
+
+#### **Pictures **
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWdpdrn9oXNpWOe9aEDFN9a_mw2utgt1T2smS1UfqdRqRX-sbQAdeXBsOrxCG4Ch-KATJ005hXyy7w/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
