@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Special Awards</h1>
-<h4>Special Awards Recipient for AAC 20254</h4>
+<h4>Special Awards Recipient for AAC 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
