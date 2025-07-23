@@ -672,7 +672,7 @@ individual score</p>
 </table>
 <p><strong>2020 to 2021 National Sports Games suspended.</strong>
 </p>
-<h3>CCA Distinction Service Award Recipients for AAC 2023</h3>
+<h3>CCA Distinction Service Award Recipients for AAC 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -694,43 +694,10 @@ individual score</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Air Rifle</p>
+<p>Badminton (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Sher Rone</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CAPTAIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Air Rifle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Karumuru Krish</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE-CAPTAIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Air Rifle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TOH YI XIAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE-CAPTAIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Badminton</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAMIKSHA PRADEEP KUMAR</p>
+<p>SUKUMAR ASHWIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CAPTAIN</p>
@@ -738,21 +705,10 @@ individual score</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p>Badminton (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIEW KHOON HONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE-CAPTAIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Badminton</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHONG MING EN</p>
+<p>CHENG JIA LE XAVIER (ZHENG JIALE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE-CAPTAIN</p>
@@ -760,10 +716,10 @@ individual score</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p>Badminton (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOEY D/O VISVAM</p>
+<p>LIANG BINYU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE-CAPTAIN</p>
@@ -771,10 +727,10 @@ individual score</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p>Badminton (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LOW YAN XIN JERILYN</p>
+<p>ZHUO LINGXIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE-CAPTAIN</p>
@@ -785,7 +741,7 @@ individual score</p>
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE YU ZHE</p>
+<p>TAN JING YANG JASON</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CAPTAIN</p>
@@ -796,7 +752,7 @@ individual score</p>
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FU ZHICHENG</p>
+<p>LEBON TAN KAI JIE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE-CAPTAIN</p>
@@ -807,7 +763,18 @@ individual score</p>
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOHAMMAD IQBAL SHA BIN MOHAMMAD IBRAHIM</p>
+<p>MD IRFAN BIN MD IRWAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PEER SUPPORT LEADER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG JUN KAI (HUANG JUNKAI)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TEAM LEADER</p>
@@ -818,10 +785,10 @@ individual score</p>
 <p>Cross Country</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PHAM NGUYEN MINH THU</p>
+<p>JOEL GOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CAPTAIN GIRLS</p>
+<p>CAPTAIN (BOYS)</p>
 </td>
 </tr>
 <tr>
@@ -829,10 +796,21 @@ individual score</p>
 <p>Cross Country</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LAU JUN YI</p>
+<p>AIDAN LIEW</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CAPTAIN BOYS</p>
+<p>VICE CAPTAIN (BOYS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cross Country</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR AFRINA BATRISYIA BTE ABDUL RAHMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE CAPTAIN (GIRLS)</p>
 </td>
 </tr>
 <tr>
@@ -840,21 +818,10 @@ individual score</p>
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ARYAN RANJAN SINGH</p>
+<p>MARC DE WILDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-CAPTAIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rugby</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WONG TAI ZHAO, KENDRICK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PACK LEADER</p>
+<p>CAPTAIN</p>
 </td>
 </tr>
 <tr>
@@ -862,21 +829,32 @@ individual score</p>
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>XING XIANGHENG</p>
+<p>MD ILHAM HIDAYAT BIN ROZALIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>UPPER SECONDARY LEADER</p>
+<p>VICE CAPTAIN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rugby</p>
+<p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EDMUND SOH</p>
+<p>JAVIER WONG JIE WEI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>UPPER SECONDARY LEADER</p>
+<p>CAPTAIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shooting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMILIA HUMAIRAH BTE ENDY SUPANTI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MEMBER</p>
 </td>
 </tr>
 <tr>
@@ -884,7 +862,7 @@ individual score</p>
 <p>Softball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LOW NING XUAN PHOEBE</p>
+<p>JANICE KUOK JING EN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CAPTAIN</p>
@@ -895,10 +873,10 @@ individual score</p>
 <p>Softball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>UMA KYRA BINTE MUHAMMED FAUZI</p>
+<p>KEZANN NEO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-CAPTAIN</p>
+<p>VICE CAPTAIN</p>
 </td>
 </tr>
 <tr>
@@ -906,21 +884,10 @@ individual score</p>
 <p>Softball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM XUAN HUI, SHARMAINE</p>
+<p>AMELIA CHEW</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TEAM LEADER</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>One Earth Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JERIEL TAN ZHI MING</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A1</p>
+<p>VICE CAPTAIN</p>
 </td>
 </tr>
 <tr>
@@ -928,7 +895,7 @@ individual score</p>
 <p>One Earth Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SITI UMYZA ARDIANA</p>
+<p>AASHIQ AHAMED S/O SYED IBRAHIM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PRESIDENT</p>
@@ -939,10 +906,10 @@ individual score</p>
 <p>One Earth Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUR WIDYAWATI BINTE NIS BEE</p>
+<p>DAANIEL BAI S/O MURUGIAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-PRESIDENT</p>
+<p>VICE PRESIDENT</p>
 </td>
 </tr>
 <tr>
@@ -950,7 +917,7 @@ individual score</p>
 <p>Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOH RAE KARL</p>
+<p>JASPER PUAH YU HENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PRESIDENT</p>
@@ -961,10 +928,10 @@ individual score</p>
 <p>Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DARREN LEE YAO WEI</p>
+<p>LUCAS TAN JIAN WEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-PRESIDENT</p>
+<p>VICE-PRESIDENT (OPERATION MANAGER)</p>
 </td>
 </tr>
 <tr>
@@ -972,10 +939,10 @@ individual score</p>
 <p>Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HALEEMA HAJA ALAUDEEN</p>
+<p>NINA NATHIFA BTE MD ASRI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADMIN MANAGER</p>
+<p>VICE PRESIDENT (CREATIVE DIRECTOR)</p>
 </td>
 </tr>
 <tr>
@@ -983,7 +950,7 @@ individual score</p>
 <p>Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WARREN NG XIANG YU</p>
+<p>TEO ANN WEI TYLER</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PRESIDENT</p>
@@ -994,10 +961,10 @@ individual score</p>
 <p>Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOH YU CHONG, ANSEL</p>
+<p>SAUMIL ANAND</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-PRESIDENT</p>
+<p>VICE PRESIDENT</p>
 </td>
 </tr>
 <tr>
@@ -1005,10 +972,21 @@ individual score</p>
 <p>Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHENG YU LIN</p>
+<p>TAN ZHEN XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LOGISTICS MANAGER</p>
+<p>VICE PRESIDENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETHAN DALGADO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE PRESIDENT</p>
 </td>
 </tr>
 <tr>
@@ -1016,7 +994,7 @@ individual score</p>
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOEL CHEW KHOI JOEI</p>
+<p>WONG JUN SHEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DRUM MAJOR</p>
@@ -1027,7 +1005,29 @@ individual score</p>
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHLOE CHUA SEE LUEI</p>
+<p>GERONIMO DANICA REGINE CAMANTIGUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BAND MAJOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHERRYL ONG XUE EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UNIFORM QUARTER MISTRESS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KEISHA ANICA MARZAN TAMO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIFORM QUARTER MISTRESS</p>
@@ -1038,7 +1038,7 @@ individual score</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ERIKA NG DAN RUI</p>
+<p>CHAI FONG FAYE (CAIFANGFEI)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PRESIDENT</p>
@@ -1049,7 +1049,40 @@ individual score</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DIMAUNAHAN KIRSTEN NICOLE MANALO</p>
+<p>HO KENG CHOONG, BROSCO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE PRESIDENT (STUDENT DEVELOPMENT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYALOOM MOIRA VICTORIA PENINA SIMANJUNTAK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE PRESIDENT (WELFARE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURUL FAZLIN BTE ABDULLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PRESIDENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EVA NATASHA CHEAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE PRESIDENT</p>
@@ -1057,32 +1090,10 @@ individual score</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ZIYA NAFIAH BINTE MOHAMED NAZIM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PRESIDENT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Malay Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NURUL INSYIRAH BINTE ADNAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE-PRESIDENT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOE HUI YEE SEASON</p>
+<p>ALYA MAISARAH BTE MD ZAKI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PRESIDENT</p>
@@ -1093,10 +1104,21 @@ individual score</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHOO ZHI YEE</p>
+<p>NUR EZATUL FALYNA BTE MD HAKI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-PRESIDENT</p>
+<p>VICE PRESIDENT (OPERATIONS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YANG YUCHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE PRESIDENT (ADMIN)</p>
 </td>
 </tr>
 <tr>
@@ -1104,21 +1126,10 @@ individual score</p>
 <p>ELDDS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALICIA HUA LI YING</p>
+<p>KODUPUGANTI AARUSHI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-PRESIDENT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ELDDS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ADITYAN SUBRAMANIAM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE-PRESIDENT</p>
+<p>PRESIDENT</p>
 </td>
 </tr>
 <tr>
@@ -1126,10 +1137,21 @@ individual score</p>
 <p>ELDDS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>M K MEGHAA</p>
+<p>REBECA TUN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HEAD OF WELFARE AND EVENTS</p>
+<p>VICE PRESIDENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELDDS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADRIEL ONG JIAN XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HEAD OF WELFARE</p>
 </td>
 </tr>
 <tr>
@@ -1137,7 +1159,7 @@ individual score</p>
 <p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WONG SHI YAN</p>
+<p>WU SIHAN OLIVIA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHAIRPERSON</p>
@@ -1148,21 +1170,10 @@ individual score</p>
 <p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN JIN</p>
+<p>CHEAH ZHI QING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICE-CHAIRPERSON</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Orchestra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALYNNA TONG QING YI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE-CHAIRPERSON</p>
+<p>VICE CHAIRPERSON</p>
 </td>
 </tr>
 <tr>
@@ -1170,7 +1181,18 @@ individual score</p>
 <p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BRYAN WONG JIN KAI</p>
+<p>CHEIEN QIAN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE CHAIRPERSON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YI EN (CHEN YI'EN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>QUARTERMASTER</p>
@@ -1181,7 +1203,18 @@ individual score</p>
 <p>Boys' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WO SARAVANAN NITHILAN</p>
+<p>HON JUN KANG, BRYSON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BADGEWORK MENTOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JUSTUS JOJO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>COMPANY SERGEANT MAJOR</p>
@@ -1192,10 +1225,10 @@ individual score</p>
 <p>Boys' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WO SEO JINWON</p>
+<p>ALOYSIUS WOON SHYH XIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASSISTANT SERGEANT MAJOR</p>
+<p>ASSISTANT COMPANY SERGEANT MAJOR</p>
 </td>
 </tr>
 <tr>
@@ -1203,10 +1236,10 @@ individual score</p>
 <p>Boys' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WO ZEN TAN CHOONG BOON</p>
+<p>NG WEI YE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PLATOON SERGEANT</p>
+<p>HEAD PHYSICAL TRAINING INSTRUCTOR</p>
 </td>
 </tr>
 <tr>
@@ -1214,7 +1247,7 @@ individual score</p>
 <p>Girls' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT SOH XUAN TING</p>
+<p>IRENE CHRYSOLITE PRAKASH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>COMPANY SERGEANT MAJOR</p>
@@ -1225,73 +1258,18 @@ individual score</p>
 <p>Girls' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT LYNETTE ISABELLE LIM</p>
+<p>SIEW XIN YU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASSISTANT SERGEANT MAJOR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girls' Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGT GRETA LOIS LAMIAO MADRID</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PLATOON COMMANDER</p>
+<p>ASSISTANT COMPANY SERGEANT MAJOR</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC (Land)</p>
+<p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG SWASTIK TRIPATHI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ASSISTANT SERGEANT MAJOR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC (Land)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MSG KENDREN LEE ZHENGRONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>COMPANY SERGEANT MAJOR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC (Land)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3SG HE JIASHENG, EDWARD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PLATOON SERGEANT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC (Land)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSG SSG SYED RAYYAN SYED MUSTHAQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HEAD OF ADMIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC (Sea)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MSG WONG YU XUAN</p>
+<p>HENG YI HENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT SERGEANT MAJOR</p>
@@ -1299,35 +1277,24 @@ individual score</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC (Sea)</p>
+<p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG BRANDON GOH</p>
+<p>JORDAN ROCHE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASSISTANT UNIT SERGEANT MAJOR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC (Sea)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSG CHONG HONG LOK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SENIOR CADETS IC</p>
+<p>ASSISTANT SEARGEANT MAJOR</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC (Sea)</p>
+<p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3SG CHIA HOW CHIEN</p>
+<p>CHUA WEE KIAT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>INSTRUCTOR</p>
+<p>CO PERSONAL ASSISTANT</p>
 </td>
 </tr>
 <tr>
@@ -1335,21 +1302,10 @@ individual score</p>
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SI RAMESH BUVANESH RAM</p>
+<p>HOE KAI JIE KYLER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HEAD OF UNIT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT NAINAPILLAI SICKENDERSHA FARHAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HEAD OF TRAINING</p>
+<p>STATION INSPECTOR</p>
 </td>
 </tr>
 <tr>
@@ -1357,32 +1313,10 @@ individual score</p>
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SI VENKATESWARAN GAYATHRI</p>
+<p>GO LE XIN, CELINE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HEAD OF TRAINING</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGT NAVAITH AHMED NUHA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HEAD OF ADMIN AND LOGISTICS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>STATION INSPECTOR</p>
 </td>
 </tr>
 </tbody>
