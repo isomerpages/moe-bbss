@@ -7,6 +7,13 @@ variant: markdown
 ---
 # Students
 
+## 2024
+![](/images/Our%20Achievements/Students/Celebrating_Achievements_2025_Si_Jie.png)
+
+![](/images/Our%20Achievements/Students/Celebrating_Achievements_2025_Charles.png)
+
+![](/images/Our%20Achievements/Students/Celebrating_Achievements_2025_Jade.png)
+
 ## 2023
 ![](/images/Season.png)
 
