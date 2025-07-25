@@ -158,8 +158,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Performing Arts Groups</h3>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -183,6 +184,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>2022-2023</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2024-2025</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -200,10 +204,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
@@ -234,6 +244,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -250,6 +263,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -271,6 +287,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -287,6 +306,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 </tr>
 </tbody>
