@@ -16,7 +16,7 @@ variant: tiptap
 <p>Training Days:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
+<p>Mondays &amp; Wednesdays: 3:50PM - 6:00PM</p>
 </th>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Music Centre, classrooms 2A1, 3A2 - 3A8, MT2</strong>
+<p><strong>Music Centre &amp; ITR</strong>
 </p>
 </td>
 </tr>
@@ -44,10 +44,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jade Leong (IC)
-<br>Mr Jared Er
-<br>Ms Syazwani
-<br>Ms Ong Gui Fang</p>
+<p>Mr Jared Er (IC)
+<br>Ms Syazwani Amrun
+<br>Mdm Nadiah Abdul Nasir</p>
 </td>
 </tr>
 </tbody>
@@ -65,7 +64,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Shafiy Bin Iskandar (2A6)</p>
+<p>Beh Junhao (3A6)</p>
 </td>
 </tr>
 <tr>
@@ -74,16 +73,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geronimo Danica Regine Camantigue (2A7)</p>
+<p>Srinivasan Lakshme Prabha (3A6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Instrument Quarter Master:</strong>
+<p><strong>Vice Chairman:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Ying Xuan Avril (3A4)</p>
+<p>Justin Low (3A4)</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Yu Xuan (3A7)</p>
+<p>Teyu Xiu Rong Mavis (3A4)</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +100,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurul Iman Binte Abdullah (3A3)</p>
+<p>Chua Zhi Xing Zeon (2A5)</p>
 </td>
 </tr>
 </tbody>
@@ -115,26 +114,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Instrument Quarter Master:</p>
+<p><strong>Assistant Uniform Quarter Master:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geronimo Danica Regine Camantigue (2A7)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Uniform Quarter Master:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cherryl Ong Xue En (2A3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Kukan S/O Thiruselvam (2A2)</p>
 </td>
 </tr>
 </tbody>
@@ -148,133 +132,144 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flute &amp; Clarinet:</p>
+<p><strong>Clarinet &amp; Saxophone:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hong Kian Han, Bryan (3A7)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>French Horn:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong Ying Xuan Avril (3A4)</p>
+<p>Srinivasan Lakshme Prabha (3A6)
+<br>Ramakrishnan Varun Abhinav Reddy [Assistant] (3A7)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Euphonium, Tuba &amp; Trombone</p>
+<p><strong>Flute:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Josh Neo Guan Seng (3A7)</p>
+<p>Jalene Ong Zi Ning (2A1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Percussion:</p>
+<p><strong>French Horn:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elissa Haw Enxin (Hu Enxin) (3A6)</p>
+<p>Li Chengxi (3A4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Trombone:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kok Hao Yuan (3A6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Euphonium &amp; Tuba:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yu Zuohan (3A6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Percussion:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Zhixuan (3A5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Trumpet:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gan Wentao (3A4)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>About Us</h3>
-<p>BBSS Concert Band strives to create a supportive atmosphere where students
-can extend themselves and grow as musicians and as individuals, while at
-the same time striving for the highest level of musicianship possible.</p>
-<p>Through active participation, students will explore a variety of musical
-styles and genres. Rehearsals and performances seek to enhance students’
-aesthetic awareness and perception.</p>
-<p>Through key programmes, students learn to display values like perseverance,
-teamwork, dedication and excellence.</p>
-<h3>Past Key Events in 2023:</h3>
-<ul>
-<li>
-<p>Attended&nbsp; ‘In Harmony 38 – SYF Favourites’, a concert presented by
-the SAF Central Band</p>
-</li>
-<li>
-<p>Participated in Band Exchange with Queenstown Secondary and Fairfield
-Methodist Secondary School</p>
-</li>
-<li>
-<p>Singapore Youth Festival 2023</p>
-</li>
-<li>
-<p>Performed at the Bukit Batok Community Centre’s National Day Celebration</p>
-</li>
-</ul>
-<h3>Past Key Events in 2022:</h3>
-<ul>
-<li>
-<p>Performed in Rhapsody concert</p>
-</li>
-<li>
-<p>Performed at the Bukit Batok Community Centre’s National Day Celebration</p>
-</li>
-</ul>
-<h3>Past Key Events in 2020-2021:</h3>
+<p>The BBSS Concert Band is a vibrant musical community where students grow
+as musicians and discover the joy of creating music together. From energetic
+pop hits and timeless band classics to beloved local favourites, members
+explore a diverse repertoire that reflects both global and Singaporean
+musical traditions—deepening their appreciation and passion for music.</p>
+<p>Beyond honing their instrumental skills, band members develop discipline,
+teamwork, and a strong sense of camaraderie. The experience of rehearsing,
+performing, and progressing together cultivates a unique esprit de corps
+and instills values that extend beyond their years in the CCA.</p>
+<p>Students have various opportunities to showcase their talents in both
+school and public performances. Within the school, the band plays at major
+events such as the Annual Awards Ceremony, National Day Celebrations, and
+Rhapsody, the school musical. They also perform for the wider community
+through platforms such as the Singapore Youth Festival Arts Presentation,
+bringing their music to audiences beyond the school.</p>
+<h4>Key events in 2025:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival 2021</p>
+<p>Band Exchange with Queenstown Secondary</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation</p>
+</li>
+<li>
+<p>Annual Awards Ceremony</p>
+</li>
+<li>
+<p>National Day Celebrations</p>
+</li>
+<li>
+<p>Open House</p>
 </li>
 </ul>
-<h3>Participation in the following events (online):</h3>
+<h4>Key events in 2024:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>BBSS Appreciate the STARS</p>
+<p>Rhapsody 2024</p>
 </li>
 <li>
-<p>BBSS National Day Celebration</p>
+<p>Annual Awards Ceremony</p>
 </li>
 <li>
-<p>Band Together Singapore</p>
+<p>National Day Celebrations</p>
 </li>
 </ul>
-<h3>Past Key Events in 2018 - 2019:</h3>
+<h4>Key Events in 2023:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participated together with the West Winds, Band of the Bukit Batok Community
-Club concert at Esplanade Concert Hall</p>
+<p>Attended ‘In Harmony 38 – SYF Favourites’, a concert presented by the
+SAF Central Band</p>
 </li>
 <li>
-<p>Participated in Performing Arts Group Combined camp</p>
+<p>Band Exchange with Queenstown Secondary and Fairfield Methodist Secondary
+School</p>
 </li>
 <li>
-<p>Performed in Metamorphosis VI concert</p>
+<p>Singapore Youth Festival Arts Presentation</p>
 </li>
 <li>
-<p>Performed in school's National Day Celebration Parade segment</p>
-</li>
-<li>
-<p>Singapore Youth Festival 2019</p>
-</li>
-<li>
-<p>Participated in Band Exchange</p>
-</li>
-<li>
-<p>Organised and performed at Band Concert @ BBSS</p>
-</li>
-<li>
-<p>Performed in School's Annual Awards Ceremony</p>
-</li>
-<li>
-<p>Participated in BBSS Arts Carnival</p>
-</li>
-<li>
-<p>Attended external performances such as West Winds in Concert and SSO Demonstration
-Concert for Band</p>
+<p>Bukit Batok Community Centre’s National Day Celebrations</p>
 </li>
 </ul>
-<h3>Training Days</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;Mondays &amp; Wednesdays : 3.00pm - 6.00pm</p>
-</li>
-</ul>
-<h3>Gallery</h3>
+<p></p>
+<h3><strong>Gallery</strong></h3>
+<h4>Rhapsody 2024 Performance</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rIri7TTQD0Y?si=mQfFYw13Cu6hYwST"></iframe>
+</div>
+<h4>SYF 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O9jyFgANrLA?si=cY02TwIpRSmXXPI6"></iframe>
+</div>
+<h4>Photo Gallery</h4>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBGkmsBbxae7uZZeE5TcBRozQLXf9kAYH7v8nI4wSeehaImdVCTD40BE9WN5amVCHi7B-UFET-1Q3e/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
