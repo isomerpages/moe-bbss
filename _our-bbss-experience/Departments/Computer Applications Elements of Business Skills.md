@@ -108,6 +108,11 @@ are as follows:</p>
 <br>(5) Multimedia Communication
 <br>(6) Media Computing</p>
 <h3>Achievements</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dept/CPA_2024_AGM.png">
+</div>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -135,6 +140,21 @@ are as follows:</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Animation and Game Making (AGM) Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award (Games Category)
+<br>Jerald Goh Yong Jun (Wu Yong Jun)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +168,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -167,7 +187,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2020</p>
@@ -186,7 +206,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2018</p>
@@ -201,7 +221,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2018</p>
@@ -216,7 +236,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2017</p>
@@ -234,7 +254,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2016</p>
@@ -249,7 +269,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2015</p>
@@ -265,7 +285,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2015</p>
@@ -281,7 +301,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2014</p>
@@ -297,7 +317,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2013</p>
@@ -313,7 +333,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2013</p>
@@ -329,9 +349,6 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/IMG_2016%20v2.jpg">
-</div>
 <h1>EBS</h1>
 <h3>Department Brief</h3>
 <p>Elements of Business Skills (EBS) is an elective subject offered to upper
