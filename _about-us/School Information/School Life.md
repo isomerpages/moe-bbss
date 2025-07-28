@@ -6,22 +6,28 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h1>School Life</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20us/School%20Information/School%20Life/1703_23%20bukit%20batok%20secondary%20school%20we%20stories%20(internal)_page_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Information/School Life/BBSS_School_Brochure_2025_Page_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20us/School%20Information/School%20Life/westories%202023%20pg%202.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Information/School Life/BBSS_School_Brochure_2025_Page_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20us/School%20Information/School%20Life/westories%202023%20pg%203.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Information/School Life/BBSS_School_Brochure_2025_Page_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20us/School%20Information/School%20Life/1703_23%20bukit%20batok%20secondary%20school%20we%20stories%20(internal)_page_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Information/School Life/BBSS_School_Brochure_2025_Page_4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20us/School%20Information/School%20Life/westories%202023%20pg%205.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Information/School Life/BBSS_School_Brochure_2025_Page_5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20us/School%20Information/School%20Life/westories%202023%20pg%206.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Information/School Life/BBSS_School_Brochure_2025_Page_6.jpg">
 </div>
 <p></p>
