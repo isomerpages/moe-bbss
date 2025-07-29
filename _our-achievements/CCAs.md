@@ -60,7 +60,7 @@ variant: tiptap
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ variant: tiptap
 <p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Silver</p>
 </td>
 </tr>
 </tbody>
