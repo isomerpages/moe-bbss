@@ -60,7 +60,7 @@ variant: tiptap
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ variant: tiptap
 <p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Silver</p>
 </td>
 </tr>
 </tbody>
@@ -314,8 +314,10 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Sports and Games</h3>
-<table style="minWidth: 175px">
+<table style="minWidth: 225px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -344,10 +346,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>2023</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>Air Rifle (B/G)</strong>
+<td rowspan="4" colspan="1">
+<p><strong>Shooting (B/G)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -370,6 +378,14 @@ variant: tiptap
 <p>B Boys Air Rifle NSG 6<sup>th<br></sup>B Boys Air Pistol NSG 7<sup>th<br></sup>B
 Girls Air Rifle NSG 3<sup>rd<br></sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Pistol Men - 1st place (Seth Law)</p>
+<p></p>
+<p>Air Rifle Women - 13th place nationwide (Emilia Humairah Bte Endy Supanti)</p>
 </td>
 </tr>
 <tr>
@@ -394,6 +410,72 @@ individual score</p>
 <td rowspan="1" colspan="1">
 <p>C Boys Air Rifle NSG 6<sup>th<br></sup>C Girls Air Rifle NSG 7<sup>th<br></sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Pistol Women - 12th place nationwide (Nur Suhana Bte Nijamu Deen)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>NTU Invitational Shoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Pistol Women - 20th place (Alya Edriana Bte Mohammad Nizam)</p>
+<p>Air Pistol Women (West Zone), 2nd place (team)
+<br>-Alya Edriana Bte Mohammad Nizam
+<br>- Ong Rui Xian (Wang Ruixian)
+<br>- Seah Kai Yu Gabrielle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Women (West Zone) - 2nd place (team)
+<br>- Emilia Humairah Bte Endy Supanti
+<br>-Bernice Nah (Lan Ruiting)
+<br>- Itricia Yap Yihui</p>
+<p>Air Rifle Women (West Zone) - 3rd place (team)
+<br>- Nur Farzera Bte Thahirudin
+<br>- Janis Soon Jia Ning
+<br>- Ong Eu Kym</p>
 </td>
 </tr>
 <tr>
@@ -420,6 +502,12 @@ individual score</p>
 <td rowspan="1" colspan="1">
 <p>B Boys NSG WZ 1<sup>st<br></sup> Round B Girls NSG 1<sup>st<br></sup>Round</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -440,6 +528,12 @@ individual score</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C Boys NSG WZ 1<sup>st<br></sup> Round C Girls NSG 1<sup>st<br></sup>Round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -465,6 +559,16 @@ individual score</p>
 <td rowspan="1" colspan="1">
 <p>B Boys NSG WZ 1<sup>st<br></sup> Round</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>B Boys NSG WZ Round 1</p>
+<p>B Boys NSG WZ Round 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Div NSG WZ Round 1</p>
+<p>B Div NSG WZ Round 2</p>
+<p>B Div WZ finals 2nd Runner up</p>
+<p>B Div Nationals QF (Top 8)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -484,6 +588,14 @@ individual score</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C Boys NSG WZ First Runners-up Nationals QF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys NSG Nationals Pool Round (Pool 1)</p>
+<p>C Boys NSG Nationals League Round (League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys NSG Nationals Pool Round (Pool 2)</p>
+<p>C Boys NSG Nationals League Round (League 2)</p>
 </td>
 </tr>
 <tr>
@@ -509,6 +621,12 @@ individual score</p>
 <td rowspan="1" colspan="1">
 <p>B Girls NSG 1<sup>st<br></sup>Round</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>B Girls NSG Top 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls NSG QF</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -528,6 +646,12 @@ individual score</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C Girls NSG QF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -553,6 +677,12 @@ individual score</p>
 <td rowspan="1" colspan="1">
 <p>B Boys NSG 1<sup>st<br></sup>Round</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>B Boys NSG BOWL Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys NSG BOWL Champions</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -572,6 +702,12 @@ individual score</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C Boys NSG BOWL Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys NSG League Two 2nd Runners up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -602,6 +738,12 @@ individual score</p>
 <p>NSG B Boys Team - 16<sup>th<br></sup> NSG B Girls Team - 18<sup>th<br></sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -624,6 +766,12 @@ individual score</p>
 <td rowspan="1" colspan="1">
 <p>NSG C Boys Team - 26<sup>th<br></sup> NSG C Girls Team - 26<sup>th<br></sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -650,6 +798,12 @@ individual score</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -688,6 +842,12 @@ individual score</p>
 <br>LAW CHEN XI, SETH
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
