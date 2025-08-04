@@ -5,6 +5,6 @@ description: ""
 third_nav_title: Admissions
 variant: markdown
 ---
-# PSLE Score ranges of 2023 PSLE Students Posted to 2024 Sec 1
+# PSLE Score ranges of 2024 PSLE Students Posted to 2025 Sec 1
 
-![](/images/About%20us/COP2024.jpg)
+![](/images/About%20us/2024_PSLE_SCORE_RANGE.png)
