@@ -18,9 +18,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: Sec 1-3 Schedule and Scope • Sec 4 and 5 Prelim Examination
-        Timetable • 2025 Semester 2 Timetable • School Canteen Vacancy (Chinese
-        Noodles)
+      description: Sec 1-3 Schedule and Scope • Sec 4 & 5 Prelim Examination Timetable
+        • School Canteen Vacancy (Chinese Noodles)
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
