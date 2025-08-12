@@ -8,8 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear graduating students,</p>
-<p>Please click on the links below to view the candidature list and seating
+<p>Dear graduating students,
+<br>Please click on the links below to view the candidature list and seating
 arrangement for the upcoming prelim exams.</p>
 <h4>Candidature Lists:</h4>
 <ol data-tight="true" class="tight">
