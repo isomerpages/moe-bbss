@@ -22,8 +22,7 @@ arrangement for the upcoming prelim exams.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/3_Candidature_list_GCE_O_Level_Sc_PhysChem_PRELIM_Exams.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Sc Physics-Chem Practical Prelim Exams</a>
-</p>
+<p>GCE O Level Sc Physics-Chem Practical Prelim Exams</p>
 </li>
 <li>
 <p><a href="/files/4_Candidature_list_GCE_O_Level_Biology_Practical_PRELIMS.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Biology Practical Prelim Exams</a>
@@ -42,8 +41,7 @@ arrangement for the upcoming prelim exams.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/3_2025_5086_Chem_Labs_PRELIM_seating_arrangement.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Sc Physics-Chem Practical Prelim seating arrangement</a>
-</p>
+<p>GCE O Level Sc Physics-Chem Practical Prelim seating arrangement</p>
 </li>
 <li>
 <p><a href="/files/4_2025_6093_Bio_Labs_PRELIM_seating_arrangement.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Biology Practical Prelim seating arrangement</a>
