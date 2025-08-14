@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1>Modern Dance</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/Copy_of_S24_Secondary__44_2.jpg">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
