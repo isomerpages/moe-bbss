@@ -59,7 +59,7 @@ variant: markdown
 <tr>
 <td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/formal2.jpg">
+<img style="width: 50%" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/Copy_of_S24_Secondary__44_2.jpg">
 </div>
 <p><a href="/performing-arts-groups/modern-dance/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
