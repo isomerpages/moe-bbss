@@ -22,9 +22,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Seet (IC)</p>
-<p>Mdm Mastuty</p>
-<p>Ms Ong Gui Fang</p>
+<p>Ms Cheryl Seet (IC)
+<br>Mdm Mastuty
+<br>Ms Ong Gui Fang</p>
 </td>
 </tr>
 <tr>
