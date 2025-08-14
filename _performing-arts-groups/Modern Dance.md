@@ -257,7 +257,7 @@ our passion for dance with audiences both within and beyond the school.</p>
 </table>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqKOLWpJvO7MGwwnkVJABAsZU-1glnVSIREZEErXET6Y5E-HdKx-K-Sb6hDksn_-YVGE8bEBXPSgPA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqKOLWpJvO7MGwwnkVJABAsZU-1glnVSIREZEErXET6Y5E-HdKx-K-Sb6hDksn_-YVGE8bEBXPSgPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p><strong>Super 24 Finals 2024</strong>
