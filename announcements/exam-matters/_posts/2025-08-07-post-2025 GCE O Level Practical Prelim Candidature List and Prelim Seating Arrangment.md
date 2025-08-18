@@ -18,10 +18,12 @@ arrangement for the upcoming prelim exams.</p>
 </p>
 </li>
 <li>
-<p>GCE O Level Physics Practical Prelim Exams</p>
+<p><a href="/files/2_Candidature_list_GCE_O_Level_Physics_Practical_Exams_PRELIMS_updated_15_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Physics Practical Prelim Exams</a>  <em>(updated as of 15/08/2025)</em>
+</p>
 </li>
 <li>
-<p>GCE O Level Sc Physics-Chem Practical Prelim Exams</p>
+<p><a href="/files/3_Candidature_list_GCE_O_Level_Sc_PhysChem_PRELIM_Exams_updated_12_Aug_2025__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Sc Physics-Chem Practical Prelim Exams</a>  <em>(updated as of 15/08/2025)</em>
+</p>
 </li>
 <li>
 <p><a href="/files/4_Candidature_list_GCE_O_Level_Biology_Practical_PRELIMS.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Biology Practical Prelim Exams</a>
@@ -32,14 +34,16 @@ arrangement for the upcoming prelim exams.</p>
 <h4>Seating Arrangements:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>GCE O Level Chemistry Practical Prelim seating arrangement</p>
+<p><a href="/files/1_2025_6092_Chem_Labs_PRELIM_seating_arrangement_for_School_Website_updated_15_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Chemistry Practical Prelim seating arrangement</a>  <em>(updated as of 15/08/2025)</em>
+</p>
 </li>
 <li>
 <p><a href="/files/2_2025_6091_Physics_Labs_PRELIM_seating_arrangement.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Physics Practical Prelim seating arrangement</a>
 </p>
 </li>
 <li>
-<p>GCE O Level Sc Physics-Chem Practical Prelim seating arrangement</p>
+<p><a href="/files/3_2025_5086_Chem_Labs_PRELIM_seating_arrangement_School_Website_Updated_12_Aug_2025__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Sc Physics-Chem Practical Prelim seating arrangement</a>  <em>(updated as of 15/08/2025)</em>
+</p>
 </li>
 <li>
 <p><a href="/files/4_2025_6093_Bio_Labs_PRELIM_seating_arrangement.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Biology Practical Prelim seating arrangement</a>
