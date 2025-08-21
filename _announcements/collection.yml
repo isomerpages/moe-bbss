@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Teachers Day Celebrations Announcement for Alumni.md
+      - 2025 Teachers Day Celebrations Announcement for Alumni.md
       - MOE Financial Assistance Scheme (FAS 2025).md
       - Student E Handbook.md
       - FAQ For New Secondary 1 Students.md
