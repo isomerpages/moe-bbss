@@ -19,7 +19,6 @@ sections:
       title: Announcements & News
       id: infopic
       description: Sec 1-3 Schedule and Scope • Sec 4 & 5 Prelim Examination Timetable
-        • School Canteen Vacancy (Chinese Noodles)
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
