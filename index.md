@@ -18,8 +18,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: Teachers' Day Details for Alumni • Sec 1-3 Schedule and Scope • Sec
-        4 & 5 Prelim Examination Timetable
+      description: Sec 1-3 EYE Timetable • Teachers' Day Details for Alumni • Sec 4 &
+        5 Prelim Examination Timetable
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
