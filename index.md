@@ -22,7 +22,7 @@ sections:
         5 Prelim Examination Timetable
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
-      image: /images/Announcement Images/BBSS_Banner_Post_Open_House_0_18x.png
+      image: /images/Open_House_Flyer.png
       alt: BBSS Banner
   - infopic:
       title: Get official answers from our Q&A Platform
