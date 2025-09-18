@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>To students who are seating for the GCE O Level Science Practical examinations,
+<p>To students who are sitting for the GCE O Level Science Practical examinations,
 <br>Please click on the links below to view the candidature list and seating
 arrangement for the upcoming science practical exams.</p>
 <h4>Candidature Lists:</h4>
