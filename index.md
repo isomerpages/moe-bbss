@@ -18,9 +18,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: SDL Task List for Term 3 Week 10 • Sec 1-3 EYE Timetable •
-        Teachers' Day Details for Alumni • Sec 4 & 5 Prelim Examination
-        Timetable
+      description: GCE O Level Science Practical Examinations • Sec 1-3 EYE Timetable
+        • SDL Task List for Term 3 Week 10
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Open_House_Flyer.png
