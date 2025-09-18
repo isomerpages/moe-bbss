@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wu Sihan Olivia (3A5)</p>
+<p>Lim Yu Jie (3A7)</p>
 </td>
 </tr>
 <tr>
@@ -37,98 +37,91 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheah Zhi Qing (3A5)
-<br>Chien Qian Ying (3A5)</p>
+<p>Tay Shi Xuan (3A2)</p>
+<p>Jesslyn Kahendy Zhong (3A5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Quartermaster:</strong> 
-<br>
+<p><strong>Quartermaster:&nbsp;<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yi En (3A1)
-<br>Tan Hong (3A4)</p>
+<p>Ong Si Han (3A3)</p>
+<p>Tan Ying Xuan (3A4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secretary:</strong> 
-<br>
+<p><strong>Secretary:&nbsp;<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Ying Xuan (2A2)
-<br>Tay Shi Xuan (2A2)</p>
+<p>Tan Ying Xuan (2A2)</p>
+<p>Tay Shi Xuan (2A2)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Bowed String:</strong> 
-<br>
+<p><strong>Section Leader - Bowed String:<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chien Yi Ying (3A5)
-<br>Yuan Xin Qi (2A6)</p>
+<p>Yuan Xin Qi (3A6)</p>
+<p>Koh Qian Pei Charlotte (2A7)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Plucked String:</strong> 
-<br>
+<p><strong>Section Leader - Plucked String:<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeong Zi Xuan Cherise (3A5)
-<br>Anna Lock Soo En (2A4)</p>
+<p>Anna Lock Soo En (3A5)</p>
+<p>Ooi Jing Han (3A5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Cello &amp; Bass:</strong> 
-<br>
+<p><strong>Section Leader - Cello &amp; Bass:<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Zeyra Dayyana Bte Md Syafiq
-<br>Ma Ying Heng Chloe (3A6)</p>
+<p>Wong Liang Xuan (3A5)</p>
+<p>Er Wei Hong (3A6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Woodwind:</strong> 
-<br>
+<p><strong>Section Leader - Woodwind:<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lam Yi Ning (3A5)
-<br>Lim Yu Jie (2A5)</p>
+<p>Joshua Chin Hao Wei (3A7)</p>
+<p>Rey Lai Cheng Ho (2A5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Section Leader - Percussion:</strong>
+<p><strong>Section Leader – Percussion &amp; YangQin:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Euan Tan Xiu He (3A5)</p>
+<p>Law Yi Xuan (3A3)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong> 
-<br>
+<p><strong>Training Days:&nbsp;<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday (Combined)</strong> 
-<br>3.00pm - 6.00pm
-<br>
-<br><strong>Wednesday (Sectionals)</strong> 
-<br>Odd Week: 3.15pm - 6.00pm
-<br>Even Week: 2.30pm - 5.30pm</p>
+<p>Monday (Combined)
+<br>3.15pm - 6.00pm&nbsp;</p>
+<p></p>
+<p>Wednesday (Sectionals)
+<br>Odd Week: 3.15pm - 6.00pm</p>
+<p>Even Week: 2.30pm - 5.30pm</p>
 </td>
 </tr>
 </tbody>
@@ -136,29 +129,29 @@ variant: tiptap
 <h3>About us</h3>
 <p>BBSS Chinese Orchestra seeks to promote greater appreciation of Chinese
 Orchestral music and culture and to nurture and groom young musical talents.
-Students musicians are given many opportunities to develop themselves musically
+Student musicians are given many opportunities to develop themselves musically
 through participation in instrumental master classes conducted by our instructors.
-With the guidance and the provision of the instruments for their patience,
+With the guidance and the provision of the instruments for their practice,
 students will be able to build their interest and passion in music.</p>
 <p>Joining the Chinese Orchestra has enabled many of our students to develop
-the skill of being able to play a&nbsp;Chinese instrument. The commitment,
-perseverance and the need to work together as a team to improve one's skill
-also enhances the maturity of our members, thus building their confidence
-and self-esteem. Through this learning journey, students pick up valuable
-leadership skills and cultivate a habit of continual practice and independent
-learning as they have to be self-directed in their learning beyond practices
-in school. With the skills that they hone through their experience in CO,
-they are also able to use it for their Direct School Admission (DSA) application
+the skill of being able to play a Chinese instrument. The commitment, perseverance
+and the need to work together as a team to improve one's skill also enhances
+the maturity of our members, thus building their confidence and self-esteem.
+Through this learning journey, students pick up valuable leadership skills
+and cultivate a habit of continual practice and independent learning as
+they have to be self-directed in their learning beyond practices in school.
+With the skills that they hone through their experience in CO, they are
+also able to use it for their Direct School Admission (DSA) application
 for next educational pathway in their choice Junior College (JC).</p>
 <p>The Chinese Orchestra has taken part in a number of competitions to hone
-their skills. Awarded with the 4th Distinction in a row for the SYF Arts
-Presentation, our students get opportunities to hone their musical skills
-through performances. As one of the most active performing arts groups
-in our school, students get the opportunities to perform for the annual
-Chinese New Year Celebrations and biannual combined PAG concert, Rhapsody.
-Other than indoor and outdoor performances at notable venues, they also
-engage in creative expression of music as they challenge themselves to
-prevent popular music using traditional instruments in school.</p>
+their skills. Other than participating in the SYF Arts Presentation, our
+students get opportunities to hone their musical skills through performances.
+As one of the most active performing arts groups in our school, students
+get the opportunities to perform for the annual Chinese New Year Celebrations
+and biannual combined PAG concert, Rhapsody. Furthermore, they engage in
+creative expression of music as they challenge themselves to present popular
+music using traditional instruments in school.</p>
+<p></p>
 <p><strong><u>Summary of CO's main activities (performances, competitions, and events)</u></strong>
 </p>
 <table style="minWidth: 75px">
@@ -180,25 +173,6 @@ prevent popular music using traditional instruments in school.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Remarks</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>2013</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21st Century International Arts Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction Award</p>
 </td>
 </tr>
 <tr>
@@ -279,6 +253,7 @@ Arts Presentation</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>BBSS Teachers' Day Concert</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pre-recorded performance items that were student initiated</p>
@@ -297,15 +272,16 @@ Arts Presentation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arts Carnival</p>
+<p>Arts Carnival&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online Concert</p>
+<p>Online concert</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BBSS Teachers’ Day Concert</p>
+<p>BBSS Teachers' Day Concert</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pre-recorded performance items that were student initiated</p>
@@ -324,7 +300,7 @@ Arts Presentation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2023&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SYF Arts Presentation</p>
@@ -333,12 +309,43 @@ Arts Presentation</p>
 <p>Accomplishment Award</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rhapsody</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BBSS PAG Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BBSS National Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Collaboration with Choir (for one of the songs, Home)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6Ip2_gneVcAKpDS811w30RfpAYdjoEn4TTmV0_jVILrJE05AVFpK_xLS8q9CMkdyMpbk5W4PTKxUP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZhVU6MIkIYE"></iframe>
 </div>
