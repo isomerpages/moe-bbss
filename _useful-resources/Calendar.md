@@ -5,36 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h1>Calendar</h1>
-<h3>2025 Term 3 School Events</h3>
+<h3>2025 Term 4 School Events</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Term_3_School_Calendar.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Resources/2025_Term_4_School_Events_Calendar.png">
 </div>
 <p></p>
 <h4><strong>Protected Time</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p><strong><u>Term 3</u></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Staff &amp; CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Sept 2025 - 9 Sept 2025</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -59,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA: </strong>
+<p><strong>CCA:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
