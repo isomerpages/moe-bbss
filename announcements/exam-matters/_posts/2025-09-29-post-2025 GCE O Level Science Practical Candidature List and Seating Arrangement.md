@@ -11,9 +11,6 @@ variant: tiptap
 <br>Please click on the links below to view the candidature list and seating
 arrangement for the upcoming science practical exams.</p>
 <h4>Candidature Lists:</h4>
-<p></p>
-<p></p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Announcements/Exam/1_Candidature_list_GCE_O_Level_Chemistry_Practical_Exams_ACTUAL_updated_28_Sep_25.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Chemistry Practical Exams Candidature List</a><em> (updated as of 28 September 2025)</em>
@@ -33,7 +30,6 @@ arrangement for the upcoming science practical exams.</p>
 </li>
 </ol>
 <h4>Seating Arrangements:</h4>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Announcements/Exam/1_2025_6092_Chem_Labs_ACTUAL_seating_arrangement_School_Website_updated_28_Sept_25.pdf" rel="noopener noreferrer nofollow" target="_blank">2025_6092_Chemistry Labs Seating Arrangement</a>  <em>(updated as of 28 September 2025)</em>
