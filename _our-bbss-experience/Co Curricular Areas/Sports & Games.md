@@ -21,7 +21,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Sports%20&amp;%20Games/4by3_PHOTO__Shooting.jpg">
 </div>
-<p><a href="/sports-and-games/air-rifle/" rel="noopener noreferrer nofollow" target="_blank">Air Rifle</a>
+<p><a href="/sports-and-games/shooting/" rel="noopener noreferrer nofollow" target="_blank">Shooting</a>
 </p>
 </td>
 </tr>
