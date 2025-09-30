@@ -19,7 +19,8 @@ sections:
       title: Announcements & News
       id: infopic
       description: "*Updated* GCE O Level Science Practical Examinations • Sec 1-3 EYE
-        Timetable • SDL Task List for Term 3 Week 10"
+        Timetable • SDL Task List for Term 3 Week 10  • Canteen Stall Vacancy
+        (Chinese Noodles)"
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Open_House_Flyer.png
