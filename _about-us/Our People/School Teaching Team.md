@@ -96,7 +96,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yathri D/O V N Arasakumar</p>
+<p>Gaayathri D/O V N Arasakumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8408</p>
@@ -1400,19 +1400,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Flexi Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohamed Ashraff Bin Mohamed Ali</p>
+<p>Xie Huiqi Aggie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8228</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_ashraff_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ashraff_mohamed_ali@moe.edu.sg</a>
+<p><a href="xie_huiqi_aggie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">xie_huiqi_aggie_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
