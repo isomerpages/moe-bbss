@@ -1400,7 +1400,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Flexi Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
