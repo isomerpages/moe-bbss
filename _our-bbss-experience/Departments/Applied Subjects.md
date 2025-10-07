@@ -115,7 +115,7 @@ of music in Singapore and the world.</p>
 <p>Our students acquire and apply musical skills and knowledge using instruments
 such as keyboard and ukulele. Students also have the opportunity to create
 songs and music using Garageband and Chrome Music Lab.</p>
-<h3>Key Programme and Achievements from 2020-2024</h3>
+<h3>Key Programme and Achievements from 2020-2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -133,6 +133,17 @@ songs and music using Garageband and Chrome Music Lab.</p>
 <th rowspan="1" colspan="1">
 <p>Description</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kah Kee Young Inventors' Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hazel Goh Wu Suan (Commendation Award)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
