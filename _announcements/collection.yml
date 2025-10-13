@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - School Canteen Vacancy (Chinese Noodles).md
       - 2025 Teachers Day Celebrations Announcement for Alumni.md
       - MOE Financial Assistance Scheme (FAS 2025).md
       - Student E Handbook.md
