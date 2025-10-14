@@ -19,7 +19,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Mission</p>
+<h4>Mission</h4>
 </th>
 </tr>
 <tr>
