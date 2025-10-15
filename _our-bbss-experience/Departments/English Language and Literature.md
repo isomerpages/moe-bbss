@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h1>English / Literature</h1>
+<h1>English Language &amp; Literature</h1>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMESkAgeZ-RaSVNSc2I2oTL4X9zOGDswz9fvCKYe3P1p__MzWtPJ8Ej-2ps9P-aBMtX2Ttde4GpZUw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
