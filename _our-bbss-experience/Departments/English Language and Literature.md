@@ -1,11 +1,11 @@
 ---
-title: English Literature
-permalink: /our-bbss-experience/Departments/english-literature/
+title: English Language and Literature
+permalink: /our-bbss-experience/departments/english-literature/
 description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h1>English / Literature</h1>
+<h1>English Language and Literature</h1>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMESkAgeZ-RaSVNSc2I2oTL4X9zOGDswz9fvCKYe3P1p__MzWtPJ8Ej-2ps9P-aBMtX2Ttde4GpZUw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
@@ -35,6 +35,18 @@ the global context.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Samuie Tarjalia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Matthew Crawshaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -539,6 +551,7 @@ and dramatic performances. Examples of texts studied include the following:</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <h4>Gallery</h4>
 <div class="iframe-wrapper">
