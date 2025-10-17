@@ -47,10 +47,10 @@ to appreciate and participate in the arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music Teachers</p>
+<p>Music Cooordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fong</p>
+<p>Ms Cherry Fong</p>
 </td>
 </tr>
 <tr>
@@ -72,61 +72,73 @@ to appreciate and participate in the arts.</p>
 </tbody>
 </table>
 <h4>Aesthetics Department&nbsp;</h4>
-<p>In line with our mission, to nurture self-directed BBSSians with the passion
-to appreciate and participate in the arts, we craft programmes that aim
-to enrich the students’ learning experience and plant the seed in them
-for the passion for the arts. Students are given a variety of opportunities
-to be exposed to enriching arts experiences both during curriculum time
-(via Visual Arts and Music lessons) as well enrichments that they can draw
-inspirations from. Besides lessons in the classrooms, our music concerts,
-competitions and art exhibitions provide invaluable additional opportunities
-for students to find a passion for these subjects. We encourage students
-to showcase their work and boost their confidence by organising events
-like&nbsp; Airtime concerts, BBSS Got Talent, Arts Carnival, and arts showcase
-such as Rhapsody: A BBSS Journey.&nbsp; Assembly programmes and outings
-to watch musicals and plays also give our students opportunities to appreciate
-the arts as members of the audience. Care is taken to make sure that students
-are exposed to different art forms comprising dance, drama, music and visual
-arts.</p>
-<p>Our biennial musical, Metamorphosis, is the brainchild of many hearts
-and minds determined to grow the roots of BBSS arts scene and is an event
-the entire school community looks forward to every other year. Additionally,
-our arts instagram page, @echolites, offers yet another platform to showcase
-our students' talents in the arts. We aim to provide a vibrant arts experience
-for every student of the school.</p>
-<p>Highlighted below are some of the programs we carried out for our students
-in 2022</p>
+<p>In line with our mission to nurture self-directed BBSSians with a passion
+for the arts, we design programmes that enrich our students’ learning experiences
+and inspire in them a lifelong appreciation for artistic expression. Through
+both the curriculum and enrichment opportunities, students are exposed
+to diverse and meaningful arts experiences that ignite creativity and imagination.</p>
+<p>During curriculum time, students explore the visual arts and music through
+engaging lessons that encourage creativity and self-expression. Beyond
+the classroom, they are introduced to various art forms—including dance,
+drama, music, and visual arts—through a range of programmes that allow
+them to showcase their talents and build confidence. Events such as Airtime
+Concerts, BBSS Got Talent, the Teachers’ Day Concert, and the biennial
+BBSS Rhapsody provide valuable platforms for students to perform and celebrate
+the arts within the school community.</p>
+<p>Students also participate as appreciative audiences through assembly programmes
+and learning journeys to musicals and theatre productions, where they develop
+a deeper understanding of the arts and theatre etiquette.</p>
+<p>BBSS Rhapsody, our biennial musical showcase, proudly continues our tradition
+of artistic excellence. This event celebrates the rich diversity of talent
+within our school, bringing together student performers from the English
+Literary, Drama and Debating Society (ELDDS), Chinese Orchestra, Concert
+Band, Choir, Malay Dance, and Modern Dance groups. Together, they present
+an inspiring performance that highlights both our cultural heritage and
+the power of collaboration. The event also serves as a meaningful learning
+opportunity for students to appreciate the discipline and artistry involved
+in live performances.</p>
+<p>Our arts Instagram page, @echolites, serves as a digital platform to celebrate
+and showcase our students’ artistic achievements. Through this platform,
+we aim to foster a vibrant and inclusive arts culture that reaches beyond
+the classroom.</p>
+<p></p>
+<h4>Highlights of Arts Programmes (2024-2025)</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>School Musical comprising of 6 Performing Arts Groups</p>
+<p>Air Time Lunch ConcertBBSS Got Talent</p>
 </li>
 <li>
-<p>Rhapsody: A BBSS Journey</p>
+<p>Singapore Youth Festival (SYF) Presentation</p>
 </li>
 <li>
-<p>Creative Speech Enrichment (Secondary 1)</p>
+<p>Teachers’ Day Concert</p>
 </li>
 <li>
-<p>Drama and Forum Theatre (Secondary 2)</p>
+<p>BBSS Rhapsody</p>
 </li>
 <li>
-<p>Arts Enrichments for Upper Secondary:</p>
+<p>Performing Arts-Based Learning – Sec 1</p>
+</li>
+<li>
+<p>Artist-in-School Scheme (Digital Journaling) – Sec 3</p>
+</li>
+<li>
+<p>Cohort-Based Arts Enrichment Programmes, including:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Shoe Fashion Design</p>
+<p>Mindfulness Art Mosaic – Sec 4/5</p>
 </li>
 <li>
-<p>Clay Making Keychain</p>
-</li>
-<li>
-<p>World Percussion</p>
+<p>Basket Weaving – Sec 2</p>
+<p></p>
 </li>
 </ul>
 </li>
 </ul>
-<p>The school and the committee will continue to do all it can to have a
-vibrant arts scene in BBSS and we look forward to many more memorable and
-exciting experiences in the coming years.&nbsp;</p>
+<p>The school and the Aesthetics Committee remain committed to designing
+a vibrant and engaging arts curriculum at BBSS. We look forward to creating
+many more memorable and inspiring experiences for our students in the years
+to come.&nbsp;</p>
 <h2>BBSS Virtual Art Exhibition</h2>
 <p>Visit the BBSS virtual art exhibition which showcases the art works of
 our students. You will get to enjoy an array of art works from 2D Fine&nbsp;Arts
