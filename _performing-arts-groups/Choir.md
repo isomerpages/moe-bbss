@@ -180,32 +180,11 @@ Fiesta</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<p>Participation in the following events:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>ACS Barker + BBSS Collaboration concert</p>
-</li>
-<li>
-<p>SYF 2023 Arts Presentation</p>
-</li>
-</ul>
-<h4>Past Key Events in 2022:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>BBSS 'Rhapsody' Arts Carnival Concert</p>
-</li>
-<li>
-<p>Our Unique Voices Concert at The Arts House</p>
-</li>
-<li>
-<p>Bowling @ CSC Bukit Batok (Sports Enrichment Program)</p>
-</li>
-</ul>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShIpkTeqbE32GEU5OMPxFpWoRwsd1UqDXU3CGjfVSu3yZgn9R6EVKZA9MJq2vwKUJGekTKsSY4VCG4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vto2TNEYA_Y?si=7T8-hgGAiXakyZsB"></iframe>
 </div>
