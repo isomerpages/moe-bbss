@@ -30,10 +30,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Captain</u></strong>
-<br>Tiew Yun Fei Jerica
+<br>Janice Kuok Jing En (4A7)
 <br><strong><u><br>Vice-Captain</u></strong>
-<br>Goh Jia Ni
-<br>Suh Bomin</p>
+<br>Neo Shin Hwei Kezann (4A7)</p>
+<p>Amelia Chew Si Xian (4A4)</p>
 </td>
 </tr>
 <tr>
@@ -44,11 +44,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Captain</u></strong>
-<br>Lim HuiJun
+<br>Renaise Ng Sze Ling (1A1)
 <br>
 <br><strong><u>Vice-Captain</u></strong>
-<br>Low Ning Xuan Phoebe
-<br>Uma Kyra Binte Muhammed Fauzi</p>
+<br>Tan Rui Qi Jessilia (1A6)
+<br>Diyanah Amani Binte Ramlee (2A4)</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +67,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Cca/Sports%20&amp;%20Games/softball.jpg">
@@ -100,112 +98,6 @@ they will be able to achieve their targets.</p>
 you have instead of what you do not have. It is important to be grateful
 to people who have helped and guided you on your journey, especially those
 who have endured the toughest times with you.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Item</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Names in FULL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teachers–in-charge (all)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms June Teng</p>
-<p>Ms Rachel Lim</p>
-<p>Ms Zhang Yue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B division Captain:</p>
-<p>(2024 - 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Janice Kuok Jing En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B division Vice-Captain</p>
-<p>(2024 - 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neo Shin Hwei Kezann</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B division Vice-Captain</p>
-<p>(2024 - 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Amelia Chew Si Xian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C division Captain:</p>
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Renaise Ng Sze Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1A1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C division Vice-Captain</p>
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Rui Qi Jessilia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1A6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C division Vice-Captain</p>
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diyanah Amani Binte Ramlee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2A4</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h3>Achievements</h3>
 <p>Both B and C division girls participated in the National Schools Softball
 Competition which they have reached the Quarter-Final. They also participated
