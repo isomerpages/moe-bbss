@@ -69,7 +69,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Cca/Sports%20&amp;%20Games/softball.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Sports &amp; Games/IMG_1156.jpg">
 </div>
 <p></p>
 <h3><strong>Strengths and Objectives:</strong></h3>
