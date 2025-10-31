@@ -39,12 +39,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>'B' Division
-<br>Captain: Gareth Seah Ren Xiang (3A4)
-<br>Vice-Captain: Aryan Ranjan Singh (3A4)
+<br>Captain: MARC YU ZHE DE WILDE (4A7)
+<br>Vice-Captain: MUHAMMAD ILHAM HIDAYAT BIN ROZALIN (4A3)
 <br>
 <br>'C' Division
-<br>Captain: Linus You Lijie (2A7)
-<br>Vice-Captain: Cheng Jing Rong Isaac (2A5)</p>
+<br>Captain: BERNARD KOH ZE YANG (2A3)
+<br>Vice-Captain: MUHAMMAD RAQIF ALDY BIN ABDULLAH (2A2)</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +54,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays (Field): 3:00PM - 6:00PM</p>
-<p>Wednesdays (ODC): 3:00PM - 6:00PM</p>
-<p>Odd week Fridays &amp; Even week Thursdays(Field): 3:00PM - 6:00PM</p>
+<p>
+<br>Odd week Fridays &amp; Even week Thursdays (Field): 3:00PM - 6:00PM</p>
 </td>
 </tr>
 </tbody>
@@ -103,9 +103,8 @@ and for the sport of rugby.</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -117,10 +116,6 @@ and for the sport of rugby.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Sporting Achievements</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>Team Events/Activities&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -140,190 +135,51 @@ and for the sport of rugby.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. National School Games Rugby 'B' Division Championship 2022 (Bowl) -
-4th</p>
+<p>NSG BOWL 3<sup>rd</sup> Runners Up</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. National School Games Rugby 'C' Division Championship 2022 (Bowl) -
-1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;Launch of CCA video</p>
-<p>·&nbsp;Rise of Phoenix Challenge 2022</p>
-<p>·&nbsp;Organised Spartans Showdown 2022</p>
-<p>·&nbsp;Spartans Showdown 2022 Champions (Team-Male)</p>
-<p>·&nbsp;Halogen Leadership Masterclass 2022 (Secondary 3)</p>
-<p>·&nbsp;Sports CCA Interaction Day</p>
-<p>·&nbsp;Red Wings Team-bonding Session</p>
+<p>NSG BOWL Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>2021</strong>
+<p><strong>2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Cancelled due to COVID-19</p>
+<p>NSG 1<sup>st</sup> Round</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Cancelled due to COVID-19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;Organised Rise of Phoenix Challenge 2021 (Intra-CCA fitness competition)</p>
-<p>·&nbsp;Organised Spartans Showdown 2021
-<br>(BBSS first ever Inter-CCA fitness competition)</p>
-<p>&nbsp;</p>
-<p>· Spartans Showdown 2021 Champions (Team)</p>
-<p>&nbsp;</p>
-<p>·&nbsp;Team Lucky Draw</p>
-<p>&nbsp;</p>
-<p>·&nbsp;Secret Santa Gift Exchange</p>
+<p>NSG BOWL Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2020</strong>
+<p><strong>2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;National School Games Rugby ‘B’ Division Championship 2019 (Bowl)&nbsp;</p>
+<p>NSG BOWL Champions&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cancelled</p>
-<p>(Due to Co-Vid 19)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;Team BBQ (Organised by Rugby PSG)</p>
-<p>·Establishment of BBSS Rugby Team Mask</p>
-<p>·Establishment of Online Training Sessions</p>
-<p>·&nbsp;Team Study Session</p>
+<p>NSG League Two 2nd Runners up</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2019</strong>
+<p><strong>2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.&nbsp;National School Games Rugby ‘B’ Division Championship 2019 (Bowl)
-- 4th&nbsp;</p>
-<p>3.&nbsp;Saints 7s (U17) Rugby Tournament 2019&nbsp; - 3rd (Plate Category)</p>
-<p>4.&nbsp;Raffles 10s (U15) Rugby Tournament 2019: Champions&nbsp; (Bowl
-Category)</p>
+<p>NSG BOWL Champions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;National School Games Rugby ‘C’ Division Championship 2019 (Bowl)
-- Champions</p>
-<p>2.&nbsp;Saints 7s (U14) Rugby Tournament 2019 -&nbsp; Champions (Plate
-Category)</p>
-<p>3.&nbsp;Raffles 10s (U13) Rugby Tournament 2019 - 2nd (Bowl Category)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;Establishment of BBSS Rugby Team Bag</p>
-<p>·&nbsp;Annual Training Camp (3D2N)</p>
-<p>·&nbsp;Introduction of Mindfulness into team practice</p>
-<p>·Team Study Session</p>
-<p>·&nbsp;Father-son Bowling cum Bonding Session</p>
-<p>·&nbsp;5D4N Rugby Leadership Development &amp; Cultural Immersion OverseasTrip
-(Kuala Lumpur, Malaysia)</p>
-<p>·&nbsp;Team BBQ (Organised by Rugby PSG)</p>
-<p>·&nbsp;Youth Sports Leaders Camp (May and October)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2018</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;Singapore Schools U16 Seven Series 2018 - Champions (Shield Category)</p>
-<p>2.&nbsp;Saints 7s (U16) Rugby Tournament 2018 -&nbsp; Participation (Bowl
-Category)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;National School Games Rugby ‘B’ Division Championship 2018 (Bowl)
-- 3rd&nbsp;</p>
-<p>2.&nbsp;Saints 7s (U14) Rugby Tournament 2018 -&nbsp; 3rd (Bowl Category)</p>
-<p>3.&nbsp;Singapore Schools U14 Seven Series 2018 - Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;Establishment of BBSS Rugby Parent Support Group</p>
-<p>·&nbsp;Annual Training Camp (2D1N)</p>
-<p>·&nbsp;Team Meal @ Seoul Garden</p>
-<p>·&nbsp;HSBC 7s Rugby Clinic with DJ Forbes (All Blacks 7s, ex-captain)</p>
-<p>·&nbsp;HSBC 7s Adopt-A-Country (Team Samoa)</p>
-<p>·&nbsp;Team VIA (Partnership with One Earth Club) - Coastal Clean-up&nbsp;</p>
-<p>·Team Study Session</p>
-<p>·&nbsp;Youth Sports Leaders Camp (October)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;Singapore Schools U16 Seven Series 2017 - Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;Singapore Schools U14 Seven Series 2017&nbsp;</p>
-<p>·&nbsp;&nbsp;2nd (Bowl Category)</p>
-<p>·&nbsp;&nbsp;Champions (Shield Category)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Establishment of BBSS Rugby Team Ball</p>
-<p>·&nbsp;Annual Training Camp (2-Day Day Camp)</p>
-<p>·Team Meal @ 18 Chefs</p>
-<p>·Rugby Clinic with Brumbies (Super Rugby League, Australia)</p>
-<p>·Ball boys for Super Rugby Series 2017</p>
-<p>·Team VIA (Partnership with One Earth Club) - Coastal Clean-up&nbsp;</p>
-<p>·Rugball Games Day (Partnership with Softball)</p>
+<p>NSG League Two 2nd Runners up</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h4>RED WINGS IN THE NEWS</h4>
-<div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Sports%20&amp;%20Games/BBSS%20Rugby-ST%20DSA%20Article%2002082020.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:40%;float:left" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/Cca/Sports%20&amp;%20Games/Capture.png">
-</div>
-<p>
-<br>
-</p>
-<h4>RED WINGS IN ACTION</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Competition Video BBSS vs EVG (Highlights):</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yULL11MOEjo"></iframe>
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Competition Video BBSS vs EVG (Full Video):</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wdjYcoIMK5E"></iframe>
-</div>
-<h4>FIND OUT MORE</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Red Wings' activities &amp; events via our Instagram account:</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>BBSS Rugby's Direct School Admissions (DSA) Criterias:</p>
-</li>
-</ul>
-<p>Find out more</p>
 <h3>Gallery</h3>
 <table style="minWidth: 50px">
 <colgroup>
