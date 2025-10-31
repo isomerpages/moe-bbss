@@ -25,10 +25,9 @@ variant: tiptap
 <p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LTA Mr Darren Ling (IC)
+<p>2LT Mr Jeremy Goh (IC)
 <br>2LT Ms Leah Chua
-<br>OCT Ms Koh Caihua
-<br>OCT Mr Jeremy Goh</p>
+<br>OCT Ms Koh Caihua</p>
 </td>
 </tr>
 <tr>
@@ -68,18 +67,19 @@ variant: tiptap
 <p><strong>Our Core</strong>
 <br>The 53rd Boys’ Brigade Company strongly believes in servanthood leadership.
 Our core values include obedience, reverence, discipline and self-respect.
-Our BB Boys learn to be faithful in their responsibilities. They also learn
-to be committed to the organisation. We train with excellence and take
-pride in what we do</p>
+Our BB Boys learn to be faithful in their responsibilities and to be committed
+to the organisation. We train with excellence and take pride in what we
+do.</p>
 <p><strong>Our Company Achievements</strong>
-<br>For 2023 to 2024, our company has attained the James Milner Fraser - High
+<br>For 2024 to 2025, our company has attained the James Milner Fraser - High
 Distinction. This award goes to the top-performing BB Companies in Singapore.
 Our company has received this award or equivalent since 2016.</p>
-<p></p>
 <p><strong>Our Achievements</strong>
 <br>We have BB Boys receiving the coveted Founder's Award yearly. This award
-is the pinnacle of awards achievable at the Secondary School level.</p>
-<p></p>
+is the pinnacle of awards achievable at the Secondary School level. In
+2025, we have a total of 6 boys receiving this award.</p>
+<p>We have also achieved 2<sup>nd</sup> place in the BB Blaze competition,
+competing against all the other companies in Singapore.</p>
 <p><strong>Our Holistic Curriculum</strong>
 <br>Our BB Officers design BB camps to suit the needs of our BB Boys. Our
 Recruit and Company Training Camps, including our Leadership Training and
