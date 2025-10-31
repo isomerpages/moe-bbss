@@ -28,9 +28,6 @@ variant: tiptap
 <p>2019 - 2020</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2020 - 2021</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>2021 - 2022</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -38,6 +35,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>2023 - 2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024 - 2025</p>
 </th>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N/A</p>
+<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N/A</p>
+<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -97,9 +97,6 @@ variant: tiptap
 <p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N/A</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,6 +104,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -120,9 +120,6 @@ variant: tiptap
 <p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N/A</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,6 +127,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>High Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
 </td>
 </tr>
 <tr>
@@ -143,9 +143,6 @@ variant: tiptap
 <p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N/A</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,6 +150,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
 </td>
 </tr>
 </tbody>
@@ -270,7 +270,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drama - ELDDS</p>
+<p>ELDDS - Drama</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -289,6 +289,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELDDS - Debate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Division 3 Debating Championship - Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSSDC - First Runner-up</p>
+<p></p>
+<p>RDA Youth Under-14 Debate - Quarterfinalist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSSDC - Quarterfinalist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSSDC - Quarterfinalist</p>
 </td>
 </tr>
 <tr>
