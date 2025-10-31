@@ -28,22 +28,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hemathkumar – Boys Captain
-<br>See Suk Dah – Girls Captain
-<br>Dylan Lieu – Boys Vice Captain
-<br>Lee Qing – Girls Vice captain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Junior Captains:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Max Nah – Junior Boys Captain
-<br>Ooi Chen Si – Junior Girls Captain
-<br>Sim Xuen – Junior Boys Vice Captain
-<br>Navya Pande – Junior Girls Vice captain</p>
+<p>Wong Chong Wen – Boys Captain</p>
+<p>Trixie Kot – Girls Captain</p>
+<p>Goh Zhi Hao – Boys Vice Captain</p>
+<p>Cecile Yan – Girls Vice captain</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +40,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays, Wednesdays &amp; Odd Week Fridays: 3.00pm - 6.00pm</p>
+<p>Mondays, Wednesdays &amp; Fridays:
+<br>3.00pm - 6.00pm</p>
 </td>
 </tr>
 <tr>
