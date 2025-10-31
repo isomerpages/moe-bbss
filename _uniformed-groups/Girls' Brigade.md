@@ -27,8 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Pei See (I/C)
-<br>Ms Marie Tiong Sing Sing
-<br>Ms Goh Zhi Qing</p>
+<br>Ms Marie Tiong Sing Sing</p>
 </td>
 </tr>
 <tr>
