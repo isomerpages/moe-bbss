@@ -17,7 +17,7 @@ self-collection in school or delivery at a small fee.</p>
 <p>Please see the attached 2026 booklist for more information. If your child
 is offering subject-based banding or higher-level subjects, please purchase
 the appropriate books accordingly.</p>
-<p><strong>Online Sales Date: From Thursday, 13 November - Sunday, 14 December.</strong>
+<p><strong>Online Sales Date: From Thursday, 13 November 2025 - Sunday, 14 December 2025.</strong>
 </p>
 <p></p>
 <p><u>Bookshop Operating Hours During School Holiday:</u>
