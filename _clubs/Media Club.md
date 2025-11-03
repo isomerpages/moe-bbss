@@ -146,42 +146,6 @@ media services and participation in national-wide competitions</p>
 <p>cultivate students' leadership skills and management of resources.</p>
 </li>
 </ul>
-<h3>Key Events and Competitions</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>IDA Maker Junior Course - Arduino (2015)</p>
-</li>
-<li>
-<p>JC Youthchange Challenge (2015)</p>
-</li>
-<li>
-<p>NP-MOE SDMA Video Competition (2015)</p>
-</li>
-<li>
-<p>Google Doodle Contest (2015)</p>
-</li>
-<li>
-<p>IDA Lab on Wheels Schools Visit (2016)</p>
-</li>
-<li>
-<p>NUS NIDA Maker Junior Course - 3D Printing (2016)</p>
-</li>
-<li>
-<p>National Olympiad in Informatics (2016)</p>
-</li>
-<li>
-<p>Republic Polytechnic #youthempowered Social Media Challenge (2019)</p>
-</li>
-<li>
-<p>Media Club School Camp (2019)</p>
-</li>
-<li>
-<p>Safety Starts with Me Competition (2020)</p>
-</li>
-<li>
-<p>Internal in-house video competition (2021)</p>
-</li>
-</ul>
 <h3>Achievements:</h3>
 <ul data-tight="true" class="tight">
 <li>
