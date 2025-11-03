@@ -45,7 +45,7 @@ the appropriate books accordingly.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/News/Bukit_Batok_Secondary_2026___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Announcements/News/Bukit_Batok_Secondary_2026___Sec_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
