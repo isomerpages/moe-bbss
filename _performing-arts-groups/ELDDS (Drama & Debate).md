@@ -13,32 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays - Debate
-<br>Wednesdays - Drama
-<br>3.15pm - 5.30pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kali Sri d/o Sivanantham (I/C)
-<br>Mr Christopher Thong
-<br>Ms Sharifah Beevi</p>
+<p>Ms Kali Sri d/o Sivanantham&nbsp;(I/C)</p>
+<p>Mdm Sharifah Beevi Abdul Salam</p>
+<p>Mr Thong Yew Kwong &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +29,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Drama: Ms Janis Seah
-<br>Debate: Mr Wayne</p>
+<br>Debate: Ms Naomi</p>
 </td>
 </tr>
 </tbody>
@@ -66,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Benjamin Yudishtira Lee Punyadasa (4A5)</p>
+<p>Wong Yu Teng, Isaac (3A6)</p>
 </td>
 </tr>
 <tr>
@@ -75,21 +56,86 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cortardo Francheska Grace Tuazon (4A4)
-<br>Alicia Shahnaz Bte Md Rafi (4A6)</p>
+<p>Anandan Haniska (3A7)</p>
+<p>Chau Zhi Wei Joy (3A6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Welfare:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halle Er (3A4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aarya Srinivas Karthi (2A4)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays - Debate
+<br>Wednesdays - Drama
+<br>2.30pm – 5.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>About Us</h3>
-<p>Endearingly referred to as 'Meraki' meaning 'doing something with heart
-and soul' in Modern Greek, we strive to be a unified ELDDS that exemplifies
-each member's strengths as outstanding and passionate individuals. Through
-drama performances and debates, we not only gain confidence, creativity
-and critical thinking but also give voice to characters, stories and issues.
-Our versatile students, be it in acting or arguing, they are sure to amaze
-all. Mic drop!</p>
+<p>We are Meraki, whose every word, every action and every creation is done
+with heart and soul. Of course, energy fuels our voice and spirit drives
+our stage. Together we embody, inspire and ignite passion.</p>
+<p>We are Drama. Of course we step into worlds beyond our own. We breathe
+life into stories, give voice to characters that move, enlighten and uplift.
+Through performance, we discover the power of presence and the beauty of
+expression.</p>
+<p>We are Debaters. Of course we give voice to issues that shape our world.
+With words, we educate, persuade and empower. Through dialogue, we cultivate
+conviction and the confidence to stand for what we believe in.</p>
+<p>We are ELDDS. Of course, we are versatile. We are ever ready to create,
+challenge and captivate.</p>
+<p>Mic drop!</p>
 <h3>Achievements</h3>
+<h4>2025</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Secondary Schools Debating Championship – Quarter Finalists</p>
+</li>
+<li>
+<p>National Day 2025 – Scriptwriting and Performance</p>
+</li>
+</ul>
+<h4>2024</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Secondary Schools Debating Championship – Quarter Finalists</p>
+</li>
+<li>
+<p>Rhapsody 2024 – Scriptwriting and Performance</p>
+</li>
+<li>
+<p>Bukit Batok CC CNY Celebrations – Scriptwriting and Performance</p>
+</li>
+</ul>
 <h4>2023</h4>
 <ul data-tight="true" class="tight">
 <li>
