@@ -92,13 +92,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue:
-<br>Broadcasting Room
-<br>
-<br><u>Odd &amp; Even Week Mondays</u>
+<p><u>Mondays</u>
 <br>3:15 PM to 5:15 PM
 <br>
-<br><u>Odd &amp; Even Week Wednesdays:</u>
+<br><u>Wednesdays:</u>
 <br>2:30PM - 4:30PM</p>
 </td>
 </tr>
@@ -126,7 +123,7 @@ students also learn to write, direct, shoot and edit their videos. Students
 are also taught how to use supporting tools such as tripods, gimbals, and
 stabilizers during production.</p>
 <p>Overall, Media Club inculcates values and skills, such as thinking interdependently
-and persisting - giving them a realistic insight into the world of production</p>
+and persisting - giving them a realistic insight into the world of production.</p>
 <h3>Our Aims</h3>
 <p>BBSS Media Club aims to:</p>
 <ul data-tight="true" class="tight">
@@ -149,42 +146,6 @@ media services and participation in national-wide competitions</p>
 <p>cultivate students' leadership skills and management of resources.</p>
 </li>
 </ul>
-<h3>Key Events and Competitions</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>IDA Maker Junior Course - Arduino (2015)</p>
-</li>
-<li>
-<p>JC Youthchange Challenge (2015)</p>
-</li>
-<li>
-<p>NP-MOE SDMA Video Competition (2015)</p>
-</li>
-<li>
-<p>Google Doodle Contest (2015)</p>
-</li>
-<li>
-<p>IDA Lab on Wheels Schools Visit (2016)</p>
-</li>
-<li>
-<p>NUS NIDA Maker Junior Course - 3D Printing (2016)</p>
-</li>
-<li>
-<p>National Olympiad in Informatics (2016)</p>
-</li>
-<li>
-<p>Republic Polytechnic #youthempowered Social Media Challenge (2019)</p>
-</li>
-<li>
-<p>Media Club School Camp (2019)</p>
-</li>
-<li>
-<p>Safety Starts with Me Competition (2020)</p>
-</li>
-<li>
-<p>Internal in-house video competition (2021)</p>
-</li>
-</ul>
 <h3>Achievements:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -201,34 +162,49 @@ Challenge) - 2019</p>
 <p>Gold Award in Copyright School Challenge Video COmpetition - 2025</p>
 </li>
 </ul>
-<h3>Participation:</h3>
+<h3>Key Events and Competitions</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Innova JC Youthchange Challenge (2015)</p>
+<p>IDA Maker Junior Course – Arduino</p>
 </li>
 <li>
-<p>NP-MOE SDMA Video Competition (2015)</p>
+<p>Innova JC Youthchange Challenge</p>
 </li>
 <li>
-<p>Google Doodle Contest (2015)</p>
+<p>NP-MOE SDMA Video Competition</p>
 </li>
 <li>
-<p>NUS National Olympiad in Informatics (2016)</p>
+<p>Google Doodle Contest</p>
 </li>
 <li>
-<p>Safety Starts with Me Competition (2020)</p>
+<p>IDA Lab on Wheels School Visit</p>
 </li>
 <li>
-<p>Our Schools Our Stories (2020)</p>
+<p>NUS NIDA Maker Junior Course – 3D Printing</p>
 </li>
 <li>
-<p>Singapore Young Photographers COnvention (2021)</p>
+<p>National Olympiad in Informatics</p>
 </li>
 <li>
-<p>Safety Starts with Me Competition (2021)</p>
+<p>Republic Polytechnic #youthempowered Social Media Challenge</p>
 </li>
 <li>
-<p>Our Schools Our Stories (2021)</p>
+<p>Media Club School Camp</p>
+</li>
+<li>
+<p>Safety Starts with Me Competition</p>
+</li>
+<li>
+<p><em>Our Schools, Our Stories</em> Competition</p>
+</li>
+<li>
+<p>Singapore Young Photographers Convention</p>
+</li>
+<li>
+<p>Internal In-house Video Competition</p>
+</li>
+<li>
+<p>Copyright School Challenge Video Competition</p>
 </li>
 </ul>
 <h3>Accolades</h3>
