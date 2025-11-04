@@ -6,7 +6,9 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h1>School Life</h1>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EfNyn2HN9_g"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Information/School Life/BBSS_School_Brochure_2025_Page_1.jpg">
 </div>
