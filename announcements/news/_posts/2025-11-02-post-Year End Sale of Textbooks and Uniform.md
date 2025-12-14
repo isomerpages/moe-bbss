@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Parents/ Guardians,</p>
+<p>Dear Parents/Guardians,</p>
 <p>The books and uniform purchases for 2026 can be made online through:
 <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a>or via walk-in to the school.</p>
 <p>For online purchases, you will need to register an account with the company
