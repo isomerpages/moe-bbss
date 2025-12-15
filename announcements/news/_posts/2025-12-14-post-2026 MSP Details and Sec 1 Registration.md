@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Dear Malay Special Programme 2025 students,</strong>
+<p><strong>Dear parents and students,</strong>
 <br>Please visit our <a href="https://www.bukitbatoksec.moe.edu.sg/our-bbss-experience/Departments/malay-special-programme/" rel="noopener nofollow" target="_blank">MSP page</a> for
-more information and the details on the commencement of lessons for 2025.</p>
+more details on Malay Special Programme(MSP) and registration for Sec 1
+students for 2026.</p>
