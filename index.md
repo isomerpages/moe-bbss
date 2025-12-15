@@ -18,7 +18,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: • Year End Sale of Textbooks and Uniform •
+      description: • Year End Sale of Textbooks and Uniform for 2026 Sec 1-5 students
+        • 2026 MSP Details and Sec 1 Registration •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Open_House_Flyer.png

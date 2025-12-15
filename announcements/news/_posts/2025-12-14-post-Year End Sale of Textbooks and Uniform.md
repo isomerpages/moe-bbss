@@ -1,13 +1,13 @@
 ---
 title: Year End Sale of Textbooks and Uniform
 permalink: /year-end-sale-of-textbooks-and-uniform/
-date: 2025-11-02
+date: 2025-12-14
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Parents/ Guardians,</p>
+<p>Dear Parents/Guardians,</p>
 <p>The books and uniform purchases for 2026 can be made online through:
 <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a>or via walk-in to the school.</p>
 <p>For online purchases, you will need to register an account with the company
@@ -44,6 +44,10 @@ the appropriate books accordingly.</p>
 <br><u>2026 Textbook List*</u>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements/News/Bukit_Batok_Secondary_2026___Sec_1_Book_list.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+</li>
 <li>
 <p><a href="/files/Announcements/News/Bukit_Batok_Secondary_2026___Sec_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
