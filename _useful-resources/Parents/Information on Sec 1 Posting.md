@@ -13,8 +13,8 @@ This marks the beginning of an exciting journey filled with growth, learning,
 and memorable experiences for your child/ward.</p>
 <h4><strong><u>Important Information</u></strong></h4>
 <p>Please see below for more information about our school and Sec 1 programmes.
-Kindly also refer to the letter shared via Parents Gateway (PG) on 19 Dec
-2025 for more details.</p>
+Kindly also refer to the letter which will be shared via Parents Gateway
+(PG) for more details.</p>
 <p>Information regarding offers to study selected subjects at a More Demanding
 Level/ Higher Mother Tongue Language (HMTL)/ Malay Special Programme (MSP)/
 Chinese Special Programme (CSP) will be shared via PG about 1 - 2 working
