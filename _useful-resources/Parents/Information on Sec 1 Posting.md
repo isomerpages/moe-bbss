@@ -248,9 +248,9 @@ child/ward's <u>medical conditions and dietary restrictions</u> (if any)
 via PG to facilitate our planning.</p>
 <p>&nbsp;</p>
 <h4><strong><u>Financial Assistance Scheme</u></strong></h4>
-<p><a rel="noopener noreferrer nofollow" target="_blank">You can apply through the e-FAS portal (</a>
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>) or on Parents Gateway (under Services
-&gt; Financial Assistance) using Singpass.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">You can apply through the e-FAS portal (https://go.gov.sg/moe-efas</a>)
+or on Parents Gateway (under Services &gt; Financial Assistance) using
+Singpass.</p>
 <p>Meal subsidies for eligible <strong>FAS students</strong> are administered
 through the POSB Smart Buddy and it can be utilised using the student’s <strong>Smart Card</strong> at
 the school canteen during the school term.</p>
