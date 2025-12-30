@@ -5,31 +5,31 @@ description: ""
 variant: tiptap
 ---
 <h1>Timetable</h1>
-<h3>2025 Timetable for Semester 2 (Term 3 and 4)</h3>
-<p>The timetable uploaded below is updated as of <strong><em>27 June 2025</em></strong><em>.</em> 
+<h3>2026 Timetable for Semester 1 (Term 1 and 2)</h3>
+<p>The timetable uploaded below is updated as of <strong><em><u>29 December 2025</u></em></strong><em>.</em> 
 <br><strong>Dear students, please click on the links below to view your timetable.</strong>
 <br>
 </p>
 <p>By Levels:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_1_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Semester 2 Timetable</a>
+<p><a href="/files/Useful Resources/Timetable/Sec_1_2026_Semester_1_Timetable_29Dec.pdf" rel="noopener nofollow" target="_blank">Sec 1 Timetable for Semester 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_2_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Semester 2 Timetable</a>
+<p><a href="/files/Useful Resources/Timetable/Sec_2_2026_Semester_1_Timetable_29Dec.pdf" rel="noopener nofollow" target="_blank">Sec 2 Timetable for Semester 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Semester 2 Timetable</a>
+<p><a href="/files/Useful Resources/Timetable/Sec_3_2026_Semester_1_Timetable_29Dec.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable for Semester 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_4_and_5_2025_Semester_2_Timetable_1.pdf" rel="noopener nofollow" target="_blank">Secondary 4 and 5 Semester 2 Timetable</a>
+<p><a href="/files/Useful Resources/Timetable/Sec_4_2026_Semester_1_Timetable_29Dec.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5 Timetable for Semester 1</a>
 </p>
 </li>
 </ul>
-<p><a href="/files/Subject_Acronyms_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Acronyms Guide</a>
+<p><a href="/files/Useful Resources/Timetable/2026_Subject_Acronyms_Guide.pdf" rel="noopener nofollow" target="_blank">2026 Subject Acronyms Guide</a>
 </p>
 <p>For teachers, please locate it in the time-tabling folder.</p>
 <p>* To do a specific search within the PDF timetable, press &amp; hold&nbsp;<em>Ctrl+F</em>&nbsp;(or&nbsp;<em>Cmd+F</em>,

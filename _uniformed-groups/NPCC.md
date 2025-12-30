@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays: 3:00PM - 65:00PM</p>
+<p>Mondays &amp; Wednesdays: 3:00PM - 5:00PM</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ variant: tiptap
 <p>Teachers In Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Catherine Bok (IC) <br>Mr Derek Goh (2IC) <br>Mr Luke Tan</strong>
+<p><strong>Mr Derek Goh (IC) <br>Ms Wynter Lee (2IC) <br>Mr Luke Tan</strong>
 </p>
 <p><strong>Mr Asriq</strong>
 </p>
