@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Dear Sec 1 to 5 BBSS students,</p>
 <p>Please click the link below to find your timetable for Semester 1 2026.
-The timetable is updated as of <strong><em>31 December 2025.</em></strong>
+The timetable is updated as of <strong><em>30 December 2025.</em></strong>
 </p>
 <p><a href="https://www.bukitbatoksec.moe.edu.sg/useful-resources/timetable/" rel="noopener nofollow" target="_blank">Sec 1 to 5 2026 Semester 1 Timetable</a>
 </p>
