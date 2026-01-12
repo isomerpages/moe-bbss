@@ -19,8 +19,8 @@ sections:
       title: Announcements & News
       id: infopic
       description: 2026 Semester 1 Timetable • Year End Sale of Textbooks and Uniform
-        for 2026 • 2026 MSP Details and Sec 1 Registration • 2025 N Level
-        Results Release Resources
+        for 2026 • 2026 MSP Commencement Details • 2025 N Level Results Release
+        Resources
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/Open_House_Flyer.png
