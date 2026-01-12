@@ -17,8 +17,10 @@ subject leading to the Singapore-Cambridge Secondary Education Certificate
 <h3>Malay Special Programme 2026</h3>
 <p><strong><u>Class Schedule</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -31,45 +33,92 @@ subject leading to the Singapore-Cambridge Secondary Education Certificate
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Day</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Commencement Date</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MSP Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays/ Thursdays</p>
+<p>Wednesday, 21 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15pm – 6.15pm</p>
+<p>3.15-6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Jan 2026/</p>
-<p>22 Jan 2026</p>
+<p>MSP1A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A4 CR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Latifah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Thursday, 22 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15-6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSP1B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A4 CR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Asriq</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Secondary 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Thursdays</p>
+<td rowspan="2" colspan="1">
+<p>Thursday, 22 Jan 2026</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>3.15-6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15pm – 6.15pm</p>
+<p>MSP2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Jan 2026</p>
+<p>1A3 CR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rafidah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MSP2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A2 CR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mastuty</p>
 </td>
 </tr>
 <tr>
@@ -77,13 +126,19 @@ subject leading to the Singapore-Cambridge Secondary Education Certificate
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursdays</p>
+<p>Thursday, 22 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15pm – 6.15pm</p>
+<p>3.15-6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Jan 2026</p>
+<p>MSP3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A1 CR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khatijah</p>
 </td>
 </tr>
 <tr>
@@ -91,42 +146,35 @@ subject leading to the Singapore-Cambridge Secondary Education Certificate
 <p>Secondary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays</p>
+<p>Wednesday, 21 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15pm – 6.15pm</p>
+<p>3.15-6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Jan 2026</p>
+<p>MSP4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A3 CR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khatijah</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>For Secondary 1 students, allocation of class will be informed through
-the child’s school by 14 Jan 2026.</p>
-<h3><u>Registration for 2025 Secondary 1 students </u><strong><em><u>[26 Dec 2025-7 Jan2026 (1700hr)]</u></em></strong></h3>
-<p>Secondary 1 2026 students who have been offered the subject, please register
-at <a href="https://go.gov.sg/msp-registration-bukitbatoksec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/msp-registration-bukitbatoksec</a> or
-scan the following QR code (link will be available from <strong><u>26 Dec 2025, 0700hrs to 7 Jan 2026, 1700hrs</u></strong> only).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="BBSS_MSP Registration_2026" src="/images/Our BBSS Experience/MSP/BBSS_2026.png">
-</div>
-<p>Please note that this registration is only for those who have successfully
-been offered the subject, Malay (Special Programme) at Bukit Batok Secondary
-School (West - Zonal Centre).</p>
-<p>(i) If successful applicants do not register by 7 January 2026, the offer
-will lapse, and the place will be offered to another applicant.</p>
-<p>(ii) Commencement of lesson will begin in the week of 19 January 2026
-(please see above for the specific date). Other commencement details such
-as class allocation and classroom venue will be sent to schools by 14 January
-2026.</p>
-<p>(iii) Books will be bought upon the teacher's instruction in class.</p>
-<p>Applicants who were unsuccessful and those who wish to appeal to take
-up the subject, please contact your respective school’s Head of Department.</p>
+<p>All lessons will commence in Term 1 Week 3; as per the dates stated above.</p>
+<h3>Registration for 2025 Secondary 1 students</h3>
+<p>Registration has ended on 7 Jan 2026.</p>
+<h3>Commencement of Lessons</h3>
+<p>All lessons will commence in Term 1 Week 3 (refer to table above).</p>
+<p>Books will be bought upon the teacher's instruction in class.</p>
+<p>Letter to parents regarding commencement details has been sent to schools
+(dated 9 Jan 2026). Please click&nbsp;<a href="/files/COMMENCEMENT_DETAILS_FOR_MSP_2026__for_schs_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a copy of the Commencement Details</p>
 <h3>Withdrawal from Programme</h3>
 <p>For current students who would like to withdraw from the programme, please
-complete the <a href="/files/BBSS_MSP_WITHDRAWAL_FORM_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal Form</a> and
+complete the <a href="/files/2026_BBSS_MSP_WITHDRAWAL_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal Form</a> and
 submit it to BBSS.</p>
 <h3>MSP Teachers’ Contacts</h3>
 <table style="minWidth: 50px">
