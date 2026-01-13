@@ -1,7 +1,7 @@
 ---
 title: 2026 MSP Commencement Details
 permalink: /announcements/news/2026mspdetailsandsec1registration/
-date: 2025-01-11
+date: 2026-01-12
 layout: post
 description: ""
 image: ""
