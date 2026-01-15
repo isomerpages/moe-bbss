@@ -15,7 +15,6 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
-      subtitle: Be Our Best
   - infopic:
       title: Announcements & News
       id: infopic
@@ -24,6 +23,7 @@ sections:
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/BBSS_Banner_2024_0_1x.png
+      alt: Be Our Best
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
