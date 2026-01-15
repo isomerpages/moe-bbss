@@ -23,7 +23,7 @@ sections:
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/BBSS_Banner_Post_Open_House_0_18x.png
-      alt: Be Our Best!
+      alt: Be Our Best
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
