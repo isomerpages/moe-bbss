@@ -22,8 +22,8 @@ sections:
         MSP Commencement Details •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
-      image: /images/Open_House_Flyer.png
-      alt: BBSS Banner
+      image: /images/BBSS_Banner_Post_Open_House_0_18x.png
+      alt: Be Our Best!
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
