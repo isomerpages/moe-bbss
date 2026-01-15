@@ -15,6 +15,7 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
+      subtitle: Be Our Best
   - infopic:
       title: Announcements & News
       id: infopic
