@@ -18,9 +18,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: Useful Resources for Students & Parents after O Level Results
-        Release • SDL Task List for Term 1 Week 2 • 2026 MSP Commencement
-        Details •
+      description: SDL Task List for Term 1 Week 4 • Useful Resources for Students &
+        Parents after O Level Results Release • 2026 MSP Commencement Details •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/BBSS_Banner_2024_0_1x.png
