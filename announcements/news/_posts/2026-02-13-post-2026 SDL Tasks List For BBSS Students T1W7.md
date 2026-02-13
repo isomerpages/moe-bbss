@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <p>Dear BBSS students,</p>
-<p>Please click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQm1Xnzr2PXMgiP299k8r8DDZWfPuwk2C5wBT7twuHqEXpjs8GYP4xGeb1gxr2hpRPG5lrFifcvBPC_/pubhtml" rel="noopener nofollow" target="_blank">here</a> to
-view your task list for Term 1 Week 4 (30 January 2026).</p>
+<p>Please click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSJJzjSXYkEsvrmNaZM6I5-YZvKZzsQPGMvmur0KLJYQm_0IVyBXL0jOjx1oGuF22jmVNMydMZ3jqS-/pubhtml" rel="noopener nofollow" target="_blank">here</a> to
+view your task list for Term 1 Week 74 (16 February 2026).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>This list auto updates every five minutes; please check in regularly for the latest information.&nbsp;</em>
