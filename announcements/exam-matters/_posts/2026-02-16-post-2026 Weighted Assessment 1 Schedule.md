@@ -33,6 +33,3 @@ Term 1:</p>
 <br><a href="/files/Announcements/Exam/2026_WA1_Schedule_and_Scope_Sec_5.pdf" rel="noopener nofollow" target="_blank">Sec 5 WA1 Scope</a>
 </p>
 <p></p>
-<p><a href="/files/Announcements/Exam/Guidelines_for_Students_Absence_during_School_Based_Assessments_2026.pdf" rel="noopener nofollow" target="_blank">Guidelines for Students Absence During School-Based Assessments</a>
-</p>
-<p></p>
