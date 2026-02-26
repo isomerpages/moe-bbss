@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: WA1 Schedule • SDL Task List for Term 1 Week 7 • Useful Resources
+      description: WA1 Schedule • SDL Task List for Term 1 Week 8 • Useful Resources
         for Students & Parents after O Level Results Release •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
