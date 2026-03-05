@@ -1,4 +1,5 @@
 collections:
   bbss-40th-anniversary:
     output: true
-    order: []
+    order:
+      - BBSS 40th Anniversary.md
