@@ -23,7 +23,7 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <p>To enable our students to acquire a sound foundation in mathematical knowledge
 and skills for continuous learning in mathematics and related disciplines,
-and for application to the real world;&nbsp;</p>
+and for application to the real world;</p>
 <p>To nurture in our students the ability to think logically and communicate
 mathematically, as well as to appreciate the beauty and power of mathematics
 and its role as a fundamental mode of human thought;</p>
@@ -79,21 +79,67 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>No</p>
+<p><strong>No</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Competition Title</p>
+<p><strong>Competition Title</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award/Achievement</p>
+<p><strong>Award/Achievement</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cashflow Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> place out of 300</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Bronze, 6 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICAS Mathematics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Higher Distinction, 11 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -107,7 +153,7 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -121,7 +167,7 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -135,7 +181,7 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -149,7 +195,7 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
@@ -163,7 +209,7 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
@@ -177,7 +223,7 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -191,7 +237,7 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -203,36 +249,9 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 <p>1 High Distinction, 10 Distinction</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Mathematical Olympiad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Honourable Mention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICAS Mathematics Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 Distinction</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
 <h3>Key department Programmes and Activities</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -243,13 +262,16 @@ such as the Singapore Mathematical Olympiad and the ICAS Mathematics Competition
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>No</p>
+<p><strong>No</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Programme/Activity Title</p>
+<p><strong>Programme/Activity Title</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Brief Description</p>
+<p><strong>Brief Description</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -365,13 +387,13 @@ levels.</p>
 <p>Consultation for graduating students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To prepare students well for N level and O level Exam</p>
+<p>To prepare students well for N level and O level Exam.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSczYa_0aDRZ3lMBC4-Z4vfudjF0dtnSYWv3C82Qoq6W83499egvQtozt61oTFA6mgKZ6_cvj6fR2n/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSczYa_0aDRZ3lMBC4-Z4vfudjF0dtnSYWv3C82Qoq6W83499egvQtozt61oTFA6mgKZ6_cvj6fR2n/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
