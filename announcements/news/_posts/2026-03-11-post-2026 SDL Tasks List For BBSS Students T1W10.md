@@ -8,19 +8,16 @@ image: ""
 variant: tiptap
 ---
 <p>Dear BBSS students,</p>
-<p>Please click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqgLFMbb9EfliPGAkuKBY8oKHo6xpSPV2sca4O3LCMPqR_0HJygDKcDlbqjSX8tVUjqKpYxR5jlxI/pubhtml" rel="noopener nofollow" target="_blank">here</a> to
-view your task list for Term 1 Week 8 (27 February 2026).</p>
+<p>Please click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYZNIn8ii9QsbiLDRCNE_skWphICQReVrCys0ke0xQ0G-VTy93r_CfdZlS-DxJxeDx4xrFpMA9w20v/pubhtml" rel="noopener nofollow" target="_blank">here</a> to
+view your task list for Term 1 Week 10 (13 March 2026).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>This list auto updates every five minutes; please check in regularly for the latest information.&nbsp;</em>
+<p><em>This </em><strong><em>list auto updates every five minutes</em></strong><em>; please check in regularly for the latest information.&nbsp;</em>
 </p>
 </li>
 <li>
 <p><em>To find your level, look for the corresponding tab at the bottom of the spreadsheet.</em>
 </p>
-</li>
-<li>
-<p></p>
 </li>
 </ul>
 <p></p>
