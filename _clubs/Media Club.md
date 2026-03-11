@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gian Chee Han (3A5)</p>
+<p>Gian Chee Han (4A5)</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +54,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Hai En Chloe (3A5) - Operations Manager</p>
-<p>Olivia Huang Chee (3A6) - Creative Director</p>
+<p>Tan Hai En Chloe (4A5) - Operations Manager</p>
+<p>Olivia Huang Chee (4A6) - Creative Director</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Yong Jun (3A4)</p>
+<p>Goh Yong Jun (4A4)</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shine Moe Ko (3A7)</p>
+<p>Shine Moe Ko (4A7)</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ooi Yong Zhi Jeremiah (3A4)</p>
+<p>Ooi Yong Zhi Jeremiah (4A4)</p>
 </td>
 </tr>
 <tr>
@@ -98,13 +98,13 @@ variant: tiptap
 </p>
 <p><u>Wednesdays (</u><strong><u>For Selected Students</u></strong><u>)</u>
 <br>Odd Week Wednesdays: 3:15PM - 5:15PM
-<br>Even Week Wednesdays 2:25PM - 4:25PM</p>
+<br>Even Week Wednesdays 2:30PM - 4:30PM</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndGdwz-A2rw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndGdwz-A2rw"></iframe>
 </div>
 <h3>About Media Club</h3>
 <p>Media Club trains our members to be technology savvy, competent in the
@@ -211,10 +211,10 @@ Challenge) - 2019</p>
 </ul>
 <h3>Accolades</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRm2dQ_qBqlglYAVqXkwJlDksXclqldTQrtvJA3gxm0gd-B_ACppsxnB-HbGQ1kNN81Mh7SVhwX0b4k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRm2dQ_qBqlglYAVqXkwJlDksXclqldTQrtvJA3gxm0gd-B_ACppsxnB-HbGQ1kNN81Mh7SVhwX0b4k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRD4rlgCc5a6xxPJ02asfLn8H-XlytcV_WTNi1wMu3HGOZahWhnZ-5NdmjC11SH5mgNPyphdcnCznLH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRD4rlgCc5a6xxPJ02asfLn8H-XlytcV_WTNi1wMu3HGOZahWhnZ-5NdmjC11SH5mgNPyphdcnCznLH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
