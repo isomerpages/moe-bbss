@@ -17,6 +17,16 @@ sections:
           description: ""
           url: /useful-resources/calendar/
   - infopic:
+      title: 40th Anniversary Homecoming Dinner
+      id: infopic
+      description: Calling all BBSS alumni! Join us as we celebrate 40 years of heart,
+        home, and heritage on the hill. Come back, reconnect, and secure your
+        tickets today!
+      button: GET YOUR TICKETS HERE
+      url: https://tinyurl.com/bbss40thannidinner
+      image: /images/BBSS 40th Anniversary/BBSS_40th_Anniversary__thumbnail_.gif
+      alt: Image alt text
+  - infopic:
       title: Announcements & News
       id: infopic
       description: SDL Task List for Term 1 Week 10 • Useful Resources for Students &
