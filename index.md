@@ -7,7 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BBSS_Slideshow_ppt_slide.gif
+      background: /images/BBSS 40th
+        Anniversary/Website_40th_Anniversary_Homecoming_Dinner__Banner_.gif
       key_highlights:
         - title: Announcements
           description: ""
