@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <h1>Choir</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/Change_2.png">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,116 +22,106 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS FONG (I/C)
-<br>MS NANCY BALA
-<br>MRS JENNY CHUA</p>
+<p>Ms Zhang Yue (IC)
+<br>Mrs Neo Leng Choo Jenny
+<br>Ms Seah Lilin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRESIDENT&nbsp;</strong>
+<p><strong>Instructors</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHAI FONG FAYE (4A6)</p>
+<p>Ms Michelle Poh
+<br>Ms Eugenia Yip</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VICE-PRESIDENT (STUDENT DEVELOPMENT)</strong>
+<p><strong>Training Days/Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HO KENG CHOONG, BROSCO (4A2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>VICE-PRESIDENT (WELFARE)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYALOOM MOIRA VICTORIA PENINA SIMANJUNTAK (4A7)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HEAD OF LOGISTICS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALROY LUA SEH YAO (4A5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>STUDENT CONDUCTOR</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JAYDEN LIAW KAI JIE (4A7)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SECTION LEADERS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SOPRANO 1:&nbsp;
-<br>SERAH CHRISTY (4A6), ALROY LUA SEH YAO (4A7)
-<br>
-</p>
-<p>SOPRANO 2:&nbsp;
-<br>SARA KUNDU (4A5), EVALENE TAN YEE SHUEN (4A6)</p>
+<p>Odd Mon &amp; Wed 3:15pm-5:15pm
+<br>Even Mon 3:15pm-5:15pm
+<br>Even Wed 2:30pm-4:30pm</p>
 <p></p>
-<p>ALTO:
-<br>CHAI FONG FAYE (4A6), NICOLE TAN XIN YING (4A5)
-<br>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>CCA Leaders</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Executive Committee:</strong>
 </p>
-<p>BARITONE:&nbsp;
-<br>JAYDEN LIAW KAI JIE (4A7)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President:<strong> TAN LE THANH NGUYEN</strong>
+<br>Vice-President Student Management:<strong> MEGAN SAW MEI EN</strong>
+<br>Vice-President Welfare:<strong> LAU ZHEN YU</strong>
+<br>Student Conductor:<strong> HO YAN LE CHARLOTTE</strong>
+<br>Student Conductor, Head of Logistics:<strong> REYENCE CHUA RUI HENG&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Sessions</strong>
+<p><strong>Committee:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays: 3.15pm - 5.15pm
-<br>Wednesdays: 2.30pm - 4.30pm</p>
+<p>Section Leader - Alto:<strong> LOH JIAXIN</strong>
+<br>Section Leader - Baritone:<strong> MOHAMMAD ZULHAQID BIN MOHAMMAD YUSMAN</strong>
+<br>Section Leader - SOP1: <strong>HO YAN LE CHARLOTTE</strong>
+<br>Section Leader - SOP 1:<strong> CHEAH ZHI XIN</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>About Us</h4>
-<p>The BBSS Choir grooms confident and captivating choristers.</p>
-<p>Called ‘Querencia’ (Spanish for a place where one feels happy, safe and
-strong), our Choir is a close-knit family. We motivate each other with
-our shared love and burning passion for the arts.</p>
-<p>Under the musical direction of choral director Ms Michelle Poh and assistant
-Ms Eugenia Yip, who are also accomplished singer-musicians with experience
-in diverse genres with international portfolios, our choristers are blessed
-with many opportunities to perform. Along the way, our choristers broaden
-their horizons, master choral skills and techniques, and develop sound
-musicianship. Importantly, through regular training sessions, everybody
-learns the value of teamwork and resilience. We push each other to be the
-best versions of ourselves!</p>
-<p>Testament to our high musical standards is our Choir having been awarded
-the Certificate of Accomplishment in the past three SYF Arts Presentations.
-Such competitions and performances at external concerts and school events
-are fine platforms where we hone and showcase our skills. Through these,
-we also continually strengthen our bonds as a team. Crucially, our choristers
-grow in confidence and build self-esteem.</p>
-<p>Of course, it's not all work and no play at BBSS Choir! Our members unwind
-and build camaraderie through student-run games sessions and choir camps.</p>
-<p>Under the guidance of our instructors and teachers-in-charge, the BBSS
-Choir continues to uphold our standard of choral excellence and continuously
-aspires to new heights!</p>
+<p><strong>BBSS Choir - Querencia</strong>
+</p>
 <p></p>
-<h4>Key Events:<br></h4>
-<h4>2025</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/Change_4.jpg">
+</div>
+<p>
+<br>The BBSS Choir, known as 'Querencia' (Spanish for a place where one feels
+happy, safe and strong), is more than just a musical ensemble—we are a
+family united by our shared passion for choral excellence. Our choristers
+embody the spirit of seizing opportunities, daring to learn, and embracing
+challenges that push us beyond our comfort zones.</p>
+<p>Under the expert guidance of choral director Ms Michelle Poh and assistant
+Ms Eugenia Yip—accomplished singer-musicians with diverse international
+experience—our members develop not only exceptional vocal techniques but
+also the confidence to shine as captivating performers. Through rigorous
+training sessions, we cultivate teamwork, resilience, and the courage to
+step into the spotlight as confident singers.</p>
+<p>This year, Querencia is focused on embracing every opportunity that comes
+our way. We dare to earn our place on bigger stages, take up new challenges,
+and support each other in becoming more confident, expressive singers.
+Whether performing at school celebrations or community events, our choristers
+step out of their comfort zones with pride and determination.</p>
+<p>Through regular performances at external concerts and school events, we
+challenge ourselves, showcase our growth, and strengthen our bonds as a
+team. These platforms allow us to hone our skills whilst building the self-esteem
+and stage presence that defines a true chorister.</p>
+<p>Beyond the music, we build lasting friendships through student-led activities
+and choir camps, creating memories that extend far beyond our rehearsal
+sessions. At BBSS Choir, we don't just sing together—we grow together,
+pushing each other to reach new heights while maintaining the joy and camaraderie
+that makes Querencia truly special.</p>
+<h4>Key Events:<br>2025</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>‘Unique Voices’ Concert at the Singapore Arts House</p>
@@ -179,13 +173,12 @@ Fiesta</p>
 <p>Bowling @ CSC Bukit Batok (School Sports Enrichment Program)</p>
 </li>
 </ul>
-<p></p>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShIpkTeqbE32GEU5OMPxFpWoRwsd1UqDXU3CGjfVSu3yZgn9R6EVKZA9MJq2vwKUJGekTKsSY4VCG4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShIpkTeqbE32GEU5OMPxFpWoRwsd1UqDXU3CGjfVSu3yZgn9R6EVKZA9MJq2vwKUJGekTKsSY4VCG4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vto2TNEYA_Y?si=7T8-hgGAiXakyZsB"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vto2TNEYA_Y?si=7T8-hgGAiXakyZsB"></iframe>
 </div>
 <p></p>

@@ -23,7 +23,7 @@ variant: markdown
 <tr>
 <td style="text-align: center" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/SYF2013_0410_SOTA_BukitBatokSecondarySchool_0023.jpg">
+<img style="width: 50%" height="300" width="500" src="/images/Our%20BBSS%20Experience/Cca/Performing%20arts/Choir_Profile_Photo.jpg">
 </div>
 <p><a href="/performing-arts-groups/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
