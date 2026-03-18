@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <h1>Choir</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/Change_2.png">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -86,6 +90,12 @@ variant: tiptap
 </table>
 <h4>About Us</h4>
 <p><strong>BBSS Choir - Querencia</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/Change_4.jpg">
+</div>
+<p>
 <br>The BBSS Choir, known as 'Querencia' (Spanish for a place where one feels
 happy, safe and strong), is more than just a musical ensemble—we are a
 family united by our shared passion for choral excellence. Our choristers
