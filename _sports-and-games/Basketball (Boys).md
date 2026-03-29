@@ -17,8 +17,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jacky Ong Jie Jun (IC)
-<br>Mr Wang Kangcheng</p>
+<p>Mr JACKY ONG JIE JUN (IC)</p>
+<p>MR WANG KANGCHENG</p>
 </td>
 </tr>
 <tr>
@@ -27,31 +27,31 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Zhi Sen</p>
+<p>TAN ZHI SEN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>B Division Captains (2024-2025)</strong>
+<p><strong>B Division Captains (2025-2026)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hamzah Bin Faizal
-<br>Tan Jing Yang Jason
-<br>Tan Jian Wei</p>
+<p>SIAH BOCK WOON</p>
+<p>MEKMEKANAND CLIFTON</p>
+<p>JADRIEN ONG ZHI JIE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>C Division Captains</strong>
 </p>
-<p><strong>(2024-2025)</strong>
+<p><strong>(2025-2026)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siah Bock Woon
-<br>Gatbonton John Joseph Balomaga
-<br>Derek Tun</p>
+<p>TSUDA SINDHWANI HARUTO</p>
+<p>TAN JOVENN</p>
+<p>CHUA SI ZHE JENSON</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ have the opportunity to attend sponsored events such as the finals of ASEAN
 Basketball League (ABL) and support our very own Singapore Slingers and
 HSBC Rugby Seven (Category 1 tickets).</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bOKLLku07OQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bOKLLku07OQ"></iframe>
 </div>
 <p>Our basketball team is the only secondary school team in Singapore to
 be certified as a cohort with professional referees. This will allow our
@@ -128,26 +128,23 @@ our players organise our school level wide yearly 3v3 competition.</p>
 <h3>Highlights</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p>B Div NSG 2026, West Zone Quarter Finals</p>
+</li>
+<li>
 <p>B Div NSG 2025, West Zone 3rd Place</p>
 </li>
 <li>
 <p>B Div NSG 2025, Nationals Top 8</p>
 </li>
-<li>
-<p>C Div NSG 2023, West Zone 2nd Place</p>
-</li>
-<li>
-<p>C Div NSG 2023 Nationals Top 8</p>
-</li>
 </ul>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cFldDKRcoHU?si=-8SO9-hkr2ZClXrj"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cFldDKRcoHU?si=-8SO9-hkr2ZClXrj"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlevp0DWU_lZTB3MtLDAMQyhd9iL8_pMY7y5oool62DrW0RLR3t_De7C4KlYLl0cO_oE_vCvEs0K6B/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlevp0DWU_lZTB3MtLDAMQyhd9iL8_pMY7y5oool62DrW0RLR3t_De7C4KlYLl0cO_oE_vCvEs0K6B/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
