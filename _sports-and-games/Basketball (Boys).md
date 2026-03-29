@@ -36,9 +36,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIAH BOCK WOON</p>
-<p>MEKMEKANAND CLIFTON</p>
-<p>JADRIEN ONG ZHI JIE</p>
+<p>SIAH BOCK WOON
+<br>MEKMEKANAND CLIFTON
+<br>JADRIEN ONG ZHI JIE</p>
 </td>
 </tr>
 <tr>
@@ -49,9 +49,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TSUDA SINDHWANI HARUTO</p>
-<p>TAN JOVENN</p>
-<p>CHUA SI ZHE JENSON</p>
+<p>TSUDA SINDHWANI HARUTO
+<br>TAN JOVENN
+<br>CHUA SI ZHE JENSON</p>
 </td>
 </tr>
 <tr>
