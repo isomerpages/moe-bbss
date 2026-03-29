@@ -141,9 +141,7 @@ our players organise our school level wide yearly 3v3 competition.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cFldDKRcoHU?si=-8SO9-hkr2ZClXrj"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlevp0DWU_lZTB3MtLDAMQyhd9iL8_pMY7y5oool62DrW0RLR3t_De7C4KlYLl0cO_oE_vCvEs0K6B/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
