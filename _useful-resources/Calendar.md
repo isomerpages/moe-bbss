@@ -5,11 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>Calendar</h1>
-<h3>2026 Term 1 School Events</h3>
-<p></p>
+<h3>2026 Term 2 School Events</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Resources/2026_T1_Calendar.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Resources/2026_T2_Events_Calendar.png">
 </div>
 <h4><strong>Protected Time</strong></h4>
 <table style="minWidth: 50px">
@@ -20,7 +19,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong><u>Term 4</u></strong>
+<p><strong><u>Term 2</u></strong>
 </p>
 </th>
 </tr>
@@ -30,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 &amp; 20 March 2026</p>
+<p>6-21 June 2026</p>
 </td>
 </tr>
 </tbody>
