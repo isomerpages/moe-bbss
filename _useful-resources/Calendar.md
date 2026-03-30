@@ -6,9 +6,9 @@ variant: tiptap
 ---
 <h1>Calendar</h1>
 <h3>2026 Term 2 School Events</h3>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Resources/2026_T2_Events_Calendar.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Resources/2026_T2_Events_Calendar_1.png">
 </div>
 <h4><strong>Protected Time</strong></h4>
 <table style="minWidth: 50px">
