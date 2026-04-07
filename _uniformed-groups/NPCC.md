@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays: 3:00PM - 5:00PM</p>
+<p>Mondays &amp; Wednesdays: 3:00PM - 6:00PM</p>
 </td>
 </tr>
 <tr>
@@ -29,21 +29,46 @@ variant: tiptap
 <p>Teachers In Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Mr Derek Goh (IC) <br>Ms Wynter Lee (2IC) <br>Mr Luke Tan</strong>
+<p><strong>Ms Wynter Lee<br>Mr Derek Goh</strong>
 </p>
-<p><strong>Mr Asriq</strong>
+<p><strong>Mr Asriq Adnan</strong>
+</p>
+<p><strong>Ms Zanna Ker</strong>
 </p>
 </th>
 </tr>
 </tbody>
 </table>
-<p>Since its founding in 1986, the Bukit Batok Secondary School National
-Police Cadet Corps (NPCC) unit continues to shape young leaders, welcoming
-its 36th batch of cadets in 2025. NPCC is a dynamic and enriching co-curricular
-activity where cadets develop a strong sense of patriotism, actively contribute
-to the community, and grow into capable leaders. The unit's holistic training
-program prioritises character building and leadership development, evidenced
-by its consistent achievement of Distinction in the Unit Overall Proficiency
-Award for five consecutive years (2019-2024).</p>
-<p>To know more about us, click on this&nbsp;<a href="https://sites.google.com/view/bbssnpcc/about-us" rel="noopener noreferrer nofollow" target="_blank">link!</a>
+<p><strong>Our Mission</strong>
+</p>
+<p>To develop our members to be active citizens and community leaders, by
+working in partnership with the Singapore Police Force to fight crime and
+keep Singapore safe.</p>
+<p>&nbsp;</p>
+<p><strong>Our Vision</strong>
+</p>
+<p>To become the best youth organisation in Singapore, one that actively
+helps to make Singapore the safest place in the world.</p>
+<p>&nbsp;</p>
+<p><strong>Our Values</strong>
+</p>
+<p>R&nbsp;<strong>- Resilience</strong>
+</p>
+<p>I&nbsp;<strong>- Integrity</strong>
+</p>
+<p>S&nbsp;<strong>- Service</strong>
+</p>
+<p>E&nbsp;<strong>– Excellence</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Our Curriculum</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Law enforcement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resilience</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal Development</p>
+<p>&nbsp;</p>
+<p><strong><a href="https://drive.google.com/drive/folders/1jQvRnUDxniaMeAc_3lPiQJ0cqI7ZIVi9?usp=drive_link" rel="noopener nofollow" target="_blank">Gallery</a></strong>
 </p>
