@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1>Education and Career Guidance (ECG)</h1>
+<p>To get the latest BBSS ECG information, resources and updates related
+to BBSS ECG, please visit <a href="https://for.edu.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ecg-resources</a>
+</p>
 <p>For more information on ECG, please visit
 <br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
 </p>

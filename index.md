@@ -16,6 +16,9 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-resources/calendar/
+        - title: BBSS40
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/bbss40/home
   - infopic:
       title: 40th Anniversary Homecoming Dinner
       id: infopic

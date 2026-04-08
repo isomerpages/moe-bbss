@@ -37,6 +37,10 @@ variant: tiptap
 <h4>Resources</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://for.edu.sg/ecg-resources" rel="noopener nofollow" target="_blank">BBSS ECG Resources and Updates on Padlet</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.bukitbatoksec.moe.edu.sg/students/cyber-wellness-tips/" rel="noopener nofollow" target="_blank">Cyberwellness</a>
 </p>
 </li>
