@@ -29,7 +29,7 @@ variant: tiptap
 <p>Teachers In Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Wynter Lee<br>Mr Derek Goh</strong>
+<p><strong>Ms Wynter Lee<br>Mr Luke Tan</strong>
 </p>
 <p><strong>Mr Asriq Adnan</strong>
 </p>
@@ -40,35 +40,34 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Our Mission</strong>
-</p>
-<p>To develop our members to be active citizens and community leaders, by
+<br>To develop our members to be active citizens and community leaders, by
 working in partnership with the Singapore Police Force to fight crime and
-keep Singapore safe.</p>
-<p>&nbsp;</p>
+keep Singapore safe.
+<br>
+</p>
 <p><strong>Our Vision</strong>
+<br>To become the best youth organisation in Singapore, one that actively
+helps to make Singapore the safest place in the world.
+<br>
 </p>
-<p>To become the best youth organisation in Singapore, one that actively
-helps to make Singapore the safest place in the world.</p>
-<p>&nbsp;</p>
 <p><strong>Our Values</strong>
-</p>
-<p>R&nbsp;<strong>- Resilience</strong>
-</p>
-<p>I&nbsp;<strong>- Integrity</strong>
-</p>
-<p>S&nbsp;<strong>- Service</strong>
-</p>
-<p>E&nbsp;<strong>– Excellence</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<br>R&nbsp;<strong>- Resilience</strong>
+<br>I&nbsp;<strong>- Integrity</strong>
+<br>S&nbsp;<strong>- Service</strong>
+<br>E&nbsp;<strong>– Excellence</strong>
+<br>
 </p>
 <p><strong>Our Curriculum</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Law enforcement
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resilience
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal Development
+<br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Law enforcement</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resilience</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal Development</p>
-<p>&nbsp;</p>
-<p><strong><a href="https://drive.google.com/drive/folders/1jQvRnUDxniaMeAc_3lPiQJ0cqI7ZIVi9?usp=drive_link" rel="noopener nofollow" target="_blank">Gallery</a></strong>
+<p><strong>Gallery</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2u-hdpMrTtSAfxIuz26I1asJBShsGg8J-RN1oTGUtTv6F9Y0U6Lai0oL9T_SDFhVh5UvfN8UKdsSR/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
