@@ -202,11 +202,12 @@ on society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze Award
-<br>(Animation Category)Er Wei Tong (2A1)
-<br>
+<br>(Animation Category)
+<br>Er Wei Tong (2A1)
 <br>
 <br>Bronze Award
-<br>(Game Category)Wayne Lau Zheng Heng (3A1)</p>
+<br>(Game Category)
+<br>Wayne Lau Zheng Heng (3A1)</p>
 </td>
 </tr>
 <tr>
@@ -221,11 +222,13 @@ on society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold &amp; Platinum Award
-<br>(Animation Category)Wayne Lau Zheng Heng (2A1)
+<br>(Animation Category)
+<br>Wayne Lau Zheng Heng (2A1)
 <br>
 <br>
 <br>Silver Award
-<br>(Game Category)Bryant Neo Chun Xiang (3A1)</p>
+<br>(Game Category)
+<br>Bryant Neo Chun Xiang (3A1)</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +243,8 @@ on society.</p>
 <br>(Cat B - Game Making Programme Scratch File)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold &amp; Platinum AwardJaven Koh Wei Yang (3T1)</p>
+<p>Gold &amp; Platinum Award
+<br>Javen Koh Wei Yang (3T1)</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +275,7 @@ on society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Award
-<br>(for Animation Programme (Scratch file) submitted to CPDD)
+<br>(for Animation Programme)
 <br>Platinum Award
 <br>Kang Jun Wei, Wayne (3T1)</p>
 </td>
@@ -288,7 +292,8 @@ on society.</p>
 <br>(Cat B - Game Making)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold AwardMohamad Haziq Irwan Bin Mohamad Kamal (3T1)</p>
+<p>Gold Award
+<br>Mohamad Haziq Irwan Bin Mohamad Kamal (3T1)</p>
 </td>
 </tr>
 <tr>
@@ -373,8 +378,8 @@ on society.</p>
 </tr>
 </tbody>
 </table>
-<h1>EBS</h1>
-<h3>Department Brief</h3>
+<h3>EBS</h3>
+<h4>Department Brief</h4>
 <p>Elements of Business Skills (EBS) is an elective subject offered to upper
 secondary Normal Technical stream. EBS provides many learning opportunities
 on concepts and skills that are relevant in further studies at higher learning
