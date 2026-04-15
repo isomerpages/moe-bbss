@@ -1,6 +1,6 @@
 ---
-title: Computer Applications Elements of Business Skills
-permalink: /our-bbss-experience/Departments/computer-applications-elements-of-business-sk/
+title: Computing Elements of Business Skills
+permalink: /our-bbss-experience/departments/computing-elements-of-business-sk/
 description: ""
 third_nav_title: Departments
 variant: tiptap
@@ -13,13 +13,14 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mission - Computer Applications</p>
+<p>Mission - Computing</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>To nurture all BBSSians to be self-directed learners who are fluent and
-creative in the use of ICT in their learning.</p>
+<p>To empower BBSSians to become self-directed learners who leverage digital
+tools to create, think critically, and solve real-world problems with responsibility
+and confidence.</p>
 </td>
 </tr>
 </tbody>
@@ -38,7 +39,7 @@ creative in the use of ICT in their learning.</p>
 <td rowspan="1" colspan="1">
 <p>To prepare BBSSians to be successful self-directed learners with a passion
 for life-long learning by equipping them with employability skills to stay
-relevant for the future</p>
+relevant for the future.</p>
 </td>
 </tr>
 </tbody>
@@ -56,7 +57,7 @@ relevant for the future</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Tong Wee Onn, Mr Ajmal Khan</p>
+<p>Mdm Tong Wee Onn, Mr Jeysthur Ang</p>
 </td>
 </tr>
 <tr>
@@ -65,10 +66,10 @@ relevant for the future</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Applications (CPA)</p>
+<p>G1 Computing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Koh Caihua</p>
+<p>Ms Koh Caihua</p>
 </td>
 </tr>
 <tr>
@@ -84,31 +85,54 @@ relevant for the future</p>
 </tr>
 </tbody>
 </table>
-<h3>&nbsp;</h3>
-<h1>CPA</h1>
-<h3>Department Brief</h3>
-<p>All Normal Technical (NT) students will take Computer Applications (CPA)
-from Secondary one to four. From Secondary 2 onwards, students will need
-to come out with project that involved animation and game developments.</p>
-<p>The general aims of this subject according to MOE are to enable students
-to:</p>
-<p>(1) acquire skills in using a variety of application software and associated
-computer hardware to accomplish tasks, communicate, and facilitate activities;
-<br>(2) develop an awareness of how computing technology are used in the home,
-school, workplace and community;
-<br>(3) appreciate the role computers play in everyday life and recognize
-the impact computers have on society and people;
-<br>(4) develop critical thinking and problem-solving skills.</p>
-<p>Students will be taught 6 compulsory modules in the subject. These modules
-are as follows:</p>
-<p>(1) Computer Fundamentals
-<br>(2) Media Elements
-<br>(3) Document Processing
-<br>(4) Spreadsheets
-<br>(5) Multimedia Communication
-<br>(6) Media Computing</p>
+<h3>G1 Computing</h3>
+<h4>Department Brief</h4>
+<p>Computing subjects provides students with opportunities to acquire useful
+digital competencies and explore the field of Computing.
+<br>Through the G1 Computing subject, our students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>develop basic computational thinking skills along with 21st century competencies,</p>
+</li>
+<li>
+<p>develop digital competencies in using digital tools to create digital
+artefacts, process information, communicate effectively and solve simple
+problems,</p>
+</li>
+<li>
+<p>appreciate the legal, ethical and security issues relating to the use
+of computers, and</p>
+</li>
+<li>
+<p>gain understanding of emerging technologies and the impact of technology
+on society.</p>
+</li>
+</ul>
+<p>Students will be taught the following modules in the subject:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Computer Fundamentals</p>
+</li>
+<li>
+<p>Networking</p>
+</li>
+<li>
+<p>Impact of Computing</p>
+</li>
+<li>
+<p>Document Processing</p>
+</li>
+<li>
+<p>Spreadsheets</p>
+</li>
+<li>
+<p>Media Software</p>
+</li>
+<li>
+<p>Programming</p>
+</li>
+</ol>
 <h3>Achievements</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dept/CPA_2024_AGM.png">
 </div>
@@ -178,11 +202,12 @@ are as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze Award
-<br>(Animation Category)Er Wei Tong (2A1)
-<br>
+<br>(Animation Category)
+<br>Er Wei Tong (2A1)
 <br>
 <br>Bronze Award
-<br>(Game Category)Wayne Lau Zheng Heng (3A1)</p>
+<br>(Game Category)
+<br>Wayne Lau Zheng Heng (3A1)</p>
 </td>
 </tr>
 <tr>
@@ -197,11 +222,13 @@ are as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold &amp; Platinum Award
-<br>(Animation Category)Wayne Lau Zheng Heng (2A1)
+<br>(Animation Category)
+<br>Wayne Lau Zheng Heng (2A1)
 <br>
 <br>
 <br>Silver Award
-<br>(Game Category)Bryant Neo Chun Xiang (3A1)</p>
+<br>(Game Category)
+<br>Bryant Neo Chun Xiang (3A1)</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +243,8 @@ are as follows:</p>
 <br>(Cat B - Game Making Programme Scratch File)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold &amp; Platinum AwardJaven Koh Wei Yang (3T1)</p>
+<p>Gold &amp; Platinum Award
+<br>Javen Koh Wei Yang (3T1)</p>
 </td>
 </tr>
 <tr>
@@ -247,7 +275,7 @@ are as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Award
-<br>(for Animation Programme (Scratch file) submitted to CPDD)
+<br>(for Animation Programme)
 <br>Platinum Award
 <br>Kang Jun Wei, Wayne (3T1)</p>
 </td>
@@ -264,7 +292,8 @@ are as follows:</p>
 <br>(Cat B - Game Making)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold AwardMohamad Haziq Irwan Bin Mohamad Kamal (3T1)</p>
+<p>Gold Award
+<br>Mohamad Haziq Irwan Bin Mohamad Kamal (3T1)</p>
 </td>
 </tr>
 <tr>
@@ -349,8 +378,8 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<h1>EBS</h1>
-<h3>Department Brief</h3>
+<h3>EBS</h3>
+<h4>Department Brief</h4>
 <p>Elements of Business Skills (EBS) is an elective subject offered to upper
 secondary Normal Technical stream. EBS provides many learning opportunities
 on concepts and skills that are relevant in further studies at higher learning
