@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: SDL Task List for Term 1 Week 10 • Useful Resources for Students &
+      description: SDL Task List for Term 2 Week 4 • Useful Resources for Students &
         Parents after O Level Results Release •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
