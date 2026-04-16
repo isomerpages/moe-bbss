@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h1>Computer Applications/Elements of Business Skills</h1>
+<h1>Computing/Elements of Business Skills</h1>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
