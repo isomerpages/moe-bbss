@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear BBSS Students,</p>
-<p>Click here to view your schedule for the Weighted Assesment 2(WA2) for
+<p>Dear BBSS Students,
+<br>Click here to view your schedule for the Weighted Assesment 2(WA2) for
 Term 2:</p>
 <p>Secondary 1:</p>
 <p></p>
