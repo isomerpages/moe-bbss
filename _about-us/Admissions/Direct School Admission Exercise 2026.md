@@ -558,7 +558,7 @@ key in relevant information via the MOE DSA Application Portal.</p>
 <p><strong>All applications are to be made via the MOE DSA Application Portal. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
 </p>
 <p>
-<br><strong>Information on DSA will be available in local media on 5 May 2026. For more information on the DSA-Sec, please visit&nbsp;the MOE DSA-Sec website </strong>(<strong><em><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></em></strong>).</p>
+<br><strong>Information on DSA will be available in local media in early May 2026. For more information on the DSA-Sec, please visit&nbsp;the MOE DSA-Sec website </strong>(<strong><em><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></em></strong>).</p>
 <h4>Application Procedure</h4>
 <p>You have from 11am on Wednesday, 6 May 2026 to 4.30pm on Tuesday, 2 June
 2026 to submit your child’s application. Follow these steps to apply:</p>
