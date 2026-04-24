@@ -97,7 +97,7 @@ variant: tiptap
 <br>
 </p>
 <p><u>Wednesdays (</u><strong><u>For Selected Students</u></strong><u>)</u>
-<br>Odd Week Wednesdays: 3:15PM - 5:15PM
+<br>Odd Week Wednesdays: 3:15PM - 4:30PM
 <br>Even Week Wednesdays 2:30PM - 4:30PM</p>
 </td>
 </tr>
