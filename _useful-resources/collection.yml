@@ -2,7 +2,6 @@ collections:
   useful-resources:
     output: true
     order:
-      - Yearbook 2025.md
       - Timetable.md
       - Calendar.md
       - Students/.keep
