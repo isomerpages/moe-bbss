@@ -17,9 +17,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kali Sri d/o Sivanantham&nbsp;(I/C)</p>
-<p>Mdm Sharifah Beevi Abdul Salam</p>
-<p>Mr Thong Yew Kwong &nbsp;</p>
+<p>Ms Kali Sri d/o Sivanantham&nbsp;(I/C)
+<br>Mr Thong Yew Kwong Christopher (2IC)
+<br>Mdm Sharifah Beevi Abdul Salam</p>
 </td>
 </tr>
 <tr>
@@ -28,8 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drama: Ms Janis Seah
-<br>Debate: Ms Naomi</p>
+<p>Drama: Ms Roshini
+<br>Debate: Mr Edward</p>
 </td>
 </tr>
 </tbody>
@@ -47,39 +47,68 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Yu Teng, Isaac (3A6)</p>
+<p>Aarya Srinivas Karthi (3A4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-President:</strong>
+<p><strong>Vice-Presidents:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anandan Haniska (3A7)</p>
-<p>Chau Zhi Wei Joy (3A6)</p>
+<p>Noor Sameera Binte Muhammad Gazzali (2A7)
+<br>Poh Sheng Hui Cheryl (2A7)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Welfare:</strong>
+<p><strong>Secretary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halle Er (3A4)</p>
+<p>&nbsp;Huang Shiyun Chloe (3A3)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secretary:</strong>
+<p><strong>Head of Welfare</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aarya Srinivas Karthi (2A4)</p>
+<p>Jha Abhyuday (3A5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Outreach and Events</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Yi Xuan Avril (3A6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Publicity and Social Media</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marissa Soh Wei Ru (2A5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Quartermasters</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Xin Ling (3A5)</p>
+<p>Anvitha Bodi (3A7)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -114,7 +143,17 @@ conviction and the confidence to stand for what we believe in.</p>
 <p>We are ELDDS. Of course, we are versatile. We are ever ready to create,
 challenge and captivate.</p>
 <p>Mic drop!</p>
+<p></p>
 <h3>Achievements</h3>
+<h4>2026</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Secondary Schools Debating Championship</p>
+</li>
+<li>
+<p>Rhapsody 2026</p>
+</li>
+</ul>
 <h4>2025</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -127,7 +166,7 @@ challenge and captivate.</p>
 <h4>2024</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Secondary Schools Debating Championship – Quarter Finalists</p>
+<p>Singapore Secondary Schools Debating Championship – Quarter Finalist</p>
 </li>
 <li>
 <p>Rhapsody 2024 – Scriptwriting and Performance</p>
@@ -139,42 +178,46 @@ challenge and captivate.</p>
 <h4>2023</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Secondary Schools Debating Championship - Quarter Finalists</p>
+<p>Singapore Secondary Schools Debating Championship – Quarter Finalists</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation (Drama) - Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation (Drama) – Accomplishment</p>
 </li>
 </ul>
 <h4>2022</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>NLB #Tellastory - Best Live Crew; Best Performer</p>
+<p>NLB #Tellastory – Best Live Crew; Best Performer</p>
+</li>
+<li>
+<p>Rhapsody 2022</p>
 </li>
 </ul>
 <h4>2021</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Secondary Schools Debating Championship - First Runner-Up, Overall
+<p>Singapore Youth Festival Arts Presentation (Drama) Team A – Accomplishment</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation (Drama) Team B – Distinction</p>
+</li>
+<li>
+<p>Singapore Secondary Schools Debating Championship – First Runner-up, Overall
 Best Speaker</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation (Drama) Team A - Accomplishment</p>
-</li>
-<li>
-<p>Singapore Youth Festival Arts Presentation (Drama) Team B - Distinction</p>
-</li>
-<li>
-<p>Raffles Debating Academy Youth Under-14 Debating Championship - Quarterfinalist</p>
+<p>Raffles Debating Academy Youth Under-14 Debating Championship – Quarterfinalist</p>
 </li>
 </ul>
 <h4>2020</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Division 3 Debating Championship - Champion</p>
+<p>Division 3 Debating Championship – Champion</p>
 </li>
 </ul>
+<p></p>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsdGWX5Pco8WBKMMnIQkbn0D-AdPFyXyLk6HXqbZq4XYPkdC6C4Hwr4VEnxS6ZZ2G-ge0JbAcwbxDM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsdGWX5Pco8WBKMMnIQkbn0D-AdPFyXyLk6HXqbZq4XYPkdC6C4Hwr4VEnxS6ZZ2G-ge0JbAcwbxDM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
