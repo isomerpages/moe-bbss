@@ -4,7 +4,10 @@ permalink: /performing-arts-groups/eldds-drama-n-debate/
 description: ""
 variant: tiptap
 ---
-<h1>ELDDS (Drama &amp; Debate)</h1>
+<h1>English Literary Drama and Debating Society (ELDDS)</h1>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -215,9 +218,4 @@ Best Speaker</p>
 <p>Division 3 Debating Championship – Champion</p>
 </li>
 </ul>
-<p></p>
-<h3>Gallery</h3>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsdGWX5Pco8WBKMMnIQkbn0D-AdPFyXyLk6HXqbZq4XYPkdC6C4Hwr4VEnxS6ZZ2G-ge0JbAcwbxDM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
