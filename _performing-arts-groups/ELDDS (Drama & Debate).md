@@ -6,7 +6,9 @@ variant: tiptap
 ---
 <h1>English Literary Drama and Debating Society (ELDDS)</h1>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture1.jpg">
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -37,6 +39,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture2.jpg">
+</div>
 <h3>CCA Leaders</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -132,21 +138,54 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>About Us</h3>
 <p>We are Meraki, whose every word, every action and every creation is done
 with heart and soul. Of course, energy fuels our voice and spirit drives
 our stage. Together we embody, inspire and ignite passion.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture5.jpg">
+</div>
 <p>We are Drama. Of course we step into worlds beyond our own. We breathe
 life into stories, give voice to characters that move, enlighten and uplift.
 Through performance, we discover the power of presence and the beauty of
 expression.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture6.jpg">
+</div>
 <p>We are Debaters. Of course we give voice to issues that shape our world.
 With words, we educate, persuade and empower. Through dialogue, we cultivate
 conviction and the confidence to stand for what we believe in.</p>
 <p>We are ELDDS. Of course, we are versatile. We are ever ready to create,
 challenge and captivate.</p>
-<p>Mic drop!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture7.jpg">
+</div>
+<p>Mic drop!</p>
 <h3>Achievements</h3>
 <h4>2026</h4>
 <ul data-tight="true" class="tight">
@@ -218,4 +257,10 @@ Best Speaker</p>
 <p>Division 3 Debating Championship – Champion</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our BBSS Experience/Cca/Performing arts/eldds_2026_Picture8.jpg">
+</div>
+<p><a href="https://www.instagram.com/bbss_meraki/" rel="noopener nofollow" target="_blank">https://www.instagram.com/bbss_meraki/</a>
+</p>
 <p></p>
