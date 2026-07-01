@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear BBSS students,</p>
-<p>Please click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSC3VPrtYL_1AuaQOzrLljhvP2PPT5SUFglqeiLUrrVUUaEJz1ZHHpibqKBhX-ovwlYAd4m55UGuMcj/pubhtml" rel="noopener nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks" rel="noopener nofollow" target="_blank">here</a> to
 view your task list for Term 3 Week 1 (2 &amp; 3 July 2026).</p>
 <ul data-tight="true" class="tight">
 <li>
