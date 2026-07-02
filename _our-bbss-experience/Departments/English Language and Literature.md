@@ -43,7 +43,7 @@ the global context.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Theng Theng</p>
+<p>Ms Chua Theng Theng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -58,7 +58,7 @@ the global context.</p>
 <p>Sec 1 EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Theodora Soh</p>
+<p>Ms Chua Theng Theng</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ the global context.</p>
 <p>Sec 3 EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Emiline Tan</p>
+<p>Ms Cheryl Seet</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ the global context.</p>
 <p>Sec 4EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Seet</p>
+<p>Mrs Emilline Tan</p>
 </td>
 </tr>
 <tr>
@@ -99,10 +99,32 @@ the global context.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec G1 and NT EL</p>
+<p>Sec G1 (Sec 1 - 4 EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Crystal Ho</p>
+<p>Ms Gaayathri V N Arasakumar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject I/C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Matthew Roberts John Crawshaw</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kali Sri Srivanantham</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +132,29 @@ the global context.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Literature Coordinator&nbsp;</p>
+<p>Sec 1 (English Literature)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Theodora Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 (English Literature)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Thong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec (English Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kali Sri Srivanantham</p>
