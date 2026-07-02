@@ -18,8 +18,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Haryati (IC)
-<br>Mdm Rezwanna Othman</p>
+<p>Mdm Rezwanna Othman (IC)</p>
+<p>Mdm Sri Haryati (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -87,6 +87,6 @@ take pride in their performances.</p>
 <br>2025 - Distinction</p>
 <h4>Gallery</h4>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqEKzXz3ejoMgK2X45OQV35Oapym1UwQbQMSFDZgQoZwdABsWggPiI1WFTJwliQEXGSOISdpdcPjON/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqEKzXz3ejoMgK2X45OQV35Oapym1UwQbQMSFDZgQoZwdABsWggPiI1WFTJwliQEXGSOISdpdcPjON/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
