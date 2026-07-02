@@ -107,7 +107,8 @@ the global context.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject I/C</p>
+<p><strong>Subject I/C</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Literature&nbsp;</p>
@@ -118,7 +119,8 @@ the global context.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coordinator</p>
+<p><strong>Coordinator</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Literature</p>
