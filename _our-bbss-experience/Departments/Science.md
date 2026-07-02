@@ -6,22 +6,21 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h1>Science</h1>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p><strong>Vision :</strong>
 <br>Every BBSSian is an inquisitive learner, ethical scientist and empathetic
 contributor.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p><strong>Mission:</strong>
 <br>To nurture technologists.
 <br>To enhance science literacy in self-directed and lifelong learners in
@@ -34,16 +33,10 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Goh Sok Fern</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Coordinators</strong>
 </p>
@@ -53,35 +46,12 @@ BBSS.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>Lower Sec</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Regina Sen</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Physics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Jeysthur Ang</p>
 </td>
 </tr>
 <tr>
@@ -90,19 +60,13 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Koh Caihua</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Biology</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ho Ping Ping Crystal</p>
@@ -112,9 +76,6 @@ BBSS.</p>
 <td rowspan="1" colspan="1">
 <p><strong>G1 Coordinator</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Syam Lal S/O Sadanandan</p>
