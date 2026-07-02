@@ -19,7 +19,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Evin Rajasekar (IC)
 <br>Mr Azhar Mohamad Ali
-<br>Mrs Ooi Sor Ching</p>
+<br>Ms Verleen Low</p>
 </td>
 </tr>
 </tbody>
@@ -115,6 +115,6 @@ them into athletes),&nbsp;<em>and&nbsp;</em><strong><em>play for life</em></stro
 badminton their lifelong sport and recreational activity).</p>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk3a7YjaFFRgy3EbURF8Kij0PUd_tdgG5jQTZLayvDLfY7k3onaOrOieCc9A6J6Jb6grkkX-w22phB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk3a7YjaFFRgy3EbURF8Kij0PUd_tdgG5jQTZLayvDLfY7k3onaOrOieCc9A6J6Jb6grkkX-w22phB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
