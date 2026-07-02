@@ -22,7 +22,7 @@ Art and Music units.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Ng Boon Chong</p>
+<p>Mr Jasper Lee Teng Yi</p>
 </td>
 </tr>
 <tr>
@@ -31,10 +31,10 @@ Art and Music units.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aesthetics</p>
+<p>Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah Bte Abdul Nasir</p>
+<p>Mr Chun Sir Kin</p>
 </td>
 </tr>
 <tr>
@@ -51,8 +51,7 @@ Art and Music units.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Coordinator</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nutrition &amp; Food Science&nbsp;</p>
@@ -493,14 +492,14 @@ Speed Drawing, Mini Coursework</p>
 <h3><strong>Gallery</strong></h3>
 <h4>FCENFS Unit</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>D&amp;T Unit</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk7uddyxCaAtbhb0zySEpj8g2vZHjbm-lIZN0pHCa_3UFhXC8y5sk1YnftNI8ohKWiaYai4pbkb7Px/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk7uddyxCaAtbhb0zySEpj8g2vZHjbm-lIZN0pHCa_3UFhXC8y5sk1YnftNI8ohKWiaYai4pbkb7Px/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Art and Music Unit</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
