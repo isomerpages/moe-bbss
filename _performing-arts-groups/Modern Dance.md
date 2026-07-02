@@ -22,9 +22,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Seet (IC)
-<br>Mdm Mastuty
-<br>Ms Ong Gui Fang</p>
+<p>Ms Cheryl Seet (IC)</p>
+<p>Ms Ong Gui Fang (2IC)
+<br>Mdm Mastuty</p>
 </td>
 </tr>
 <tr>
@@ -257,13 +257,13 @@ our passion for dance with audiences both within and beyond the school.</p>
 </table>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqKOLWpJvO7MGwwnkVJABAsZU-1glnVSIREZEErXET6Y5E-HdKx-K-Sb6hDksn_-YVGE8bEBXPSgPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqKOLWpJvO7MGwwnkVJABAsZU-1glnVSIREZEErXET6Y5E-HdKx-K-Sb6hDksn_-YVGE8bEBXPSgPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p><strong>Super 24 Finals 2024</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fXzXAcG2UG4?si=a8GAP8iuwH-QlHMK"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fXzXAcG2UG4?si=a8GAP8iuwH-QlHMK"></iframe>
 </div>
 <p></p>
 <p></p>
