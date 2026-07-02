@@ -39,18 +39,18 @@ to appreciate and participate in the arts.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Subject Head Aesthetic</p>
+<p>HOD Aesthetic</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Nadiah Bte Abdul Nasir</p>
+<p>Mr Jasper Lee Teng Yi</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music Cooordinator</p>
+<p>Vice Chair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cherry Fong</p>
+<p>Mdm Sharifah Beevi Binte N Abdul Salam</p>
 </td>
 </tr>
 <tr>
@@ -58,14 +58,13 @@ to appreciate and participate in the arts.</p>
 <p>Aesthetics Committee Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Beevi Binte N Abdul Salam (2nd IC)
-<br>Ms Lim Dai Xuan
-<br>Mr Jared Er
+<p>Mr Jared Er</p>
+<p>Ms Cherry Fong
 <br>Ms Ng Siew Yong
 <br>Ms Lu Shan Shan
 <br>Mdm Latifah Bte Mohamedzen
-<br>Ms Marie Tiong Sing Sing
-<br>Mdm Mastuty Binte Mohamed Masat
+<br>Mdm Mastuty Binte Mohamed Masat</p>
+<p>Mdm Sri Haryati Binte Abdul Hamid
 <br>Mdm Nurul Syafiqah (FAJT)</p>
 </td>
 </tr>
@@ -164,6 +163,6 @@ exhibition:&nbsp;<a href="https://play.google.com/store/apps/details?id=gr.datav
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Arts%20Education/page3%20A%20Re-Imagined%20Culture%20of%20Care%20Through%20Arts.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_UCnlVLvVlH-pGtOv7vI8YpAGpoDr5R_sxRiD2dxk5li1CMY10u8lTsefF-7IeSdU9kIyV3k_UFrv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_UCnlVLvVlH-pGtOv7vI8YpAGpoDr5R_sxRiD2dxk5li1CMY10u8lTsefF-7IeSdU9kIyV3k_UFrv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
