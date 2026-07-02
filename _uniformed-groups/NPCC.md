@@ -29,7 +29,7 @@ variant: tiptap
 <p>Teachers In Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Wynter Lee<br>Mr Luke Tan</strong>
+<p><strong>Ms Wynter Lee (IC)<br>Mr Luke Tan (2IC)</strong>
 </p>
 <p><strong>Mr Asriq Adnan</strong>
 </p>
