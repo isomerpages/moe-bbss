@@ -29,10 +29,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Chin Keong (IC)
-<br>Ms Wynter Lee (2IC)
-<br>Ms Janice Lim
+<p>Mr Tan Yong Hwa (IC)</p>
+<p>Mr Quek Chin Keong (2IC)
 <br>Mr Terence Chua</p>
+<p>Mdm See Toh Peck San</p>
 </td>
 </tr>
 </tbody>
@@ -196,7 +196,7 @@ belonging &amp; pride and achievement.</p>
 </ul>
 <h3><strong>The NCC Song: We Are Ready</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ww-T528CPw8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ww-T528CPw8"></iframe>
 </div>
 <p>Bukit Batok Secondary School NCC (Land) aims to provide boys with a platform
 to grow holistically, to discover more about themselves and venture out
@@ -252,6 +252,6 @@ greater heights and excel in every aspect.</p>
 </table>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRabJMZRnkTl3wHx2kMEu__B_xKcrciRfENI8RkdQ-mTXq2H6gNnl9iIYWlDjBKm1ClK17iY-zmuXF-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRabJMZRnkTl3wHx2kMEu__B_xKcrciRfENI8RkdQ-mTXq2H6gNnl9iIYWlDjBKm1ClK17iY-zmuXF-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
