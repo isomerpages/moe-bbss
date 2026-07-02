@@ -37,7 +37,7 @@ BBSS.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Mohamed Faizal Bin Badron</p>
+<p>Mdm Goh Sok Fern</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ BBSS.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Janice Lim</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ BBSS.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Mohamed Faizal Bin Badron</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ BBSS.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teoh Tick Meng</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -202,7 +202,7 @@ enrichment and scientific research.</p>
 </ul>
 <h3><strong>Gallery</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRweNxwreQLSQYKC6nMWUEN7Zhyc-_IrPMLtuqIOGXz7S5wKZKdPyjlXDsJIS66aD6CCA4RykLbcCa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRweNxwreQLSQYKC6nMWUEN7Zhyc-_IrPMLtuqIOGXz7S5wKZKdPyjlXDsJIS66aD6CCA4RykLbcCa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Science%20Photo%20Gallery.jpg">
