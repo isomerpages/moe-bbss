@@ -17,9 +17,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kok Leong (IC)
+<p>Ms Gaayathri (IC)
 <br>Mdm Vijayarani Rajesh
-<br>Ms Gayathri</p>
+<br>Mr Eugene Chua</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="397" width="706" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XAFMn8R1Jv4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="397" width="706" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XAFMn8R1Jv4"></iframe>
 </div>
 <h3>Vision</h3>
 <h4>Enter as a Boy, Leave as a Gentleman</h4>
