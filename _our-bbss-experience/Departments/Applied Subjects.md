@@ -43,7 +43,29 @@ Art and Music units.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music&nbsp;</p>
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marshall Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DT&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Song Kin Hoe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cherry Fong</p>
@@ -54,7 +76,7 @@ Art and Music units.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nutrition &amp; Food Science&nbsp;</p>
+<p>Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rezwanna Bte Othman</p>
