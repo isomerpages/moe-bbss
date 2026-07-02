@@ -57,7 +57,7 @@ relevant for the future.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Tong Wee Onn, Mr Jeysthur Ang</p>
+<p>Mr Jeysthur Ang</p>
 </td>
 </tr>
 <tr>
