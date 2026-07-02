@@ -17,8 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms June Teng (IC)
-<br>Ms Zhang Yue</p>
+<p>Ms June Teng (IC)</p>
 <p>Ms Rachel Lim</p>
 </td>
 </tr>
@@ -106,10 +105,10 @@ Carnival annually. During the June and December holidays, the Softball
 team also play many friendly matches with teams from other schools in preparation
 for the National Schools Softball Championship.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_Frm5HaWjkY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_Frm5HaWjkY"></iframe>
 </div>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaNxb2Nn6KlMwf_25N1_wLxVcG9loyDyGjQd6IkW1puTt_Dx8VHbS4Emnxuby3mNjK9SZfZgAq91BH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaNxb2Nn6KlMwf_25N1_wLxVcG9loyDyGjQd6IkW1puTt_Dx8VHbS4Emnxuby3mNjK9SZfZgAq91BH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
