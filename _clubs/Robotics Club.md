@@ -17,6 +17,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Song Kin Hoe (IC)
+<br>Mrs Ooi Sor Ching (2IC)
 <br>Mrs Regina Yip</p>
 </td>
 </tr>
@@ -80,7 +81,7 @@ to Primary School students (In Partnership with CCKPS)</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RrgpOVZPpsY?si=8-rnBT_npsohTa9Y"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RrgpOVZPpsY?si=8-rnBT_npsohTa9Y"></iframe>
 </div>
 <h4>Our Vision</h4>
 <p>In line with Singapore's vision of becoming a Smart Nation, BBSS Robotics
@@ -148,6 +149,6 @@ Engineering.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNfm1C_AWnm8EV16nOPqA_90WKumvbwvogWzehb6ZvLWS_qGzFc9hbBizX_ny830kveraN69dq3sKj/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNfm1C_AWnm8EV16nOPqA_90WKumvbwvogWzehb6ZvLWS_qGzFc9hbBizX_ny830kveraN69dq3sKj/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
