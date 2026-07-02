@@ -18,8 +18,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Reuben Bonaparte (IC)
-<br>Ms Chin Yee Woon
 <br>Mr Hady</p>
+<p>Ms Sherlin</p>
 </td>
 </tr>
 <tr>
@@ -274,6 +274,6 @@ running and Athletics in the BBSS Community</p>
 </table>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGJodxFae4cEx9MRvoA4Fe6JLGm5DaggKb-zKh0MvB2Nj5LULKR_-Zj4HaKshubp_H52veYaDJGYtM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGJodxFae4cEx9MRvoA4Fe6JLGm5DaggKb-zKh0MvB2Nj5LULKR_-Zj4HaKshubp_H52veYaDJGYtM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
