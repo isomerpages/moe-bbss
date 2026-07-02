@@ -47,11 +47,20 @@ BBSS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Lower Sec</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Quek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Physics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jeysthur Ang</p>
+<p>Mr Jeysthur Ang</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +69,7 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Caihua</p>
+<p>Ms Koh Caihua</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +87,7 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syam Lal S/O Sadanandan</p>
+<p>Mr Chun Sir Kin</p>
 </td>
 </tr>
 </tbody>
