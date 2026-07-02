@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <h4><strong>About Us</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTY3e5ZvCvApsma1j9ZfSA1-7ot0q3Rp6UADZF59GEpM16_-TWl7dA2zmE8ht4daQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTY3e5ZvCvApsma1j9ZfSA1-7ot0q3Rp6UADZF59GEpM16_-TWl7dA2zmE8ht4daQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Air Rifle Organisation Chart</strong></h4>
 <table style="minWidth: 50px">
@@ -37,7 +37,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Emilline Tan(IC)
 <br>Ms Theodora Soh
-<br>Ms Dana Sim</p>
+<br>Mr Brian</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55Y-CUxEDX8?si=t9wM3AW9BXK6liWU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55Y-CUxEDX8?si=t9wM3AW9BXK6liWU"></iframe>
 </div>
 <p></p>
 <h4><strong>Our Achievements</strong></h4>

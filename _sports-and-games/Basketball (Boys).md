@@ -18,7 +18,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr JACKY ONG JIE JUN (IC)</p>
-<p>MR WANG KANGCHENG</p>
+<p>MR LEE KOK LEONG
+<br>MR EUGENE CHUA</p>
 </td>
 </tr>
 <tr>

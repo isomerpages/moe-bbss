@@ -44,9 +44,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jared Er (IC)
+<p>Mr Jared Er (IC)</p>
+<p>Ms Cherry Fong (2IC)
 <br>Ms Syazwani Amrun
-<br>Mdm Nadiah Abdul Nasir</p>
+<br>Mdm Nadia</p>
 </td>
 </tr>
 </tbody>
@@ -263,14 +264,14 @@ School</p>
 <h3><strong>Gallery</strong></h3>
 <h4>Rhapsody 2024 Performance</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rIri7TTQD0Y?si=mQfFYw13Cu6hYwST"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rIri7TTQD0Y?si=mQfFYw13Cu6hYwST"></iframe>
 </div>
 <h4>SYF 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O9jyFgANrLA?si=cY02TwIpRSmXXPI6"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O9jyFgANrLA?si=cY02TwIpRSmXXPI6"></iframe>
 </div>
 <h4>Photo Gallery</h4>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBGkmsBbxae7uZZeE5TcBRozQLXf9kAYH7v8nI4wSeehaImdVCTD40BE9WN5amVCHi7B-UFET-1Q3e/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBGkmsBbxae7uZZeE5TcBRozQLXf9kAYH7v8nI4wSeehaImdVCTD40BE9WN5amVCHi7B-UFET-1Q3e/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

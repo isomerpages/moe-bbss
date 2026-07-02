@@ -110,7 +110,7 @@ external competitions.</p>
 <img style="width:40%;float:left" height="auto" width="100%" src="/images/Our%20BBSS%20Experience/WhatsApp%20Image%202020-09-03%20PM.jpeg">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6258WEgMEPQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6258WEgMEPQ"></iframe>
 </div>
 <h3>Gallery</h3>
 <div class="isomer-image-wrapper">

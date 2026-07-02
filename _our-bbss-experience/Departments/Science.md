@@ -6,22 +6,21 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h1>Science</h1>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p><strong>Vision :</strong>
 <br>Every BBSSian is an inquisitive learner, ethical scientist and empathetic
 contributor.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p><strong>Mission:</strong>
 <br>To nurture technologists.
 <br>To enhance science literacy in self-directed and lifelong learners in
@@ -34,16 +33,10 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Mohamed Faizal Bin Badron</p>
+<p>Mdm Goh Sok Fern</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Coordinators</strong>
 </p>
@@ -53,23 +46,12 @@ BBSS.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Lower Sec</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Janice Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Regina Sen</p>
+<p>Mrs Quek</p>
 </td>
 </tr>
 <tr>
@@ -78,10 +60,7 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Mohamed Faizal Bin Badron</p>
+<p>Mr Jeysthur Ang</p>
 </td>
 </tr>
 <tr>
@@ -90,19 +69,13 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teoh Tick Meng</p>
+<p>Ms Koh Caihua</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Biology</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ho Ping Ping Crystal</p>
@@ -114,10 +87,7 @@ BBSS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Syam Lal S/O Sadanandan</p>
+<p>Mr Chun Sir Kin</p>
 </td>
 </tr>
 </tbody>
@@ -202,7 +172,7 @@ enrichment and scientific research.</p>
 </ul>
 <h3><strong>Gallery</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRweNxwreQLSQYKC6nMWUEN7Zhyc-_IrPMLtuqIOGXz7S5wKZKdPyjlXDsJIS66aD6CCA4RykLbcCa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRweNxwreQLSQYKC6nMWUEN7Zhyc-_IrPMLtuqIOGXz7S5wKZKdPyjlXDsJIS66aD6CCA4RykLbcCa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20BBSS%20Experience/Science%20Photo%20Gallery.jpg">

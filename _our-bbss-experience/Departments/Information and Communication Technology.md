@@ -37,14 +37,6 @@ as well as school processes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Educational Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teoh Tick Meng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Cluster ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">

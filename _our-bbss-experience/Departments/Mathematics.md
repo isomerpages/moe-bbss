@@ -39,15 +39,6 @@ and its role as a fundamental mode of human thought;</p>
 <p>Ms Toh Pui Yhing</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head (Mathematics)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mr Wang Kangcheng</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Department Brief</h3>

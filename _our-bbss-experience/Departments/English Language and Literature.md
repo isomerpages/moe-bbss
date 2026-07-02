@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>English Language and Literature</h1>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMESkAgeZ-RaSVNSc2I2oTL4X9zOGDswz9fvCKYe3P1p__MzWtPJ8Ej-2ps9P-aBMtX2Ttde4GpZUw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMESkAgeZ-RaSVNSc2I2oTL4X9zOGDswz9fvCKYe3P1p__MzWtPJ8Ej-2ps9P-aBMtX2Ttde4GpZUw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 75px">
@@ -43,7 +43,7 @@ the global context.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Crawshaw</p>
+<p>Mdm Chua Theng Theng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -555,6 +555,6 @@ and dramatic performances. Examples of texts studied include the following:</p>
 <p></p>
 <h4>Gallery</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i16Mo7yf_i8?si=fawXM_lK2Re5oXNP"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i16Mo7yf_i8?si=fawXM_lK2Re5oXNP"></iframe>
 </div>
 <p></p>

@@ -22,7 +22,7 @@ Art and Music units.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Ng Boon Chong</p>
+<p>Mr Jasper Lee Teng Yi</p>
 </td>
 </tr>
 <tr>
@@ -31,10 +31,10 @@ Art and Music units.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aesthetics</p>
+<p>Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah Bte Abdul Nasir</p>
+<p>Mr Chun Sir Kin</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,29 @@ Art and Music units.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music&nbsp;</p>
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marshall Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DT&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Song Kin Hoe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cherry Fong</p>
@@ -51,11 +73,10 @@ Art and Music units.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Coordinator</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nutrition &amp; Food Science&nbsp;</p>
+<p>Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rezwanna Bte Othman</p>
@@ -94,17 +115,61 @@ students.</p>
 <p>At BBSS, students undergo a comprehensive 3-year programme to prepare
 them for the GCE examinations in Sec 4.</p>
 <h4><strong>ART</strong></h4>
-<p>The Art Unit aims to develop BBSSians' visual literacy and love for visual
-arts through an enjoyable, broad-based curriculum. BBSSians will develop
-their sensory perception and imagination; learn to communicate by thinking,
-planning and creating final pieces. Lastly, they will learn to appreciate
-and understand current affairs from a variety of cultures and contexts.</p>
-<p>Passion - Be committed in practicing the various skills by applying prior
-knowledge into new situations.</p>
-<p>Perspective - Be intrigued and learn about the creative ideas and influences.</p>
-<p>Perception - Learn to be observant in daily life through all senses.</p>
-<p>Reflection - Understand self and relation with the surroundings by thinking
-flexibly and generating alternatives.</p>
+<p>The Art Unit seeks to nurture students’ visual literacy and appreciation
+for the arts through an engaging and broad-based curriculum. Students develop
+their sensory awareness, imagination and ability to communicate ideas through
+thoughtful planning and creative expression, while gaining cultural awareness
+across diverse contexts. We believe Art plays a vital role in holistic
+education and in equipping students with 21CC competencies, fostering curiosity,
+adaptability and confidence in navigating ambiguity. Through an inquiry-based
+approach, students build both visual and verbal communication skills, alongside
+dispositions such as idea generation and investigative thinking. Every
+BBSSians curates a personal portfolio that reflects their artistic journey
+and growth.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Curriculum:</p>
+<p>
+<br>1. Art expands imagination, enhances creativity, and develops adaptability.&nbsp;
+Inquiry-Based Learning, Portfolio Building, Understanding of Elements of
+Arts and Principles of Design.</p>
+<p>2. Art builds students’ capacity to critically discern and process visual
+information and communicate effectively.&nbsp;&nbsp;&nbsp;</p>
+<p>3. Art fosters students’ sense of identity, culture, and place in society.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<p>Enrichment/Interest Group
+<br>
+<br>1. Art common curriculum</p>
+<p>2. Learning Journey to NAFA / Lasalle (Sec 4 &amp; 5)</p>
+<p>3. Artist-in-School Scheme (AISS)</p>
+<p>4. Student-Initiated Learning (Visual Arts)</p>
+<p>5. Art Elective Programme*</p>
+<p>*conducted at other centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<p>Competition
+<br>
+<br>
+<br>1. SYF Art Exhibition</p>
+<p>2. BBSS 40th Anniversary logo competition</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Music</strong></h4>
 <p>The Music Unit aims to connect students through the expression of thoughts
 and emotions. Our students develop a sense of aesthetics through aural
@@ -493,14 +558,10 @@ Speed Drawing, Mini Coursework</p>
 <h3><strong>Gallery</strong></h3>
 <h4>FCENFS Unit</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFE5LAKLcRvfefToB1I3kW6yVhrrp4Y2BzMdnJzZFUZ8GEa5PVDc-o6ULIL-EBfEAeDfYthWyqalxt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>D&amp;T Unit</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk7uddyxCaAtbhb0zySEpj8g2vZHjbm-lIZN0pHCa_3UFhXC8y5sk1YnftNI8ohKWiaYai4pbkb7Px/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Art and Music Unit</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS68qOtnaCnPwLlt5ttwL38AwxWDSX8p0p2Li8MYvpUueQl2TFOGFb5t3o9pYldAiZcF7h7RdvSz6z9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQk7uddyxCaAtbhb0zySEpj8g2vZHjbm-lIZN0pHCa_3UFhXC8y5sk1YnftNI8ohKWiaYai4pbkb7Px/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
