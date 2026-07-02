@@ -26,8 +26,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2LT Mr Jeremy Goh (IC)
-<br>2LT Ms Leah Chua
-<br>OCT Ms Koh Caihua</p>
+<br>2LT Ms Leah Chua (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -102,6 +101,6 @@ as we strive to stay current with the trends in the education scene.</p>
 <p></p>
 <h3>Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWZ4UaE8RMeNp9tjrfAL4FtaC84kQN6aKHD5hlUY54fud0aQI7q2fNDUT2OBkG2Q8xFn7tiDE-KQxS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWZ4UaE8RMeNp9tjrfAL4FtaC84kQN6aKHD5hlUY54fud0aQI7q2fNDUT2OBkG2Q8xFn7tiDE-KQxS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
