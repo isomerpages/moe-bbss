@@ -114,7 +114,7 @@ the global context.</p>
 <p>Literature&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Roberts John Crawshaw</p>
+<p>Mr Matthew John Roberts Crawshaw</p>
 </td>
 </tr>
 <tr>
