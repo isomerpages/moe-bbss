@@ -57,6 +57,15 @@ academic excellence and the desire to understand human societies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Subject Head / Social Studies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Catherine Bok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher / History</strong>
 </p>
 </td>
