@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Dear BBSS students,</p>
 <p>Please click <a href="https://sites.google.com/moe.edu.sg/bbss-student-link/sdl-matters/summary-tasks" rel="noopener nofollow" target="_blank">here</a> to
-view your task list for Term 3 Week 1 (2 &amp; 3 July 2026).</p>
+view your task list for Term 3 Week 3 (14, 15 &amp; 16 July 2026).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>This </em><strong><em>list auto updates every five minutes</em></strong><em>; please check in regularly for the latest information.&nbsp;</em>
