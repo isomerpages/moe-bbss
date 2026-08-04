@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear <strong>Sec 1 to 3</strong> Students,</p>
-<p>Please click the link below to view your End-of-Year Examination (EYE)
+<p>Dear <strong>Sec 1 to 3</strong> Students,
+<br>Please click the link below to view your End-of-Year Examination (EYE)
 timetable.</p>
 <ul data-tight="true" class="tight">
 <li>
