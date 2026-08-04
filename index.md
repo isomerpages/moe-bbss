@@ -22,8 +22,8 @@ sections:
   - infopic:
       title: Announcements & News
       id: infopic
-      description: WA3 Schedule 3 • SDL Task List for Term 3 Week 3 • Semester 2
-        Timetable • N Prelim and O Prelim Exam Schedule •
+      description: EYE Timetable • WA3 Schedule • SDL Task List for Term 3 Week 3 •
+        Semester 2 Timetable • N Prelim and O Prelim Exam Schedule •
       button: More announcements here
       url: https://www.bukitbatoksec.moe.edu.sg/announcements/
       image: /images/BBSS_Banner_2024_0_1x.png
